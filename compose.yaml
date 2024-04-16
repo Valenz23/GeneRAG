@@ -1,16 +1,16 @@
 services:
-  rasa-bot:
+  rasa:
     image: rasa/rasa:latest-full
-    container_name: rasa-bot
+    container_name: rasa
     volumes:
       - ./bot:/app
     ports:
       - "5005:5005"
     command: run --enable-api --cors "*" --debug
 
-  rasa-actions:
+  actions:
     image: rasa/rasa-sdk:latest
-    container_name: rasa-actions
+    container_name: actions
     volumes:
       - ./actions:/app/actions
     ports:
