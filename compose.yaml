@@ -1,4 +1,8 @@
 services:
+
+  # añadir autenticacion, BD, logs, monitor
+
+
   rasa:
     image: rasa/rasa:latest-full
     container_name: rasa
