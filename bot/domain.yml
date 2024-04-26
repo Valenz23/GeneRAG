@@ -1,36 +1,66 @@
 version: "3.1"
 
 intents:
-  - greet
-  - goodbye
-  - affirm
-  - deny
-  - mood_great
-  - mood_unhappy
-  - bot_challenge
+  - saludo
+  - informarPedirCitaCarnet
+  - informarPedirCitaDNI
+  - informarPedirCitaConducir
+  - informarDatosDNI
+
+entities:
+  - nombre
+  - dni
+
+slots:
+  nombre:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: nombre  
+  dni:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: dni
+
+forms:
+  datosDNI_form:
+    required_slots:
+      - nombre
+      - dni
 
 responses:
-  utter_greet:
-  - text: "Hey! How are you?"
+  utter_saludo:
+  - text: "Hola, ¿en que puedo ayudarle?"
 
-  utter_cheer_up:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
+  utter_seleccionarCarnet:
+  - text: "¿Que carnet quiere renovar?"
+    buttons:
+      - title: "DNI"
+        payload: "/informarPedirCitaDNI"
+      - title: "Conducir"
+        payload: "/informarPedirCitaConducir"
 
-  utter_did_that_help:
-  - text: "Did that help you?"
+  utter_pedirDatosDNI:
+  - text: "Si quiere pedir una cita para renovar su carnet de identidad necesito su nombre y DNI."
 
-  utter_happy:
-  - text: "Great, carry on!"
+  utter_pedirDatosConducir:
+  - text: "Carnet de conducir, no implementado."
 
-  utter_goodbye:
-  - text: "Bye"
+  utter_mostrarDatosDNI:
+  - text: "Su nombre es {nombre} y su DNI es {dni}."
 
-  utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
+  utter_ask_nombre:
+  - text: "¿Me repite su nombre?"
+
+  utter_ask_dni:
+  - text: "¿Me repite su DNI?"
+
+  utter_dniNoValido:
+  - text: "Introduzca un DNI correcto, por favor."
 
 actions:
-  - action_test
+  - validate_datosDNI_form
 
 session_config:
   session_expiration_time: 60

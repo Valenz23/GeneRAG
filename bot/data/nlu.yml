@@ -1,96 +1,55 @@
 version: "3.1"
 
 nlu:
-- intent: greet
+
+- intent: saludo
   examples: |
+    - hola
+    - buenas
+    - saludos
+    - buenos días
+    - buenas tardes
+    - buenas noches
     - hey
-    - hello
-    - hi
-    - hello there
-    - good morning
-    - good evening
-    - moin
-    - hey there
-    - let's go
-    - hey dude
-    - goodmorning
-    - goodevening
-    - good afternoon
+    - ei 
+    - hola buenas
 
-- intent: goodbye
+- intent: informarPedirCitaCarnet
   examples: |
-    - cu
-    - good by
-    - cee you later
-    - good night
-    - bye
-    - goodbye
-    - have a nice day
-    - see you around
-    - bye bye
-    - see you later
+    - quiero pedir cita para renovar el carnet
+    - quiero renovar el carnet
+    - quiero renovar mi carnet
+    - renovar el carnet
 
-- intent: affirm
+- intent: informarPedirCitaDNI
   examples: |
-    - yes
-    - y
-    - indeed
-    - of course
-    - that sounds good
-    - correct
+    - quiero pedir cita para renovar mi dni
+    - quiero renovar el dni
+    - renovar el dni
+    - quiero pedir cita para renovar mi carnet de identidad
+    - quiero renovar el carnet de identidad
+    - renovar el carnet de identidad     
 
-- intent: deny
+- intent: informarDatosDNI
   examples: |
-    - no
-    - n
-    - never
-    - I don't think so
-    - don't like that
-    - no way
-    - not really
+    - mi nombre es [Pablo](nombre) y mi dni es [12345678A](dni)
+    - mi nombre es [Ana](nombre) y mi dni es [67542378V](dni)
+    - mi nombre es [Marcelo](nombre) y mi dni es [987786565D](dni)
+    - me llamo [Antonia](nombre)
+    - me llamo [Jose](nombre)
+    - me llamo [Laura](nombre)
+    - Soy [Manuel](nombre) y es [65671425F](dni)
+    - Soy [Raquel](nombre) y es [14782567S](dni)
+    - Soy [María](nombre) y es [33342223X](dni)
+    - soy [Gervasio](nombre), es [23444378K](dni)
+    - soy [Periquito](nombre), es [56432312Z](dni)
+    - soy [Desire](nombre), es [98977865E](dni)
 
-- intent: mood_great
+- intent: informarPedirCitaConducir
   examples: |
-    - perfect
-    - great
-    - amazing
-    - feeling like a king
-    - wonderful
-    - I am feeling very good
-    - I am great
-    - I am amazing
-    - I am going to save the world
-    - super stoked
-    - extremely good
-    - so so perfect
-    - so good
-    - so perfect
-
-- intent: mood_unhappy
-  examples: |
-    - my day was horrible
-    - I am sad
-    - I don't feel very well
-    - I am disappointed
-    - super sad
-    - I'm so sad
-    - sad
-    - very sad
-    - unhappy
-    - not good
-    - not very good
-    - extremly sad
-    - so saad
-    - so sad
-
-- intent: bot_challenge
-  examples: |
-    - are you a bot?
-    - are you a human?
-    - am I talking to a bot?
-    - am I talking to a human?
-
-- intent: action
-  examples: |
-    - accion
-    - action
+    - quiero pedir cita para renovar carnet de conducir
+    - quiero renovar el carnet de conducir
+    - renovar el carnet de conducir
+    - quiero pedir cita para renovar mi carnet de conducir
+    - quiero renovar el carnet de conducir
+    - renovar el carnet de conducir

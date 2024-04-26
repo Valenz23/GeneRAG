@@ -2,17 +2,48 @@ version: "3.1"
 
 rules:
 
-- rule: Say goodbye anytime the user says goodbye
+- rule: saludar
   steps:
-  - intent: goodbye
-  - action: utter_goodbye
+  - intent: saludo
+  - action: utter_saludo   # sustituir por una accion que ya sepa si ha saludado o no (tendran variables bool de estado)
 
-- rule: Say 'I am a bot' anytime the user challenges
+- rule: informa cita carnet
   steps:
-  - intent: bot_challenge
-  - action: utter_iamabot
+  - intent: informarPedirCitaCarnet
+  - action: utter_seleccionarCarnet
 
-- rule: Active action
+- rule: informa cita DNI
   steps:
-  - intent: action
-  - action: action_test
+  - intent: informarPedirCitaDNI
+  - action: utter_pedirDatosDNI
+
+- rule: activar form pedir cita DNI
+  steps:
+  - intent: informarDatosDNI      # retocar para cuando haya introducido datos, por si quiere pedir cita con otros datos
+  - action: datosDNI_form
+  - active_loop: datosDNI_form
+
+- rule: desactivar form pedir cita DNI
+  condition: 
+  - active_loop: datosDNI_form
+  steps: 
+  - action: datosDNI_form
+  - active_loop: null
+  - action: utter_mostrarDatosDNI
+
+- rule: informa cita conducir
+  steps:
+  - intent: informarPedirCitaConducir
+  - action: utter_pedirDatosConducir
+
+
+
+# - rule: Say 'I am a bot' anytime the user challenges
+#   steps:
+#   - intent: bot_challenge
+#   - action: utter_iamabot
+
+# - rule: Active action
+#   steps:
+#   - intent: action
+#   - action: action_test
