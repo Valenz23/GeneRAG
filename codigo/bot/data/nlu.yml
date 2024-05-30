@@ -1,0 +1,55 @@
+version: "3.1"
+
+nlu:
+
+- intent: saludo
+  examples: |
+    - hola
+    - buenas
+    - saludos
+    - buenos días
+    - buenas tardes
+    - buenas noches
+    - hey
+    - ei 
+    - hola buenas
+
+- intent: informarPedirCitaCarnet
+  examples: |
+    - quiero pedir cita para renovar el carnet
+    - quiero renovar el carnet
+    - quiero renovar mi carnet
+    - renovar el carnet
+
+- intent: informarPedirCitaDNI
+  examples: |
+    - quiero pedir cita para renovar mi dni
+    - quiero renovar el dni
+    - renovar el dni
+    - quiero pedir cita para renovar mi carnet de identidad
+    - quiero renovar el carnet de identidad
+    - renovar el carnet de identidad     
+
+- intent: informarDatosDNI
+  examples: |
+    - mi nombre es [Pablo](nombre) y mi dni es [12345678A](dni)
+    - mi nombre es [Ana](nombre) y mi dni es [67542378V](dni)
+    - mi nombre es [Marcelo](nombre) y mi dni es [987786565D](dni)
+    - me llamo [Antonia](nombre)
+    - me llamo [Jose](nombre)
+    - me llamo [Laura](nombre)
+    - Soy [Manuel](nombre) y es [65671425F](dni)
+    - Soy [Raquel](nombre) y es [14782567S](dni)
+    - Soy [María](nombre) y es [33342223X](dni)
+    - soy [Gervasio](nombre), es [23444378K](dni)
+    - soy [Periquito](nombre), es [56432312Z](dni)
+    - soy [Desire](nombre), es [98977865E](dni)
+
+- intent: informarPedirCitaConducir
+  examples: |
+    - quiero pedir cita para renovar carnet de conducir
+    - quiero renovar el carnet de conducir
+    - renovar el carnet de conducir
+    - quiero pedir cita para renovar mi carnet de conducir
+    - quiero renovar el carnet de conducir
+    - renovar el carnet de conducir
