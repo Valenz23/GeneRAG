@@ -5,6 +5,12 @@ from langchain_core.messages import HumanMessage, AIMessage
 import streamlit as st
 import random
 
+
+############################
+### CONFIGURACION PREVIA ###
+############################
+
+# Algunos de los modelos de lenguaje disponibles
 MODELOS = [
     "llama3.2:1b",          # 0
     "llama3.2:latest",      # 1
@@ -13,12 +19,14 @@ MODELOS = [
     "deepseek-r1:latest"    # 4
 ]
 
+# Mensaje de bienbenida del chatbot
 WELCOME_MESSAGES = [
-    "¡Bienvenido al concesionario virtual! 🚗💨 Me llamo Marina. ¿Qué tipo de coche estás buscando?",
-    "¡Hola! Soy tu asistente de coches Marina. ¿Te interesa un coche deportivo, familiar o eléctrico?",
-    "¡Arranquemos motores! 🏎️ Soy Marina, cuéntame qué buscas en tu próximo coche."
+    "¡Bienvenido al concesionario virtual! 🚗💨 Soy Carina, tu asistente personal. ¿Qué tipo de coche estás buscando hoy?",
+    "¡Hola! Soy Carina, estoy aquí para ayudarte a encontrar el coche perfecto. ¿Prefieres un deportivo, familiar o eléctrico?",
+    "¡Arranquemos motores! 🏎️ Soy Carina, listos para encontrar juntos tu próximo coche ideal. Cuéntame qué necesitas."
 ]
 
+# Contexto, tambien agrega el historial de conversacion
 CHAT_PROMPT_TEMPLATE = """
     Eres un asistente profesional de venta de coches. 
     Tu meta es ayudar a los clientes a encontrar el coche perfecto basado en sus necesidades y preferencias.
@@ -32,7 +40,12 @@ CHAT_PROMPT_TEMPLATE = """
     Chat history: {chat_history}
     User question: {user_question}
 """
-    
+
+#################
+### FUNCIONES ###
+#################
+
+# funcion para obtener respuesta
 def get_response(user_query, chat_history):    
 
     llm = ChatOllama(
@@ -50,8 +63,14 @@ def get_response(user_query, chat_history):
         "user_question": user_query
     })
 
-st.set_page_config(page_title="Streamlit Carbot", page_icon="🚗")
-st.title("Vendemos coches 🚗💨")
+
+####################################
+### PAGINA Y CHATBOT (STREAMLIT) ###
+####################################
+
+st.set_page_config(page_title="DriveNet", page_icon="🚗")
+st.markdown("<h1 style='text-align: center;'>¡Bienvenido a DriveNet! 🚗💨</h1>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center;'>Encuentra el coche de tus sueños con la ayuda de Carina, tu asistente virtual. ¿Qué tipo de coche estás buscando?</h2>", unsafe_allow_html=True)
 
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = [AIMessage(content=random.choice(WELCOME_MESSAGES))]
