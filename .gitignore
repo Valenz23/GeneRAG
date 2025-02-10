@@ -1,1 +1,5 @@
-/ollamademo/ollama/models
+/rasapro/.venv
+rasapro/.env
+/rasapro/tutorial/.rasa
+/rasapro/tutorial/models
+/rasapro/tutorial/actions/__pycache__
