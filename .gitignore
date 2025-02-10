@@ -3,3 +3,6 @@ rasapro/.env
 /rasapro/tutorial/.rasa
 /rasapro/tutorial/models
 /rasapro/tutorial/actions/__pycache__
+/rasapro/calm-demo/.rasa
+/rasapro/calm-demo/models
+/rasapro/calm-demo/actions/__pycache__

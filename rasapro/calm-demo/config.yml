@@ -1,0 +1,14 @@
+recipe: default.v1
+language: en
+pipeline:
+- name: SingleStepLLMCommandGenerator
+  llm:
+      # model_group: openai-gpt-4
+    model_group: rasa_command_generation_model
+  flow_retrieval:
+    active: false
+
+policies:
+- name: FlowPolicy
+# - name: IntentlessPolicy
+assistant_id: 20250210-235220-icy-spitz
