@@ -8,3 +8,11 @@ rasapro/.env
 
 /rasapro/calm-demo/.rasa
 /rasapro/calm-demo/actions/__pycache__
+
+# latex
+*.aux
+*.log
+*.gz
+*.out
+*.bbl
+*.blg
