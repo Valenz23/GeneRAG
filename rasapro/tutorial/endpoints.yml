@@ -53,3 +53,8 @@ model_groups:
       - provider: rasa
         model: rasa/cmd_gen_codellama_13b_calm_demo
         api_base: "https://tutorial-llm.rasa.ai"
+  - id: ollama-llama3.2
+    models:
+      - provider: ollama
+        model: ollama/llama3.2
+        api_base: http://localhost:11434
