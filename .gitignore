@@ -2,6 +2,8 @@
 
 /rasapro/.venv
 rasapro/.env
+/langchaindemo/.venv
+/ragdemo/.venv
 
 /rasapro/tutorial/.rasa
 /rasapro/tutorial/actions/__pycache__
@@ -16,4 +18,5 @@ rasapro/.env
 *.out
 *.bbl
 *.blg
-/langchaindemo/.venv
+
+
