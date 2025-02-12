@@ -16,3 +16,4 @@ rasapro/.env
 *.out
 *.bbl
 *.blg
+/langchaindemo/.venv
