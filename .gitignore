@@ -1,9 +1,10 @@
 /.vscode
 
-/rasapro/.venv
-rasapro/.env
-/langchaindemo/.venv
-/ragdemo/.venv
+/*/.venv
+/*/.env
+/*/__pycache__
+/*/chroma
+/*/.pytest_cache
 
 /rasapro/tutorial/.rasa
 /rasapro/tutorial/actions/__pycache__
@@ -18,5 +19,6 @@ rasapro/.env
 *.out
 *.bbl
 *.blg
+
 
 
