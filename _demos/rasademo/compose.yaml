@@ -1,0 +1,30 @@
+services:
+
+  # añadir autenticacion, BD, logs, monitor
+
+
+  rasa:
+    image: rasa/rasa:latest-full
+    container_name: rasa
+    volumes:
+      - ./bot:/app
+    ports:
+      - "5005:5005"
+    command: run --enable-api --cors "*" --debug
+
+  actions:
+    image: rasa/rasa-sdk:latest
+    container_name: actions
+    volumes:
+      - ./actions:/app/actions
+    ports:
+      - "5055:5055"
+    command: start --actions actions
+
+  webchat:
+    image: nginx:alpine
+    container_name: webchat
+    volumes:
+      - ./webchat:/usr/share/nginx/html
+    ports:
+      - "8080:80"

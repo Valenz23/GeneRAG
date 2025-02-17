@@ -1,16 +1,18 @@
 /.vscode
 
-/*/.venv
-/*/.env
-/*/__pycache__
-/*/chroma
-/*/.pytest_cache
+/_demos/*/.venv
+/_demos/*/.env
+/_demos/*/__pycache__
+/_demos/*/chroma
+/_demos/*/.pytest_cache
 
-/rasapro/tutorial/.rasa
-/rasapro/tutorial/actions/__pycache__
+/_demos/rasademo/actions/__pycache__
 
-/rasapro/calm-demo/.rasa
-/rasapro/calm-demo/actions/__pycache__
+/_demos/rasapro/tutorial/.rasa
+/_demos/rasapro/tutorial/actions/__pycache__
+
+/_demos/rasapro/calm-demo/.rasa
+/_demos/rasapro/calm-demo/actions/__pycache__
 
 # latex
 *.aux
@@ -19,6 +21,7 @@
 *.out
 *.bbl
 *.blg
+
 
 
 

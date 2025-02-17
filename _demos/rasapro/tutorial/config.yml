@@ -1,0 +1,16 @@
+recipe: default.v1
+language: en
+pipeline:
+- name: SingleStepLLMCommandGenerator
+  llm:
+    # model_group: rasa_command_generation_model
+    model_group: ollama-llama3.2
+  flow_retrieval:
+    active: false
+    embeddings:
+      model_group: ollama-llama3.2
+
+policies:
+- name: FlowPolicy
+#  - name: EnterpriseSearchPolicy
+assistant_id: 20250210-234150-gilded-milk
