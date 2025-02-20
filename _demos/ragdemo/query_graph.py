@@ -1,11 +1,14 @@
+from graph_retriever.strategies import Eager
 from langchain_chroma import Chroma
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
+from langchain_graph_retriever import GraphRetriever
 from langchain_ollama import ChatOllama
 
 import argparse
 
 from get_embedding_function import get_embedding_function
+from plot import plot_graph_retriever
 
 CHROMA_PATH = "chroma"
 
@@ -33,20 +36,25 @@ def query_rag(query_text: str):
     db = Chroma(persist_directory=CHROMA_PATH, embedding_function=embedding_function)
 
     # Search the DB.
-    results = db.similarity_search_with_score(query_text, k=5)
-    context = "\n\n---\n\n".join([doc.page_content for doc, _score in results])    
-    # sources = [doc.metadata.get("id", None) for doc, _score in results]    
+    edges=[("source","source"), ("author","author"), ("title","title")]
+    traversal_retriever = GraphRetriever(
+        store=db,
+        edges=edges, 
+        strategy=Eager(k=5, start_k=1, max_depth=2) 
+    )
+    results = traversal_retriever.invoke(query_text)
+    plot_graph_retriever(results, edges, "mi_grafo.png")
+    context = "\n\n---\n\n".join([doc.page_content for doc in results])
     sources = [
-        {            
-            "score": _score,
+        {
             "id": doc.metadata.get("id", None),
             "source": doc.metadata.get("source", None),
             "author": doc.metadata.get("author", None),
             "title": doc.metadata.get("title", None)
         }
-        for doc, _score in results
+        for doc in results
     ]
-    
+
     # Prompt and chain
     prompt = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
     llm = ChatOllama(model="llama3.2", base_url="http://localhost:11434")     
@@ -57,8 +65,7 @@ def query_rag(query_text: str):
     response_text = ""
     for chunk in chain.stream({"context": context, "question": query_text}):
         print(chunk, end="", flush=True)
-        response_text += chunk          
-    # print(f"\nSources: {sources}")
+        response_text += chunk      
     print(f"\n\nSources:")
     for metadata in sources:
         print(metadata)
