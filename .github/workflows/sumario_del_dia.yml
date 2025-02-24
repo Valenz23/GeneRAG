@@ -1,0 +1,15 @@
+on:
+  schedule:
+  - cron: "0 10 * * 1-6"
+
+jobs:
+  descargar_sumario:
+    name: Descargar el sumario del día
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4.2.2
+
+      - name: Ejecutar el fichero
+        run: ./scripts/sumario_del_dia.sh
