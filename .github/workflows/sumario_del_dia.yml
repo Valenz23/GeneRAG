@@ -12,11 +12,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4.2.2
 
-      - name: Asegurarse de que el script tiene permisos de ejecución
-        run: |
-          chmod +x ./scripts/sumario_del_dia.sh
-          ls -l ./scripts/sumario_del_dia.sh  # Mostrar los permisos del archivo
-
       - name: Ejecutar el script de descarga del sumario
         run: |
-          ./scripts/sumario_del_dia.sh
+          cd scripts
+          ./sumario_del_dia.sh
