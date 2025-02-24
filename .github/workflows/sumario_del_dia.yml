@@ -15,4 +15,5 @@ jobs:
       - name: Ejecutar el script de descarga del sumario
         run: |
           cd scripts
+          chmod +x ./sumario_del_dia.sh
           ./sumario_del_dia.sh
