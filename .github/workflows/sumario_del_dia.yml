@@ -19,7 +19,7 @@ jobs:
           ./sumario_del_dia.sh
 
       - name: Commit y push
-        uses: Smart-Transportation/push@v1.3
+        uses: Andro999b/push@v1.3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           
