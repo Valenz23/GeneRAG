@@ -9,19 +9,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4.2.2
 
-      - name: Ejecutar el script de descarga del sumario
+      - name: Ejecutación del script
         run: |
           cd scripts
           chmod +x ./sumario_del_dia.sh
           ./sumario_del_dia.sh
 
-      - name: Commit y Push de los cambios
-        uses: offensive-vk/auto-commit-push@v8
+      - name: Commit y push
+        uses: Smart-Transportation/push@v1.3
         with:
-          message: Descarga automatica de sumarios de hoy
-          branch: main
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          
           
