@@ -13,9 +13,10 @@ jobs:
         uses: actions/checkout@v4.2.2
 
       - name: Ejecutación del script
-        run: |          
-          chmod +x ./scripts/sumario_del_dia.sh
-          ./scripts/sumario_del_dia.sh
+        run: |        
+          cd scripts
+          chmod +x ./sumario_del_dia.sh
+          ./sumario_del_dia.sh
 
       - name: Commit y push
         uses: stefanzweifel/git-auto-commit-action@v5
