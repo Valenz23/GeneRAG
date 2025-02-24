@@ -14,5 +14,5 @@ jobs:
 
       - name: Ejecutar el fichero
         run: |
-          chmod +x ./scripts/sumario_del_dia.sh
-          ./scripts/sumario_del_dia.sh
+          cd scripts
+          ./sumario_del_dia.sh
