@@ -17,3 +17,9 @@ jobs:
           cd scripts
           chmod +x ./sumario_del_dia.sh
           ./sumario_del_dia.sh
+
+      - name: Commit y Push de los cambios
+        uses: Smart-Transportation/push@v1.3
+        with:
+          github_token: $\{{ secrets.GITHUB_TOKEN }}
+          
