@@ -1,3 +1,5 @@
+name: Descargar sumario del día
+
 on:
   schedule:
     - cron: "0 10 * * 1-6"
@@ -5,7 +7,7 @@ on:
 
 jobs:
   descargar_sumario:
-    name: Descarga sumario del día
+    name: Descargar sumario del día
     runs-on: ubuntu-latest
 
     steps:
