@@ -13,4 +13,6 @@ jobs:
         uses: actions/checkout@v4.2.2
 
       - name: Ejecutar el fichero
-        run: ./scripts/sumario_del_dia.sh
+        run: |
+          chmod +x ./scripts/sumario_del_dia.sh
+          ./scripts/sumario_del_dia.sh
