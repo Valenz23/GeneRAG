@@ -19,7 +19,9 @@ jobs:
           ./sumario_del_dia.sh
 
       - name: Commit y Push de los cambios
-        uses: Smart-Transportation/push@v1.3
+        uses: offensive-vk/auto-commit-push@v8
         with:
-          github_token: $\{{ secrets.GITHUB_TOKEN }}
+          message: Descarga automatica de sumarios de hoy
+          branch: main
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           
