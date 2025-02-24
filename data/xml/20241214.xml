@@ -1,0 +1,2315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <sumario>
+      <metadatos>
+        <publicacion>BOE</publicacion>
+        <fecha_publicacion>20241214</fecha_publicacion>
+      </metadatos>
+      <diario numero="301">
+        <sumario_diario>
+          <identificador>BOE-S-2024-301</identificador>
+          <url_pdf szBytes="436327" szKBytes="426">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-S-2024-301.pdf</url_pdf>
+        </sumario_diario>
+        <seccion codigo="1" nombre="I. Disposiciones generales">
+          <departamento codigo="9562" nombre="MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN">
+            <epigrafe nombre="Tratados internacionales">
+              <item>
+                <identificador>BOE-A-2024-26066</identificador>
+                <control>2024/19200</control>
+                <titulo>Entrada en vigor del Acuerdo entre España y Honduras sobre transporte aéreo y Anejo, hecho en Tegucigalpa el 30 de octubre de 1992.</titulo>
+                <url_pdf szBytes="190397" szKBytes="186" pagina_inicial="171642" pagina_final="171642">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26066.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26066</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26066</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-26067</identificador>
+                <control>2024/19386</control>
+                <titulo>Entrada en vigor del Acuerdo sobre Inmunidades y Prerrogativas entre el Reino de España y el Banco Centroamericano de Integración Económica, hecho en Madrid el 28 de julio de 2022.</titulo>
+                <url_pdf szBytes="190956" szKBytes="186" pagina_inicial="171643" pagina_final="171643">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26067.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26067</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26067</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="5140" nombre="MINISTERIO DE HACIENDA">
+            <epigrafe nombre="Tabaco. Precios">
+              <item>
+                <identificador>BOE-A-2024-26068</identificador>
+                <control>2024/19388</control>
+                <titulo>Resolución de 13 de diciembre de 2024, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área del Monopolio.</titulo>
+                <url_pdf szBytes="354798" szKBytes="346" pagina_inicial="171644" pagina_final="171652">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26068.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26068</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26068</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9586" nombre="MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE">
+            <epigrafe nombre="Subvenciones">
+              <item>
+                <identificador>BOE-A-2024-26069</identificador>
+                <control>2024/19308</control>
+                <titulo>Orden TRM/1413/2024, de 10 de diciembre, por la que se determinan para el año 2023 los costes tipo aplicables a los costes subvencionables regulados en el Real Decreto 147/2019, de 15 de marzo, sobre compensación al transporte marítimo y aéreo de mercancías no incluidas en el Anexo I del Tratado de Funcionamiento de la Unión Europea, con origen o destino en las Islas Canarias.</titulo>
+                <url_pdf szBytes="279245" szKBytes="273" pagina_inicial="171653" pagina_final="171655">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26069.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26069</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26069</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-26070</identificador>
+                <control>2024/19309</control>
+                <titulo>Orden TRM/1414/2024, de 10 de diciembre, por la que se determinan para el año 2023 los costes tipo aplicables a los costes subvencionables regulados en el Real Decreto 552/2020, de 2 de junio, sobre compensación al transporte marítimo y aéreo de mercancías incluidas en el Anexo I del Tratado de Funcionamiento de la Unión Europea, con origen o destino en las Islas Canarias.</titulo>
+                <url_pdf szBytes="279091" szKBytes="273" pagina_inicial="171656" pagina_final="171658">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26070.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26070</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26070</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="8070" nombre="COMUNIDAD AUTÓNOMA DE CATALUÑA">
+            <epigrafe nombre="Medidas fiscales, financieras y administrativas">
+              <item>
+                <identificador>BOE-A-2024-26071</identificador>
+                <control>2024/19067</control>
+                <titulo>Corrección de errores en la Ley 3/2023, de 16 de marzo, de medidas fiscales, financieras, administrativas y del sector público para el 2023.</titulo>
+                <url_pdf szBytes="191571" szKBytes="187" pagina_inicial="171659" pagina_final="171659">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26071.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26071</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26071</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Policía">
+              <item>
+                <identificador>BOE-A-2024-26072</identificador>
+                <control>2024/19068</control>
+                <titulo>Decreto-ley 9/2024, de 29 de octubre, de modificación de la Ley 10/1994, de 11 de julio, de la Policía de la Generalitat-Mossos d'Esquadra.</titulo>
+                <url_pdf szBytes="221763" szKBytes="217" pagina_inicial="171660" pagina_final="171663">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26072.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26072</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26072</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="2A" nombre="II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias">
+          <departamento codigo="1820" nombre="CONSEJO GENERAL DEL PODER JUDICIAL">
+            <epigrafe nombre="Destinos">
+              <item>
+                <identificador>BOE-A-2024-26073</identificador>
+                <control>2024/19311</control>
+                <titulo>Acuerdo de 27 de noviembre de 2024, del Pleno del Consejo General del Poder Judicial, por el que se resuelve el concurso para la provisión de plaza de Letrado/a Titular del Gabinete Técnico del Tribunal Supremo, convocado por Acuerdo de 16 de mayo de 2024, de la Comisión Permanente.</titulo>
+                <url_pdf szBytes="192292" szKBytes="188" pagina_inicial="171664" pagina_final="171664">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26073.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26073</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26073</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9593" nombre="MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA">
+            <epigrafe nombre="Ceses">
+              <item>
+                <identificador>BOE-A-2024-26074</identificador>
+                <control>2024/19322</control>
+                <titulo>Resolución de 28 de agosto de 2024, de la Delegación del Gobierno en la Comunidad Autónoma de Cataluña, por la que se dispone el cese de doña Josefa Beltrán Bertomeu como Subdelegada del Gobierno en Barcelona.</titulo>
+                <url_pdf szBytes="191957" szKBytes="187" pagina_inicial="171665" pagina_final="171665">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26074.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26074</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26074</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9534" nombre="COMISIÓN NACIONAL DE LOS MERCADOS Y LA COMPETENCIA">
+            <epigrafe nombre="Destinos">
+              <item>
+                <identificador>BOE-A-2024-26075</identificador>
+                <control>2024/19142</control>
+                <titulo>Resolución de 29 de noviembre de 2024, de la Comisión Nacional de los Mercados y la Competencia, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 28 de octubre de 2024.</titulo>
+                <url_pdf szBytes="205977" szKBytes="201" pagina_inicial="171666" pagina_final="171667">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26075.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26075</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26075</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="310" nombre="UNIVERSIDADES">
+            <epigrafe nombre="Nombramientos">
+              <item>
+                <identificador>BOE-A-2024-26076</identificador>
+                <control>2024/19325</control>
+                <titulo>Resolución de 29 de noviembre de 2024, de la Universidad de Oviedo, por la que se nombran Catedráticos de Universidad.</titulo>
+                <url_pdf szBytes="192208" szKBytes="188" pagina_inicial="171668" pagina_final="171668">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26076.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26076</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26076</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="2B" nombre="II. Autoridades y personal. - B. Oposiciones y concursos">
+          <departamento codigo="9585" nombre="MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES">
+            <epigrafe nombre="Procedimientos de libre designación">
+              <item>
+                <identificador>BOE-A-2024-26077</identificador>
+                <control>2024/19220</control>
+                <titulo>Resolución de 9 de diciembre de 2024, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="338935" szKBytes="331" pagina_inicial="171669" pagina_final="171674">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26077.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26077</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26077</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="6110" nombre="MINISTERIO DE DEFENSA">
+            <epigrafe nombre="Personal estatutario de los servicios de salud">
+              <item>
+                <identificador>BOE-A-2024-26078</identificador>
+                <control>2024/19408</control>
+                <titulo>Resolución 400/38493/2024, de 20 de noviembre, de la Subsecretaría, por la que se modifica la Resolución 400/38472/2023, de 4 de diciembre, por la que se publica la relación de personas aprobadas en el proceso selectivo convocado con carácter excepcional para la estabilización de empleo temporal de larga duración, para el acceso a la condición de personal estatutario fijo, en plazas de la categoría de Técnico/a Medio Sanitario: Cuidados Auxiliares de Enfermería en la Red Hospitalaria de la Defensa.</titulo>
+                <url_pdf szBytes="225124" szKBytes="220" pagina_inicial="171675" pagina_final="171678">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26078.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26078</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26078</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-26079</identificador>
+                <control>2024/19409</control>
+                <titulo>Resolución 400/38492/2024, de 20 de noviembre, de la Subsecretaría, por la que se modifica la Resolución 400/38469/2023, de 30 de noviembre, por la que se publica la relación de personas aprobadas en el proceso selectivo para la estabilización de empleo temporal de larga duración, para el acceso a la condición de personal estatutario fijo en plazas de la categoría de Celador/a en la Red Hospitalaria de la Defensa, convocado por Resolución 400/38489/2022, de 19 de diciembre.</titulo>
+                <url_pdf szBytes="245836" szKBytes="240" pagina_inicial="171679" pagina_final="171683">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26079.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26079</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26079</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9590" nombre="MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES">
+            <epigrafe nombre="Personal laboral">
+              <item>
+                <identificador>BOE-A-2024-26080</identificador>
+                <control>2024/19148</control>
+                <titulo>Resolución de 5 de diciembre de 2024, de la Subsecretaría, por la que se aprueba la relación definitiva de personas admitidas y excluidas y se anuncia lugar de celebración del primer ejercicio, segundo ejercicio y ejercicio único de la fase de oposición del proceso selectivo para ingreso, por el sistema general de acceso libre y por promoción interna, como personal laboral fijo, en los grupos profesionales M3, M2, M1, E2 y E1 sujetos al IV Convenio colectivo único para el personal laboral de la Administración General del Estado, convocado por Resolución de 17 de julio de 2024.</titulo>
+                <url_pdf szBytes="990643" szKBytes="967" pagina_inicial="171684" pagina_final="171711">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26080.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26080</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26080</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9595" nombre="MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA">
+            <epigrafe nombre="Procedimientos de libre designación">
+              <item>
+                <identificador>BOE-A-2024-26081</identificador>
+                <control>2024/19150</control>
+                <titulo>Resolución de 5 de diciembre de 2024, de la Dirección General de la Función Pública, por la que se publica la convocatoria para la provisión de puesto de trabajo reservado al personal funcionario de administración local con habilitación de carácter nacional, por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="198370" szKBytes="194" pagina_inicial="171712" pagina_final="171713">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26081.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26081</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26081</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-26082</identificador>
+                <control>2024/19151</control>
+                <titulo>Resolución de 5 de diciembre de 2024, de la Dirección General de la Función Pública, por la que se publica la convocatoria para la provisión de puesto de trabajo reservado al personal funcionario de administración local con habilitación de carácter nacional, por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="199781" szKBytes="195" pagina_inicial="171714" pagina_final="171715">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26082.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26082</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26082</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9534" nombre="COMISIÓN NACIONAL DE LOS MERCADOS Y LA COMPETENCIA">
+            <epigrafe nombre="Procedimientos de libre designación">
+              <item>
+                <identificador>BOE-A-2024-26083</identificador>
+                <control>2024/19152</control>
+                <titulo>Resolución de 5 de diciembre de 2024, de la Comisión Nacional de los Mercados y la Competencia, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="281101" szKBytes="275" pagina_inicial="171716" pagina_final="171719">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26083.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26083</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26083</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="3" nombre="III. Otras disposiciones">
+          <departamento codigo="9585" nombre="MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES">
+            <epigrafe nombre="Convenios">
+              <item>
+                <identificador>BOE-A-2024-26084</identificador>
+                <control>2024/19430</control>
+                <titulo>Resolución de 12 de diciembre de 2024, de la Gerencia del Consejo de Administración del Patrimonio Nacional, por la que se publica el Convenio con el Consejo General de Colegios Oficiales de Farmacéuticos, para la colaboración en la reapertura de la Real Farmacia.</titulo>
+                <url_pdf szBytes="236298" szKBytes="231" pagina_inicial="171720" pagina_final="171726">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26084.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26084</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26084</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-26085</identificador>
+                <control>2024/19431</control>
+                <titulo>Resolución de 12 de diciembre de 2024, de la Gerencia del Consejo de Administración del Patrimonio Nacional, por la que se publica el Convenio con la Fundación Banco Santander, para la exposición «Victoria Eugenia de Battenberg. Una inglesa en la Corte de Alfonso XIII».</titulo>
+                <url_pdf szBytes="279566" szKBytes="273" pagina_inicial="171727" pagina_final="171736">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26085.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26085</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26085</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Fundaciones">
+              <item>
+                <identificador>BOE-A-2024-26086</identificador>
+                <control>2024/19024</control>
+                <titulo>Resolución de 28 de noviembre de 2024, de la Dirección General de Seguridad Jurídica y Fe Pública, por la que se publican las fusiones de fundaciones inscritas en el Registro de Fundaciones de competencia estatal.</titulo>
+                <url_pdf szBytes="197553" szKBytes="193" pagina_inicial="171737" pagina_final="171738">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26086.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26086</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26086</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Títulos nobiliarios">
+              <item>
+                <identificador>BOE-A-2024-26087</identificador>
+                <control>2024/19153</control>
+                <titulo>Orden PJC/1415/2024, de 9 de diciembre, por la que se manda expedir, sin perjuicio de tercero de mejor derecho, Real Carta de Sucesión como Condesa de Valdeprados a favor de doña Ana Goizueta Walsh.</titulo>
+                <url_pdf szBytes="191333" szKBytes="187" pagina_inicial="171739" pagina_final="171739">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26087.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26087</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26087</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-26088</identificador>
+                <control>2024/19154</control>
+                <titulo>Orden PJC/1416/2024, de 9 de diciembre, por la que se manda expedir, sin perjuicio de tercero de mejor derecho, Real Carta de Sucesión como Marquesa de Huidobro a favor de doña Marta Francisca Suárez del Villar Ruiz de Huidobro.</titulo>
+                <url_pdf szBytes="191333" szKBytes="187" pagina_inicial="171740" pagina_final="171740">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26088.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26088</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26088</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-26089</identificador>
+                <control>2024/19155</control>
+                <titulo>Orden PJC/1417/2024, de 9 de diciembre, por la que se manda expedir, sin perjuicio de tercero de mejor derecho, Real Carta de Sucesión como Marquesa de Navarrés a favor de doña Cristina Álvarez de Toledo y Pena.</titulo>
+                <url_pdf szBytes="191458" szKBytes="187" pagina_inicial="171741" pagina_final="171741">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26089.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26089</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26089</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9575" nombre="MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO">
+            <epigrafe nombre="Instalaciones eléctricas">
+              <item>
+                <identificador>BOE-A-2024-26090</identificador>
+                <control>2024/19039</control>
+                <titulo>Resolución de 25 de noviembre de 2024, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de Alfanar Energía España, SLU, de autorización administrativa previa del parque eólico El Mochal, de 60 MW de potencia instalada, y de su infraestructura de evacuación, en la provincia de Guadalajara.</titulo>
+                <url_pdf szBytes="218775" szKBytes="214" pagina_inicial="171742" pagina_final="171746">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26090.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26090</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26090</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-26091</identificador>
+                <control>2024/19040</control>
+                <titulo>Resolución de 25 de noviembre de 2024, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de Energía Inagotable de Fornax, SL, de autorización administrativa previa del parque eólico Fornax, de 49,5 MW de potencia instalada, y de su infraestructura de evacuación, en las provincias de Huesca y Zaragoza.</titulo>
+                <url_pdf szBytes="229019" szKBytes="224" pagina_inicial="171747" pagina_final="171752">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26091.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26091</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26091</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-26092</identificador>
+                <control>2024/19041</control>
+                <titulo>Resolución de 25 de noviembre de 2024, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de Energía Inagotable de Hadar, SL, de autorización administrativa previa del parque eólico Hadar, de 25,25 MW de potencia instalada, y de su infraestructura de evacuación, en la provincia de Zaragoza.</titulo>
+                <url_pdf szBytes="228146" szKBytes="223" pagina_inicial="171753" pagina_final="171758">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26092.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26092</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26092</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-26093</identificador>
+                <control>2024/19042</control>
+                <titulo>Resolución de 25 de noviembre de 2024, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de Energía Inagotable de Superelipse, SL, de autorización administrativa previa del parque eólico Superelipse, de 49,5 MW de potencia instalada, y de su infraestructura de evacuación, en la provincia de Huesca.</titulo>
+                <url_pdf szBytes="226913" szKBytes="222" pagina_inicial="171759" pagina_final="171764">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26093.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26093</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26093</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-26094</identificador>
+                <control>2024/19043</control>
+                <titulo>Resolución de 25 de noviembre de 2024, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de GR Calamón Renovables, SL, de autorización administrativa previa de la instalación fotovoltaica GR Calamón, de 49,88 MWp, y de su infraestructura de evacuación, en la provincia de Guadalajara.</titulo>
+                <url_pdf szBytes="229493" szKBytes="224" pagina_inicial="171765" pagina_final="171770">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26094.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26094</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26094</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-26095</identificador>
+                <control>2024/19044</control>
+                <titulo>Resolución de 25 de noviembre de 2024, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de GR Martineta Renovables, SL, de autorización administrativa previa de la instalación fotovoltaica «GR Martineta», de 49,88 MWp, y de su infraestructura de evacuación, en la provincia de Guadalajara y en la Comunidad de Madrid.</titulo>
+                <url_pdf szBytes="229106" szKBytes="224" pagina_inicial="171771" pagina_final="171777">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26095.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26095</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26095</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-26096</identificador>
+                <control>2024/19045</control>
+                <titulo>Resolución de 25 de noviembre de 2024, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de GR Porrón Renovables, SL, de autorización administrativa previa de la instalación fotovoltaica GR Porrón, de 49,88 MWp, y de su infraestructura de evacuación, en la provincia de Guadalajara.</titulo>
+                <url_pdf szBytes="227623" szKBytes="222" pagina_inicial="171778" pagina_final="171783">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26096.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26096</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26096</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-26097</identificador>
+                <control>2024/19046</control>
+                <titulo>Resolución de 25 de noviembre de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga transmisión de titularidad y concesiones otorgadas a Green Capital Power, SL, a favor de Bustatur Energy, SL, autorización administrativa previa de las modificaciones y autorización administrativa de construcción para el parque eólico «Bustatur», de 41,6 MW de potencia instalada, y su infraestructura de evacuación, ubicados en Las Rozas de Valdearroyo (Cantabria) y Arija y Valle de Valdebezana (Burgos).</titulo>
+                <url_pdf szBytes="266825" szKBytes="261" pagina_inicial="171784" pagina_final="171796">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26097.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26097</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26097</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-26098</identificador>
+                <control>2024/19047</control>
+                <titulo>Resolución de 27 de noviembre de 2024, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de Alfanar Energía España, SL, de autorización administrativa previa del parque eólico Alto del Castillo, de 36 MW de potencia instalada, y de su infraestructura de evacuación, en la provincia de Guadalajara.</titulo>
+                <url_pdf szBytes="230733" szKBytes="225" pagina_inicial="171797" pagina_final="171803">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26098.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26098</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26098</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-26099</identificador>
+                <control>2024/19048</control>
+                <titulo>Resolución de 27 de noviembre de 2024, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de Harbour Sevilla Manchuela I, SL, de autorización administrativa previa del parque solar fotovoltaico Magerit FV1, de 96,6 MW de potencia instalada, y de su infraestructura de evacuación, en la provincia de Guadalajara y en la Comunidad de Madrid.</titulo>
+                <url_pdf szBytes="218293" szKBytes="213" pagina_inicial="171804" pagina_final="171808">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26099.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26099</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26099</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-26100</identificador>
+                <control>2024/19049</control>
+                <titulo>Resolución de 27 de noviembre de 2024, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de Shell Desarrollo 2, SL, de autorización administrativa previa, autorización administrativa de construcción y declaración de utilidad pública del parque fotovoltaico V Solar 1, de 246,23 MW de potencia instalada, y de su infraestructura de evacuación, en la provincia de Madrid.</titulo>
+                <url_pdf szBytes="238403" szKBytes="233" pagina_inicial="171809" pagina_final="171816">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26100.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26100</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26100</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9565" nombre="MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES">
+            <epigrafe nombre="Ayudas">
+              <item>
+                <identificador>BOE-A-2024-26101</identificador>
+                <control>2024/19276</control>
+                <titulo>Orden CNU/1418/2024, de 9 de diciembre, por la que se establecen las bases reguladoras para la concesión de ayudas a participantes directos y asociados en el Proyecto Importante de Interés Común Europeo de Salud (Med4Cure) y se procede a la convocatoria de las ayudas, en el marco del Plan de Recuperación, Transformación y Resiliencia.</titulo>
+                <url_pdf szBytes="477655" szKBytes="466" pagina_inicial="171817" pagina_final="171858">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26101.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26101</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26101</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Comunidad Autónoma de Cantabria. Convenio">
+              <item>
+                <identificador>BOE-A-2024-26102</identificador>
+                <control>2024/19277</control>
+                <titulo>Resolución de 21 de noviembre de 2024, de la Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P., por la que se publica el Convenio con la Universidad de Cantabria, para el establecimiento de las condiciones de funcionamiento del Instituto de Física de Cantabria.</titulo>
+                <url_pdf szBytes="326908" szKBytes="319" pagina_inicial="171859" pagina_final="171880">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26102.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26102</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26102</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9579" nombre="MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES">
+            <epigrafe nombre="Comunidad de Castilla y León. Convenio">
+              <item>
+                <identificador>BOE-A-2024-26103</identificador>
+                <control>2024/19476</control>
+                <titulo>Resolución de 11 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica la Adenda de prórroga al Convenio entre la Tesorería General de la Seguridad Social, el Instituto Social de la Marina y la Comunidad de Castilla y León, en materia estadística.</titulo>
+                <url_pdf szBytes="198931" szKBytes="194" pagina_inicial="171881" pagina_final="171882">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26103.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26103</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26103</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="1020" nombre="BANCO DE ESPAÑA">
+            <epigrafe nombre="Mercado de divisas">
+              <item>
+                <identificador>BOE-A-2024-26104</identificador>
+                <control>2024/19478</control>
+                <titulo>Resolución de 13 de diciembre de 2024, del Banco de España, por la que se publican los cambios del euro correspondientes al día 13 de diciembre de 2024, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.</titulo>
+                <url_pdf szBytes="216930" szKBytes="212" pagina_inicial="171883" pagina_final="171884">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26104.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26104</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26104</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9581" nombre="CONSEJO DE TRANSPARENCIA Y BUEN GOBIERNO">
+            <epigrafe nombre="Comunidad Autónoma de Extremadura. Convenio">
+              <item>
+                <identificador>BOE-A-2024-26105</identificador>
+                <control>2024/19178</control>
+                <titulo>Resolución de 3 de diciembre de 2024, del Consejo de Transparencia y Buen Gobierno, A.A.I., por la que se publica el Convenio con la Comunidad Autónoma de Extremadura, para la resolución de las reclamaciones previstas en el artículo 24 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.</titulo>
+                <url_pdf szBytes="233763" szKBytes="228" pagina_inicial="171885" pagina_final="171891">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26105.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26105</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26105</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="310" nombre="UNIVERSIDADES">
+            <epigrafe nombre="Planes de estudios">
+              <item>
+                <identificador>BOE-A-2024-26106</identificador>
+                <control>2024/19282</control>
+                <titulo>Resolución de 5 de noviembre de 2024, de la Universidad Europea de Canarias, por la que se publica el cambio de denominación del título de Graduado o Graduada en Dirección y Creación de Empresas por el de Graduado o Graduada en Administración y Dirección de Empresas y el plan de estudios actualizado.</titulo>
+                <url_pdf szBytes="260493" szKBytes="254" pagina_inicial="171892" pagina_final="171894">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26106.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26106</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26106</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-26107</identificador>
+                <control>2024/19283</control>
+                <titulo>Resolución de 5 de noviembre de 2024, de la Universidad Europea de Canarias, por la que se publica el plan de estudios del Máster Universitario en Educación Bilingüe.</titulo>
+                <url_pdf szBytes="212010" szKBytes="207" pagina_inicial="171895" pagina_final="171895">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26107.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26107</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26107</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-26108</identificador>
+                <control>2024/19284</control>
+                <titulo>Resolución de 5 de noviembre de 2024, de la Universidad Europea de Canarias, por la que se publica el plan de estudios del Máster Universitario en Sistemas Integrados de Gestión.</titulo>
+                <url_pdf szBytes="209258" szKBytes="204" pagina_inicial="171896" pagina_final="171896">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26108.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26108</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26108</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-26109</identificador>
+                <control>2024/19285</control>
+                <titulo>Resolución de 5 de noviembre de 2024, de la Universidad Europea de Canarias, por la que se publica la modificación del plan de estudios de Máster Universitario en Formación del Profesorado de Educación Secundaria Obligatoria, Bachillerato, Formación Profesional, Enseñanzas de Idiomas y Enseñanzas Deportivas.</titulo>
+                <url_pdf szBytes="212082" szKBytes="207" pagina_inicial="171897" pagina_final="171898">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-A-2024-26109.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26109</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-26109</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="4" nombre="IV. Administración de Justicia">
+          <departamento codigo="9546" nombre="JUZGADOS DE PRIMERA INSTANCIA E INSTRUCCIÓN">
+            <item>
+              <identificador>BOE-B-2024-45631</identificador>
+              <titulo>ALCOBENDAS</titulo>
+              <url_pdf szBytes="198640" szKBytes="194" pagina_inicial="71653" pagina_final="71653">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45631.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45631</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45631</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45632</identificador>
+              <titulo>ALICANTE/ALACANT</titulo>
+              <url_pdf szBytes="198159" szKBytes="194" pagina_inicial="71654" pagina_final="71654">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45632.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45632</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45632</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45633</identificador>
+              <titulo>ALICANTE/ALACANT</titulo>
+              <url_pdf szBytes="198269" szKBytes="194" pagina_inicial="71655" pagina_final="71655">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45633.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45633</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45633</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45634</identificador>
+              <titulo>ALMERIA</titulo>
+              <url_pdf szBytes="198342" szKBytes="194" pagina_inicial="71656" pagina_final="71656">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45634.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45634</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45634</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45635</identificador>
+              <titulo>ANTEQUERA</titulo>
+              <url_pdf szBytes="198657" szKBytes="194" pagina_inicial="71657" pagina_final="71657">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45635.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45635</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45635</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45636</identificador>
+              <titulo>ARENAS S PEDRO</titulo>
+              <url_pdf szBytes="198963" szKBytes="194" pagina_inicial="71658" pagina_final="71658">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45636.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45636</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45636</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45637</identificador>
+              <titulo>ARGANDA DEL REY</titulo>
+              <url_pdf szBytes="198971" szKBytes="194" pagina_inicial="71659" pagina_final="71659">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45637.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45637</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45637</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45638</identificador>
+              <titulo>AVILA</titulo>
+              <url_pdf szBytes="198202" szKBytes="194" pagina_inicial="71660" pagina_final="71660">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45638.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45638</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45638</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45639</identificador>
+              <titulo>BADALONA</titulo>
+              <url_pdf szBytes="198206" szKBytes="194" pagina_inicial="71661" pagina_final="71661">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45639.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45639</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45639</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45640</identificador>
+              <titulo>BALAGUER</titulo>
+              <url_pdf szBytes="198833" szKBytes="194" pagina_inicial="71662" pagina_final="71662">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45640.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45640</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45640</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45641</identificador>
+              <titulo>BALAGUER</titulo>
+              <url_pdf szBytes="198533" szKBytes="194" pagina_inicial="71663" pagina_final="71663">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45641.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45641</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45641</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45642</identificador>
+              <titulo>BARAKALDO</titulo>
+              <url_pdf szBytes="198388" szKBytes="194" pagina_inicial="71664" pagina_final="71664">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45642.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45642</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45642</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45643</identificador>
+              <titulo>BARCELONA</titulo>
+              <url_pdf szBytes="198494" szKBytes="194" pagina_inicial="71665" pagina_final="71665">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45643.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45643</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45643</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45644</identificador>
+              <titulo>BARCELONA</titulo>
+              <url_pdf szBytes="198491" szKBytes="194" pagina_inicial="71666" pagina_final="71666">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45644.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45644</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45644</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45645</identificador>
+              <titulo>BARCELONA</titulo>
+              <url_pdf szBytes="198539" szKBytes="194" pagina_inicial="71667" pagina_final="71667">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45645.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45645</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45645</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45646</identificador>
+              <titulo>BENIDORM</titulo>
+              <url_pdf szBytes="198566" szKBytes="194" pagina_inicial="71668" pagina_final="71668">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45646.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45646</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45646</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45647</identificador>
+              <titulo>BERGA</titulo>
+              <url_pdf szBytes="198650" szKBytes="194" pagina_inicial="71669" pagina_final="71669">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45647.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45647</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45647</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45648</identificador>
+              <titulo>BLANES</titulo>
+              <url_pdf szBytes="198476" szKBytes="194" pagina_inicial="71670" pagina_final="71670">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45648.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45648</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45648</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45649</identificador>
+              <titulo>BURGOS</titulo>
+              <url_pdf szBytes="198659" szKBytes="194" pagina_inicial="71671" pagina_final="71671">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45649.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45649</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45649</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45650</identificador>
+              <titulo>CALAHORRA</titulo>
+              <url_pdf szBytes="198555" szKBytes="194" pagina_inicial="71672" pagina_final="71672">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45650.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45650</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45650</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45651</identificador>
+              <titulo>CARMONA</titulo>
+              <url_pdf szBytes="198433" szKBytes="194" pagina_inicial="71673" pagina_final="71673">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45651.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45651</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45651</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45652</identificador>
+              <titulo>CARMONA</titulo>
+              <url_pdf szBytes="198549" szKBytes="194" pagina_inicial="71674" pagina_final="71674">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45652.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45652</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45652</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45653</identificador>
+              <titulo>CASTELLON DE LA PLANA</titulo>
+              <url_pdf szBytes="198767" szKBytes="194" pagina_inicial="71675" pagina_final="71675">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45653.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45653</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45653</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45654</identificador>
+              <titulo>CAZALLA SIERRA</titulo>
+              <url_pdf szBytes="198696" szKBytes="194" pagina_inicial="71676" pagina_final="71676">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45654.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45654</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45654</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45655</identificador>
+              <titulo>CERDANYOLA DEL VALLES</titulo>
+              <url_pdf szBytes="199108" szKBytes="194" pagina_inicial="71677" pagina_final="71677">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45655.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45655</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45655</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45656</identificador>
+              <titulo>CERVERA</titulo>
+              <url_pdf szBytes="198446" szKBytes="194" pagina_inicial="71678" pagina_final="71678">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45656.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45656</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45656</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45657</identificador>
+              <titulo>CORDOBA</titulo>
+              <url_pdf szBytes="198561" szKBytes="194" pagina_inicial="71679" pagina_final="71679">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45657.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45657</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45657</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45658</identificador>
+              <titulo>CORUÑA (A)</titulo>
+              <url_pdf szBytes="198938" szKBytes="194" pagina_inicial="71680" pagina_final="71680">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45658.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45658</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45658</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45659</identificador>
+              <titulo>CUENCA</titulo>
+              <url_pdf szBytes="198617" szKBytes="194" pagina_inicial="71681" pagina_final="71681">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45659.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45659</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45659</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45660</identificador>
+              <titulo>DENIA</titulo>
+              <url_pdf szBytes="198125" szKBytes="193" pagina_inicial="71682" pagina_final="71682">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45660.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45660</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45660</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45661</identificador>
+              <titulo>DONOSTIA-SAN SEBASTIAN</titulo>
+              <url_pdf szBytes="198795" szKBytes="194" pagina_inicial="71683" pagina_final="71683">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45661.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45661</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45661</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45662</identificador>
+              <titulo>DONOSTIA-SAN SEBASTIAN</titulo>
+              <url_pdf szBytes="198792" szKBytes="194" pagina_inicial="71684" pagina_final="71684">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45662.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45662</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45662</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45663</identificador>
+              <titulo>EJIDO(EL)</titulo>
+              <url_pdf szBytes="198607" szKBytes="194" pagina_inicial="71685" pagina_final="71685">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45663.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45663</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45663</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45664</identificador>
+              <titulo>EL VENDRELL</titulo>
+              <url_pdf szBytes="198535" szKBytes="194" pagina_inicial="71686" pagina_final="71686">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45664.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45664</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45664</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45665</identificador>
+              <titulo>EL VENDRELL</titulo>
+              <url_pdf szBytes="198545" szKBytes="194" pagina_inicial="71687" pagina_final="71687">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45665.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45665</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45665</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45666</identificador>
+              <titulo>EL VENDRELL</titulo>
+              <url_pdf szBytes="198508" szKBytes="194" pagina_inicial="71688" pagina_final="71688">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45666.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45666</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45666</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45667</identificador>
+              <titulo>ELX</titulo>
+              <url_pdf szBytes="198168" szKBytes="194" pagina_inicial="71689" pagina_final="71689">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45667.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45667</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45667</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45668</identificador>
+              <titulo>ELX</titulo>
+              <url_pdf szBytes="198170" szKBytes="194" pagina_inicial="71690" pagina_final="71690">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45668.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45668</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45668</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45669</identificador>
+              <titulo>GAVA</titulo>
+              <url_pdf szBytes="198134" szKBytes="193" pagina_inicial="71691" pagina_final="71691">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45669.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45669</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45669</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45670</identificador>
+              <titulo>GAVA</titulo>
+              <url_pdf szBytes="198201" szKBytes="194" pagina_inicial="71692" pagina_final="71692">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45670.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45670</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45670</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45671</identificador>
+              <titulo>GIRONA</titulo>
+              <url_pdf szBytes="198386" szKBytes="194" pagina_inicial="71693" pagina_final="71693">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45671.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45671</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45671</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45672</identificador>
+              <titulo>GRANADA</titulo>
+              <url_pdf szBytes="198318" szKBytes="194" pagina_inicial="71694" pagina_final="71694">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45672.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45672</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45672</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45673</identificador>
+              <titulo>GRANOLLERS</titulo>
+              <url_pdf szBytes="198665" szKBytes="194" pagina_inicial="71695" pagina_final="71695">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45673.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45673</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45673</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45674</identificador>
+              <titulo>GUADALAJARA</titulo>
+              <url_pdf szBytes="198481" szKBytes="194" pagina_inicial="71696" pagina_final="71696">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45674.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45674</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45674</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45675</identificador>
+              <titulo>GUIMAR</titulo>
+              <url_pdf szBytes="198504" szKBytes="194" pagina_inicial="71697" pagina_final="71697">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45675.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45675</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45675</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45676</identificador>
+              <titulo>HELLIN</titulo>
+              <url_pdf szBytes="198337" szKBytes="194" pagina_inicial="71698" pagina_final="71698">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45676.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45676</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45676</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45677</identificador>
+              <titulo>ILLESCAS</titulo>
+              <url_pdf szBytes="198444" szKBytes="194" pagina_inicial="71699" pagina_final="71699">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45677.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45677</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45677</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45678</identificador>
+              <titulo>LAS PALMAS DE GRAN CANARIA</titulo>
+              <url_pdf szBytes="199210" szKBytes="195" pagina_inicial="71700" pagina_final="71700">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45678.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45678</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45678</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45679</identificador>
+              <titulo>LEON</titulo>
+              <url_pdf szBytes="198038" szKBytes="193" pagina_inicial="71701" pagina_final="71701">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45679.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45679</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45679</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45680</identificador>
+              <titulo>LEON</titulo>
+              <url_pdf szBytes="198252" szKBytes="194" pagina_inicial="71702" pagina_final="71702">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45680.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45680</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45680</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45681</identificador>
+              <titulo>LLEIDA</titulo>
+              <url_pdf szBytes="198356" szKBytes="194" pagina_inicial="71703" pagina_final="71703">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45681.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45681</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45681</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45682</identificador>
+              <titulo>LLEIDA</titulo>
+              <url_pdf szBytes="198265" szKBytes="194" pagina_inicial="71704" pagina_final="71704">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45682.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45682</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45682</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45683</identificador>
+              <titulo>LUGO</titulo>
+              <url_pdf szBytes="198277" szKBytes="194" pagina_inicial="71705" pagina_final="71705">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45683.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45683</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45683</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45684</identificador>
+              <titulo>MADRID</titulo>
+              <url_pdf szBytes="198287" szKBytes="194" pagina_inicial="71706" pagina_final="71706">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45684.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45684</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45684</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45685</identificador>
+              <titulo>MADRID</titulo>
+              <url_pdf szBytes="198289" szKBytes="194" pagina_inicial="71707" pagina_final="71707">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45685.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45685</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45685</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45686</identificador>
+              <titulo>MADRID</titulo>
+              <url_pdf szBytes="198192" szKBytes="194" pagina_inicial="71708" pagina_final="71708">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45686.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45686</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45686</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45687</identificador>
+              <titulo>MADRID</titulo>
+              <url_pdf szBytes="198382" szKBytes="194" pagina_inicial="71709" pagina_final="71709">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45687.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45687</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45687</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45688</identificador>
+              <titulo>MADRID</titulo>
+              <url_pdf szBytes="198229" szKBytes="194" pagina_inicial="71710" pagina_final="71710">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45688.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45688</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45688</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45689</identificador>
+              <titulo>MADRID</titulo>
+              <url_pdf szBytes="198390" szKBytes="194" pagina_inicial="71711" pagina_final="71711">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45689.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45689</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45689</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45690</identificador>
+              <titulo>MAJADAHONDA</titulo>
+              <url_pdf szBytes="198745" szKBytes="194" pagina_inicial="71712" pagina_final="71712">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45690.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45690</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45690</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45691</identificador>
+              <titulo>MAJADAHONDA</titulo>
+              <url_pdf szBytes="198744" szKBytes="194" pagina_inicial="71713" pagina_final="71713">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45691.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45691</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45691</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45692</identificador>
+              <titulo>MALAGA</titulo>
+              <url_pdf szBytes="198375" szKBytes="194" pagina_inicial="71714" pagina_final="71714">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45692.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45692</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45692</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45693</identificador>
+              <titulo>MANRESA</titulo>
+              <url_pdf szBytes="198575" szKBytes="194" pagina_inicial="71715" pagina_final="71715">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45693.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45693</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45693</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45694</identificador>
+              <titulo>MAO</titulo>
+              <url_pdf szBytes="198159" szKBytes="194" pagina_inicial="71716" pagina_final="71716">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45694.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45694</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45694</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45695</identificador>
+              <titulo>MARTORELL</titulo>
+              <url_pdf szBytes="198661" szKBytes="194" pagina_inicial="71717" pagina_final="71717">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45695.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45695</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45695</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45696</identificador>
+              <titulo>MERIDA</titulo>
+              <url_pdf szBytes="198464" szKBytes="194" pagina_inicial="71718" pagina_final="71718">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45696.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45696</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45696</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45697</identificador>
+              <titulo>MOLLET DEL VALLES</titulo>
+              <url_pdf szBytes="198869" szKBytes="194" pagina_inicial="71719" pagina_final="71719">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45697.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45697</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45697</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45698</identificador>
+              <titulo>NAVALCARNERO</titulo>
+              <url_pdf szBytes="198782" szKBytes="194" pagina_inicial="71720" pagina_final="71720">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45698.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45698</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45698</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45699</identificador>
+              <titulo>NAVALCARNERO</titulo>
+              <url_pdf szBytes="198662" szKBytes="194" pagina_inicial="71721" pagina_final="71721">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45699.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45699</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45699</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45700</identificador>
+              <titulo>NAVALCARNERO</titulo>
+              <url_pdf szBytes="198481" szKBytes="194" pagina_inicial="71722" pagina_final="71722">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45700.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45700</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45700</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45701</identificador>
+              <titulo>ORIHUELA</titulo>
+              <url_pdf szBytes="198452" szKBytes="194" pagina_inicial="71723" pagina_final="71723">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45701.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45701</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45701</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45702</identificador>
+              <titulo>ORIHUELA</titulo>
+              <url_pdf szBytes="198636" szKBytes="194" pagina_inicial="71724" pagina_final="71724">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45702.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45702</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45702</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45703</identificador>
+              <titulo>ORIHUELA</titulo>
+              <url_pdf szBytes="198620" szKBytes="194" pagina_inicial="71725" pagina_final="71725">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45703.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45703</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45703</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45704</identificador>
+              <titulo>OROTAVA (LA)</titulo>
+              <url_pdf szBytes="198574" szKBytes="194" pagina_inicial="71726" pagina_final="71726">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45704.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45704</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45704</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45705</identificador>
+              <titulo>PALMA DE MALLORCA</titulo>
+              <url_pdf szBytes="198808" szKBytes="194" pagina_inicial="71727" pagina_final="71727">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45705.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45705</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45705</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45706</identificador>
+              <titulo>PAMPLONA/IRUÑA</titulo>
+              <url_pdf szBytes="199111" szKBytes="194" pagina_inicial="71728" pagina_final="71728">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45706.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45706</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45706</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45707</identificador>
+              <titulo>PONTEVEDRA</titulo>
+              <url_pdf szBytes="198617" szKBytes="194" pagina_inicial="71729" pagina_final="71729">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45707.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45707</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45707</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45708</identificador>
+              <titulo>PORRIÑO (O)</titulo>
+              <url_pdf szBytes="199001" szKBytes="194" pagina_inicial="71730" pagina_final="71730">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45708.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45708</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45708</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45709</identificador>
+              <titulo>POZUELO ALARCON</titulo>
+              <url_pdf szBytes="198871" szKBytes="194" pagina_inicial="71731" pagina_final="71731">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45709.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45709</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45709</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45710</identificador>
+              <titulo>PUERTO DEL ROSARIO</titulo>
+              <url_pdf szBytes="199012" szKBytes="194" pagina_inicial="71732" pagina_final="71732">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45710.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45710</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45710</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45711</identificador>
+              <titulo>SABADELL</titulo>
+              <url_pdf szBytes="198500" szKBytes="194" pagina_inicial="71733" pagina_final="71733">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45711.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45711</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45711</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45712</identificador>
+              <titulo>SALAMANCA</titulo>
+              <url_pdf szBytes="198505" szKBytes="194" pagina_inicial="71734" pagina_final="71734">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45712.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45712</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45712</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45713</identificador>
+              <titulo>SALAMANCA</titulo>
+              <url_pdf szBytes="198682" szKBytes="194" pagina_inicial="71735" pagina_final="71735">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45713.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45713</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45713</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45714</identificador>
+              <titulo>SAN BARTOLOME DE TIRAJANA</titulo>
+              <url_pdf szBytes="198963" szKBytes="194" pagina_inicial="71736" pagina_final="71736">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45714.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45714</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45714</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45715</identificador>
+              <titulo>SAN ROQUE</titulo>
+              <url_pdf szBytes="198881" szKBytes="194" pagina_inicial="71737" pagina_final="71737">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45715.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45715</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45715</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45716</identificador>
+              <titulo>SAN SEBASTIAN DE LA GOMERA</titulo>
+              <url_pdf szBytes="199229" szKBytes="195" pagina_inicial="71738" pagina_final="71738">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45716.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45716</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45716</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45717</identificador>
+              <titulo>SANLUCAR BARRAMEDA</titulo>
+              <url_pdf szBytes="198949" szKBytes="194" pagina_inicial="71739" pagina_final="71739">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45717.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45717</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45717</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45718</identificador>
+              <titulo>SANLUCAR MAYOR</titulo>
+              <url_pdf szBytes="198988" szKBytes="194" pagina_inicial="71740" pagina_final="71740">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45718.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45718</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45718</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45719</identificador>
+              <titulo>SANT FELIU DE GUIXOLS</titulo>
+              <url_pdf szBytes="199366" szKBytes="195" pagina_inicial="71741" pagina_final="71741">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45719.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45719</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45719</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45720</identificador>
+              <titulo>SANTA COLOMA GRAMENET</titulo>
+              <url_pdf szBytes="199071" szKBytes="194" pagina_inicial="71742" pagina_final="71742">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45720.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45720</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45720</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45721</identificador>
+              <titulo>SANTA CRUZ DE TENERIFE</titulo>
+              <url_pdf szBytes="198947" szKBytes="194" pagina_inicial="71743" pagina_final="71743">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45721.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45721</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45721</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45722</identificador>
+              <titulo>SEVILLA</titulo>
+              <url_pdf szBytes="198310" szKBytes="194" pagina_inicial="71744" pagina_final="71744">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45722.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45722</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45722</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45723</identificador>
+              <titulo>SEVILLA</titulo>
+              <url_pdf szBytes="198314" szKBytes="194" pagina_inicial="71745" pagina_final="71745">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45723.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45723</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45723</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45724</identificador>
+              <titulo>SEVILLA</titulo>
+              <url_pdf szBytes="198201" szKBytes="194" pagina_inicial="71746" pagina_final="71746">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45724.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45724</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45724</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45725</identificador>
+              <titulo>SEVILLA</titulo>
+              <url_pdf szBytes="198239" szKBytes="194" pagina_inicial="71747" pagina_final="71747">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45725.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45725</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45725</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45726</identificador>
+              <titulo>SEVILLA</titulo>
+              <url_pdf szBytes="198418" szKBytes="194" pagina_inicial="71748" pagina_final="71748">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45726.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45726</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45726</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45727</identificador>
+              <titulo>SIGUENZA</titulo>
+              <url_pdf szBytes="198689" szKBytes="194" pagina_inicial="71749" pagina_final="71749">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45727.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45727</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45727</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45728</identificador>
+              <titulo>SOLSONA</titulo>
+              <url_pdf szBytes="198382" szKBytes="194" pagina_inicial="71750" pagina_final="71750">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45728.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45728</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45728</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45729</identificador>
+              <titulo>SUECA</titulo>
+              <url_pdf szBytes="198435" szKBytes="194" pagina_inicial="71751" pagina_final="71751">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45729.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45729</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45729</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45730</identificador>
+              <titulo>SUECA</titulo>
+              <url_pdf szBytes="198231" szKBytes="194" pagina_inicial="71752" pagina_final="71752">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45730.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45730</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45730</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45731</identificador>
+              <titulo>TARRAGONA</titulo>
+              <url_pdf szBytes="198514" szKBytes="194" pagina_inicial="71753" pagina_final="71753">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45731.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45731</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45731</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45732</identificador>
+              <titulo>TARRAGONA</titulo>
+              <url_pdf szBytes="198465" szKBytes="194" pagina_inicial="71754" pagina_final="71754">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45732.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45732</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45732</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45733</identificador>
+              <titulo>TOMELLOSO</titulo>
+              <url_pdf szBytes="198601" szKBytes="194" pagina_inicial="71755" pagina_final="71755">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45733.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45733</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45733</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45734</identificador>
+              <titulo>TORRELAGUNA</titulo>
+              <url_pdf szBytes="198889" szKBytes="194" pagina_inicial="71756" pagina_final="71756">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45734.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45734</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45734</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45735</identificador>
+              <titulo>TORRELAVEGA</titulo>
+              <url_pdf szBytes="198672" szKBytes="194" pagina_inicial="71757" pagina_final="71757">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45735.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45735</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45735</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45736</identificador>
+              <titulo>TORREVIEJA</titulo>
+              <url_pdf szBytes="198516" szKBytes="194" pagina_inicial="71758" pagina_final="71758">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45736.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45736</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45736</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45737</identificador>
+              <titulo>TORREVIEJA</titulo>
+              <url_pdf szBytes="198582" szKBytes="194" pagina_inicial="71759" pagina_final="71759">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45737.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45737</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45737</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45738</identificador>
+              <titulo>TORREVIEJA</titulo>
+              <url_pdf szBytes="198631" szKBytes="194" pagina_inicial="71760" pagina_final="71760">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45738.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45738</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45738</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45739</identificador>
+              <titulo>TORTOSA</titulo>
+              <url_pdf szBytes="198505" szKBytes="194" pagina_inicial="71761" pagina_final="71761">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45739.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45739</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45739</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45740</identificador>
+              <titulo>TORTOSA</titulo>
+              <url_pdf szBytes="198469" szKBytes="194" pagina_inicial="71762" pagina_final="71762">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45740.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45740</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45740</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45741</identificador>
+              <titulo>TRUJILLO</titulo>
+              <url_pdf szBytes="198491" szKBytes="194" pagina_inicial="71763" pagina_final="71763">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45741.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45741</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45741</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45742</identificador>
+              <titulo>UBEDA</titulo>
+              <url_pdf szBytes="198260" szKBytes="194" pagina_inicial="71764" pagina_final="71764">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45742.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45742</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45742</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45743</identificador>
+              <titulo>VALDEMORO</titulo>
+              <url_pdf szBytes="198765" szKBytes="194" pagina_inicial="71765" pagina_final="71765">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45743.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45743</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45743</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45744</identificador>
+              <titulo>VALLADOLID</titulo>
+              <url_pdf szBytes="198262" szKBytes="194" pagina_inicial="71766" pagina_final="71766">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45744.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45744</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45744</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45745</identificador>
+              <titulo>VALLADOLID</titulo>
+              <url_pdf szBytes="198196" szKBytes="194" pagina_inicial="71767" pagina_final="71767">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45745.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45745</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45745</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45746</identificador>
+              <titulo>VALLS</titulo>
+              <url_pdf szBytes="198464" szKBytes="194" pagina_inicial="71768" pagina_final="71768">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45746.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45746</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45746</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45747</identificador>
+              <titulo>VALLS</titulo>
+              <url_pdf szBytes="198384" szKBytes="194" pagina_inicial="71769" pagina_final="71769">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45747.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45747</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45747</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45748</identificador>
+              <titulo>VALLS</titulo>
+              <url_pdf szBytes="198399" szKBytes="194" pagina_inicial="71770" pagina_final="71770">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45748.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45748</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45748</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45749</identificador>
+              <titulo>VELEZ-MALAGA</titulo>
+              <url_pdf szBytes="198933" szKBytes="194" pagina_inicial="71771" pagina_final="71771">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45749.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45749</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45749</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45750</identificador>
+              <titulo>VILAFRANCA DEL PENEDES</titulo>
+              <url_pdf szBytes="199103" szKBytes="194" pagina_inicial="71772" pagina_final="71772">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45750.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45750</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45750</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45751</identificador>
+              <titulo>VILLAJOYOSA/VILA JOIOSA (LA)</titulo>
+              <url_pdf szBytes="199032" szKBytes="194" pagina_inicial="71773" pagina_final="71773">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45751.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45751</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45751</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45752</identificador>
+              <titulo>VILLAVICIOSA</titulo>
+              <url_pdf szBytes="198833" szKBytes="194" pagina_inicial="71774" pagina_final="71774">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45752.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45752</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45752</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9547" nombre="JUZGADOS DE LO MERCANTIL">
+            <item>
+              <identificador>BOE-B-2024-45753</identificador>
+              <titulo>CORUÑA (A)</titulo>
+              <url_pdf szBytes="198884" szKBytes="194" pagina_inicial="71775" pagina_final="71775">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45753.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45753</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45753</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45754</identificador>
+              <titulo>CORUÑA (A)</titulo>
+              <url_pdf szBytes="198719" szKBytes="194" pagina_inicial="71776" pagina_final="71776">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45754.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45754</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45754</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45755</identificador>
+              <titulo>GRANADA</titulo>
+              <url_pdf szBytes="198132" szKBytes="193" pagina_inicial="71777" pagina_final="71777">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45755.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45755</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45755</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45756</identificador>
+              <titulo>MADRID</titulo>
+              <url_pdf szBytes="198147" szKBytes="194" pagina_inicial="71778" pagina_final="71778">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45756.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45756</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45756</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45757</identificador>
+              <titulo>TARRAGONA</titulo>
+              <url_pdf szBytes="198390" szKBytes="194" pagina_inicial="71779" pagina_final="71779">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45757.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45757</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45757</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45758</identificador>
+              <titulo>VALLADOLID</titulo>
+              <url_pdf szBytes="198401" szKBytes="194" pagina_inicial="71780" pagina_final="71780">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45758.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45758</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45758</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45759</identificador>
+              <titulo>ZARAGOZA</titulo>
+              <url_pdf szBytes="198271" szKBytes="194" pagina_inicial="71781" pagina_final="71781">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45759.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45759</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45759</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9553" nombre="JUZGADOS DE LO PENAL">
+            <item>
+              <identificador>BOE-B-2024-45760</identificador>
+              <titulo>CEUTA</titulo>
+              <url_pdf szBytes="198072" szKBytes="193" pagina_inicial="71782" pagina_final="71782">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45760.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45760</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45760</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45761</identificador>
+              <titulo>LEON</titulo>
+              <url_pdf szBytes="197976" szKBytes="193" pagina_inicial="71783" pagina_final="71783">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45761.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45761</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45761</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45762</identificador>
+              <titulo>LEON</titulo>
+              <url_pdf szBytes="197975" szKBytes="193" pagina_inicial="71784" pagina_final="71784">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45762.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45762</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45762</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9548" nombre="JUZGADOS DE LO SOCIAL">
+            <item>
+              <identificador>BOE-B-2024-45763</identificador>
+              <titulo>BARCELONA</titulo>
+              <url_pdf szBytes="198216" szKBytes="194" pagina_inicial="71785" pagina_final="71785">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45763.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45763</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45763</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9571" nombre="SERVICIOS COMUNES PROCESALES">
+            <item>
+              <identificador>BOE-B-2024-45764</identificador>
+              <titulo>MURCIA</titulo>
+              <url_pdf szBytes="198101" szKBytes="193" pagina_inicial="71786" pagina_final="71786">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45764.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45764</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45764</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45765</identificador>
+              <titulo>MURCIA</titulo>
+              <url_pdf szBytes="198101" szKBytes="193" pagina_inicial="71787" pagina_final="71787">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45765.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45765</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45765</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45766</identificador>
+              <titulo>MURCIA</titulo>
+              <url_pdf szBytes="198103" szKBytes="193" pagina_inicial="71788" pagina_final="71788">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45766.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45766</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45766</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45767</identificador>
+              <titulo>MURCIA</titulo>
+              <url_pdf szBytes="197989" szKBytes="193" pagina_inicial="71789" pagina_final="71789">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45767.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45767</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45767</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45768</identificador>
+              <titulo>MURCIA</titulo>
+              <url_pdf szBytes="198203" szKBytes="194" pagina_inicial="71790" pagina_final="71790">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45768.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45768</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45768</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45769</identificador>
+              <titulo>MURCIA</titulo>
+              <url_pdf szBytes="198201" szKBytes="194" pagina_inicial="71791" pagina_final="71791">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45769.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45769</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45769</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45770</identificador>
+              <titulo>MURCIA</titulo>
+              <url_pdf szBytes="198098" szKBytes="193" pagina_inicial="71792" pagina_final="71792">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45770.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45770</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45770</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45771</identificador>
+              <titulo>MURCIA</titulo>
+              <url_pdf szBytes="198100" szKBytes="193" pagina_inicial="71793" pagina_final="71793">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45771.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45771</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45771</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45772</identificador>
+              <titulo>VALENCIA</titulo>
+              <url_pdf szBytes="198166" szKBytes="194" pagina_inicial="71794" pagina_final="71794">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45772.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45772</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45772</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45773</identificador>
+              <titulo>VALENCIA</titulo>
+              <url_pdf szBytes="198102" szKBytes="193" pagina_inicial="71795" pagina_final="71795">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45773.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45773</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45773</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45774</identificador>
+              <titulo>VALENCIA</titulo>
+              <url_pdf szBytes="198186" szKBytes="194" pagina_inicial="71796" pagina_final="71796">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45774.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45774</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45774</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45775</identificador>
+              <titulo>VALENCIA</titulo>
+              <url_pdf szBytes="198175" szKBytes="194" pagina_inicial="71797" pagina_final="71797">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45775.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45775</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45775</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45776</identificador>
+              <titulo>VALENCIA</titulo>
+              <url_pdf szBytes="198206" szKBytes="194" pagina_inicial="71798" pagina_final="71798">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45776.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45776</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45776</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45777</identificador>
+              <titulo>VALENCIA</titulo>
+              <url_pdf szBytes="198220" szKBytes="194" pagina_inicial="71799" pagina_final="71799">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45777.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45777</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45777</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45778</identificador>
+              <titulo>VALENCIA</titulo>
+              <url_pdf szBytes="198324" szKBytes="194" pagina_inicial="71800" pagina_final="71800">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45778.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45778</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45778</url_xml>
+            </item>
+          </departamento>
+        </seccion>
+        <seccion codigo="5A" nombre="V. Anuncios. - A. Contratación del Sector Público">
+          <departamento codigo="1220" nombre="CORTES GENERALES">
+            <item>
+              <identificador>BOE-B-2024-45779</identificador>
+              <titulo>Anuncio de licitación de: Mesa del Senado. Objeto: Obras para la subsanación de deficiencias del edificio adscrito al Senado sito en la Calle Pastor. Expediente: 34/2024.</titulo>
+              <url_pdf szBytes="218075" szKBytes="213" pagina_inicial="71801" pagina_final="71802">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45779.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45779</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45779</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="6110" nombre="MINISTERIO DE DEFENSA">
+            <item>
+              <identificador>BOE-B-2024-45780</identificador>
+              <titulo>Anuncio de licitación de: Intendente de San Fernando. Objeto: T.A. 2025 - PAN3 - Suministro de medio de transporte de personal de gran capacidad para el Parque de Autos Nº3. Expediente: 2024/AR43U/00003398E.</titulo>
+              <url_pdf szBytes="223694" szKBytes="218" pagina_inicial="71803" pagina_final="71805">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45780.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45780</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45780</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45781</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Intendencia de Asuntos Económicos Sur. Objeto: Servicio de mantenimiento preventivo de puentes grúa en los talleres de la Base de Cerro Muriano, Córdoba. eth224824. Expediente: 2024/ETSAE0226/00009455E.</titulo>
+              <url_pdf szBytes="214547" szKBytes="210" pagina_inicial="71806" pagina_final="71807">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45781.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45781</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45781</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45782</identificador>
+              <titulo>Anuncio de licitación de: Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada. Objeto: TA - Proyecto ejecución edificio mando y dirección y adecuación patio y pañoles EIMGAF - Cartagena- Murcia (incluido 10% certificación final). Expediente: 2024/AR40U/00002222E.</titulo>
+              <url_pdf szBytes="222022" szKBytes="217" pagina_inicial="71808" pagina_final="71810">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45782.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45782</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45782</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45783</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada. Objeto: Sostenimiento, servicios de instalación y asistencia técnica para el M5D AIRFOX. Expediente: 2024/AR40U/00002626E.</titulo>
+              <url_pdf szBytes="216974" szKBytes="212" pagina_inicial="71811" pagina_final="71812">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45783.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45783</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45783</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45784</identificador>
+              <titulo>Anuncio de licitación de: Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada. Objeto: AM de servicios para la gestión integral de las actividades de apoyo de las funciones económico-administrativas en la Armada, en el ámbito de la Jefatura de Apoyo Logístico. Expediente: 2024/AR40U/00002309E.</titulo>
+              <url_pdf szBytes="226805" szKBytes="221" pagina_inicial="71813" pagina_final="71815">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45784.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45784</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45784</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45785</identificador>
+              <titulo>Anuncio de formalización de contratos de: Intendente de Cartagena. Objeto: JAT. TA. Adquisición de lubricantes para dependencias ARCART. Expediente: 2024/AR44U/00003354E.</titulo>
+              <url_pdf szBytes="213669" szKBytes="209" pagina_inicial="71816" pagina_final="71817">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45785.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45785</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45785</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45786</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Adquisición de dos UGV Mini de reconocimiento de amenaza explosiva sobre ruedas. Expediente: 2024/ETSAE0906/00001534E.</titulo>
+              <url_pdf szBytes="216578" szKBytes="212" pagina_inicial="71818" pagina_final="71819">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45786.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45786</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45786</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45787</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: adquisición de repuestos rg 31 y maxxpro lote1. Expediente: 2024/ETSAE0906/00004405E.</titulo>
+              <url_pdf szBytes="213958" szKBytes="209" pagina_inicial="71820" pagina_final="71821">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45787.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45787</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45787</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45788</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Intendencia de Asuntos Económicos Este. Objeto: Atender las necesidades de contratación de Alimentación en servicio de restauración colectiva del 01NOV23 al 29FEB24, en BAE del ARG de SUIGEPIR. Lote 25. Expediente: 2023/ETSAE0327/00004933.</titulo>
+              <url_pdf szBytes="209212" szKBytes="204" pagina_inicial="71822" pagina_final="71822">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45788.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45788</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45788</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45789</identificador>
+              <titulo>Anuncio de formalización de contratos de: Intendente de Rota. Objeto: AM. Suministro de material fungible, consumible y de uso frecuente para el laboratorio de análisis de pólvoras y explosivos del Arsenal de Cádiz. 2 LOTES. Expediente: 2024/AR46U/00001466E.</titulo>
+              <url_pdf szBytes="225043" szKBytes="220" pagina_inicial="71823" pagina_final="71825">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45789.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45789</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45789</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45790</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: 4º CB EN AM 2338 Mantenimiento estanterías Kardex. Expediente: 2024/ETSAE0906/00004884E.</titulo>
+              <url_pdf szBytes="215068" szKBytes="210" pagina_inicial="71826" pagina_final="71827">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45790.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45790</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45790</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="5140" nombre="MINISTERIO DE HACIENDA">
+            <item>
+              <identificador>BOE-B-2024-45791</identificador>
+              <titulo>Anuncio de formalización de contratos de: Delegación Especial de la Agencia Tributaria en Castilla y León. Objeto: Máquina expendedoras de productos en edificio Delegación AEAT de Zamora. Expediente: 24490074500.</titulo>
+              <url_pdf szBytes="216303" szKBytes="211" pagina_inicial="71828" pagina_final="71829">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45791.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45791</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45791</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45792</identificador>
+              <titulo>Anuncio de corrección de errores de: Parque Móvil del Estado. Objeto: Acuerdo Marco para el suministro de vestuario para el personal del Parque Móvil del Estado, O.A. para el periodo 2025 - 2028 con una duración total de 4 años. Expediente: 2024PR400074.</titulo>
+              <url_pdf szBytes="202465" szKBytes="198" pagina_inicial="71830" pagina_final="71830">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45792.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45792</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45792</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="7320" nombre="MINISTERIO DEL INTERIOR">
+            <item>
+              <identificador>BOE-B-2024-45793</identificador>
+              <titulo>Anuncio de licitación de: División Económica y Técnica (Cuerpo Nacional de Policía). Objeto: La explotación del servicio de edición, impresión, producción y distribución de la revista «POLICÍA». Expediente: Z25CO002/060.</titulo>
+              <url_pdf szBytes="228421" szKBytes="223" pagina_inicial="71831" pagina_final="71833">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45793.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45793</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45793</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45794</identificador>
+              <titulo>Anuncio de formalización de contratos de: Subdirección General de Planificación y Gestión Económica. Objeto: Servicio de disciplina preventiva de vigilancia de la salud de los empleados públicos penitenciarios dependientes de la Secretaría General de Instituciones Penitenciarias. Expediente: 020020240088.</titulo>
+              <url_pdf szBytes="208914" szKBytes="204" pagina_inicial="71834" pagina_final="71834">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45794.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45794</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45794</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9586" nombre="MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE">
+            <item>
+              <identificador>BOE-B-2024-45795</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección General de Carreteras. Objeto: 39-CO-5750; 54.276/24. Actuaciones para el desarrollo del plan de acción contra el ruido de la fase II en la autovía A-4. P.K. 348+070 al 395+800.. Provincia de Córdoba. Plan de Recuperación, Transformación y Resiliencia, Next Generation EU. Expediente: C54241457500.</titulo>
+              <url_pdf szBytes="219488" szKBytes="214" pagina_inicial="71835" pagina_final="71836">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45795.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45795</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45795</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45796</identificador>
+              <titulo>Anuncio de licitación de: Dirección General de Carreteras. Objeto: 51-T-0304; 30.941/24; Conservación y explotación de las carreteras, en el sector T-03. Provincia de Tarragona. Expediente: C30244303040.</titulo>
+              <url_pdf szBytes="224338" szKBytes="219" pagina_inicial="71837" pagina_final="71839">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45796.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45796</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45796</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45797</identificador>
+              <titulo>Anuncio de licitación de: Dirección General de Carreteras. Objeto: 51-P-0207; 30.939/24; Conservación y explotación de las carreteras y obras menores relacionadas con esos servicios, en el sector P-02. Provincia de Palencia. Expediente: C30243402070.</titulo>
+              <url_pdf szBytes="223998" szKBytes="219" pagina_inicial="71840" pagina_final="71842">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45797.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45797</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45797</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45798</identificador>
+              <titulo>Anuncio de licitación de: Dirección General de Carreteras. Objeto: 36-MU-6390; 54.1091/24 Renovación del sistema de iluminación de la autovía A-30, entre los PPKK 134+000 y 144+300 en el entorno de la ciudad de Murcia. T.M de Murcia. Provincia de Murcia. Plan de Recuperación, Transformación y Resiliencia financiado por la Unión Europea Next Generation EU. Expediente: D54243063900.</titulo>
+              <url_pdf szBytes="224339" szKBytes="219" pagina_inicial="71843" pagina_final="71845">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45798.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45798</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45798</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45799</identificador>
+              <titulo>Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Servicios para la redacción del proyecto de construcción de protecciones acústicas resultantes de los planes de acción contra el ruido. Fase III. Área nº 2, zona norte. Aragón, Asturias, Cantabria, Castilla y León y País Vasco. Expediente: 3.23/27507.0103.</titulo>
+              <url_pdf szBytes="218727" szKBytes="214" pagina_inicial="71846" pagina_final="71847">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45799.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45799</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45799</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45800</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección General de Carreteras. Objeto: 51-J-0305; 30.296/24; Conservación y explotación de las carreteras y obras menores relacionadas con esos servicios, en el sector J-03. Provincia de Jaén. Expediente: C30242303050.</titulo>
+              <url_pdf szBytes="218598" szKBytes="213" pagina_inicial="71848" pagina_final="71849">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45800.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45800</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45800</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45801</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección General de Carreteras. Objeto: 30.439/23; 61-SC-10301 Mantenimiento preventivo y mejora de las carreteras integrantes de la Red de Carreteras del Estado, en las demarcaciones de Asturias, Cantabria, Castilla y León Occidental, Castilla y León Oriental, Galicia y Madrid. Expediente: C30239129256.</titulo>
+              <url_pdf szBytes="236909" szKBytes="231" pagina_inicial="71850" pagina_final="71853">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45801.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45801</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45801</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45802</identificador>
+              <titulo>Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Servicios de asistencia técnica para el control y vigilancia de las obras de ejecución del proyecto constructivo de rehabilitación y acondicionamiento del edificio de la estación de Ourense - San Francisco para albergar el nuevo CRC (centro de regulación de circulación) de Ourense. Expediente: 3.23/27507.0391.</titulo>
+              <url_pdf szBytes="217631" szKBytes="213" pagina_inicial="71854" pagina_final="71855">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45802.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45802</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45802</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45803</identificador>
+              <titulo>Anuncio de licitación de: ADIF - Presidencia. Objeto: Ejecución de las obras del proyecto de reposición y ejecución de cerramientos en el ámbito de la red convencional. Subdirección noroeste. Línea 750 Gijón-Sanz Crespo a Pravia entre PP.KK. 26/200 y 26/400. Línea 752 Laviana a Gijón-Sanz Crespo entrePP.KK. 2/000 y 46/290. Expediente: 3.24/27506.0055.</titulo>
+              <url_pdf szBytes="225368" szKBytes="220" pagina_inicial="71856" pagina_final="71858">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45803.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45803</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45803</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45804</identificador>
+              <titulo>Anuncio de la Agencia Estatal de Seguridad Aérea por el que se comunica el Desistimiento del procedimiento de adjudicación del contrato de servicios de formación en softskills, habilidades personales de comunicación, gestión y liderazgo para el personal de la Agencia Estatal de Seguridad Aérea. Expediente 170A24 - 2024CPW00062.</titulo>
+              <url_pdf szBytes="202362" szKBytes="198" pagina_inicial="71859" pagina_final="71859">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45804.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45804</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45804</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9573" nombre="MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL">
+            <item>
+              <identificador>BOE-B-2024-45805</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección del Organismo Estatal Inspección de Trabajo y Seguridad Social. Objeto: Servicio de vigilancia y seguridad de las instalaciones ocupadas por la Inspección Provincial de Trabajo y Seguridad Social de Cantabria. Expediente: 400/2024.</titulo>
+              <url_pdf szBytes="209166" szKBytes="204" pagina_inicial="71860" pagina_final="71860">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45805.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45805</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45805</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="3120" nombre="MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN">
+            <item>
+              <identificador>BOE-B-2024-45806</identificador>
+              <titulo>Anuncio de formalización de contratos de: Junta de Contratación del Fondo Español de Garantía Agraria. Objeto: Mantenimiento, soporte y actualización licencias Secure.net y Albala. Expediente: 2024/28_107414 Mant licencias.</titulo>
+              <url_pdf szBytes="219015" szKBytes="214" pagina_inicial="71861" pagina_final="71862">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45806.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45806</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45806</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9575" nombre="MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO">
+            <item>
+              <identificador>BOE-B-2024-45807</identificador>
+              <titulo>Anuncio de formalización de contratos de: Presidencia de la Agencia Estatal de Meteorología. Objeto: Servicio de mantenimiento, actualización y soporte para la red de detección de rayos de la Agencia Estatal de Meteorología. Expediente: 202400000096.</titulo>
+              <url_pdf szBytes="217893" szKBytes="213" pagina_inicial="71863" pagina_final="71864">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45807.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45807</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45807</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="4110" nombre="MINISTERIO DE CULTURA">
+            <item>
+              <identificador>BOE-B-2024-45808</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección General del Instituto Nacional de las Artes Escénicas y de la Música. Objeto: CNTC - Coproducción y representaciones en la Sala Tirso del Teatro de la Comedia de la obra de teatro Las pequeñas mudanzas . Expediente: 2024AC000233.</titulo>
+              <url_pdf szBytes="208332" szKBytes="203" pagina_inicial="71865" pagina_final="71865">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45808.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45808</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45808</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="4335" nombre="MINISTERIO DE SANIDAD">
+            <item>
+              <identificador>BOE-B-2024-45809</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección del Instituto Nacional de Gestión Sanitaria (INGESA). Objeto: Redacción del proyecto y dirección facultativa de la sustitución de ascensores con destino al Edificio c/ Alcala nº 56 de Madrid". Expediente: PAS 2024/069.</titulo>
+              <url_pdf szBytes="217982" szKBytes="213" pagina_inicial="71866" pagina_final="71867">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45809.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45809</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45809</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9588" nombre="MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030">
+            <item>
+              <identificador>BOE-B-2024-45810</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección General del Instituto de Mayores y Servicios Sociales. Objeto: Servicios de intervención directa y de gestión del conocimiento del CRE de Alzheimer y otras demencias de Salamanca. Expediente: 538/2024.</titulo>
+              <url_pdf szBytes="219196" szKBytes="214" pagina_inicial="71868" pagina_final="71869">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45810.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45810</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45810</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9565" nombre="MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES">
+            <item>
+              <identificador>BOE-B-2024-45811</identificador>
+              <titulo>Anuncio de licitación de: Consorcio IFMIF-DONES España. Objeto: Servicios de soporte de ingeniería para la fase de construcción de la infraestructura científico - tecnológica IFMIF-DONES (AMSI). Expediente: esDONES/2024/0003.</titulo>
+              <url_pdf szBytes="225813" szKBytes="221" pagina_inicial="71870" pagina_final="71872">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45811.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45811</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45811</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45812</identificador>
+              <titulo>Anuncio de formalización de contratos de: Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P. Objeto: Diseño, fabricación, suministro e instalación de una planta piloto para la reacción de despolimerización e hidrodesoxigenación de lignina, destinado al Instituto de Tecnología Química, de la Agencia Estatal Consejo Superior de Investigaciones Científicas. Expediente: 32278/24.</titulo>
+              <url_pdf szBytes="223341" szKBytes="218" pagina_inicial="71873" pagina_final="71875">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45812.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45812</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45812</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45813</identificador>
+              <titulo>Anuncio de licitación de: Dirección General del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT). Objeto: Servicio de transporte de instrumentos ópticos y de metrología para Fusion for Energy en Barcelona. Expediente: 301461.</titulo>
+              <url_pdf szBytes="207422" szKBytes="203" pagina_inicial="71876" pagina_final="71876">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45813.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45813</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45813</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45814</identificador>
+              <titulo>Anuncio de formalización de contratos de: Consorcio para la Construcción, Equipamiento y Explotación del Laboratorio de Luz Sincrotrón. Objeto: Suministro e asistencia a la instalación de un purificador de Helio para la planta de recuperación y licuefacción de Helio del Laboratorio de Luz Sincrotrón ALBA del CELLS. Expediente: 24/24.</titulo>
+              <url_pdf szBytes="218844" szKBytes="214" pagina_inicial="71877" pagina_final="71878">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45814.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45814</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45814</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9579" nombre="MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES">
+            <item>
+              <identificador>BOE-B-2024-45815</identificador>
+              <titulo>Anuncio de formalización de contratos de: Instituto Social de la Marina. Objeto: Contrato basado para el suministro de energía eléctrica para el Instituto Social de la Marina en la DP de Melilla. Agrupación de CUPS 7570. Expediente: 602024MA1003.</titulo>
+              <url_pdf szBytes="214288" szKBytes="209" pagina_inicial="71879" pagina_final="71880">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45815.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45815</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45815</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45816</identificador>
+              <titulo>Anuncio de formalización de contratos de: INSS-Dirección provincial de Guadalajara. Objeto: Servicio de vigilancia de la Unidad Médica de la dirección provincial del INSS de Guadalajara en 2025. Expediente: 19/AS-3/2024.</titulo>
+              <url_pdf szBytes="208776" szKBytes="204" pagina_inicial="71881" pagina_final="71881">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45816.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45816</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45816</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45817</identificador>
+              <titulo>Anuncio de formalización de contratos de: INSS-Dirección provincial de Segovia. Objeto: Servicio de traducción de documentación al castellano y viceversa en el ámbito de gestión de la Dirección Provincial del INSS de Segovia. Año 2025. Expediente: 40/VC-290/24.</titulo>
+              <url_pdf szBytes="215010" szKBytes="210" pagina_inicial="71882" pagina_final="71883">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45817.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45817</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45817</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45818</identificador>
+              <titulo>Anuncio de licitación de: Instituto Social de la Marina -División de Administración y Análisis Presupuestario. Objeto: Servicio de asesoramiento técnico especializado e independiente y de mediación y asistencia en la gestión y ejecución, de todos los contratos de seguro del ISM, que estén contratados o que vaya a contratar en el futuro. Expediente: 602024PA1018.</titulo>
+              <url_pdf szBytes="226654" szKBytes="221" pagina_inicial="71884" pagina_final="71886">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45818.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45818</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45818</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="1040" nombre="COMISIÓN NACIONAL DEL MERCADO DE VALORES">
+            <item>
+              <identificador>BOE-B-2024-45819</identificador>
+              <titulo>Anuncio de licitación de: Comisión Nacional del Mercado de Valores. Objeto: mantenimiento integral del software del sistema de gestión documental y de registro de la Comisión Nacional del Mercado de Valores. Expediente: 03/25.</titulo>
+              <url_pdf szBytes="225428" szKBytes="220" pagina_inicial="71887" pagina_final="71889">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45819.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45819</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45819</url_xml>
+            </item>
+          </departamento>
+        </seccion>
+        <seccion codigo="5B" nombre="V. Anuncios. - B. Otros anuncios oficiales">
+          <departamento codigo="5140" nombre="MINISTERIO DE HACIENDA">
+            <item>
+              <identificador>BOE-B-2024-45820</identificador>
+              <titulo>U.R. SUBASTAS CASTILLA-MANCHA</titulo>
+              <url_pdf szBytes="199023" szKBytes="194" pagina_inicial="71890" pagina_final="71890">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45820.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45820</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45820</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45821</identificador>
+              <titulo>U.R. SUBASTAS MURCIA</titulo>
+              <url_pdf szBytes="198810" szKBytes="194" pagina_inicial="71891" pagina_final="71891">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45821.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45821</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45821</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45822</identificador>
+              <titulo>U.R. SUBASTAS MADRID</titulo>
+              <url_pdf szBytes="198793" szKBytes="194" pagina_inicial="71892" pagina_final="71892">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45822.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45822</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45822</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45823</identificador>
+              <titulo>U.R. SUBASTAS MURCIA</titulo>
+              <url_pdf szBytes="198811" szKBytes="194" pagina_inicial="71893" pagina_final="71893">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45823.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45823</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45823</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45824</identificador>
+              <titulo>U.R. SUBASTAS MURCIA</titulo>
+              <url_pdf szBytes="198811" szKBytes="194" pagina_inicial="71894" pagina_final="71894">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45824.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45824</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45824</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45825</identificador>
+              <titulo>U.R. SUBASTAS CASTILLA-MANCHA</titulo>
+              <url_pdf szBytes="199023" szKBytes="194" pagina_inicial="71895" pagina_final="71895">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45825.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45825</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45825</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45826</identificador>
+              <titulo>U.R. SUBASTAS CASTILLA-MANCHA</titulo>
+              <url_pdf szBytes="199022" szKBytes="194" pagina_inicial="71896" pagina_final="71896">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45826.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45826</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45826</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45827</identificador>
+              <titulo>U.R. SUBASTAS MADRID</titulo>
+              <url_pdf szBytes="198791" szKBytes="194" pagina_inicial="71897" pagina_final="71897">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45827.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45827</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45827</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45828</identificador>
+              <titulo>U.R. SUBASTAS GALICIA</titulo>
+              <url_pdf szBytes="198943" szKBytes="194" pagina_inicial="71898" pagina_final="71898">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45828.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45828</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45828</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45829</identificador>
+              <titulo>U.R. SUBASTAS CASTILLA-MANCHA</titulo>
+              <url_pdf szBytes="199024" szKBytes="194" pagina_inicial="71899" pagina_final="71899">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45829.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45829</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45829</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45830</identificador>
+              <titulo>U.R. SUBASTAS MURCIA</titulo>
+              <url_pdf szBytes="198881" szKBytes="194" pagina_inicial="71900" pagina_final="71900">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45830.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45830</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45830</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45831</identificador>
+              <titulo>U.R. SUBASTAS CASTILLA-MANCHA</titulo>
+              <url_pdf szBytes="199020" szKBytes="194" pagina_inicial="71901" pagina_final="71901">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45831.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45831</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45831</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45832</identificador>
+              <titulo>U.R. SUBASTAS CASTILLA-MANCHA</titulo>
+              <url_pdf szBytes="199021" szKBytes="194" pagina_inicial="71902" pagina_final="71902">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45832.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45832</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45832</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45833</identificador>
+              <titulo>U.R. SUBASTAS CASTILLA-MANCHA</titulo>
+              <url_pdf szBytes="199023" szKBytes="194" pagina_inicial="71903" pagina_final="71903">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45833.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45833</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45833</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45834</identificador>
+              <titulo>U.R. SUBASTAS CASTILLA-MANCHA</titulo>
+              <url_pdf szBytes="199023" szKBytes="194" pagina_inicial="71904" pagina_final="71904">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45834.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45834</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45834</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45835</identificador>
+              <titulo>U.R. SUBASTAS CASTILLA-MANCHA</titulo>
+              <url_pdf szBytes="199023" szKBytes="194" pagina_inicial="71905" pagina_final="71905">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45835.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45835</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45835</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45836</identificador>
+              <titulo>U.R. SUBASTAS CASTILLA-MANCHA</titulo>
+              <url_pdf szBytes="199022" szKBytes="194" pagina_inicial="71906" pagina_final="71906">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45836.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45836</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45836</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45837</identificador>
+              <titulo>U.R. SUBASTAS CASTILLA-MANCHA</titulo>
+              <url_pdf szBytes="199022" szKBytes="194" pagina_inicial="71907" pagina_final="71907">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45837.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45837</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45837</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45838</identificador>
+              <titulo>U.R. SUBASTAS CASTILLA-MANCHA</titulo>
+              <url_pdf szBytes="199022" szKBytes="194" pagina_inicial="71908" pagina_final="71908">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45838.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45838</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45838</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45839</identificador>
+              <titulo>U.R. SUBASTAS CASTILLA-MANCHA</titulo>
+              <url_pdf szBytes="199021" szKBytes="194" pagina_inicial="71909" pagina_final="71909">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45839.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45839</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45839</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45840</identificador>
+              <titulo>U.R. SUBASTAS CASTILLA-MANCHA</titulo>
+              <url_pdf szBytes="199022" szKBytes="194" pagina_inicial="71910" pagina_final="71910">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45840.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45840</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45840</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45841</identificador>
+              <titulo>U.R. SUBASTAS CASTILLA-MANCHA</titulo>
+              <url_pdf szBytes="199018" szKBytes="194" pagina_inicial="71911" pagina_final="71911">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45841.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45841</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45841</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45842</identificador>
+              <titulo>U.R. SUBASTAS CASTILLA-MANCHA</titulo>
+              <url_pdf szBytes="199020" szKBytes="194" pagina_inicial="71912" pagina_final="71912">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45842.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45842</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45842</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45843</identificador>
+              <titulo>U.R. SUBASTAS ANDALUCIA 29</titulo>
+              <url_pdf szBytes="199182" szKBytes="195" pagina_inicial="71913" pagina_final="71913">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45843.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45843</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45843</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45844</identificador>
+              <titulo>U.R. SUBASTAS MADRID</titulo>
+              <url_pdf szBytes="198790" szKBytes="194" pagina_inicial="71914" pagina_final="71914">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45844.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45844</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45844</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45845</identificador>
+              <titulo>U.R. SUBASTAS MADRID</titulo>
+              <url_pdf szBytes="198790" szKBytes="194" pagina_inicial="71915" pagina_final="71915">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45845.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45845</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45845</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45846</identificador>
+              <titulo>U.R. SUBASTAS MADRID</titulo>
+              <url_pdf szBytes="198788" szKBytes="194" pagina_inicial="71916" pagina_final="71916">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45846.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45846</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45846</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45847</identificador>
+              <titulo>U.R. SUBASTAS MADRID</titulo>
+              <url_pdf szBytes="198789" szKBytes="194" pagina_inicial="71917" pagina_final="71917">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45847.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45847</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45847</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45848</identificador>
+              <titulo>U.R. SUBASTAS MADRID</titulo>
+              <url_pdf szBytes="198792" szKBytes="194" pagina_inicial="71918" pagina_final="71918">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45848.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45848</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45848</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45849</identificador>
+              <titulo>U.R. SUBASTAS MADRID</titulo>
+              <url_pdf szBytes="198790" szKBytes="194" pagina_inicial="71919" pagina_final="71919">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45849.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45849</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45849</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45850</identificador>
+              <titulo>U.R. SUBASTAS MADRID</titulo>
+              <url_pdf szBytes="198791" szKBytes="194" pagina_inicial="71920" pagina_final="71920">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45850.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45850</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45850</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45851</identificador>
+              <titulo>U.R. SUBASTAS MADRID</titulo>
+              <url_pdf szBytes="198790" szKBytes="194" pagina_inicial="71921" pagina_final="71921">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45851.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45851</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45851</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45852</identificador>
+              <titulo>U.R. SUBASTAS MADRID</titulo>
+              <url_pdf szBytes="198791" szKBytes="194" pagina_inicial="71922" pagina_final="71922">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45852.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45852</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45852</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45853</identificador>
+              <titulo>U.R. SUBASTAS MADRID</titulo>
+              <url_pdf szBytes="198790" szKBytes="194" pagina_inicial="71923" pagina_final="71923">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45853.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45853</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45853</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45854</identificador>
+              <titulo>U.R. SUBASTAS MADRID</titulo>
+              <url_pdf szBytes="198789" szKBytes="194" pagina_inicial="71924" pagina_final="71924">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45854.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45854</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45854</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45855</identificador>
+              <titulo>U.R. SUBASTAS MADRID</titulo>
+              <url_pdf szBytes="198791" szKBytes="194" pagina_inicial="71925" pagina_final="71925">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45855.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45855</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45855</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45856</identificador>
+              <titulo>U.R. SUBASTAS MADRID</titulo>
+              <url_pdf szBytes="198789" szKBytes="194" pagina_inicial="71926" pagina_final="71926">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45856.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45856</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45856</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9586" nombre="MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE">
+            <item>
+              <identificador>BOE-B-2024-45857</identificador>
+              <titulo>Anuncio de la Autoridad Portuaria de Alicante sobre emplazamiento a interesados en el recurso contencioso-administrativo n.º 4/000359/2024, seguido ante el TEAR, Sala de lo Contencioso-Administrativo, Sección 4.ª (N.I.G: 46250-33-3-2024-0002318).</titulo>
+              <url_pdf szBytes="204605" szKBytes="200" pagina_inicial="71927" pagina_final="71927">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45857.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45857</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45857</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45858</identificador>
+              <titulo>Resolución del Consejo de Administración de la Autoridad Portuaria de Santa Cruz de Tenerife relativa al otorgamiento de licencia a la entidad Prácticos de la Isla de La Palma, S.L.P. para la prestación del servicio portuario de practicaje en el puerto de Santa Cruz de La Palma.</titulo>
+              <url_pdf szBytes="202533" szKBytes="198" pagina_inicial="71928" pagina_final="71928">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45858.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45858</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45858</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9590" nombre="MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES">
+            <item>
+              <identificador>BOE-B-2024-45859</identificador>
+              <titulo>Extracto de la Resolución de 11 de diciembre de 2024 de la Secretaría de Estado de Educación por la que se convocan plazas para auxiliares de conversación españoles en el extranjero para el curso académico 2025-2026</titulo>
+              <url_pdf szBytes="204444" szKBytes="200" pagina_inicial="71929" pagina_final="71929">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45859.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45859</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45859</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9575" nombre="MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO">
+            <item>
+              <identificador>BOE-B-2024-45860</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública de la autorización de vertido de aguas residuales, en el término municipal de Muñogalindo (Ávila), referencia del expediente V-0085/2022 (Referencia del Servicio: 0012. -AV).</titulo>
+              <url_pdf szBytes="215134" szKBytes="210" pagina_inicial="71930" pagina_final="71932">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45860.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45860</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45860</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45861</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública de la concesión de un aprovechamiento de aguas subterráneas para uso ganadero, en el término municipal de Langa de Duero (Soria). REF.: C-0279/2024 (INTEGRA-AYE) SO.</titulo>
+              <url_pdf szBytes="209946" szKBytes="205" pagina_inicial="71933" pagina_final="71934">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45861.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45861</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45861</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45862</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Ebro, O.A., por el que se notifica la aprobación de los Cánones de Regulación y las Tarifas de Utilización del Agua correspondientes al año 2025 que el Organismo de Cuenca tiene la obligación de calcular.</titulo>
+              <url_pdf szBytes="204284" szKBytes="199" pagina_inicial="71935" pagina_final="71935">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45862.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45862</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45862</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45863</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Tajo O.A. de la información pública de la solicitud de una concesión de aguas en el término municipal de Navaconcejo (Cáceres). Referencia C-0116/2023.</titulo>
+              <url_pdf szBytes="211289" szKBytes="206" pagina_inicial="71936" pagina_final="71937">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45863.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45863</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45863</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45864</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Tajo O.A. de la información pública de la solicitud de la modificación de características de una concesión de aguas en el término municipal de Aranjuez (Madrid) Referencia M-0088/2023.</titulo>
+              <url_pdf szBytes="206148" szKBytes="201" pagina_inicial="71938" pagina_final="71938">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45864.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45864</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45864</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45865</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Tajo O.A. de la resolución de la solicitud de la modificación de características de una concesión de aguas en el término municipal de Novés (Toledo). Referencia M-0074/2022.</titulo>
+              <url_pdf szBytes="204622" szKBytes="200" pagina_inicial="71939" pagina_final="71939">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45865.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45865</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45865</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45866</identificador>
+              <titulo>Anuncio de la Subdirección General de Protección de las Aguas y Gestión de Riesgos de la Dirección General del Agua del Ministerio para la Transición Ecológica y el Reto Demográfico, relativo a la información pública del "Proyecto de recuperación ambiental del río Manzanares a su paso por el T.M. de Getafe (Madrid)". Clave: 03.418-0256/2111, del Estudio de Impacto Ambiental y de la relación de bienes y derechos afectados.</titulo>
+              <url_pdf szBytes="316832" szKBytes="309" pagina_inicial="71940" pagina_final="71944">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45866.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45866</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45866</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45867</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Júcar, O.A. sobre información pública de una concesión de aguas superficiales en el T.M. de Yémeda (Cuenca).</titulo>
+              <url_pdf szBytes="207869" szKBytes="203" pagina_inicial="71945" pagina_final="71946">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45867.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45867</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45867</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="8140" nombre="COMUNIDAD AUTÓNOMA DEL PAÍS VASCO">
+            <item>
+              <identificador>BOE-B-2024-45868</identificador>
+              <titulo>Anuncio de la Agencia Vasca del Agua sobre la información pública de una solicitud de autorización en el término municipal de Basauri (Bizkaia).</titulo>
+              <url_pdf szBytes="203822" szKBytes="199" pagina_inicial="71947" pagina_final="71947">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45868.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45868</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45868</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="8150" nombre="COMUNIDAD AUTÓNOMA DEL PRINCIPADO DE ASTURIAS">
+            <item>
+              <identificador>BOE-B-2024-45869</identificador>
+              <titulo>ENTE PÚBLICO DE SERVICIOS TRIBUTARIOS DEL PRINCIPADO DE ASTURIAS</titulo>
+              <url_pdf szBytes="199176" szKBytes="195" pagina_inicial="71948" pagina_final="71948">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45869.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45869</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45869</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45870</identificador>
+              <titulo>ENTE PÚBLICO DE SERVICIOS TRIBUTARIOS DEL PRINCIPADO DE ASTURIAS</titulo>
+              <url_pdf szBytes="199175" szKBytes="195" pagina_inicial="71949" pagina_final="71949">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45870.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45870</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45870</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45871</identificador>
+              <titulo>ENTE PÚBLICO DE SERVICIOS TRIBUTARIOS DEL PRINCIPADO DE ASTURIAS</titulo>
+              <url_pdf szBytes="199273" szKBytes="195" pagina_inicial="71950" pagina_final="71950">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45871.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45871</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45871</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="8170" nombre="COMUNIDAD FORAL DE NAVARRA">
+            <item>
+              <identificador>BOE-B-2024-45872</identificador>
+              <titulo>ORGANISMO AUTÓNOMO DE HACIENDA FORAL DE NAVARRA</titulo>
+              <url_pdf szBytes="199259" szKBytes="195" pagina_inicial="71951" pagina_final="71951">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45872.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45872</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45872</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9525" nombre="ADMINISTRACIÓN LOCAL">
+            <item>
+              <identificador>BOE-B-2024-45873</identificador>
+              <titulo>AYUNTAMIENTO DE HUMANES</titulo>
+              <url_pdf szBytes="198790" szKBytes="194" pagina_inicial="71952" pagina_final="71952">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45873.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45873</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45873</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45874</identificador>
+              <titulo>AYUNTAMIENTO DE SAGUNTO</titulo>
+              <url_pdf szBytes="198918" szKBytes="194" pagina_inicial="71953" pagina_final="71953">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45874.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45874</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45874</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45875</identificador>
+              <titulo>GESTION TRIBUTARIA PROVINCIAL ALBACETE</titulo>
+              <url_pdf szBytes="198932" szKBytes="194" pagina_inicial="71954" pagina_final="71954">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45875.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45875</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45875</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="310" nombre="UNIVERSIDADES">
+            <item>
+              <identificador>BOE-B-2024-45876</identificador>
+              <titulo>Anuncio de la Facultad de Derecho de la Universidad de Deusto sobre extravío de título universitario.</titulo>
+              <url_pdf szBytes="199803" szKBytes="195" pagina_inicial="71955" pagina_final="71955">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45876.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45876</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45876</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45877</identificador>
+              <titulo>Anuncio de la Facultad de Educación de la Universidad de León sobre extravío de título universitario.</titulo>
+              <url_pdf szBytes="199614" szKBytes="195" pagina_inicial="71956" pagina_final="71956">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45877.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45877</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45877</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9536" nombre="OTROS ENTES">
+            <item>
+              <identificador>BOE-B-2024-45878</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Río Dilar de Ogíjares sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="201866" szKBytes="197" pagina_inicial="71957" pagina_final="71957">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45878.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45878</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45878</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45879</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes del Pantano de Gasset sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="202174" szKBytes="197" pagina_inicial="71958" pagina_final="71958">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45879.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45879</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45879</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45880</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Sindicato Local de la Huerta de Granja de Rocamora sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="202525" szKBytes="198" pagina_inicial="71959" pagina_final="71959">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45880.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45880</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45880</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45881</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Pozo San Mariano, en formación, sobre la exposición pública de los Proyectos de Ordenanzas y Reglamentos.</titulo>
+              <url_pdf szBytes="201612" szKBytes="197" pagina_inicial="71960" pagina_final="71960">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45881.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45881</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45881</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45882</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Nº VIII de los Riegos del Canal de Bardenas (Elevacion-Biota) sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="201369" szKBytes="197" pagina_inicial="71961" pagina_final="71961">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45882.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45882</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45882</url_xml>
+            </item>
+          </departamento>
+        </seccion>
+        <seccion codigo="5C" nombre="V. Anuncios. - C. Anuncios particulares">
+          <departamento codigo="9202" nombre="ANUNCIOS PARTICULARES">
+            <item>
+              <identificador>BOE-B-2024-45883</identificador>
+              <titulo>NOTARÍA DE ROBERTO JESÚS CUTILLAS MORALES</titulo>
+              <url_pdf szBytes="198417" szKBytes="194" pagina_inicial="71962" pagina_final="71962">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45883.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45883</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45883</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-45884</identificador>
+              <titulo>NOTARÍA DE ROBERTO JESÚS CUTILLAS MORALES</titulo>
+              <url_pdf szBytes="198495" szKBytes="194" pagina_inicial="71963" pagina_final="71963">https://www.boe.es/boe/dias/2024/12/14/pdfs/BOE-B-2024-45884.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-45884</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-45884</url_xml>
+            </item>
+          </departamento>
+        </seccion>
+      </diario>
+    </sumario>
+  </data>
+</response>

@@ -1,0 +1,1176 @@
+{
+    "status": {
+        "code": "200",
+        "text": "ok"
+    },
+    "data": {
+        "sumario": {
+            "metadatos": {
+                "publicacion": "BOE",
+                "fecha_publicacion": "20241225"
+            },
+            "diario": [
+                {
+                    "numero": "310",
+                    "sumario_diario": {
+                        "identificador": "BOE-S-2024-310",
+                        "url_pdf": {
+                            "szBytes": "251042",
+                            "szKBytes": "245",
+                            "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-S-2024-310.pdf"
+                        }
+                    },
+                    "seccion": [
+                        {
+                            "codigo": "1",
+                            "nombre": "I. Disposiciones generales",
+                            "departamento": [
+                                {
+                                    "codigo": "1410",
+                                    "nombre": "TRIBUNAL CONSTITUCIONAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Recursos de inconstitucionalidad",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-27013",
+                                                    "control": "2024\/19929",
+                                                    "titulo": "Recurso de inconstitucionalidad n.\u00ba 6525-2024, contra la Ley Org\u00e1nica 1\/2024, de 10 de junio, de amnist\u00eda para la normalizaci\u00f3n institucional, pol\u00edtica y social en Catalu\u00f1a.",
+                                                    "url_pdf": {
+                                                        "szBytes": "189605",
+                                                        "szKBytes": "185",
+                                                        "pagina_inicial": "179873",
+                                                        "pagina_final": "179873",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27013.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27013",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27013"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27014",
+                                                    "control": "2024\/19930",
+                                                    "titulo": "Recurso de inconstitucionalidad n.\u00ba 6547-2024, contra la Ley Org\u00e1nica 1\/2024, de 10 de junio, de amnist\u00eda para la normalizaci\u00f3n institucional, pol\u00edtica y social en Catalu\u00f1a.",
+                                                    "url_pdf": {
+                                                        "szBytes": "189719",
+                                                        "szKBytes": "185",
+                                                        "pagina_inicial": "179874",
+                                                        "pagina_final": "179874",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27014.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27014",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27014"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27015",
+                                                    "control": "2024\/19931",
+                                                    "titulo": "Recurso de inconstitucionalidad n.\u00ba 6549-2024, contra la Ley Org\u00e1nica 1\/2024, de 10 de junio, de amnist\u00eda para la normalizaci\u00f3n institucional, pol\u00edtica y social en Catalu\u00f1a.",
+                                                    "url_pdf": {
+                                                        "szBytes": "189857",
+                                                        "szKBytes": "185",
+                                                        "pagina_inicial": "179875",
+                                                        "pagina_final": "179875",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27015.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27015",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27015"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9562",
+                                    "nombre": "MINISTERIO DE ASUNTOS EXTERIORES, UNI\u00d3N EUROPEA Y COOPERACI\u00d3N",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Acuerdos internacionales administrativos",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-27016",
+                                                "control": "2024\/19672",
+                                                "titulo": "Acuerdo suscrito entre el Ministerio del Interior del Reino de Espa\u00f1a y la Organizaci\u00f3n Internacional para las Migraciones (OIM) relativo a la realizaci\u00f3n de proyectos en las \u00e1reas tem\u00e1ticas de Retorno voluntario asistido y Reintegraci\u00f3n y Gesti\u00f3n fronteriza integrada, hecho en Madrid el 11 y 12 de diciembre de 2024.",
+                                                "url_pdf": {
+                                                    "szBytes": "514155",
+                                                    "szKBytes": "502",
+                                                    "pagina_inicial": "179876",
+                                                    "pagina_final": "179905",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27016.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27016",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27016"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Tratados internacionales",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-27017",
+                                                    "control": "2024\/19932",
+                                                    "titulo": "Enmiendas de 2022 al C\u00f3digo internacional para la construcci\u00f3n y el equipo de buques que transporten productos qu\u00edmicos peligrosos a granel [C\u00f3digo CIQ (Puertas estancas)] adoptadas en Londres el 10 de junio de 2022 mediante la Resoluci\u00f3n MEPC.345(78).",
+                                                    "url_pdf": {
+                                                        "szBytes": "202529",
+                                                        "szKBytes": "198",
+                                                        "pagina_inicial": "179906",
+                                                        "pagina_final": "179907",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27017.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27017",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27017"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27018",
+                                                    "control": "2024\/19933",
+                                                    "titulo": "Enmiendas de 2022 al C\u00f3digo internacional para la construcci\u00f3n y el equipo de buques que transporten productos qu\u00edmicos peligrosos a granel (C\u00f3digo CIQ) adoptadas en Londres el 10 de noviembre de 2022 mediante la Resoluci\u00f3n MSC.526(106).",
+                                                    "url_pdf": {
+                                                        "szBytes": "201972",
+                                                        "szKBytes": "197",
+                                                        "pagina_inicial": "179908",
+                                                        "pagina_final": "179909",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27018.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27018",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27018"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "2A",
+                            "nombre": "II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias",
+                            "departamento": [
+                                {
+                                    "codigo": "4510",
+                                    "nombre": "MINISTERIO FISCAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Nombramientos",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-27019",
+                                                "control": "2024\/19944",
+                                                "titulo": "Decreto de 17 de diciembre de 2024, del Fiscal General del Estado, por el que se nombra Fiscal Delegada para la protecci\u00f3n y tutela de las v\u00edctimas en el proceso penal en la Fiscal\u00eda Provincial de \u00c1vila a do\u00f1a Mar\u00eda Sanz Herrero.",
+                                                "url_pdf": {
+                                                    "szBytes": "200539",
+                                                    "szKBytes": "196",
+                                                    "pagina_inicial": "179910",
+                                                    "pagina_final": "179911",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27019.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27019",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27019"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "310",
+                                    "nombre": "UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Nombramientos",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-27020",
+                                                    "control": "2024\/19695",
+                                                    "titulo": "Resoluci\u00f3n de 11 de diciembre de 2024, de la Universidad de A Coru\u00f1a, por la que se nombra Catedr\u00e1tico de Universidad a don Jos\u00e9 Carlos Dafonte V\u00e1zquez.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192011",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "179912",
+                                                        "pagina_final": "179912",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27020.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27020",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27020"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27021",
+                                                    "control": "2024\/19850",
+                                                    "titulo": "Resoluci\u00f3n de 13 de diciembre de 2024, de la Universidad Polit\u00e9cnica de Cartagena, por la que se nombra Profesor Titular de Universidad a don Jos\u00e9 Sebasti\u00e1n Vel\u00e1zquez Bl\u00e1zquez.",
+                                                    "url_pdf": {
+                                                        "szBytes": "195832",
+                                                        "szKBytes": "191",
+                                                        "pagina_inicial": "179913",
+                                                        "pagina_final": "179914",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27021.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27021",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27021"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27022",
+                                                    "control": "2024\/19696",
+                                                    "titulo": "Resoluci\u00f3n de 16 de diciembre de 2024, de la Universidad Aut\u00f3noma de Barcelona, por la que se nombra Profesora Titular de Universidad a do\u00f1a Anna D\u00edaz Vicario.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191902",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "179915",
+                                                        "pagina_final": "179915",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27022.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27022",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27022"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27023",
+                                                    "control": "2024\/19852",
+                                                    "titulo": "Resoluci\u00f3n de 17 de diciembre de 2024, de la Universidad de Alicante, por la que se nombra Catedr\u00e1tico de Universidad a don Antonio Lillo Buades.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191205",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "179916",
+                                                        "pagina_final": "179916",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27023.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27023",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27023"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27024",
+                                                    "control": "2024\/19853",
+                                                    "titulo": "Resoluci\u00f3n de 17 de diciembre de 2024, de la Universidad de Alicante, por la que se nombra Catedr\u00e1tico de Universidad a don David Montoya Medina.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192641",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "179917",
+                                                        "pagina_final": "179917",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27024.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27024",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27024"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27025",
+                                                    "control": "2024\/19854",
+                                                    "titulo": "Resoluci\u00f3n de 17 de diciembre de 2024, de la Universidad de Burgos, por la que se nombra Profesora Titular de Universidad a do\u00f1a Paula Rodr\u00edguez Torrico.",
+                                                    "url_pdf": {
+                                                        "szBytes": "194115",
+                                                        "szKBytes": "190",
+                                                        "pagina_inicial": "179918",
+                                                        "pagina_final": "179918",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27025.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27025",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27025"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27026",
+                                                    "control": "2024\/19855",
+                                                    "titulo": "Resoluci\u00f3n de 17 de diciembre de 2024, de la Universidad de Murcia, por la que se nombra Profesora Titular de Universidad a do\u00f1a Mar\u00eda Esperanza Clares Clares.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192095",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "179919",
+                                                        "pagina_final": "179919",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27026.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27026",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27026"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27027",
+                                                    "control": "2024\/19856",
+                                                    "titulo": "Resoluci\u00f3n de 17 de diciembre de 2024, de la Universidad de Sevilla, por la que se nombran Catedr\u00e1ticas y Catedr\u00e1ticos de Universidad.",
+                                                    "url_pdf": {
+                                                        "szBytes": "195480",
+                                                        "szKBytes": "191",
+                                                        "pagina_inicial": "179920",
+                                                        "pagina_final": "179921",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27027.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27027",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27027"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27028",
+                                                    "control": "2024\/19857",
+                                                    "titulo": "Resoluci\u00f3n de 17 de diciembre de 2024, de la Universidad de Sevilla, por la que se nombran Catedr\u00e1ticas y Catedr\u00e1ticos de Universidad.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191677",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "179922",
+                                                        "pagina_final": "179922",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27028.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27028",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27028"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27029",
+                                                    "control": "2024\/19858",
+                                                    "titulo": "Resoluci\u00f3n de 17 de diciembre de 2024, de la Universidad de Sevilla, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+                                                    "url_pdf": {
+                                                        "szBytes": "192455",
+                                                        "szKBytes": "188",
+                                                        "pagina_inicial": "179923",
+                                                        "pagina_final": "179923",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27029.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27029",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27029"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27030",
+                                                    "control": "2024\/19859",
+                                                    "titulo": "Resoluci\u00f3n de 17 de diciembre de 2024, de la Universidad de Sevilla, por la que se nombran Profesoras y Profesores Titulares de Universidad.",
+                                                    "url_pdf": {
+                                                        "szBytes": "191958",
+                                                        "szKBytes": "187",
+                                                        "pagina_inicial": "179924",
+                                                        "pagina_final": "179924",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27030.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27030",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27030"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "2B",
+                            "nombre": "II. Autoridades y personal. - B. Oposiciones y concursos",
+                            "departamento": [
+                                {
+                                    "codigo": "9590",
+                                    "nombre": "MINISTERIO DE EDUCACI\u00d3N, FORMACI\u00d3N PROFESIONAL Y DEPORTES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Asesores t\u00e9cnicos en el exterior. Funcionarios docentes en el exterior",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-27031",
+                                                "control": "2024\/20124",
+                                                "titulo": "Resoluci\u00f3n de 23 de diciembre de 2024, de la Subsecretar\u00eda, por la que se modifica el c\u00f3mputo de plazos para la tramitaci\u00f3n y la forma de presentaci\u00f3n de las solicitudes de participaci\u00f3n en los concursos para la provisi\u00f3n de puestos de personal docente y de asesores t\u00e9cnicos y asesoras t\u00e9cnicas en el exterior, convocados por Resoluciones de 24 de octubre de 2024.",
+                                                "url_pdf": {
+                                                    "szBytes": "261677",
+                                                    "szKBytes": "256",
+                                                    "pagina_inicial": "179925",
+                                                    "pagina_final": "179937",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27031.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27031",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27031"
+                                            }
+                                        },
+                                        {
+                                            "nombre": "Cuerpos de funcionarios docentes",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-27032",
+                                                "control": "2024\/20125",
+                                                "titulo": "Resoluci\u00f3n de 23 de diciembre de 2024, de la Subsecretar\u00eda, por la que se modifican en lo relativo al c\u00f3mputo de plazos y a la forma de presentaci\u00f3n de las solicitudes de participaci\u00f3n en los concursos de traslados de personal funcionario de cuerpos de funcionarios docentes y de los Cuerpos de Inspectores al Servicio de la Administraci\u00f3n Educativa e Inspectores de Educaci\u00f3n, para la provisi\u00f3n de plazas en el \u00e1mbito de gesti\u00f3n territorial del Ministerio de Educaci\u00f3n, Formaci\u00f3n Profesional y Deportes, convocados por Resoluciones de 30 de octubre de 2024.",
+                                                "url_pdf": {
+                                                    "szBytes": "249212",
+                                                    "szKBytes": "243",
+                                                    "pagina_inicial": "179938",
+                                                    "pagina_final": "179945",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27032.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27032",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27032"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9573",
+                                    "nombre": "MINISTERIO DE TRABAJO Y ECONOM\u00cdA SOCIAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Procedimientos de libre designaci\u00f3n",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-27033",
+                                                "control": "2024\/19953",
+                                                "titulo": "Resoluci\u00f3n de 18 de diciembre de 2024, de la Subsecretar\u00eda, por la que se convoca la provisi\u00f3n de puesto de trabajo por el sistema de libre designaci\u00f3n.",
+                                                "url_pdf": {
+                                                    "szBytes": "257312",
+                                                    "szKBytes": "251",
+                                                    "pagina_inicial": "179946",
+                                                    "pagina_final": "179950",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27033.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27033",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27033"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9591",
+                                    "nombre": "MINISTERIO DE INDUSTRIA Y TURISMO",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Procedimientos de libre designaci\u00f3n",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-27034",
+                                                "control": "2024\/20032",
+                                                "titulo": "Resoluci\u00f3n de 19 de diciembre de 2024, de la Subsecretar\u00eda, por la que se convoca la provisi\u00f3n de puestos de trabajo por el sistema de libre designaci\u00f3n, en el Organismo Aut\u00f3nomo Oficina Espa\u00f1ola de Patentes y Marcas, O.A.",
+                                                "url_pdf": {
+                                                    "szBytes": "267495",
+                                                    "szKBytes": "261",
+                                                    "pagina_inicial": "179951",
+                                                    "pagina_final": "179954",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27034.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27034",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27034"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9589",
+                                    "nombre": "MINISTERIO DE ECONOM\u00cdA, COMERCIO Y EMPRESA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Cuerpo de Diplomados Comerciales del Estado",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-27035",
+                                                "control": "2024\/19955",
+                                                "titulo": "Resoluci\u00f3n de 17 de diciembre de 2024, de la Subsecretar\u00eda, por la que se publica la relaci\u00f3n de aspirantes que han aprobado en la fase de oposici\u00f3n, del proceso selectivo para ingreso, por el sistema general de acceso libre, en el Cuerpo de Diplomados Comerciales del Estado, convocado por Resoluci\u00f3n de 21 de marzo de 2024.",
+                                                "url_pdf": {
+                                                    "szBytes": "228980",
+                                                    "szKBytes": "224",
+                                                    "pagina_inicial": "179955",
+                                                    "pagina_final": "179957",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27035.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27035",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27035"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "4335",
+                                    "nombre": "MINISTERIO DE SANIDAD",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Personal estatutario de los servicios de salud",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-27036",
+                                                    "control": "2024\/19956",
+                                                    "titulo": "Resoluci\u00f3n de 13 de diciembre de 2024, del Instituto Nacional de Gesti\u00f3n Sanitaria, por la que se convoca proceso selectivo, por el sistema de concurso para acceso a la condici\u00f3n de personal estatutario fijo en plazas de las categor\u00edas de Titulado\/a Especialista en Ciencias de la Salud: Neurocirug\u00eda, Titulado\/a Especialista en Ciencias de la Salud: Cirug\u00eda Ortop\u00e9dica y Traumatolog\u00eda, Titulado\/a Especialista en Ciencias de la Salud: Medicina Familiar y Comunitaria, Titulado\/a Especialista en Ciencias de la Salud: Medicina Familiar y Comunitaria (en plazas de pediatr\u00eda de atenci\u00f3n primaria) y Titulado\/a Superior de la Funci\u00f3n Administrativa Administraci\u00f3n.",
+                                                    "url_pdf": {
+                                                        "szBytes": "337772",
+                                                        "szKBytes": "330",
+                                                        "pagina_inicial": "179958",
+                                                        "pagina_final": "179979",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27036.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27036",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27036"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27037",
+                                                    "control": "2024\/19957",
+                                                    "titulo": "Resoluci\u00f3n de 13 de diciembre de 2024, del Instituto Nacional de Gesti\u00f3n Sanitaria, por la que se convoca proceso selectivo, por el sistema de concurso para acceso a la condici\u00f3n de personal estatutario fijo en plaza de la categor\u00eda de T\u00e9cnico\/a Medio Sanitario: Cuidados Auxiliares de Enfermer\u00eda.",
+                                                    "url_pdf": {
+                                                        "szBytes": "286138",
+                                                        "szKBytes": "279",
+                                                        "pagina_inicial": "179980",
+                                                        "pagina_final": "179994",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27037.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27037",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27037"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9565",
+                                    "nombre": "MINISTERIO DE CIENCIA, INNOVACI\u00d3N Y UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Escala de Personal Cient\u00edfico Titular de los Organismos P\u00fablicos de Investigaci\u00f3n",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-27038",
+                                                "control": "2024\/19960",
+                                                "titulo": "Resoluci\u00f3n de 16 de diciembre de 2024, de la Subsecretar\u00eda, por la que se modifica la de 14 de junio de 2024, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre, en la Escala de Personal Cient\u00edfico Titular de los Organismos P\u00fablicos de Investigaci\u00f3n.",
+                                                "url_pdf": {
+                                                    "szBytes": "202493",
+                                                    "szKBytes": "198",
+                                                    "pagina_inicial": "179995",
+                                                    "pagina_final": "179996",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27038.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27038",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27038"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9525",
+                                    "nombre": "ADMINISTRACI\u00d3N LOCAL",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Personal funcionario y laboral",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-27039",
+                                                "control": "2024\/107138",
+                                                "titulo": "Resoluci\u00f3n de 18 de diciembre de 2024, del Ayuntamiento de San Mart\u00edn de Valdeiglesias (Madrid), que deja parcialmente sin efecto la de 10 de diciembre de 2024, referente a la convocatoria para proveer varias plazas.",
+                                                "url_pdf": {
+                                                    "szBytes": "190560",
+                                                    "szKBytes": "186",
+                                                    "pagina_inicial": "179997",
+                                                    "pagina_final": "179997",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27039.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27039",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27039"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "310",
+                                    "nombre": "UNIVERSIDADES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Cuerpos docentes universitarios",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-27040",
+                                                    "control": "2024\/19966",
+                                                    "titulo": "Resoluci\u00f3n de 19 de diciembre de 2024, de la Universidad de Santiago de Compostela, por la que se convoca concurso de acceso a plaza de cuerpos docentes universitarios.",
+                                                    "url_pdf": {
+                                                        "szBytes": "307468",
+                                                        "szKBytes": "300",
+                                                        "pagina_inicial": "179998",
+                                                        "pagina_final": "180014",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27040.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27040",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27040"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27041",
+                                                    "control": "2024\/19967",
+                                                    "titulo": "Resoluci\u00f3n de 19 de diciembre de 2024, de la Universidad Rey Juan Carlos, por la que se corrigen errores en la de 10 de diciembre de 2024, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios.",
+                                                    "url_pdf": {
+                                                        "szBytes": "205454",
+                                                        "szKBytes": "201",
+                                                        "pagina_inicial": "180015",
+                                                        "pagina_final": "180017",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27041.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27041",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27041"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "nombre": "Oferta de empleo p\u00fablico",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-27042",
+                                                    "control": "2024\/19878",
+                                                    "titulo": "Resoluci\u00f3n de 18 de diciembre de 2024, de la Universidad Nacional de Educaci\u00f3n a Distancia, por la que se publica la oferta de empleo p\u00fablico de personal docente e investigador correspondiente al a\u00f1o 2024.",
+                                                    "url_pdf": {
+                                                        "szBytes": "201825",
+                                                        "szKBytes": "197",
+                                                        "pagina_inicial": "180018",
+                                                        "pagina_final": "180019",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27042.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27042",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27042"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27043",
+                                                    "control": "2024\/19879",
+                                                    "titulo": "Resoluci\u00f3n de 18 de diciembre de 2024, de la Universidad Nacional de Educaci\u00f3n a Distancia, por la que se publica la oferta de empleo p\u00fablico de personal t\u00e9cnico de gesti\u00f3n y de administraci\u00f3n y servicios correspondiente al a\u00f1o 2024.",
+                                                    "url_pdf": {
+                                                        "szBytes": "206267",
+                                                        "szKBytes": "201",
+                                                        "pagina_inicial": "180020",
+                                                        "pagina_final": "180021",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27043.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27043",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27043"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "nombre": "Personal t\u00e9cnico, de gesti\u00f3n y de administraci\u00f3n y servicios",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-27044",
+                                                    "control": "2024\/19965",
+                                                    "titulo": "Resoluci\u00f3n de 18 de diciembre de 2024, de la Universidad de Ja\u00e9n, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre, en la Escala de Programadores Inform\u00e1ticos.",
+                                                    "url_pdf": {
+                                                        "szBytes": "273104",
+                                                        "szKBytes": "267",
+                                                        "pagina_inicial": "180022",
+                                                        "pagina_final": "180034",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27044.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27044",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27044"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27045",
+                                                    "control": "2024\/19968",
+                                                    "titulo": "Resoluci\u00f3n de 19 de diciembre de 2024, de la Universidad de Sevilla, por la que se publica la convocatoria de pruebas selectivas para ingreso, por el sistema general de acceso libre, en la Escala Administrativa.",
+                                                    "url_pdf": {
+                                                        "szBytes": "193706",
+                                                        "szKBytes": "189",
+                                                        "pagina_inicial": "180035",
+                                                        "pagina_final": "180035",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27045.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27045",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27045"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27046",
+                                                    "control": "2024\/19969",
+                                                    "titulo": "Resoluci\u00f3n de 19 de diciembre de 2024, de la Universidad de Sevilla, por la que se publica la convocatoria de pruebas selectivas para ingreso, por el sistema general de acceso libre, en la Escala de Gesti\u00f3n.",
+                                                    "url_pdf": {
+                                                        "szBytes": "193890",
+                                                        "szKBytes": "189",
+                                                        "pagina_inicial": "180036",
+                                                        "pagina_final": "180036",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27046.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27046",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27046"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "codigo": "3",
+                            "nombre": "III. Otras disposiciones",
+                            "departamento": [
+                                {
+                                    "codigo": "9585",
+                                    "nombre": "MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Recursos",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-27047",
+                                                    "control": "2024\/19720",
+                                                    "titulo": "Resoluci\u00f3n de 25 de noviembre de 2024, de la Direcci\u00f3n General de Seguridad Jur\u00eddica y Fe P\u00fablica, en el recurso interpuesto contra la calificaci\u00f3n del registrador de la propiedad de \u00c9cija, relativo a un testimonio emitido por letrada de la Administraci\u00f3n de Justicia, dimanante de un procedimiento de ejecuci\u00f3n de t\u00edtulos judiciales.",
+                                                    "url_pdf": {
+                                                        "szBytes": "219239",
+                                                        "szKBytes": "214",
+                                                        "pagina_inicial": "180037",
+                                                        "pagina_final": "180041",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27047.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27047",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27047"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27048",
+                                                    "control": "2024\/19721",
+                                                    "titulo": "Resoluci\u00f3n de 25 de noviembre de 2024, de la Direcci\u00f3n General de Seguridad Jur\u00eddica y Fe P\u00fablica, en el recurso interpuesto contra la negativa de la registradora de la propiedad de Fraga a inscribir una certificaci\u00f3n de adjudicaci\u00f3n en procedimiento de apremio administrativo.",
+                                                    "url_pdf": {
+                                                        "szBytes": "252858",
+                                                        "szKBytes": "247",
+                                                        "pagina_inicial": "180042",
+                                                        "pagina_final": "180053",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27048.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27048",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27048"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27049",
+                                                    "control": "2024\/19722",
+                                                    "titulo": "Resoluci\u00f3n de 25 de noviembre de 2024, de la Direcci\u00f3n General de Seguridad Jur\u00eddica y Fe P\u00fablica, en el recurso interpuesto contra la negativa de la registradora de la propiedad de Madridejos a inscribir una sentencia dictada en un procedimiento ordinario.",
+                                                    "url_pdf": {
+                                                        "szBytes": "224169",
+                                                        "szKBytes": "219",
+                                                        "pagina_inicial": "180054",
+                                                        "pagina_final": "180059",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27049.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27049",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27049"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27050",
+                                                    "control": "2024\/19723",
+                                                    "titulo": "Resoluci\u00f3n de 25 de noviembre de 2024, de la Direcci\u00f3n General de Seguridad Jur\u00eddica y Fe P\u00fablica, en el recurso interpuesto contra la negativa del registrador de la propiedad accidental de Valencia n.\u00ba 10 a la rectificaci\u00f3n de determinada inscripci\u00f3n.",
+                                                    "url_pdf": {
+                                                        "szBytes": "260245",
+                                                        "szKBytes": "254",
+                                                        "pagina_inicial": "180060",
+                                                        "pagina_final": "180071",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27050.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27050",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27050"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27051",
+                                                    "control": "2024\/19724",
+                                                    "titulo": "Resoluci\u00f3n de 25 de noviembre de 2024, de la Direcci\u00f3n General de Seguridad Jur\u00eddica y Fe P\u00fablica, en el recurso interpuesto contra la nota de calificaci\u00f3n del registrador de la propiedad de Altea, por la que se suspende la inscripci\u00f3n de una escritura de daci\u00f3n en pago de deuda.",
+                                                    "url_pdf": {
+                                                        "szBytes": "228592",
+                                                        "szKBytes": "223",
+                                                        "pagina_inicial": "180072",
+                                                        "pagina_final": "180077",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27051.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27051",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27051"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27052",
+                                                    "control": "2024\/19725",
+                                                    "titulo": "Resoluci\u00f3n de 26 de noviembre de 2024, de la Direcci\u00f3n General de Seguridad Jur\u00eddica y Fe P\u00fablica, por la que se publica, conforme a lo dispuesto en el art\u00edculo 327 de la Ley Hipotecaria, la sentencia del Juzgado de lo Mercantil n.\u00ba 11 de Madrid, de 14 de octubre de 2015, que ha devenido firme.",
+                                                    "url_pdf": {
+                                                        "szBytes": "193197",
+                                                        "szKBytes": "189",
+                                                        "pagina_inicial": "180078",
+                                                        "pagina_final": "180078",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27052.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27052",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27052"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27053",
+                                                    "control": "2024\/19726",
+                                                    "titulo": "Resoluci\u00f3n de 26 de noviembre de 2024, de la Direcci\u00f3n General de Seguridad Jur\u00eddica y Fe P\u00fablica, por la que se publica, conforme a lo dispuesto en el art\u00edculo 327 de la Ley Hipotecaria, la sentencia de la Audiencia Provincial de Barcelona, Secci\u00f3n Und\u00e9cima, de 2 de diciembre de 2015, que ha devenido firme.",
+                                                    "url_pdf": {
+                                                        "szBytes": "193607",
+                                                        "szKBytes": "189",
+                                                        "pagina_inicial": "180079",
+                                                        "pagina_final": "180079",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27053.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27053",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27053"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27054",
+                                                    "control": "2024\/19727",
+                                                    "titulo": "Resoluci\u00f3n de 26 de noviembre de 2024, de la Direcci\u00f3n General de Seguridad Jur\u00eddica y Fe P\u00fablica, por la que se publica, conforme a lo dispuesto en el art\u00edculo 327 de la Ley Hipotecaria, la sentencia de la Audiencia Provincial de Huelva, Secci\u00f3n Segunda, de 19 de marzo de 2014, que ha devenido firme.",
+                                                    "url_pdf": {
+                                                        "szBytes": "193773",
+                                                        "szKBytes": "189",
+                                                        "pagina_inicial": "180080",
+                                                        "pagina_final": "180080",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27054.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27054",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27054"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27055",
+                                                    "control": "2024\/19728",
+                                                    "titulo": "Resoluci\u00f3n de 26 de noviembre de 2024, de la Direcci\u00f3n General de Seguridad Jur\u00eddica y Fe P\u00fablica, por la que se publica, conforme a lo dispuesto en el art\u00edculo 327 de la Ley Hipotecaria, la sentencia de la Audiencia Provincial de Granada, Secci\u00f3n Cuarta, de 13 de febrero de 2015, que ha devenido firme.",
+                                                    "url_pdf": {
+                                                        "szBytes": "194032",
+                                                        "szKBytes": "189",
+                                                        "pagina_inicial": "180081",
+                                                        "pagina_final": "180081",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27055.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27055",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27055"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27056",
+                                                    "control": "2024\/19729",
+                                                    "titulo": "Resoluci\u00f3n de 28 de noviembre de 2024, de la Direcci\u00f3n General de Seguridad Jur\u00eddica y Fe P\u00fablica, en el recurso interpuesto contra la certificaci\u00f3n expedida por la registradora de la propiedad accidental de Pedreguer, por el contenido de la certificaci\u00f3n expedida al practicar la inscripci\u00f3n de una escritura de compraventa.",
+                                                    "url_pdf": {
+                                                        "szBytes": "385898",
+                                                        "szKBytes": "377",
+                                                        "pagina_inicial": "180082",
+                                                        "pagina_final": "180090",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27056.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27056",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27056"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27057",
+                                                    "control": "2024\/19730",
+                                                    "titulo": "Resoluci\u00f3n de 28 de noviembre de 2024, de la Direcci\u00f3n General de Seguridad Jur\u00eddica y Fe P\u00fablica, en el recurso interpuesto contra la negativa de la registradora de la propiedad de Madrid n.\u00ba 19 a practicar el asiento de presentaci\u00f3n de una instancia.",
+                                                    "url_pdf": {
+                                                        "szBytes": "223611",
+                                                        "szKBytes": "218",
+                                                        "pagina_inicial": "180091",
+                                                        "pagina_final": "180096",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27057.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27057",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27057"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27058",
+                                                    "control": "2024\/19731",
+                                                    "titulo": "Resoluci\u00f3n de 28 de noviembre de 2024, de la Direcci\u00f3n General de Seguridad Jur\u00eddica y Fe P\u00fablica, en el recurso interpuesto contra la negativa del registrador de la propiedad de Alicante n.\u00ba 1 a inscribir una escritura de aceptaci\u00f3n y adjudicaci\u00f3n de herencia.",
+                                                    "url_pdf": {
+                                                        "szBytes": "230806",
+                                                        "szKBytes": "225",
+                                                        "pagina_inicial": "180097",
+                                                        "pagina_final": "180103",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27058.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27058",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27058"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27059",
+                                                    "control": "2024\/19732",
+                                                    "titulo": "Resoluci\u00f3n de 28 de noviembre de 2024, de la Direcci\u00f3n General de Seguridad Jur\u00eddica y Fe P\u00fablica, en el recurso interpuesto contra la nota de calificaci\u00f3n del registrador de la propiedad de Marbella n.\u00ba 1, por la que se deniega la expedici\u00f3n de certificaci\u00f3n de las alegaciones del propietario colindante que se opone a la inscripci\u00f3n de una representaci\u00f3n gr\u00e1fica en procedimiento del art\u00edculo 199 de la Ley Hipotecaria.",
+                                                    "url_pdf": {
+                                                        "szBytes": "226942",
+                                                        "szKBytes": "222",
+                                                        "pagina_inicial": "180104",
+                                                        "pagina_final": "180110",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27059.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27059",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27059"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27060",
+                                                    "control": "2024\/19733",
+                                                    "titulo": "Resoluci\u00f3n de 28 de noviembre de 2024, de la Direcci\u00f3n General de Seguridad Jur\u00eddica y Fe P\u00fablica, en el recurso interpuesto contra la nota de calificaci\u00f3n extendida por el registrador mercantil y de bienes muebles accidental de Albacete, por la que se rechaza la inscripci\u00f3n de auditor voluntario.",
+                                                    "url_pdf": {
+                                                        "szBytes": "224548",
+                                                        "szKBytes": "219",
+                                                        "pagina_inicial": "180111",
+                                                        "pagina_final": "180116",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27060.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27060",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27060"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27061",
+                                                    "control": "2024\/19734",
+                                                    "titulo": "Resoluci\u00f3n de 29 de noviembre de 2024, de la Direcci\u00f3n General de Seguridad Jur\u00eddica y Fe P\u00fablica, en el recurso interpuesto contra la calificaci\u00f3n del registrador de la propiedad de Tacoronte, por la que se suspende la inscripci\u00f3n de una escritura de compraventa.",
+                                                    "url_pdf": {
+                                                        "szBytes": "245661",
+                                                        "szKBytes": "240",
+                                                        "pagina_inicial": "180117",
+                                                        "pagina_final": "180126",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27061.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27061",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27061"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27062",
+                                                    "control": "2024\/19735",
+                                                    "titulo": "Resoluci\u00f3n de 29 de noviembre de 2024, de la Direcci\u00f3n General de Seguridad Jur\u00eddica y Fe P\u00fablica, en el recurso interpuesto contra la negativa de la registradora de la propiedad de M\u00e1laga n.\u00ba 4 a inscribir una escritura de desvinculaci\u00f3n \u00abob rem\u00bb.",
+                                                    "url_pdf": {
+                                                        "szBytes": "249163",
+                                                        "szKBytes": "243",
+                                                        "pagina_inicial": "180127",
+                                                        "pagina_final": "180136",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27062.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27062",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27062"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27063",
+                                                    "control": "2024\/19736",
+                                                    "titulo": "Resoluci\u00f3n de 29 de noviembre de 2024, de la Direcci\u00f3n General de Seguridad Jur\u00eddica y Fe P\u00fablica, en el recurso interpuesto contra la negativa del registrador de la propiedad de Torre Pacheco a inscribir una escritura de adjudicaci\u00f3n de herencia.",
+                                                    "url_pdf": {
+                                                        "szBytes": "249251",
+                                                        "szKBytes": "243",
+                                                        "pagina_inicial": "180137",
+                                                        "pagina_final": "180147",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27063.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27063",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27063"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27064",
+                                                    "control": "2024\/19737",
+                                                    "titulo": "Resoluci\u00f3n de 29 de noviembre de 2024, de la Direcci\u00f3n General de Seguridad Jur\u00eddica y Fe P\u00fablica, en el recurso interpuesto contra la negativa del registrador mercantil III de Sevilla a inscribir la escritura de elevaci\u00f3n a p\u00fablico de acuerdos sociales de una sociedad.",
+                                                    "url_pdf": {
+                                                        "szBytes": "249213",
+                                                        "szKBytes": "243",
+                                                        "pagina_inicial": "180148",
+                                                        "pagina_final": "180158",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27064.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27064",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27064"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27065",
+                                                    "control": "2024\/19738",
+                                                    "titulo": "Resoluci\u00f3n de 29 de noviembre de 2024, de la Direcci\u00f3n General de Seguridad Jur\u00eddica y Fe P\u00fablica, en el recurso interpuesto contra la nota de calificaci\u00f3n de la registradora de la propiedad de Calp, por la que se deniega la inscripci\u00f3n de una agrupaci\u00f3n de ocho fincas y la segregaci\u00f3n posterior de una parte para su cesi\u00f3n al Ayuntamiento de Calp, por haberse presentado en la tramitaci\u00f3n del expediente del art\u00edculo 199 de la Ley Hipotecaria alegaciones de un colindante, que alegaba que la georreferenciaci\u00f3n aportada invad\u00eda su finca colindante.",
+                                                    "url_pdf": {
+                                                        "szBytes": "276704",
+                                                        "szKBytes": "270",
+                                                        "pagina_inicial": "180159",
+                                                        "pagina_final": "180172",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27065.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27065",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27065"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9586",
+                                    "nombre": "MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Convenios",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-27066",
+                                                "control": "2024\/20065",
+                                                "titulo": "Resoluci\u00f3n de 11 de diciembre de 2024, de la Presidencia de la Autoridad Portuaria de Las Palmas, por la que se publica el Convenio con el Cabildo de Fuerteventura y la C\u00e1mara de Comercio, Industria y Navegaci\u00f3n de Fuerteventura, para la gesti\u00f3n conjunta del puesto de control en frontera del puerto de Puerto del Rosario.",
+                                                "url_pdf": {
+                                                    "szBytes": "259584",
+                                                    "szKBytes": "254",
+                                                    "pagina_inicial": "180173",
+                                                    "pagina_final": "180183",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27066.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27066",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27066"
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9593",
+                                    "nombre": "MINISTERIO DE POL\u00cdTICA TERRITORIAL Y MEMORIA DEMOCR\u00c1TICA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Cartas de servicios",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-27067",
+                                                    "control": "2024\/19896",
+                                                    "titulo": "Resoluci\u00f3n de 17 de diciembre de 2024, de la Subsecretar\u00eda, por la que se aprueba la Carta de Servicios de la Delegaci\u00f3n del Gobierno en Canarias, Subdelegaci\u00f3n del Gobierno en Las Palmas y Direcciones Insulares de la Administraci\u00f3n General del Estado en Fuerteventura y Lanzarote para el periodo 2024-2027.",
+                                                    "url_pdf": {
+                                                        "szBytes": "195637",
+                                                        "szKBytes": "191",
+                                                        "pagina_inicial": "180184",
+                                                        "pagina_final": "180185",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27067.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27067",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27067"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27068",
+                                                    "control": "2024\/19897",
+                                                    "titulo": "Resoluci\u00f3n de 17 de diciembre de 2024, de la Subsecretar\u00eda, por la que se aprueba la Carta de Servicios de la Delegaci\u00f3n del Gobierno en Ceuta para el periodo 2024-2027.",
+                                                    "url_pdf": {
+                                                        "szBytes": "193268",
+                                                        "szKBytes": "189",
+                                                        "pagina_inicial": "180186",
+                                                        "pagina_final": "180186",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27068.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27068",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27068"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27069",
+                                                    "control": "2024\/19898",
+                                                    "titulo": "Resoluci\u00f3n de 17 de diciembre de 2024, de la Subsecretar\u00eda, por la que se aprueba la Carta de Servicios de la Delegaci\u00f3n del Gobierno en la Comunidad Foral de Navarra para el periodo 2024-2027.",
+                                                    "url_pdf": {
+                                                        "szBytes": "193467",
+                                                        "szKBytes": "189",
+                                                        "pagina_inicial": "180187",
+                                                        "pagina_final": "180187",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27069.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27069",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27069"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27070",
+                                                    "control": "2024\/19899",
+                                                    "titulo": "Resoluci\u00f3n de 17 de diciembre de 2024, de la Subsecretar\u00eda, por la que se aprueba la Carta de Servicios de la Delegaci\u00f3n del Gobierno en las Illes Balears y Direcciones Insulares de la Administraci\u00f3n General del Estado en Ibiza y Formentera, y en Menorca para el periodo 2024-2027.",
+                                                    "url_pdf": {
+                                                        "szBytes": "194093",
+                                                        "szKBytes": "190",
+                                                        "pagina_inicial": "180188",
+                                                        "pagina_final": "180188",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27070.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27070",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27070"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27071",
+                                                    "control": "2024\/19900",
+                                                    "titulo": "Resoluci\u00f3n de 17 de diciembre de 2024, de la Subsecretar\u00eda, por la que se aprueba la Carta de Servicios de la Delegaci\u00f3n del Gobierno en Melilla para el periodo 2024-2027.",
+                                                    "url_pdf": {
+                                                        "szBytes": "193237",
+                                                        "szKBytes": "189",
+                                                        "pagina_inicial": "180189",
+                                                        "pagina_final": "180189",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27071.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27071",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27071"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27072",
+                                                    "control": "2024\/19901",
+                                                    "titulo": "Resoluci\u00f3n de 17 de diciembre de 2024, de la Subsecretar\u00eda, por la que se aprueba la Carta de Servicios de la Subdelegaci\u00f3n del Gobierno en Palencia para el periodo 2024-2027.",
+                                                    "url_pdf": {
+                                                        "szBytes": "193112",
+                                                        "szKBytes": "189",
+                                                        "pagina_inicial": "180190",
+                                                        "pagina_final": "180190",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27072.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27072",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27072"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27073",
+                                                    "control": "2024\/19902",
+                                                    "titulo": "Resoluci\u00f3n de 17 de diciembre de 2024, de la Subsecretar\u00eda, por la que se aprueba la Carta de Servicios de la Subdelegaci\u00f3n del Gobierno en Santa Cruz de Tenerife y Direcciones Insulares de la Administraci\u00f3n General del Estado en La Palma, La Gomera y El Hierro para el periodo 2024-2027.",
+                                                    "url_pdf": {
+                                                        "szBytes": "195018",
+                                                        "szKBytes": "190",
+                                                        "pagina_inicial": "180191",
+                                                        "pagina_final": "180191",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27073.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27073",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27073"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9575",
+                                    "nombre": "MINISTERIO PARA LA TRANSICI\u00d3N ECOL\u00d3GICA Y EL RETO DEMOGR\u00c1FICO",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Impacto ambiental",
+                                            "item": [
+                                                {
+                                                    "identificador": "BOE-A-2024-27074",
+                                                    "control": "2024\/20089",
+                                                    "titulo": "Resoluci\u00f3n de 16 de diciembre de 2024, de la Direcci\u00f3n General de Calidad y Evaluaci\u00f3n Ambiental, por la que se formula informe de determinaci\u00f3n de afecci\u00f3n ambiental del proyecto \u00abHibridaci\u00f3n del parque e\u00f3lico PE Envitero E\u00f3lico, de 18,3 MW de potencia instalada, y su infraestructura de evacuaci\u00f3n asociada, en las provincias de Teruel y Zaragoza\u00bb.",
+                                                    "url_pdf": {
+                                                        "szBytes": "248457",
+                                                        "szKBytes": "243",
+                                                        "pagina_inicial": "180192",
+                                                        "pagina_final": "180199",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27074.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27074",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27074"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27075",
+                                                    "control": "2024\/20090",
+                                                    "titulo": "Resoluci\u00f3n de 16 de diciembre de 2024, de la Direcci\u00f3n General de Calidad y Evaluaci\u00f3n Ambiental, por la que se formula informe de determinaci\u00f3n de afecci\u00f3n ambiental del proyecto \u00abHibridaci\u00f3n del parque e\u00f3lico PE Ribagrande de Energ\u00eda, de 24,4 MW de potencia instalada, y para su infraestructura de evacuaci\u00f3n asociada\u00bb, en la provincia de Zaragoza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "247160",
+                                                        "szKBytes": "241",
+                                                        "pagina_inicial": "180200",
+                                                        "pagina_final": "180208",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27075.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27075",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27075"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27076",
+                                                    "control": "2024\/20091",
+                                                    "titulo": "Resoluci\u00f3n de 16 de diciembre de 2024, de la Direcci\u00f3n General de Calidad y Evaluaci\u00f3n Ambiental, por la que se formula informe de determinaci\u00f3n de afecci\u00f3n ambiental del proyecto \u00abHibridaci\u00f3n del parque e\u00f3lico PE Energ\u00eda Sierrezuela E\u00f3lico, de 24,4 MW de potencia instalada, y para su infraestructura de evacuaci\u00f3n asociada\u00bb, en la provincia de Zaragoza.",
+                                                    "url_pdf": {
+                                                        "szBytes": "247305",
+                                                        "szKBytes": "242",
+                                                        "pagina_inicial": "180209",
+                                                        "pagina_final": "180217",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27076.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27076",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27076"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27077",
+                                                    "control": "2024\/20092",
+                                                    "titulo": "Resoluci\u00f3n de 16 de diciembre de 2024, de la Direcci\u00f3n General de Calidad y Evaluaci\u00f3n Ambiental, por la que se formula informe de determinaci\u00f3n de afecci\u00f3n ambiental del proyecto \u00abHibridaci\u00f3n del parque e\u00f3lico PE Esplendor E\u00f3lico, de 18,3 MW de potencia instalada, y para su infraestructura de evacuaci\u00f3n asociada, en la provincia de Teruel\u00bb.",
+                                                    "url_pdf": {
+                                                        "szBytes": "242493",
+                                                        "szKBytes": "237",
+                                                        "pagina_inicial": "180218",
+                                                        "pagina_final": "180226",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27077.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27077",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27077"
+                                                },
+                                                {
+                                                    "identificador": "BOE-A-2024-27078",
+                                                    "control": "2024\/20099",
+                                                    "titulo": "Resoluci\u00f3n de 17 de diciembre de 2024, de la Direcci\u00f3n General de Calidad y Evaluaci\u00f3n Ambiental, por la que se formula informe de impacto ambiental del proyecto \u00abPlanta de almacenamiento de energ\u00eda Glauco Almacena, de 50,9 MW de potencia instalada, y para su infraestructura de evacuaci\u00f3n, en la provincia de Girona\u00bb.",
+                                                    "url_pdf": {
+                                                        "szBytes": "4385495",
+                                                        "szKBytes": "4283",
+                                                        "pagina_inicial": "180227",
+                                                        "pagina_final": "180238",
+                                                        "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27078.pdf"
+                                                    },
+                                                    "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27078",
+                                                    "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27078"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "codigo": "9595",
+                                    "nombre": "MINISTERIO PARA LA TRANSFORMACI\u00d3N DIGITAL Y DE LA FUNCI\u00d3N P\u00daBLICA",
+                                    "epigrafe": [
+                                        {
+                                            "nombre": "Protecci\u00f3n Civil",
+                                            "item": {
+                                                "identificador": "BOE-A-2024-27079",
+                                                "control": "2024\/20127",
+                                                "titulo": "Resoluci\u00f3n de 23 de diciembre de 2024, de la Secretar\u00eda de Estado de Funci\u00f3n P\u00fablica, por la que se publica el Acuerdo del Consejo de Ministros de 23 de diciembre de 2024, de finalizaci\u00f3n de la suspensi\u00f3n de t\u00e9rminos e interrupci\u00f3n de plazos establecida en el Acuerdo del Consejo de Ministros de 5 de noviembre de 2024 por el que se declara \u00abZona afectada gravemente por una emergencia de Protecci\u00f3n Civil\u00bb el territorio damnificado como consecuencia de la Depresi\u00f3n Aislada en Niveles Altos (DANA) que ha afectado a amplias zonas de la pen\u00ednsula y Baleares entre el 28 de octubre y el 4 de noviembre de 2024.",
+                                                "url_pdf": {
+                                                    "szBytes": "197242",
+                                                    "szKBytes": "193",
+                                                    "pagina_inicial": "180239",
+                                                    "pagina_final": "180240",
+                                                    "texto": "https:\/\/www.boe.es\/boe\/dias\/2024\/12\/25\/pdfs\/BOE-A-2024-27079.pdf"
+                                                },
+                                                "url_html": "https:\/\/www.boe.es\/diario_boe\/txt.php?id=BOE-A-2024-27079",
+                                                "url_xml": "https:\/\/www.boe.es\/diario_boe\/xml.php?id=BOE-A-2024-27079"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

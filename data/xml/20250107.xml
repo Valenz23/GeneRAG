@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <sumario>
+      <metadatos>
+        <publicacion>BOE</publicacion>
+        <fecha_publicacion>20250107</fecha_publicacion>
+      </metadatos>
+      <diario numero="6">
+        <sumario_diario>
+          <identificador>BOE-S-2025-6</identificador>
+          <url_pdf szBytes="228957" szKBytes="224">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-S-2025-6.pdf</url_pdf>
+        </sumario_diario>
+        <seccion codigo="1" nombre="I. Disposiciones generales">
+          <departamento codigo="8162" nombre="COMUNITAT VALENCIANA">
+            <epigrafe nombre="Simplificación administrativa">
+              <item>
+                <identificador>BOE-A-2025-302</identificador>
+                <control>2025/129</control>
+                <titulo>Corrección de errores de la Ley 6/2024, de 5 de diciembre, de simplificación administrativa.</titulo>
+                <url_pdf szBytes="199196" szKBytes="195" pagina_inicial="3606" pagina_final="3607">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-302.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-302</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-302</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="2A" nombre="II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias">
+          <departamento codigo="1820" nombre="CONSEJO GENERAL DEL PODER JUDICIAL">
+            <epigrafe nombre="Situaciones">
+              <item>
+                <identificador>BOE-A-2025-303</identificador>
+                <control>2024/18660</control>
+                <titulo>Acuerdo de 17 de julio de 2024, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa del Magistrado don Jesús Sánchez Andrada.</titulo>
+                <url_pdf szBytes="191286" szKBytes="187" pagina_inicial="3608" pagina_final="3608">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-303.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-303</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-303</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-304</identificador>
+                <control>2024/18662</control>
+                <titulo>Acuerdo de 25 de septiembre de 2024, del Pleno del Consejo General del Poder Judicial, por el que se declara la jubilación voluntaria de la Magistrada doña Leonor Alonso Díaz-Marta.</titulo>
+                <url_pdf szBytes="191222" szKBytes="187" pagina_inicial="3609" pagina_final="3609">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-304.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-304</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-304</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9585" nombre="MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES">
+            <epigrafe nombre="Destinos">
+              <item>
+                <identificador>BOE-A-2025-305</identificador>
+                <control>2024/20303</control>
+                <titulo>Orden PJC/1522/2024, de 19 de diciembre, por la que se resuelve la convocatoria de libre designación, efectuada por Orden PJC/1129/2024, de 7 de octubre, para el Cuerpo de Letrados de la Administración de Justicia.</titulo>
+                <url_pdf szBytes="197815" szKBytes="193" pagina_inicial="3610" pagina_final="3611">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-305.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-305</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-305</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="6110" nombre="MINISTERIO DE DEFENSA">
+            <epigrafe nombre="Nombramientos">
+              <item>
+                <identificador>BOE-A-2025-306</identificador>
+                <control>2024/20482</control>
+                <titulo>Resolución 400/38560/2024, de 20 de diciembre, de la Subsecretaría, por la que se nombra personal estatutario fijo en plazas de la categoría de Enfermero/a en la Red Hospitalaria de la Defensa.</titulo>
+                <url_pdf szBytes="202880" szKBytes="198" pagina_inicial="3612" pagina_final="3613">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-306.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-306</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-306</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-307</identificador>
+                <control>2024/20483</control>
+                <titulo>Resolución 400/38561/2024, de 20 de diciembre, de la Subsecretaría, por la que se nombra personal estatutario fijo en plaza de la categoría de Técnico/a Superior en Radiodiagnóstico y Medicina Nuclear en la Red Hospitalaria de la Defensa.</titulo>
+                <url_pdf szBytes="200671" szKBytes="196" pagina_inicial="3614" pagina_final="3615">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-307.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-307</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-307</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9595" nombre="MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA">
+            <epigrafe nombre="Nombramientos">
+              <item>
+                <identificador>BOE-A-2025-308</identificador>
+                <control>2024/19847</control>
+                <titulo>Resolución de 16 de diciembre de 2024, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre, del Cuerpo de Diplomados en Estadística del Estado.</titulo>
+                <url_pdf szBytes="405226" szKBytes="396" pagina_inicial="3616" pagina_final="3622">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-308.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-308</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-308</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="310" nombre="UNIVERSIDADES">
+            <epigrafe nombre="Nombramientos">
+              <item>
+                <identificador>BOE-A-2025-309</identificador>
+                <control>2024/20388</control>
+                <titulo>Resolución de 26 de diciembre de 2024, de la Universidad de Vigo, por la que se nombra Profesor Titular de Universidad a don Miguel Ángel Prieto Lage.</titulo>
+                <url_pdf szBytes="193303" szKBytes="189" pagina_inicial="3623" pagina_final="3623">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-309.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-309</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-309</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="2B" nombre="II. Autoridades y personal. - B. Oposiciones y concursos">
+          <departamento codigo="1220" nombre="CORTES GENERALES">
+            <epigrafe nombre="Personal laboral">
+              <item>
+                <identificador>BOE-A-2025-310</identificador>
+                <control>2024/20486</control>
+                <titulo>Resolución de 19 de diciembre de 2024, de la Presidencia del Congreso de los Diputados, por la que se convoca la provisión de plazas de Auxiliar de Informática en la Dirección de Tecnologías de la Información y de las Comunicaciones.</titulo>
+                <url_pdf szBytes="256238" szKBytes="250" pagina_inicial="3624" pagina_final="3633">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-310.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-310</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-310</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-311</identificador>
+                <control>2024/20487</control>
+                <titulo>Resolución de 19 de diciembre de 2024, de la Presidencia del Congreso de los Diputados, por la que se convoca la provisión de plazas de Programador/a en la Dirección de Tecnologías de la Información y de las Comunicaciones.</titulo>
+                <url_pdf szBytes="269309" szKBytes="263" pagina_inicial="3634" pagina_final="3644">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-311.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-311</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-311</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="6110" nombre="MINISTERIO DE DEFENSA">
+            <epigrafe nombre="Personal estatutario de los servicios de salud">
+              <item>
+                <identificador>BOE-A-2025-312</identificador>
+                <control>2024/20489</control>
+                <titulo>Resolución 400/38559/2024, de 20 de diciembre, de la Subsecretaría, por la que se publica la relación de personas aprobadas en el proceso selectivo de promoción interna, para el acceso a la condición de personal estatutario fijo en plazas de la categoría de Técnico/a Titulado Superior en la Red Hospitalaria de la Defensa, convocado por Resolución 400/38482/2023, de 14 de diciembre.</titulo>
+                <url_pdf szBytes="212269" szKBytes="207" pagina_inicial="3645" pagina_final="3647">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-312.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-312</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-312</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9565" nombre="MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES">
+            <epigrafe nombre="Personal funcionario. Concursos">
+              <item>
+                <identificador>BOE-A-2025-313</identificador>
+                <control>2025/131</control>
+                <titulo>Resolución de 27 de diciembre de 2024, de la Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P., por la que se corrigen errores en la de 17 de diciembre de 2024, por la que se convoca concurso específico para la provisión de puestos de trabajo.</titulo>
+                <url_pdf szBytes="199736" szKBytes="195" pagina_inicial="3648" pagina_final="3648">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-313.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-313</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-313</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9531" nombre="COMUNIDAD DE CASTILLA Y LEÓN">
+            <epigrafe nombre="Cuerpos de funcionarios docentes">
+              <item>
+                <identificador>BOE-A-2025-314</identificador>
+                <control>2025/134</control>
+                <titulo>Resolución de 20 de diciembre de 2024, de la Dirección General de Recursos Humanos de la Consejería de Educación, por la que se publica la convocatoria de los procedimientos selectivos de ingreso, acceso y adquisición de nuevas especialidades en los Cuerpos de Profesores de Enseñanza Secundaria, Profesores Especialistas en Sectores Singulares de Formación Profesional y Profesores de Escuelas Oficiales de Idiomas, así como el procedimiento de baremación para la constitución de las listas de las personas aspirantes a ocupar puestos docentes en régimen de interinidad en los mencionados cuerpos y el procedimiento de acreditación de la competencia lingüística en lenguas extranjeras.</titulo>
+                <url_pdf szBytes="232451" szKBytes="227" pagina_inicial="3649" pagina_final="3650">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-314.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-314</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-314</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9525" nombre="ADMINISTRACIÓN LOCAL">
+            <epigrafe nombre="Personal funcionario">
+              <item>
+                <identificador>BOE-A-2025-315</identificador>
+                <control>2025/100001</control>
+                <titulo>Resolución de 30 de diciembre de 2024, del Ayuntamiento de Majadahonda (Madrid), referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.</titulo>
+                <url_pdf szBytes="190359" szKBytes="186" pagina_inicial="3651" pagina_final="3651">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-315.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-315</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-315</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Personal funcionario y laboral">
+              <item>
+                <identificador>BOE-A-2025-316</identificador>
+                <control>2025/100019</control>
+                <titulo>Resolución de 12 de diciembre de 2024, del Ayuntamiento de Quart de Poblet (Valencia/València), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190382" szKBytes="186" pagina_inicial="3652" pagina_final="3652">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-316.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-316</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-316</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-317</identificador>
+                <control>2025/100006</control>
+                <titulo>Resolución de 18 de diciembre de 2024, del Ayuntamiento de Sant Boi de Llobregat (Barcelona), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190999" szKBytes="187" pagina_inicial="3653" pagina_final="3653">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-317.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-317</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-317</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-318</identificador>
+                <control>2025/100017</control>
+                <titulo>Resolución de 20 de diciembre de 2024, del Ayuntamiento de Tortosa (Tarragona), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190561" szKBytes="186" pagina_inicial="3654" pagina_final="3654">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-318.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-318</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-318</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-319</identificador>
+                <control>2025/100004</control>
+                <titulo>Resolución de 24 de diciembre de 2024, del Ayuntamiento de Piles (Valencia/València), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190412" szKBytes="186" pagina_inicial="3655" pagina_final="3655">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-319.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-319</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-319</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-320</identificador>
+                <control>2025/100002</control>
+                <titulo>Resolución de 26 de diciembre de 2024, del Ayuntamiento de Vinaròs (Castellón/Castelló), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="191208" szKBytes="187" pagina_inicial="3656" pagina_final="3656">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-320.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-320</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-320</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-321</identificador>
+                <control>2025/100003</control>
+                <titulo>Resolución de 26 de diciembre de 2024, del Ayuntamiento de Vinaròs (Castellón/Castelló), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="191078" szKBytes="187" pagina_inicial="3657" pagina_final="3657">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-321.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-321</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-321</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-322</identificador>
+                <control>2025/100014</control>
+                <titulo>Resolución de 26 de diciembre de 2024, del Ayuntamiento de Santa Brígida (Las Palmas), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190697" szKBytes="186" pagina_inicial="3658" pagina_final="3658">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-322.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-322</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-322</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-323</identificador>
+                <control>2025/100005</control>
+                <titulo>Resolución de 27 de diciembre de 2024, del Ayuntamiento de Igualada (Barcelona), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="191789" szKBytes="187" pagina_inicial="3659" pagina_final="3659">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-323.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-323</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-323</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-324</identificador>
+                <control>2025/100009</control>
+                <titulo>Resolución de 29 de diciembre de 2024, de la Agrupación de Municipios de Carabias y Fresno de la Fuente (Segovia), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190964" szKBytes="186" pagina_inicial="3660" pagina_final="3660">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-324.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-324</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-324</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-325</identificador>
+                <control>2025/100007</control>
+                <titulo>Resolución de 30 de diciembre de 2024, del Ayuntamiento de Reus (Tarragona), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="191040" szKBytes="187" pagina_inicial="3661" pagina_final="3661">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-325.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-325</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-325</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-326</identificador>
+                <control>2025/100008</control>
+                <titulo>Resolución de 30 de diciembre de 2024, del Ayuntamiento de Reus (Tarragona), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="191032" szKBytes="187" pagina_inicial="3662" pagina_final="3662">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-326.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-326</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-326</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-327</identificador>
+                <control>2025/100010</control>
+                <titulo>Resolución de 30 de diciembre de 2024, del Ayuntamiento de Torroella de Montgrí (Girona), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190758" szKBytes="186" pagina_inicial="3663" pagina_final="3663">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-327.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-327</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-327</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-328</identificador>
+                <control>2025/100011</control>
+                <titulo>Resolución de 30 de diciembre de 2024, del Ayuntamiento de Aielo de Malferit (Valencia/València), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190689" szKBytes="186" pagina_inicial="3664" pagina_final="3664">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-328.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-328</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-328</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-329</identificador>
+                <control>2025/100012</control>
+                <titulo>Resolución de 30 de diciembre de 2024, del Ayuntamiento de Viveiro (Lugo), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190434" szKBytes="186" pagina_inicial="3665" pagina_final="3665">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-329.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-329</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-329</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-330</identificador>
+                <control>2025/100013</control>
+                <titulo>Resolución de 30 de diciembre de 2024, del Ayuntamiento de Calvià (Illes Balears), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="201209" szKBytes="196" pagina_inicial="3666" pagina_final="3668">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-330.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-330</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-330</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-331</identificador>
+                <control>2025/100015</control>
+                <titulo>Resolución de 30 de diciembre de 2024, del Ayuntamiento de Pruna (Sevilla), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190239" szKBytes="186" pagina_inicial="3669" pagina_final="3669">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-331.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-331</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-331</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-332</identificador>
+                <control>2025/100016</control>
+                <titulo>Resolución de 30 de diciembre de 2024, del Consorcio para Abastecimiento de Aguas y Saneamientos de la Marina Baja (Alicante/Alacant), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="191012" szKBytes="187" pagina_inicial="3670" pagina_final="3670">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-332.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-332</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-332</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-333</identificador>
+                <control>2025/100018</control>
+                <titulo>Resolución de 30 de diciembre de 2024, de la Diputación Provincial de Huelva, referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190375" szKBytes="186" pagina_inicial="3671" pagina_final="3671">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-333.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-333</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-333</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-334</identificador>
+                <control>2025/100020</control>
+                <titulo>Resolución de 30 de diciembre de 2024, del Ayuntamiento de Palma (Illes Balears), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190489" szKBytes="186" pagina_inicial="3672" pagina_final="3672">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-334.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-334</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-334</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="310" nombre="UNIVERSIDADES">
+            <epigrafe nombre="Cuerpos docentes universitarios">
+              <item>
+                <identificador>BOE-A-2025-335</identificador>
+                <control>2024/20269</control>
+                <titulo>Resolución de 20 de diciembre de 2024, de la Universidad de Alicante, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios.</titulo>
+                <url_pdf szBytes="525487" szKBytes="513" pagina_inicial="3673" pagina_final="3693">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-335.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-335</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-335</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Personal técnico, de gestión y de administración y servicios">
+              <item>
+                <identificador>BOE-A-2025-336</identificador>
+                <control>2024/20394</control>
+                <titulo>Resolución de 18 de diciembre de 2024, de la Universidad Politécnica de Cataluña, por la que se modifica la de 14 de noviembre de 2024, por la que se convoca concurso selectivo para la provisión de puestos de trabajo de personal laboral.</titulo>
+                <url_pdf szBytes="201203" szKBytes="196" pagina_inicial="3694" pagina_final="3695">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-336.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-336</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-336</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="3" nombre="III. Otras disposiciones">
+          <departamento codigo="7320" nombre="MINISTERIO DEL INTERIOR">
+            <epigrafe nombre="Convenios">
+              <item>
+                <identificador>BOE-A-2025-337</identificador>
+                <control>2025/92</control>
+                <titulo>Resolución de 27 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Convenio entre la Secretaría de Estado de Seguridad y el Ayuntamiento de El Viso, para la incorporación de los Cuerpos de Policía Locales al Sistema de Seguimiento Integral de los casos de Violencia de Género.</titulo>
+                <url_pdf szBytes="230480" szKBytes="225" pagina_inicial="3696" pagina_final="3702">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-337.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-337</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-337</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-338</identificador>
+                <control>2025/93</control>
+                <titulo>Resolución de 27 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Convenio entre la Secretaría de Estado de Seguridad y el Ayuntamiento de Gójar, para la incorporación de los Cuerpos de Policía Locales al Sistema de Seguimiento Integral de los casos de Violencia de Género.</titulo>
+                <url_pdf szBytes="230493" szKBytes="225" pagina_inicial="3703" pagina_final="3709">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-338.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-338</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-338</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-339</identificador>
+                <control>2025/94</control>
+                <titulo>Resolución de 27 de diciembre de 2024, de la Secretaría General Técnica, por la que se publica el Convenio entre la Secretaría de Estado de Seguridad y el Ayuntamiento de Montilla, para la incorporación de los Cuerpos de Policía Locales al Sistema de Seguimiento Integral de los casos de Violencia de Género.</titulo>
+                <url_pdf szBytes="230712" szKBytes="225" pagina_inicial="3710" pagina_final="3716">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-339.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-339</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-339</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Vigilantes de seguridad">
+              <item>
+                <identificador>BOE-A-2025-340</identificador>
+                <control>2025/91</control>
+                <titulo>Resolución de 23 de diciembre de 2024, de la Secretaría de Estado de Seguridad, por la que se aprueban las bases de las convocatorias de pruebas de selección para vigilante de seguridad y su especialidad de vigilante de explosivos y escolta privado, para el año 2025.</titulo>
+                <url_pdf szBytes="349770" szKBytes="342" pagina_inicial="3717" pagina_final="3738">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-340.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-340</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-340</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9586" nombre="MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE">
+            <epigrafe nombre="Comunidad Autónoma de la Región de Murcia. Convenio">
+              <item>
+                <identificador>BOE-A-2025-341</identificador>
+                <control>2025/101</control>
+                <titulo>Resolución de 2 de diciembre de 2024, de la Entidad Pública Empresarial ADIF-Alta Velocidad, por la que se publica el Convenio con Cartagena Alta Velocidad, en relación con el Proyecto para la integración del ferrocarril y la llegada de la alta velocidad a la ciudad de Cartagena. Plataforma y Estación.</titulo>
+                <url_pdf szBytes="259174" szKBytes="253" pagina_inicial="3739" pagina_final="3747">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-341.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-341</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-341</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Delegación de competencias">
+              <item>
+                <identificador>BOE-A-2025-342</identificador>
+                <control>2025/105</control>
+                <titulo>Resolución de 20 de diciembre de 2024, de la Autoridad Portuaria de Valencia, sobre revocación y delegación de competencias en materia de recaudación de los tributos y demás recursos de naturaleza pública y privada.</titulo>
+                <url_pdf szBytes="195211" szKBytes="191" pagina_inicial="3748" pagina_final="3749">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-342.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-342</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-342</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9593" nombre="MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA">
+            <epigrafe nombre="Subvenciones">
+              <item>
+                <identificador>BOE-A-2025-343</identificador>
+                <control>2024/20075</control>
+                <titulo>Resolución de 19 de diciembre de 2024, de la Secretaría General de Coordinación Territorial, por la que se acuerda la asignación de las subvenciones para la recuperación de daños en infraestructuras municipales y red viaria provincial e insular, previstas en el Acuerdo del Consejo de Ministros de 5 de marzo de 2024, por el que se declara «Zona afectada gravemente por una emergencia de Protección Civil» el territorio afectado como consecuencia de los incendios forestales, un incendio urbano, inundaciones y otros fenómenos de distinta naturaleza acaecidos entre el 21 de junio de 2023 y el 26 de febrero de 2024.</titulo>
+                <url_pdf szBytes="594858" szKBytes="581" pagina_inicial="3750" pagina_final="3762">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-343.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-343</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-343</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9589" nombre="MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA">
+            <epigrafe nombre="Entidades de seguros">
+              <item>
+                <identificador>BOE-A-2025-344</identificador>
+                <control>2025/115</control>
+                <titulo>Orden ECM/1523/2024, de 26 de diciembre, de autorización administrativa a Divina Pastora, Seguros Generales, SAU, para ampliar la actividad aseguradora al ramo de caución.</titulo>
+                <url_pdf szBytes="194134" szKBytes="190" pagina_inicial="3763" pagina_final="3763">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-344.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-344</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-344</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-345</identificador>
+                <control>2025/116</control>
+                <titulo>Orden ECM/1524/2024, de 26 de diciembre, de autorización administrativa a MGC Insurance, Mutua de Seguros y Reaseguros a Prima Fija, para ampliar la actividad aseguradora al ramo de otros daños a los bienes.</titulo>
+                <url_pdf szBytes="197225" szKBytes="193" pagina_inicial="3764" pagina_final="3765">https://www.boe.es/boe/dias/2025/01/07/pdfs/BOE-A-2025-345.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-345</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-345</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+      </diario>
+    </sumario>
+  </data>
+</response>

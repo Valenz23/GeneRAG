@@ -1,0 +1,1783 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <sumario>
+      <metadatos>
+        <publicacion>BOE</publicacion>
+        <fecha_publicacion>20241128</fecha_publicacion>
+      </metadatos>
+      <diario numero="287">
+        <sumario_diario>
+          <identificador>BOE-S-2024-287</identificador>
+          <url_pdf szBytes="411203" szKBytes="402">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-S-2024-287.pdf</url_pdf>
+        </sumario_diario>
+        <seccion codigo="1" nombre="I. Disposiciones generales">
+          <departamento codigo="8040" nombre="COMUNIDAD AUTÓNOMA DE CANTABRIA">
+            <epigrafe nombre="Memoria histórica">
+              <item>
+                <identificador>BOE-A-2024-24767</identificador>
+                <control>2024/18096</control>
+                <titulo>Ley 1/2024, de 8 de noviembre, de Derogación de la Ley de Cantabria 8/2021, de 17 de noviembre, de Memoria Histórica y Democrática de Cantabria.</titulo>
+                <url_pdf szBytes="209519" szKBytes="205" pagina_inicial="159939" pagina_final="159942">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24767.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24767</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24767</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="2A" nombre="II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias">
+          <departamento codigo="7320" nombre="MINISTERIO DEL INTERIOR">
+            <epigrafe nombre="Ceses">
+              <item>
+                <identificador>BOE-A-2024-24768</identificador>
+                <control>2024/18225</control>
+                <titulo>Orden INT/1343/2024, de 21 de noviembre, por la que se dispone el cese del General de Brigada don Francisco Javier Cortés Méndez en el Mando de la 2.ª Zona de la Guardia Civil, Comunidad Autónoma de Castilla-La Mancha (Toledo).</titulo>
+                <url_pdf szBytes="192148" szKBytes="188" pagina_inicial="159943" pagina_final="159943">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24768.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24768</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24768</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="4335" nombre="MINISTERIO DE SANIDAD">
+            <epigrafe nombre="Destinos">
+              <item>
+                <identificador>BOE-A-2024-24769</identificador>
+                <control>2024/18174</control>
+                <titulo>Resolución de 21 de noviembre de 2024, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 14 de octubre de 2024.</titulo>
+                <url_pdf szBytes="211442" szKBytes="206" pagina_inicial="159944" pagina_final="159945">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24769.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24769</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24769</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="310" nombre="UNIVERSIDADES">
+            <epigrafe nombre="Nombramientos">
+              <item>
+                <identificador>BOE-A-2024-24770</identificador>
+                <control>2024/18109</control>
+                <titulo>Resolución de 18 de noviembre de 2024, de la Universidad de Alcalá, por la que se nombra Profesora Titular de Universidad a doña Raquel Viaña Fernández.</titulo>
+                <url_pdf szBytes="194625" szKBytes="190" pagina_inicial="159946" pagina_final="159946">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24770.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24770</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24770</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24771</identificador>
+                <control>2024/18110</control>
+                <titulo>Resolución de 19 de noviembre de 2024, de la Universidad de Oviedo, por la que se nombran Catedráticas y Catedráticos de Universidad.</titulo>
+                <url_pdf szBytes="192998" szKBytes="188" pagina_inicial="159947" pagina_final="159947">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24771.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24771</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24771</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24772</identificador>
+                <control>2024/18178</control>
+                <titulo>Resolución de 20 de noviembre de 2024, de la Universidad de Murcia, por la que se nombra Profesora Titular de Universidad, con plaza vinculada, a doña Eva Abad Corpa.</titulo>
+                <url_pdf szBytes="192442" szKBytes="188" pagina_inicial="159948" pagina_final="159948">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24772.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24772</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24772</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="2B" nombre="II. Autoridades y personal. - B. Oposiciones y concursos">
+          <departamento codigo="9585" nombre="MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES">
+            <epigrafe nombre="Personal laboral">
+              <item>
+                <identificador>BOE-A-2024-24773</identificador>
+                <control>2024/18237</control>
+                <titulo>Resolución de 22 de noviembre de 2024, de la Subsecretaría, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre, como personal laboral fijo de los Grupos Profesionales 1, 3 y 4 del Consejo de Administración del Patrimonio Nacional.</titulo>
+                <url_pdf szBytes="514112" szKBytes="502" pagina_inicial="159949" pagina_final="159983">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24773.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24773</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24773</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24774</identificador>
+                <control>2024/18238</control>
+                <titulo>Resolución de 22 de noviembre de 2024, de la Subsecretaría, por la que se convoca proceso selectivo para ingreso, por promoción interna, como personal laboral fijo de los Grupos Profesionales 1, 2 y 3 del Consejo de Administración del Patrimonio Nacional.</titulo>
+                <url_pdf szBytes="451842" szKBytes="441" pagina_inicial="159984" pagina_final="160012">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24774.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24774</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24774</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="7320" nombre="MINISTERIO DEL INTERIOR">
+            <epigrafe nombre="Personal laboral">
+              <item>
+                <identificador>BOE-A-2024-24775</identificador>
+                <control>2024/18239</control>
+                <titulo>Resolución de 25 de noviembre de 2024, de la Subsecretaría, por la que se aprueba la relación provisional de personas admitidas y excluidas y se anuncia fecha, hora y lugar de celebración del primer ejercicio de la fase de oposición del proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, como personal laboral fijo, en los grupos profesionales M3, M2, M1, E2 y E1 sujetos al IV Convenio colectivo único para el personal laboral de la Administración General del Estado, convocado por Resolución de 18 de julio de 2024.</titulo>
+                <url_pdf szBytes="5440669" szKBytes="5313" pagina_inicial="160013" pagina_final="160216">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24775.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24775</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24775</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9575" nombre="MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO">
+            <epigrafe nombre="Cuerpo de Diplomados en Meteorología del Estado">
+              <item>
+                <identificador>BOE-A-2024-24776</identificador>
+                <control>2024/18181</control>
+                <titulo>Resolución de 22 de noviembre de 2024, de la Subsecretaría, por la que se publica la relación de aspirantes que han aprobado en las fases de oposición y concurso del proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, en el Cuerpo de Diplomados en Meteorología del Estado, convocado por Resolución de 5 de marzo de 2024.</titulo>
+                <url_pdf szBytes="284998" szKBytes="278" pagina_inicial="160217" pagina_final="160221">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24776.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24776</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24776</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Cuerpo Superior de Meteorólogos del Estado">
+              <item>
+                <identificador>BOE-A-2024-24777</identificador>
+                <control>2024/18182</control>
+                <titulo>Resolución de 22 de noviembre de 2024, de la Subsecretaría, por la que se publica la relación de aspirantes que han aprobado en las fases de oposición y concurso del proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, en el Cuerpo Superior de Meteorólogos del Estado, convocado por Resolución de 6 de febrero de 2024.</titulo>
+                <url_pdf szBytes="287125" szKBytes="280" pagina_inicial="160222" pagina_final="160226">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24777.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24777</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24777</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="8131" nombre="COMUNIDAD DE MADRID">
+            <epigrafe nombre="Cuerpo Nacional de Médicos Forenses">
+              <item>
+                <identificador>BOE-A-2024-24778</identificador>
+                <control>2024/18185</control>
+                <titulo>Resolución de 5 de noviembre de 2024, de la Dirección General de Recursos Humanos y Relaciones con la Administración de Justicia, de la Consejería de Presidencia, Justicia y Administración Local, por la que se convoca la provisión de puesto de trabajo singularizado, por el sistema de libre designación, en el Instituto de Medicina Legal y Ciencias Forenses de Madrid.</titulo>
+                <url_pdf szBytes="211322" szKBytes="206" pagina_inicial="160227" pagina_final="160229">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24778.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24778</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24778</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9525" nombre="ADMINISTRACIÓN LOCAL">
+            <epigrafe nombre="Personal funcionario y laboral">
+              <item>
+                <identificador>BOE-A-2024-24779</identificador>
+                <control>2024/106516</control>
+                <titulo>Resolución de 25 de septiembre de 2024, del Ayuntamiento de Valderas (León), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="191388" szKBytes="187" pagina_inicial="160230" pagina_final="160230">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24779.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24779</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24779</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24780</identificador>
+                <control>2024/106512</control>
+                <titulo>Resolución de 15 de noviembre de 2024, del Ayuntamiento de Íllora (Granada), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190527" szKBytes="186" pagina_inicial="160231" pagina_final="160231">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24780.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24780</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24780</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24781</identificador>
+                <control>2024/106492</control>
+                <titulo>Resolución de 18 de noviembre de 2024, del Ayuntamiento de Lebrija (Sevilla), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190939" szKBytes="186" pagina_inicial="160232" pagina_final="160232">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24781.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24781</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24781</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24782</identificador>
+                <control>2024/106493</control>
+                <titulo>Resolución de 18 de noviembre de 2024, del Ayuntamiento de Lebrija (Sevilla), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="191181" szKBytes="187" pagina_inicial="160233" pagina_final="160233">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24782.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24782</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24782</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24783</identificador>
+                <control>2024/106494</control>
+                <titulo>Resolución de 19 de noviembre de 2024, del Ayuntamiento de Algeciras (Cádiz), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="191169" szKBytes="187" pagina_inicial="160234" pagina_final="160234">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24783.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24783</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24783</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24784</identificador>
+                <control>2024/106495</control>
+                <titulo>Resolución de 19 de noviembre de 2024, del Ayuntamiento de Talavera de la Reina (Toledo), Organismo Autónomo Local Instituto de Promoción Económica de Talavera, referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="191303" szKBytes="187" pagina_inicial="160235" pagina_final="160235">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24784.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24784</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24784</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24785</identificador>
+                <control>2024/106496</control>
+                <titulo>Resolución de 19 de noviembre de 2024, del Ayuntamiento de Retamal de Llerena (Badajoz), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190782" szKBytes="186" pagina_inicial="160236" pagina_final="160236">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24785.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24785</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24785</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24786</identificador>
+                <control>2024/106497</control>
+                <titulo>Resolución de 19 de noviembre de 2024, del Ayuntamiento de Benicarló (Castellón/Castelló), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190692" szKBytes="186" pagina_inicial="160237" pagina_final="160237">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24786.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24786</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24786</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24787</identificador>
+                <control>2024/106499</control>
+                <titulo>Resolución de 19 de noviembre de 2024, del Ayuntamiento de Ermua (Bizkaia), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190772" szKBytes="186" pagina_inicial="160238" pagina_final="160238">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24787.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24787</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24787</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24788</identificador>
+                <control>2024/106500</control>
+                <titulo>Resolución de 19 de noviembre de 2024, del Ayuntamiento de Vilamarxant (Valencia/València), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190956" szKBytes="186" pagina_inicial="160239" pagina_final="160239">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24788.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24788</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24788</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24789</identificador>
+                <control>2024/106498</control>
+                <titulo>Resolución de 20 de noviembre de 2024, del Ayuntamiento de Nevada (Granada), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190260" szKBytes="186" pagina_inicial="160240" pagina_final="160240">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24789.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24789</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24789</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24790</identificador>
+                <control>2024/106502</control>
+                <titulo>Resolución de 20 de noviembre de 2024, del Ayuntamiento de Calasparra (Murcia), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190588" szKBytes="186" pagina_inicial="160241" pagina_final="160241">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24790.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24790</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24790</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24791</identificador>
+                <control>2024/106503</control>
+                <titulo>Resolución de 20 de noviembre de 2024, del Ayuntamiento de Sevilla, referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190442" szKBytes="186" pagina_inicial="160242" pagina_final="160242">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24791.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24791</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24791</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24792</identificador>
+                <control>2024/106504</control>
+                <titulo>Resolución de 20 de noviembre de 2024, del Ayuntamiento de Reocín (Cantabria), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190475" szKBytes="186" pagina_inicial="160243" pagina_final="160243">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24792.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24792</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24792</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24793</identificador>
+                <control>2024/106505</control>
+                <titulo>Resolución de 20 de noviembre de 2024, del Ayuntamiento de Velilla del Río Carrión (Palencia), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="191558" szKBytes="187" pagina_inicial="160244" pagina_final="160244">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24793.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24793</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24793</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24794</identificador>
+                <control>2024/106506</control>
+                <titulo>Resolución de 20 de noviembre de 2024, del Ayuntamiento de Sant Esteve de la Sarga (Lleida), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190708" szKBytes="186" pagina_inicial="160245" pagina_final="160245">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24794.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24794</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24794</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24795</identificador>
+                <control>2024/106507</control>
+                <titulo>Resolución de 20 de noviembre de 2024, del Ayuntamiento de Velilla del Río Carrión (Palencia), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="191043" szKBytes="187" pagina_inicial="160246" pagina_final="160246">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24795.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24795</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24795</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24796</identificador>
+                <control>2024/106508</control>
+                <titulo>Resolución de 20 de noviembre de 2024, del Ayuntamiento de Doñinos de Salamanca (Salamanca), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190706" szKBytes="186" pagina_inicial="160247" pagina_final="160247">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24796.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24796</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24796</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24797</identificador>
+                <control>2024/106510</control>
+                <titulo>Resolución de 20 de noviembre de 2024, del Ayuntamiento de Sotillo de la Adrada (Ávila), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190220" szKBytes="186" pagina_inicial="160248" pagina_final="160248">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24797.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24797</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24797</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24798</identificador>
+                <control>2024/106513</control>
+                <titulo>Resolución de 20 de noviembre de 2024, del Ayuntamiento de Eibar (Gipuzkoa), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190316" szKBytes="186" pagina_inicial="160249" pagina_final="160249">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24798.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24798</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24798</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24799</identificador>
+                <control>2024/106514</control>
+                <titulo>Resolución de 20 de noviembre de 2024, del Ayuntamiento de Velilla del Río Carrión (Palencia), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="191352" szKBytes="187" pagina_inicial="160250" pagina_final="160250">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24799.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24799</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24799</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24800</identificador>
+                <control>2024/106515</control>
+                <titulo>Resolución de 20 de noviembre de 2024, del Ayuntamiento de Villabuena del Puente (Zamora), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190293" szKBytes="186" pagina_inicial="160251" pagina_final="160251">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24800.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24800</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24800</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24801</identificador>
+                <control>2024/106517</control>
+                <titulo>Resolución de 20 de noviembre de 2024, del Ayuntamiento de Píñar (Granada), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190613" szKBytes="186" pagina_inicial="160252" pagina_final="160252">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24801.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24801</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24801</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24802</identificador>
+                <control>2024/106518</control>
+                <titulo>Resolución de 20 de noviembre de 2024, del Ayuntamiento de Las Mesas (Cuenca), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190338" szKBytes="186" pagina_inicial="160253" pagina_final="160253">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24802.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24802</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24802</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24803</identificador>
+                <control>2024/106519</control>
+                <titulo>Resolución de 20 de noviembre de 2024, del Ayuntamiento de Valdepeñas (Ciudad Real), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="191308" szKBytes="187" pagina_inicial="160254" pagina_final="160254">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24803.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24803</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24803</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24804</identificador>
+                <control>2024/106520</control>
+                <titulo>Resolución de 20 de noviembre de 2024, del Ayuntamiento de Coles (Ourense), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190254" szKBytes="186" pagina_inicial="160255" pagina_final="160255">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24804.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24804</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24804</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24805</identificador>
+                <control>2024/106521</control>
+                <titulo>Resolución de 20 de noviembre de 2024, del Ayuntamiento de Chella (Valencia/València), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="195570" szKBytes="191" pagina_inicial="160256" pagina_final="160256">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24805.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24805</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24805</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24806</identificador>
+                <control>2024/106522</control>
+                <titulo>Resolución de 20 de noviembre de 2024, del Ayuntamiento de Siete Aguas (Valencia/València), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190810" szKBytes="186" pagina_inicial="160257" pagina_final="160257">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24806.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24806</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24806</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24807</identificador>
+                <control>2024/106523</control>
+                <titulo>Resolución de 20 de noviembre de 2024, del Cabildo Insular de Fuerteventura (Las Palmas), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190425" szKBytes="186" pagina_inicial="160258" pagina_final="160258">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24807.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24807</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24807</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24808</identificador>
+                <control>2024/106524</control>
+                <titulo>Resolución de 20 de noviembre de 2024, de la Entidad de Ámbito Territorial Inferior al Municipio de Jesús Pobre (Alicante/Alacant), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190926" szKBytes="186" pagina_inicial="160259" pagina_final="160259">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24808.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24808</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24808</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24809</identificador>
+                <control>2024/106526</control>
+                <titulo>Resolución de 20 de noviembre de 2024, del Ayuntamiento de Cortegana (Huelva), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190441" szKBytes="186" pagina_inicial="160260" pagina_final="160260">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24809.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24809</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24809</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24810</identificador>
+                <control>2024/106527</control>
+                <titulo>Resolución de 20 de noviembre de 2024, del Ayuntamiento de Palencia, referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190497" szKBytes="186" pagina_inicial="160261" pagina_final="160261">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24810.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24810</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24810</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24811</identificador>
+                <control>2024/106607</control>
+                <titulo>Resolución de 25 de noviembre de 2024, del Ayuntamiento de Tazacorte (Santa Cruz de Tenerife), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190684" szKBytes="186" pagina_inicial="160262" pagina_final="160262">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24811.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24811</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24811</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24812</identificador>
+                <control>2024/106640</control>
+                <titulo>Resolución de 26 de noviembre de 2024, del Ayuntamiento de Hellín (Albacete), que deja sin efecto la de 18 de noviembre de 2024, referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="189994" szKBytes="186" pagina_inicial="160263" pagina_final="160263">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24812.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24812</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24812</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="310" nombre="UNIVERSIDADES">
+            <epigrafe nombre="Cuerpos docentes universitarios">
+              <item>
+                <identificador>BOE-A-2024-24813</identificador>
+                <control>2024/18318</control>
+                <titulo>Resolución de 12 de noviembre de 2024, de la Universidad de Salamanca, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios.</titulo>
+                <url_pdf szBytes="290519" szKBytes="284" pagina_inicial="160264" pagina_final="160279">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24813.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24813</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24813</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Personal de administración y servicios">
+              <item>
+                <identificador>BOE-A-2024-24814</identificador>
+                <control>2024/18315</control>
+                <titulo>Resolución de 29 de octubre de 2024, de la Universidad de Valladolid, por la que se modifica la composición de un tribunal calificador del proceso selectivo para la provisión, por el sistema general de acceso libre, de plazas de personal laboral fijo de los Grupos II, IVA Y IVB, convocado por Resolución de 24 de junio de 2024.</titulo>
+                <url_pdf szBytes="198944" szKBytes="194" pagina_inicial="160280" pagina_final="160281">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24814.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24814</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24814</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24815</identificador>
+                <control>2024/17927</control>
+                <titulo>Resolución de 14 de noviembre de 2024, de la Universidad Complutense de Madrid, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre, en la Escala Auxiliar Administrativa.</titulo>
+                <url_pdf szBytes="192620" szKBytes="188" pagina_inicial="160282" pagina_final="160282">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24815.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24815</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24815</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24816</identificador>
+                <control>2024/17928</control>
+                <titulo>Resolución de 14 de noviembre de 2024, de la Universidad Politécnica de Cataluña, por la que se convoca concurso selectivo para la provisión de puestos de trabajo de personal laboral.</titulo>
+                <url_pdf szBytes="288758" szKBytes="282" pagina_inicial="160283" pagina_final="160298">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24816.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24816</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24816</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="3" nombre="III. Otras disposiciones">
+          <departamento codigo="5140" nombre="MINISTERIO DE HACIENDA">
+            <epigrafe nombre="Convenios">
+              <item>
+                <identificador>BOE-A-2024-24817</identificador>
+                <control>2024/18069</control>
+                <titulo>Resolución de 19 de noviembre de 2024, de la Secretaría General de Fondos Europeos, por la que se publica la modificación y prórroga para los años 2025 y 2026 del Convenio con el Instituto de Nacional de Administración Pública, O.A., para el desarrollo de actuaciones formativas en materia de ejecución del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea Next Generation EU.</titulo>
+                <url_pdf szBytes="216754" szKBytes="212" pagina_inicial="160299" pagina_final="160302">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24817.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24817</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24817</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24818</identificador>
+                <control>2024/18070</control>
+                <titulo>Resolución de 19 de noviembre de 2024, de la Secretaría General de Fondos Europeos, por la que se publica la prórroga para los años 2025 y 2026 del Convenio con el Instituto de Estudios Fiscales, O.A., para el desarrollo de actuaciones formativas en materia de ejecución del Plan de Recuperación, Transformación y Resiliencia, financiado por la Unión Europea Next Generation EU.</titulo>
+                <url_pdf szBytes="208627" szKBytes="204" pagina_inicial="160303" pagina_final="160305">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24818.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24818</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24818</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="7320" nombre="MINISTERIO DEL INTERIOR">
+            <epigrafe nombre="Convenios">
+              <item>
+                <identificador>BOE-A-2024-24819</identificador>
+                <control>2024/18275</control>
+                <titulo>Resolución de 25 de noviembre de 2024, de la Secretaría General Técnica, por la que se publica el Convenio entre la Secretaría General de Instituciones Penitenciarias y el Ayuntamiento de Pinoso, para el cumplimiento de las penas de trabajos en beneficio de la comunidad.</titulo>
+                <url_pdf szBytes="281395" szKBytes="275" pagina_inicial="160306" pagina_final="160313">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24819.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24819</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24819</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9586" nombre="MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE">
+            <epigrafe nombre="Delegación de competencias">
+              <item>
+                <identificador>BOE-A-2024-24820</identificador>
+                <control>2024/18073</control>
+                <titulo>Resolución de 5 de noviembre de 2024, de la Autoridad Portuaria de Baleares, sobre delegación de competencias.</titulo>
+                <url_pdf szBytes="194495" szKBytes="190" pagina_inicial="160314" pagina_final="160315">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24820.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24820</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24820</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24821</identificador>
+                <control>2024/18011</control>
+                <titulo>Resolución de 19 de noviembre de 2024, de la Autoridad Portuaria de Málaga, sobre revocación y delegación de competencias.</titulo>
+                <url_pdf szBytes="191857" szKBytes="187" pagina_inicial="160316" pagina_final="160316">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24821.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24821</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24821</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9593" nombre="MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA">
+            <epigrafe nombre="Ayudas">
+              <item>
+                <identificador>BOE-A-2024-24822</identificador>
+                <control>2024/18361</control>
+                <titulo>Resolución de 26 de noviembre de 2024, de la Dirección General de Cooperación Autonómica y Local, por la que se resuelve la convocatoria para la selección de proyectos de formación para el empleo promovidos por entidades locales, financiados por el Programa de Empleo, Educación, Formación y Economía Social, del Fondo Social Europeo Plus (FSE+) del periodo de programación 2021-2027.</titulo>
+                <url_pdf szBytes="477838" szKBytes="467" pagina_inicial="160317" pagina_final="160331">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24822.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24822</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24822</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9575" nombre="MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO">
+            <epigrafe nombre="Instalaciones eléctricas">
+              <item>
+                <identificador>BOE-A-2024-24823</identificador>
+                <control>2024/18130</control>
+                <titulo>Resolución de 13 de noviembre de 2024, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de Enel Green Power España, SL, de autorización administrativa previa de la instalación eólica Sierra de la Parada, de 55 MW de potencia instalada, y de su infraestructura de evacuación, en la provincia de Zamora.</titulo>
+                <url_pdf szBytes="231418" szKBytes="226" pagina_inicial="160332" pagina_final="160337">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24823.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24823</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24823</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24824</identificador>
+                <control>2024/18131</control>
+                <titulo>Resolución de 13 de noviembre de 2024, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de Energías Renovables de Taranis, SL, de autorización administrativa previa del parque eólico Taranis de 49,5 MW de potencia instalada, y de su infraestructura de evacuación, en las provincias de Zaragoza y Teruel.</titulo>
+                <url_pdf szBytes="229366" szKBytes="224" pagina_inicial="160338" pagina_final="160343">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24824.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24824</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24824</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24825</identificador>
+                <control>2024/18132</control>
+                <titulo>Resolución de 13 de noviembre de 2024, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de Nicewind Partners, SL, de autorización administrativa previa de la instalación híbrida Araña (eólica y solar fotovoltaica), de 72,95 MW de potencia instalada, y de su infraestructura de evacuación, en las provincias de Burgos y Palencia.</titulo>
+                <url_pdf szBytes="231446" szKBytes="226" pagina_inicial="160344" pagina_final="160349">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24825.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24825</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24825</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24826</identificador>
+                <control>2024/18133</control>
+                <titulo>Resolución de 14 de noviembre de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Iberenova Promociones, SAU, autorización administrativa previa para la instalación solar fotovoltaica Peñaflor III, de 48,118 MW de potencia instalada, y sus infraestructuras de evacuación, para su hibridación con el parque eólico existente Peñaflor III, de 48,99 MW, en los términos municipales de San Cebrián de Mazote, Castromonte, Barruelo del Valle, Torrelobatón y Peñaflor de Hornija (Valladolid).</titulo>
+                <url_pdf szBytes="236267" szKBytes="231" pagina_inicial="160350" pagina_final="160356">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24826.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24826</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24826</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24827</identificador>
+                <control>2024/18134</control>
+                <titulo>Resolución de 14 de noviembre de 2024, de la Dirección General de Política Energética y Minas, por la que se otorga a Iberenova Promociones, SAU, autorización administrativa previa para la instalación solar fotovoltaica Peñaflor IV, de 48,118 MW de potencia instalada, y sus infraestructuras de evacuación, para su hibridación con el parque eólico existente Peñaflor IV, de 48,99 MW, en el término municipal de San Cebrián de Mazote (Valladolid).</titulo>
+                <url_pdf szBytes="232583" szKBytes="227" pagina_inicial="160357" pagina_final="160363">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24827.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24827</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24827</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9588" nombre="MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030">
+            <epigrafe nombre="Comunidad Autónoma de La Rioja. Convenio">
+              <item>
+                <identificador>BOE-A-2024-24828</identificador>
+                <control>2024/18218</control>
+                <titulo>Resolución de 19 de noviembre de 2024, de la Dirección General de Diversidad Familiar y Servicios Sociales, por la que se publica el Convenio con la Comunidad Autónoma de La Rioja, para el intercambio de información de personas usuarias de Servicios Sociales.</titulo>
+                <url_pdf szBytes="218278" szKBytes="213" pagina_inicial="160364" pagina_final="160368">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24828.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24828</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24828</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Comunitat Valenciana. Convenio">
+              <item>
+                <identificador>BOE-A-2024-24829</identificador>
+                <control>2024/18138</control>
+                <titulo>Resolución de 19 de noviembre de 2024, del Instituto de Mayores y Servicios Sociales, por la que se publica el Convenio con la Generalitat Valenciana, para el desarrollo del Marco de cooperación interadministrativa previsto en la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, y para el establecimiento y financiación del nivel de protección acordado para el ejercicio 2024.</titulo>
+                <url_pdf szBytes="331286" szKBytes="324" pagina_inicial="160369" pagina_final="160384">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24829.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24829</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24829</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9565" nombre="MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES">
+            <epigrafe nombre="Comunidad Autónoma de las Illes Balears. Convenio">
+              <item>
+                <identificador>BOE-A-2024-24830</identificador>
+                <control>2024/18220</control>
+                <titulo>Resolución de 18 de noviembre de 2024, del Instituto de Salud Carlos III, O.A., M.P., por la que se publica el Convenio con la Comunidad Autónoma de las Illes Balears, para la formación de médicos residentes de la especialidad de medicina preventiva y salud pública.</titulo>
+                <url_pdf szBytes="219487" szKBytes="214" pagina_inicial="160385" pagina_final="160389">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24830.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24830</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24830</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9579" nombre="MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES">
+            <epigrafe nombre="Comunidad Autónoma de Andalucía. Convenio">
+              <item>
+                <identificador>BOE-A-2024-24831</identificador>
+                <control>2024/18143</control>
+                <titulo>Resolución de 21 de noviembre de 2024, de la Secretaría General Técnica, por la que se publica el Convenio entre la Secretaría de Estado de Migraciones y la Universidad de Granada, para el desarrollo de prácticas académicas externas.</titulo>
+                <url_pdf szBytes="280828" szKBytes="274" pagina_inicial="160390" pagina_final="160398">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24831.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24831</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24831</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="1310" nombre="JUNTA ELECTORAL CENTRAL">
+            <epigrafe nombre="Cargos representativos locales">
+              <item>
+                <identificador>BOE-A-2024-24832</identificador>
+                <control>2024/18299</control>
+                <titulo>Resolución de 21 de noviembre de 2024, de la Presidencia de la Junta Electoral Central, por la que se anuncia propuesta de designación de concejal del Ayuntamiento de Manganeses de la Lampreana (Zamora), en aplicación de lo previsto en el artículo 182.2 de la Ley Orgánica del Régimen Electoral General, de conformidad con lo dispuesto en el número 2 del apartado segundo de la Instrucción de la Junta Electoral Central de 10 de julio de 2003 sobre sustitución de cargos representativos locales.</titulo>
+                <url_pdf szBytes="192390" szKBytes="188" pagina_inicial="160399" pagina_final="160399">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24832.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24832</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24832</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="1020" nombre="BANCO DE ESPAÑA">
+            <epigrafe nombre="Convenios">
+              <item>
+                <identificador>BOE-A-2024-24833</identificador>
+                <control>2024/18358</control>
+                <titulo>Resolución de 26 de noviembre de 2024, del Banco de España, por la que se publica el Convenio con el Colegio de Registradores de la Propiedad, Mercantiles y de Bienes Muebles de España, para el acceso a servicios registrales telemáticos via API y suministro periódico de información sobre operaciones societarias.</titulo>
+                <url_pdf szBytes="262459" szKBytes="256" pagina_inicial="160400" pagina_final="160410">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24833.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24833</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24833</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Mercado de divisas">
+              <item>
+                <identificador>BOE-A-2024-24834</identificador>
+                <control>2024/18359</control>
+                <titulo>Resolución de 27 de noviembre de 2024, del Banco de España, por la que se publican los cambios del euro correspondientes al día 27 de noviembre de 2024, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.</titulo>
+                <url_pdf szBytes="217246" szKBytes="212" pagina_inicial="160411" pagina_final="160412">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24834.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24834</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24834</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="8070" nombre="COMUNIDAD AUTÓNOMA DE CATALUÑA">
+            <epigrafe nombre="Bienes de interés cultural">
+              <item>
+                <identificador>BOE-A-2024-24835</identificador>
+                <control>2024/18147</control>
+                <titulo>Acuerdo GOV/245/2024, de 12 de noviembre, por el que se declara bien cultural de interés nacional el puente giratorio de Móra la Nova.</titulo>
+                <url_pdf szBytes="201704" szKBytes="197" pagina_inicial="160413" pagina_final="160414">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24835.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24835</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24835</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="310" nombre="UNIVERSIDADES">
+            <epigrafe nombre="Planes de estudios">
+              <item>
+                <identificador>BOE-A-2024-24836</identificador>
+                <control>2024/18090</control>
+                <titulo>Resolución de 19 de noviembre de 2024, de la Universidad de Murcia, por la que se publica la modificación del plan de estudios de Graduado o Graduada en Medicina.</titulo>
+                <url_pdf szBytes="291991" szKBytes="285" pagina_inicial="160415" pagina_final="160419">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24836.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24836</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24836</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24837</identificador>
+                <control>2024/18091</control>
+                <titulo>Resolución de 19 de noviembre de 2024, de la Universidad de Vigo, por la que se publica el plan de estudios de Máster Universitario en Biofabricación (Máster conjunto de las universidades de A Coruña, Santiago de Compostela y Vigo).</titulo>
+                <url_pdf szBytes="216795" szKBytes="212" pagina_inicial="160420" pagina_final="160421">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24837.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24837</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24837</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24838</identificador>
+                <control>2024/18092</control>
+                <titulo>Resolución de 19 de noviembre de 2024, de la Universidad San Jorge, por la que se publica la modificación del plan de estudios de Graduado o Graduada en Psicología.</titulo>
+                <url_pdf szBytes="309405" szKBytes="302" pagina_inicial="160422" pagina_final="160425">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24838.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24838</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24838</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2024-24839</identificador>
+                <control>2024/18093</control>
+                <titulo>Resolución de 20 de noviembre de 2024, de la Universidad Jaume I de Castellón, por la que se publica el plan de estudios de Graduado o Graduada en Marketing.</titulo>
+                <url_pdf szBytes="273039" szKBytes="267" pagina_inicial="160426" pagina_final="160428">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-A-2024-24839.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24839</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2024-24839</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="5A" nombre="V. Anuncios. - A. Contratación del Sector Público">
+          <departamento codigo="1220" nombre="CORTES GENERALES">
+            <item>
+              <identificador>BOE-B-2024-43524</identificador>
+              <titulo>Anuncio de licitación de: Mesa del Congreso de los Diputados. Objeto: Contrato de servicios de gestión de la Seguridad Social para el personal del Congreso de los Diputados, de las Cortes Generales y de la Junta Electoral Central. Expediente: CON-P2024/7100009.0 y COR-P2024/7100001.0.</titulo>
+              <url_pdf szBytes="170906" szKBytes="167" pagina_inicial="67958" pagina_final="67960">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43524.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43524</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43524</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="6110" nombre="MINISTERIO DE DEFENSA">
+            <item>
+              <identificador>BOE-B-2024-43525</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección Económico Financiero de la Dirección General de Infraestructura. MDE. Objeto: Madrid / Colmenar Viejo/ Base Logística de «San Pedro» / Establecimiento Disciplinario Militar «CENTRO» / Sustitución de calderas de gasóleo. Expediente: 2024/SP03032003/00001926E.</titulo>
+              <url_pdf szBytes="160508" szKBytes="157" pagina_inicial="67961" pagina_final="67962">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43525.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43525</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43525</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43526</identificador>
+              <titulo>Anuncio de formalización de contratos de: Intendente de Cartagena. Objeto: JEMAN - Contrato de servicios para limpiezas químicas, mecánicas, achiques y retirada de residuos de los buques del Arsenal de Cartagena. Expediente: 2024/AR44U/00003055E.</titulo>
+              <url_pdf szBytes="162910" szKBytes="159" pagina_inicial="67963" pagina_final="67964">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43526.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43526</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43526</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43527</identificador>
+              <titulo>Anuncio de formalización de contratos de: Intendencia de Madrid. Objeto: (02J) PASA Adquisición equipamiento industrial de laboratorio CAE - UVICOA. Expediente: 2024/AR21U/00001752E.</titulo>
+              <url_pdf szBytes="158085" szKBytes="154" pagina_inicial="67965" pagina_final="67966">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43527.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43527</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43527</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43528</identificador>
+              <titulo>Anuncio de formalización de contratos de: Intendencia de Madrid. Objeto: (02J) PASA Suministro de material de fontanería y climatización unidades OMP ámbito JESAT. Expediente: 2024/AR21U/00001224E.</titulo>
+              <url_pdf szBytes="157142" szKBytes="153" pagina_inicial="67967" pagina_final="67968">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43528.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43528</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43528</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43529</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada. Objeto: Mantenimiento de los sistemas y equipos de Telemedicina de los BUI´S de la Armada. Plurianual 24-25. Expediente: 2024/AR40U/00002585E.</titulo>
+              <url_pdf szBytes="160961" szKBytes="157" pagina_inicial="67969" pagina_final="67970">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43529.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43529</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43529</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43530</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Adquisición 10 maquinas pala cargadora retroexcavadora (mixta). Expediente: 2024/ETSAE0906/00004230E.</titulo>
+              <url_pdf szBytes="156813" szKBytes="153" pagina_inicial="67971" pagina_final="67972">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43530.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43530</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43530</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43531</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: ant25 cd am adq repuestos vías comunicación lote 4 motoniveladora. Expediente: 2024/ETSAE0906/00003589E.</titulo>
+              <url_pdf szBytes="158148" szKBytes="154" pagina_inicial="67973" pagina_final="67974">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43531.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43531</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43531</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43532</identificador>
+              <titulo>Anuncio de formalización de contratos de: Intendente de Cartagena. Objeto: JEMAN.-HESPERIDES.-Contrato de Servicios para la modernización del Sistema de Control de la Propulsión (SICP). Expediente: 2024/AR44U/00003150E.</titulo>
+              <url_pdf szBytes="163992" szKBytes="160" pagina_inicial="67975" pagina_final="67976">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43532.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43532</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43532</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43533</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 15 Agrupación del Cuartel General del Ejército del Aire. Objeto: Mobiliario para despacho de Dirección de la Sección de Idiomas del EA. Expediente: 2024/EA15/00002965.</titulo>
+              <url_pdf szBytes="161068" szKBytes="157" pagina_inicial="67977" pagina_final="67978">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43533.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43533</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43533</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43534</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Suministro de raciones RED (raciones de efectivos en desplazamientos). Expediente: 2024/ETSAE0906/00002294E.</titulo>
+              <url_pdf szBytes="158920" szKBytes="155" pagina_inicial="67979" pagina_final="67980">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43534.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43534</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43534</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43535</identificador>
+              <titulo>Anuncio de formalización de contratos de: Intendente de Cartagena. Objeto: JAT. Acuerdo marco de suministro de material de electricidad para Buques y Unidades dependientes del Arsenal de Cartagena. Expediente: 2024/AR44U/00002912E.</titulo>
+              <url_pdf szBytes="160691" szKBytes="157" pagina_inicial="67981" pagina_final="67982">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43535.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43535</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43535</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43536</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 15 Agrupación del Cuartel General del Ejército del Aire. Objeto: Sistema de purificación agua adecuada para análisis clínicos. Expediente: 2024/EA15/00003181.</titulo>
+              <url_pdf szBytes="161575" szKBytes="158" pagina_inicial="67983" pagina_final="67984">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43536.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43536</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43536</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43537</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Mantenimiento y adquisición de repuestos de los radioteléfonos de la familia PR4G. Expediente: 2024/ETSAE0906/00003827E.</titulo>
+              <url_pdf szBytes="157525" szKBytes="154" pagina_inicial="67985" pagina_final="67986">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43537.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43537</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43537</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43538</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 15 Agrupación del Cuartel General del Ejército del Aire. Objeto: Adquisición de material CIS fungible para el área de redes del CIGES. Expediente: 2024/EA15/00002403.</titulo>
+              <url_pdf szBytes="157941" szKBytes="154" pagina_inicial="67987" pagina_final="67988">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43538.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43538</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43538</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43539</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección General del INTA. Objeto: Construcción del Campus principal del Centro Tecnológico de Desarrollo y Experimentación, CETEDEX. Expediente: 582024070000.</titulo>
+              <url_pdf szBytes="162875" szKBytes="159" pagina_inicial="67989" pagina_final="67990">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43539.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43539</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43539</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43540</identificador>
+              <titulo>Anuncio de formalización de contratos de: Intendente de Ferrol. Objeto: Adecuación de edificaciones auxiliares. Expediente: 2024/AR42U/00002158E.</titulo>
+              <url_pdf szBytes="157836" szKBytes="154" pagina_inicial="67991" pagina_final="67992">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43540.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43540</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43540</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43541</identificador>
+              <titulo>Anuncio de formalización de contratos de: Intendente de San Fernando. Objeto: Suministro de estructuras modulares para casa de tiro de la Brigada de Infantería de Marina-Tercio de Armada. Expediente: 2024/AR43U/00001912E.</titulo>
+              <url_pdf szBytes="156961" szKBytes="153" pagina_inicial="67993" pagina_final="67994">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43541.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43541</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43541</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43542</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Adquisición de munición ACA 155 mm alcance extendido. Expediente: 2024/ETSAE0906/00003971E.</titulo>
+              <url_pdf szBytes="159988" szKBytes="156" pagina_inicial="67995" pagina_final="67996">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43542.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43542</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43542</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43543</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 22 - Base Aérea de Torrejón (Agrupación de Base). Objeto: APO 309 2024 - Suministro de material eléctrico de baja tensión. Expediente: 2024/EA22/00001957E.</titulo>
+              <url_pdf szBytes="157040" szKBytes="153" pagina_inicial="67997" pagina_final="67998">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43543.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43543</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43543</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43544</identificador>
+              <titulo>Anuncio de corrección de errores de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Adquisición de repuestos del VRCC CENTAURO del ET. Expediente: 2024/ETSAE0906/00002145E.</titulo>
+              <url_pdf szBytes="146049" szKBytes="143" pagina_inicial="67999" pagina_final="67999">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43544.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43544</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43544</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43545</identificador>
+              <titulo>Anuncio de licitación de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Adquisición de Ambulancias para unidades militares. Expediente: 2024/ETSAE0906/00002136E.</titulo>
+              <url_pdf szBytes="167707" szKBytes="164" pagina_inicial="68000" pagina_final="68002">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43545.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43545</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43545</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43546</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 15 Agrupación del Cuartel General del Ejército del Aire. Objeto: Contratación de peones por horas para efectuar movimiento de maquinaria, equipamiento y colocación de almacenes, desde el 1 de septiembre de 2024 hasta el 30 de abril de 2025. Expediente: 2024/EA15/00001043.</titulo>
+              <url_pdf szBytes="163104" szKBytes="159" pagina_inicial="68003" pagina_final="68004">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43546.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43546</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43546</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43547</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: mantenimiento de la estación de armas rcws minisamson. Expediente: 2024/ETSAE0906/00004100E.</titulo>
+              <url_pdf szBytes="157532" szKBytes="154" pagina_inicial="68005" pagina_final="68006">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43547.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43547</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43547</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43548</identificador>
+              <titulo>Anuncio de licitación de: Jefatura de Intendencia de Asuntos Económicos Este. Objeto: Camisas para los alumnos de la Academia General Militar (tramitación anticipada). Expediente: 2024/ETSAE0327/00005558E.</titulo>
+              <url_pdf szBytes="172983" szKBytes="169" pagina_inicial="68007" pagina_final="68009">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43548.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43548</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43548</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43549</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección de Adquisiciones del Mando de Apoyo Logístico del Ejército del Aire y del Espacio. Objeto: 20247313 Reposición vehículo autoextintor medio. Expediente: 2024/EA02/00001095E.</titulo>
+              <url_pdf szBytes="163695" szKBytes="160" pagina_inicial="68010" pagina_final="68011">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43549.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43549</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43549</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43550</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 15 Agrupación del Cuartel General del Ejército del Aire. Objeto: Trabajos técnicos de maquinista y ebanistería para los talleres del Grupo de Apoyo de la ACGEA, desde el 01-09-2024 hasta el 28-02-2025. Expediente: 2024/EA15/00001076.</titulo>
+              <url_pdf szBytes="162521" szKBytes="159" pagina_inicial="68012" pagina_final="68013">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43550.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43550</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43550</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43551</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Sostenimiento de los bancos automáticos de mantenimiento (SAM) para el ministerio de defensa . Expediente: 2024/ETSAE0906/00003653E.</titulo>
+              <url_pdf szBytes="156012" szKBytes="152" pagina_inicial="68014" pagina_final="68015">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43551.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43551</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43551</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43552</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Intendencia de Asuntos Económicos Sur. Objeto: Servicio de mantenimiento de grupos electrógenos en el Acto. Cervantes (Granada). Expediente: 2024/ETSAE0226/00008046E.</titulo>
+              <url_pdf szBytes="157802" szKBytes="154" pagina_inicial="68016" pagina_final="68017">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43552.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43552</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43552</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="5140" nombre="MINISTERIO DE HACIENDA">
+            <item>
+              <identificador>BOE-B-2024-43553</identificador>
+              <titulo>Anuncio de licitación de: Dirección del Servicio de Gestión Económica de la Agencia Estatal de la Administración Tributaria. Objeto: Mantenimiento de aparatos elevadores en los edificios de la AEAT. Expediente: 24700047500.</titulo>
+              <url_pdf szBytes="171634" szKBytes="168" pagina_inicial="68018" pagina_final="68020">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43553.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43553</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43553</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43554</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección del Servicio de Gestión Económica de la Agencia Estatal de la Administración Tributaria. Objeto: Seguro obligatorio de los vehículos adscritos al Departamento de Aduanas e II.EE. Expediente: 24710067200.</titulo>
+              <url_pdf szBytes="159418" szKBytes="156" pagina_inicial="68021" pagina_final="68022">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43554.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43554</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43554</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9586" nombre="MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE">
+            <item>
+              <identificador>BOE-B-2024-43555</identificador>
+              <titulo>Anuncio de licitación de: Dirección General de Carreteras. Objeto: 38-B-5230; 54.776/24 Actuaciones en el entorno de la estructura de cubrición abierta en la autovía B-40, PP.KK. 8+320 a 8+930. T.M. de Viladecavalls. Provincia de Barcelona. Expediente: C54240852300.</titulo>
+              <url_pdf szBytes="167592" szKBytes="164" pagina_inicial="68023" pagina_final="68025">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43555.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43555</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43555</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43556</identificador>
+              <titulo>Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Servicio de mantenimiento correctivo de la estación de Callosa de Segura - Cox. Expediente: 2.24/24108.0142.</titulo>
+              <url_pdf szBytes="159711" szKBytes="156" pagina_inicial="68026" pagina_final="68027">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43556.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43556</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43556</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43557</identificador>
+              <titulo>Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Prestación de servicios para realizar mediciones de niveles de vibración y ruido orientadas a la validación y comprobación del comportamiento de elementos de superestructura de vía. Expediente: 2.24/28520.0043.</titulo>
+              <url_pdf szBytes="159967" szKBytes="156" pagina_inicial="68028" pagina_final="68029">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43557.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43557</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43557</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9573" nombre="MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL">
+            <item>
+              <identificador>BOE-B-2024-43558</identificador>
+              <titulo>Anuncio de licitación de: Junta de Contratación del Ministerio de Trabajo y Economía Social. Objeto: Servicio de mantenimiento de las aplicaciones de la Unidad Administradora del Fondo Social Europeo (UAFSE) en el Ministerio de Trabajo y Economía Social, gestionadas por la Subdirección General de las Tecnologías de la Información y las Comunicaciones. Expediente: 10000749/2024.</titulo>
+              <url_pdf szBytes="168536" szKBytes="165" pagina_inicial="68030" pagina_final="68032">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43558.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43558</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43558</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43559</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección del Organismo Estatal Inspección de Trabajo y Seguridad Social. Objeto: Servicio de mantenimiento integral de las instalaciones de la sede de la Escuela de la Inspección de Trabajo y Seguridad Social . Expediente: 304/2024.</titulo>
+              <url_pdf szBytes="158208" szKBytes="155" pagina_inicial="68033" pagina_final="68034">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43559.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43559</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43559</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43560</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección del Organismo Estatal Inspección de Trabajo y Seguridad Social. Objeto: Servicio de guarda y custodia, consulta y destrucción de archivos de la Inspección Provincial de Trabajo y Seguridad Social de Barcelona . Expediente: 201/2024.</titulo>
+              <url_pdf szBytes="161873" szKBytes="158" pagina_inicial="68035" pagina_final="68036">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43560.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43560</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43560</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="3120" nombre="MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN">
+            <item>
+              <identificador>BOE-B-2024-43561</identificador>
+              <titulo>Anuncio de licitación de: Junta de Contratación del Ministerio de Agricultura, Pesca y Alimentación. Objeto: Servicio de mudanzas y transporte de materiales y documentación a nivel nacional en dependencias del Ministerio de Agricultura, Pesca y Alimentación y entre este y otros centros. Expediente: 20240000270S.</titulo>
+              <url_pdf szBytes="168460" szKBytes="165" pagina_inicial="68037" pagina_final="68039">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43561.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43561</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43561</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9575" nombre="MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO">
+            <item>
+              <identificador>BOE-B-2024-43562</identificador>
+              <titulo>Anuncio de formalización de contratos de: Junta de Contratación del Ministerio para la Transición Ecológica y el Reto Demográfico. Objeto: 20240000052L Servicio de limpieza en dependencias de cuatro unidades del MITECO. 4 LOTES -PCPE-CP18-. Expediente: 20240000052L.</titulo>
+              <url_pdf szBytes="170628" szKBytes="167" pagina_inicial="68040" pagina_final="68042">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43562.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43562</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43562</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43563</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección General de la Costa y el Mar. Objeto: Contrato de Servicios para la redacción del "Proyecto constructivo para la estabilización del frente litoral de las playas de Mabó y El Grau en el T.M. de Moncofa (Castellón)". Expediente: 12-0357.</titulo>
+              <url_pdf szBytes="161978" szKBytes="158" pagina_inicial="68043" pagina_final="68044">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43563.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43563</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43563</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43564</identificador>
+              <titulo>Anuncio de licitación de: Organismo Autónomo Parques Nacionales. Objeto: Servicio de limpieza en los centros del Parque Nacional de Cabañeros 2025-2027. Expediente: 20024016.</titulo>
+              <url_pdf szBytes="170630" szKBytes="167" pagina_inicial="68045" pagina_final="68047">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43564.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43564</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43564</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43565</identificador>
+              <titulo>Anuncio de corrección de errores de: Secretaría de Estado de Medio Ambiente. Objeto: Proyecto 12/22 de implantación de un sistema de generación fotovoltaico para suministro complementario en la IDAM de Alicante I (AC/Alicante), en el marco del Plan de Recuperación, Transformación y Resiliencia (PRTR). Expediente: P04.C11.I4.P02.S08.A01.01.</titulo>
+              <url_pdf szBytes="146331" szKBytes="143" pagina_inicial="68048" pagina_final="68048">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43565.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43565</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43565</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9587" nombre="MINISTERIO DE VIVIENDA Y AGENDA URBANA">
+            <item>
+              <identificador>BOE-B-2024-43566</identificador>
+              <titulo>Anuncio del concurso de proyectos de: Consejo de Administración SEPES Entidad Pública Empresarial de Suelo. Objeto: Concurso de Proyectos, con intervención de Jurado, para la contratación de los Servicios de Redacción del Proyecto de Edificación y Dirección Facultativa de las Obras de un edificio de viviendas para alquiler asequible en la Parcela situada en la Avenida de Castilla nº 38 y 40, en el municipio de Pedrafita Do Cebreiro (Lugo). Expediente: 131381.</titulo>
+              <url_pdf szBytes="157779" szKBytes="154" pagina_inicial="68049" pagina_final="68050">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43566.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43566</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43566</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="4110" nombre="MINISTERIO DE CULTURA">
+            <item>
+              <identificador>BOE-B-2024-43567</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección General del Instituto Nacional de las Artes Escénicas y de la Música. Objeto: CNDM - Actuación de la agrupación musical orquesta barroca de Sevilla y artistas. Universo Barroco Cámara 24/25 . Expediente: 2024AC000138.</titulo>
+              <url_pdf szBytes="152361" szKBytes="149" pagina_inicial="68051" pagina_final="68051">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43567.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43567</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43567</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43568</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección General del Instituto Nacional de las Artes Escénicas y de la Música. Objeto: CNDM - Actuación grupos, artistas e interpretes L´arpeggiata y el cuarteto Gerhald con Judit Jáuregui al piano . Expediente: 2024AC000128.</titulo>
+              <url_pdf szBytes="151856" szKBytes="148" pagina_inicial="68052" pagina_final="68052">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43568.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43568</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43568</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43569</identificador>
+              <titulo>Anuncio de licitación de: Junta de Contratación del Ministerio de Cultura y Deporte. Objeto: Conservación-restauración de un conjunto de bienes culturales del Museo Nacional de Arte Romano de Mérida (Badajoz). Expediente: J240054.</titulo>
+              <url_pdf szBytes="149816" szKBytes="146" pagina_inicial="68053" pagina_final="68053">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43569.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43569</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43569</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9589" nombre="MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA">
+            <item>
+              <identificador>BOE-B-2024-43570</identificador>
+              <titulo>Anuncio de formalización de contratos de: Instituto Nacional de Estadística INE. Objeto: Administración de sistemas. Expediente: 2024N0074006.</titulo>
+              <url_pdf szBytes="166849" szKBytes="163" pagina_inicial="68054" pagina_final="68056">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43570.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43570</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43570</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43571</identificador>
+              <titulo>Anuncio de licitación de: Instituto Nacional de Estadística INE. Objeto: Recogida de datos de la Encuesta de Turismo de Residentes en 2025 (ETR). Expediente: 2024N0059020.</titulo>
+              <url_pdf szBytes="167475" szKBytes="164" pagina_inicial="68057" pagina_final="68059">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43571.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43571</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43571</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="4335" nombre="MINISTERIO DE SANIDAD">
+            <item>
+              <identificador>BOE-B-2024-43572</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección General de Salud Pública y Equidad en Salud. Objeto: Creatividad, diseño y producción de una campaña institucional del Ministerio de Sanidad sobre salud y mujer 2025. Expediente: 202407PA0010.</titulo>
+              <url_pdf szBytes="161203" szKBytes="157" pagina_inicial="68060" pagina_final="68061">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43572.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43572</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43572</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9588" nombre="MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030">
+            <item>
+              <identificador>BOE-B-2024-43573</identificador>
+              <titulo>Anuncio de formalización de contratos de: Subdirección General de Análisis Presupuestario y Gestión Financiera del Instituto de Mayores y Servicios Sociales . Objeto: Suministro de víveres con destino al Centro de Recuperación de Personas con Discapacidad Física de Albacete . Expediente: 521/2024.</titulo>
+              <url_pdf szBytes="187130" szKBytes="183" pagina_inicial="68062" pagina_final="68065">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43573.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43573</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43573</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9565" nombre="MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES">
+            <item>
+              <identificador>BOE-B-2024-43574</identificador>
+              <titulo>Anuncio de formalización de contratos de: Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P. Objeto: Servicio técnico para el estudio piloto de geofísica aerotransportada en la zona de Morille-Martinamor, provincia de Salamanca, con destino al C. N. Instituto Geológico y Minero de España (IGME). Expediente: 32792/24.</titulo>
+              <url_pdf szBytes="161291" szKBytes="158" pagina_inicial="68066" pagina_final="68067">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43574.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43574</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43574</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43575</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección del Instituto de Astrofísica de Canarias. Objeto: Servicio de mantenimiento, control de caracterización, control analítico y retirada mediante camión de las estaciones depuradoras de aguas residuales en el Observatorio del Roque de los Muchachos. Expediente: LIC-24-014.</titulo>
+              <url_pdf szBytes="163192" szKBytes="159" pagina_inicial="68068" pagina_final="68069">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43575.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43575</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43575</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43576</identificador>
+              <titulo>Anuncio de licitación de: Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P. Objeto: Servicio técnico de aprovisionamiento de componentes electrónicos de alta fiabilidad y realización de ensayos para su certificación espacial del instrumento Venspec de la Misión Envision, de la Agencia Espacial Europea, destinado al Instituto de Astrofísica de Andalucía de la Agencia Estatal Consejo Superior de Investigaciones Científicas. Expediente: 32940/25.</titulo>
+              <url_pdf szBytes="171148" szKBytes="167" pagina_inicial="68070" pagina_final="68072">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43576.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43576</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43576</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43577</identificador>
+              <titulo>Anuncio de licitación de: Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P. Objeto: Suministro de una cámara gran angular con sensor CMOS (Complementary Metal-Oxide-Semiconductor) para el desarrollo de instrumentación científica a bordo de misiones espaciales, destinada al Instituto de Astrofísica de Andalucía de la Agencia Estatal Consejo Superior de Investigaciones Científicas. Expediente: 32982/25.</titulo>
+              <url_pdf szBytes="171788" szKBytes="168" pagina_inicial="68073" pagina_final="68075">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43577.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43577</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43577</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43578</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección de la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA) . Objeto: Servicio de Prevención de Riesgos Laborales y Vigilancia de la Salud en el Organismo Autónomo ANECA, por procedimiento abierto simplificado abreviado. Expediente: 2024Sd700030.</titulo>
+              <url_pdf szBytes="159376" szKBytes="156" pagina_inicial="68076" pagina_final="68077">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43578.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43578</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43578</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9579" nombre="MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES">
+            <item>
+              <identificador>BOE-B-2024-43579</identificador>
+              <titulo>Anuncio de formalización de contratos de: TGSS-Dirección provincial de Asturias. Objeto: Servicio de consultoría y asistencia técnica sobre mantenimiento de instalaciones y eficiencia energética, de los edificios/locales dependientes de la Dirección Provincial de la Tesorería General de la Seguridad Social de Asturias. Período 1 de diciembre de 2024 a 30 de noviembre de 2025. Expediente: 2024/330025.</titulo>
+              <url_pdf szBytes="158993" szKBytes="155" pagina_inicial="68078" pagina_final="68079">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43579.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43579</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43579</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43580</identificador>
+              <titulo>Anuncio de formalización de contratos de: TGSS-Dirección provincial de Albacete. Objeto: Vigilancia de la Salud colectiva y reconocimientos médicos laborales de los empleados públicos dependientes de la Dirección Provincial TGSS de Albacete. Expediente: 2024/020015.</titulo>
+              <url_pdf szBytes="152603" szKBytes="149" pagina_inicial="68080" pagina_final="68080">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43580.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43580</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43580</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43581</identificador>
+              <titulo>Anuncio de formalización de contratos de: INSS-Dirección provincial de Castellón. Objeto: Suministro de agendas para el personal de la Dirección Provincial del Instituto Nacional de la Seguridad Social en Castellón. Expediente: 12I/ASS-30/2024.</titulo>
+              <url_pdf szBytes="157867" szKBytes="154" pagina_inicial="68081" pagina_final="68082">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43581.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43581</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43581</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43582</identificador>
+              <titulo>Anuncio de formalización de contratos de: INSS-Dirección provincial de Valencia. Objeto: Servicios de retirada de lodos, desescombro y reparación del CAISS de Aldaia como consecuencia de los daños sufridos por la DANA del día 29 de octubre de 2024 . Expediente: 46/OR-2585/24.</titulo>
+              <url_pdf szBytes="162402" szKBytes="159" pagina_inicial="68083" pagina_final="68084">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43582.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43582</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43582</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43583</identificador>
+              <titulo>Anuncio de formalización de contratos de: INSS-Dirección provincial de Valencia. Objeto: Servicios de retirada de lodos, desescombro y labores de reparación en el CAISS de Catarroja como consecuencia de los daños sufridos por la DANA del día 29 de octubre de 2024 . Expediente: 46/OR-2583/24.</titulo>
+              <url_pdf szBytes="158477" szKBytes="155" pagina_inicial="68085" pagina_final="68086">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43583.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43583</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43583</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43584</identificador>
+              <titulo>Anuncio de licitación de: TGSS-Dirección provincial de Álava. Objeto: Servicio de vigilancia y seguridad de los edificios y oficinas de la Dirección Provincial de la TGSS de Álava. Expediente: 2024/010002.</titulo>
+              <url_pdf szBytes="149939" szKBytes="146" pagina_inicial="68087" pagina_final="68087">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43584.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43584</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43584</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43585</identificador>
+              <titulo>Anuncio de formalización de contratos de: INSS-Dirección Provincial de Málaga. Objeto: Prórroga contrato de arrendamiento, instalación completa, puesta en marcha y mantenimiento integral de 22 fuentes de agua purificadoras en la DP y sus Centros dependientes. Expediente: 29/PR 01/24-UC 41/2023.</titulo>
+              <url_pdf szBytes="160737" szKBytes="157" pagina_inicial="68088" pagina_final="68089">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43585.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43585</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43585</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9595" nombre="MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA">
+            <item>
+              <identificador>BOE-B-2024-43586</identificador>
+              <titulo>Anuncio de licitación de: Dirección General de la Entidad Pública Empresarial RED.ES. Objeto: Servicios de desarrollo y despliegue de la plataforma transversal de impulso a la ciencia abierta (PLATICA). Expediente: 005/24-RI.</titulo>
+              <url_pdf szBytes="167852" szKBytes="164" pagina_inicial="68090" pagina_final="68092">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43586.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43586</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43586</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43587</identificador>
+              <titulo>Anuncio de licitación de: Secretaría de Estado de Función Pública. Objeto: Servicios consolidados de telecomunicaciones de la Administración General del Estado y otras entidades públicas Fase III 4635. Expediente: 2024PA004635.</titulo>
+              <url_pdf szBytes="167471" szKBytes="164" pagina_inicial="68093" pagina_final="68096">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43587.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43587</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43587</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="1840" nombre="CONSEJO DE SEGURIDAD NUCLEAR">
+            <item>
+              <identificador>BOE-B-2024-43588</identificador>
+              <titulo>Anuncio de formalización de contratos de: Consejo de Seguridad Nuclear. Objeto: Renovación de las suscripciones del programa LIFERAY. Expediente: 2024Cd800324.</titulo>
+              <url_pdf szBytes="160166" szKBytes="156" pagina_inicial="68097" pagina_final="68098">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43588.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43588</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43588</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="1011" nombre="AGENCIA ESPAÑOLA DE PROTECCIÓN DE DATOS">
+            <item>
+              <identificador>BOE-B-2024-43589</identificador>
+              <titulo>Anuncio de formalización de contratos de: Agencia Española de Protección de Datos. Objeto: Suministro de las licencias de la herramienta de monitorización del rendimiento de aplicaciones Dynatrace de la AEPD. Expediente: EX20240084.</titulo>
+              <url_pdf szBytes="158856" szKBytes="155" pagina_inicial="68099" pagina_final="68100">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43589.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43589</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43589</url_xml>
+            </item>
+          </departamento>
+        </seccion>
+        <seccion codigo="5B" nombre="V. Anuncios. - B. Otros anuncios oficiales">
+          <departamento codigo="5140" nombre="MINISTERIO DE HACIENDA">
+            <item>
+              <identificador>BOE-B-2024-43590</identificador>
+              <titulo>Resolución de la Delegación de Economía y Hacienda en Gipuzkoa sobre prescripción de depósitos y garantías en efectivo en presunción de abandono.</titulo>
+              <url_pdf szBytes="147264" szKBytes="144" pagina_inicial="68101" pagina_final="68101">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43590.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43590</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43590</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9586" nombre="MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE">
+            <item>
+              <identificador>BOE-B-2024-43591</identificador>
+              <titulo>Resolución de la Autoridad Portuaria de Castellón por la que se declara desierta la enajenación mediante subasta pública del buque "Caribana Express". Nº-Imo 7816123.</titulo>
+              <url_pdf szBytes="146601" szKBytes="143" pagina_inicial="68102" pagina_final="68102">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43591.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43591</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43591</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43592</identificador>
+              <titulo>Anuncio de la Autoridad Portuaria de Santa Cruz de Tenerife referente al trámite de competencia de proyectos relativo a la solicitud presentada por la entidad Graneros de Tenerife, S.L. de una concesión de dominio público portuario en la zona de servicio del Puerto de Santa Cruz de Tenerife.</titulo>
+              <url_pdf szBytes="146850" szKBytes="143" pagina_inicial="68103" pagina_final="68103">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43592.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43592</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43592</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43593</identificador>
+              <titulo>Anuncio de la Autoridad Portuaria de la Bahía de Algeciras por la que se somete a información pública la solicitud de Carmen Moscoso Roldán de una concesión en el Muelle de la Isla Verde de Algeciras.</titulo>
+              <url_pdf szBytes="146223" szKBytes="143" pagina_inicial="68104" pagina_final="68104">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43593.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43593</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43593</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43594</identificador>
+              <titulo>Anuncio de la Autoridad Portuaria de la Bahía de Algeciras por la que se somete a información pública la solicitud de Cepsa Comercial Petróleo, S.A.U. de una concesión en el Muelle Pesquero Algeciras.</titulo>
+              <url_pdf szBytes="146322" szKBytes="143" pagina_inicial="68105" pagina_final="68105">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43594.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43594</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43594</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43595</identificador>
+              <titulo>Resolución de la Autoridad Portuaria de Avilés por la que se anuncia el concurso público para la adjudicación de la licencia para prestar el servicio portuario de practicaje en el Puerto de Avilés.</titulo>
+              <url_pdf szBytes="150332" szKBytes="147" pagina_inicial="68106" pagina_final="68107">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43595.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43595</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43595</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43596</identificador>
+              <titulo>Anuncio de la Autoridad Portuaria de Huelva referente al trámite de competencia de proyectos, relativo a la solicitud presentada por la empresa "Alex Huelva, S.L.", de una concesión administrativa en la zona de servicio del Puerto de Huelva.</titulo>
+              <url_pdf szBytes="145218" szKBytes="142" pagina_inicial="68108" pagina_final="68108">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43596.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43596</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43596</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9590" nombre="MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES">
+            <item>
+              <identificador>BOE-B-2024-43597</identificador>
+              <titulo>Extracto de la Resolución de la Secretaría de Estado de Educación, por la que se convocan plazas para la realización de cursos tutorizados en línea para la formación permanente del profesorado de niveles no universitarios y del curso sobre actualización de competencias directivas. Primera convocatoria de 2025.</titulo>
+              <url_pdf szBytes="154045" szKBytes="150" pagina_inicial="68109" pagina_final="68110">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43597.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43597</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43597</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9573" nombre="MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL">
+            <item>
+              <identificador>BOE-B-2024-43598</identificador>
+              <titulo>Resolución de la Dirección General de Trabajo por la que se anuncia el depósito de la modificación de los estatutos de la asociación empresarial denominada ASOCIACION ESPAÑOLA DE CORREDURIAS DE SEGUROS Y REASEGUROS, en siglas ADECOSE, con número de depósito 99000936 (antiguo número de depósito 970).</titulo>
+              <url_pdf szBytes="148233" szKBytes="145" pagina_inicial="68111" pagina_final="68111">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43598.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43598</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43598</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43599</identificador>
+              <titulo>Resolución de la Dirección General de Trabajo por la que se anuncia la constitución del sindicato denominado COORDINADORA DE MUSICOS DE TEATRO MUSICAL, en siglas CMTM, con número de depósito 99106309.</titulo>
+              <url_pdf szBytes="148017" szKBytes="145" pagina_inicial="68112" pagina_final="68112">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43599.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43599</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43599</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9593" nombre="MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA">
+            <item>
+              <identificador>BOE-B-2024-43600</identificador>
+              <titulo>Anuncio de la Dependencia de Industria y Energía de la Subdelegación del Gobierno en Albacete, por el que se somete al trámite de Información Pública la Solicitud de Autorización Administrativa Previa, la Solicitud de Autorización Administrativa de Construcción y la Solicitud de Declaración de Utilidad Pública del Proyecto de ejecución del Parque Eólico Campanario II Híbrido, de 10 MW de potencia instalada, para su hibridación con el parque solar fotovoltaico denominado FV Campanario II, de 48,12 MW de potencia instalada, y para parte de su infraestructura de evacuación, en la provincia de Albacete.</titulo>
+              <url_pdf szBytes="245159" szKBytes="239" pagina_inicial="68113" pagina_final="68117">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43600.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43600</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43600</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9575" nombre="MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO">
+            <item>
+              <identificador>BOE-B-2024-43601</identificador>
+              <titulo>Anuncio de la Demarcación de Costas en Murcia de información pública relativa a la solicitud de autorización para la realización de trabajos de mantenimiento y recuperación de las playas del Mar Menor (Villananitos y La Puntica) y del Mar Mediterráneo (La Llana y El Mojón), en el término municipal San Pedro del Pinatar (Murcia). Ref: AUT02/24/30/0074.</titulo>
+              <url_pdf szBytes="149143" szKBytes="146" pagina_inicial="68118" pagina_final="68118">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43601.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43601</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43601</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43602</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de solicitud de concesión de aguas subterráneas en el término municipal de Daimiel (Ciudad Real) - 1726/2011.</titulo>
+              <url_pdf szBytes="154066" szKBytes="150" pagina_inicial="68119" pagina_final="68120">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43602.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43602</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43602</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43603</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Miño-Sil, O.A. de información pública del expediente de autorización para la corta de 11 chopos en dominio público hidráulico del río Sil y la corta de 4 chopos con riesgo de caída en dominio público hidráulico del río Sil, en el término municipal de Vilamartín de Valdeorras (Ourense).</titulo>
+              <url_pdf szBytes="149087" szKBytes="146" pagina_inicial="68121" pagina_final="68121">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43603.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43603</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43603</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43604</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de solicitud de concesión de aguas subterráneas en el término municipal de Miguelturra (Ciudad Real)- 3379/2016.</titulo>
+              <url_pdf szBytes="153640" szKBytes="150" pagina_inicial="68122" pagina_final="68123">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43604.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43604</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43604</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43605</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de solicitud de concesión de aguas subterráneas en el término municipal de Villarrubia de los Ojos (Ciudad Real)- 3332/2017.</titulo>
+              <url_pdf szBytes="151402" szKBytes="148" pagina_inicial="68124" pagina_final="68124">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43605.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43605</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43605</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43606</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de solicitud de concesión de aguas subterráneas en el término municipal de Arenas de San Juan (Ciudad Real)- 1749/2018.</titulo>
+              <url_pdf szBytes="154780" szKBytes="151" pagina_inicial="68125" pagina_final="68126">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43606.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43606</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43606</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43607</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de solicitud de concesión de aguas subterráneas en el término municipal de Villarrubia de los Ojos (Ciudad Real)- 2847/2018.</titulo>
+              <url_pdf szBytes="154307" szKBytes="151" pagina_inicial="68127" pagina_final="68128">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43607.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43607</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43607</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43608</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de solicitud de concesión de aguas subterráneas en el término municipal de Villarrobledo (Albacete)- 2086/2019.</titulo>
+              <url_pdf szBytes="159194" szKBytes="155" pagina_inicial="68129" pagina_final="68130">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43608.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43608</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43608</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43609</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre información pública de una solicitud de autorización en el término municipal de Alcorisa (Teruel).</titulo>
+              <url_pdf szBytes="147120" szKBytes="144" pagina_inicial="68131" pagina_final="68131">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43609.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43609</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43609</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43610</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Cantábrico, O.A. de información pública de procedimiento de concesión de agua de manantiales y/o regatas en la provincia de Navarra. A/31/04603.</titulo>
+              <url_pdf szBytes="148093" szKBytes="145" pagina_inicial="68132" pagina_final="68132">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43610.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43610</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43610</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43611</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Miño-Sil, O.A. de información pública del expediente de autorización para la corta de árboles y desbroce en dominio público hidráulico del regato de Lamos, en O Quintairo, término municipal de Amoeiro (Ourense).</titulo>
+              <url_pdf szBytes="148583" szKBytes="145" pagina_inicial="68133" pagina_final="68133">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43611.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43611</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43611</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43612</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Miño-Sil, O.A. por el que se hace público el otorgamiento de la concesión para el aprovechamiento de 0,477 l/s de agua procedente de Fonte Cazón, Fonte da Forestal y Rego Pequeno do Carmen, situadas en la parroquia de Pígara (San Pedro), en el término municipal de Guitiriz (Lugo) para abastecimiento y usos ganaderos. Expediente A/27/30070.</titulo>
+              <url_pdf szBytes="147496" szKBytes="144" pagina_inicial="68134" pagina_final="68134">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43612.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43612</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43612</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43613</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre la resolución de concesión de un aprovechamiento de aguas públicas subterráneas en el término municipal de Ricla (Zaragoza).</titulo>
+              <url_pdf szBytes="146387" szKBytes="143" pagina_inicial="68135" pagina_final="68135">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43613.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43613</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43613</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43614</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Miño-Sil, O.A. por el que se hace público el otorgamiento de la concesión para el aprovechamiento de 0,022 l/s de agua procedente de dos minas, en el lugar de Caspedro, parroquia de Quiroga (San Martiño), término municipal de Quiroga (Lugo) para riego de 0.2118 ha. Expediente A/27/32130.</titulo>
+              <url_pdf szBytes="146824" szKBytes="143" pagina_inicial="68136" pagina_final="68136">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43614.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43614</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43614</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43615</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre la resolución de modificación de una concesión de un aprovechamiento de aguas públicas subterráneas en el término municipal de Ricla (Zaragoza).</titulo>
+              <url_pdf szBytes="145788" szKBytes="142" pagina_inicial="68137" pagina_final="68137">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43615.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43615</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43615</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43616</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Tajo de información pública en el expediente de extinción del derecho a un aprovechamiento de un caudal máximo aprovechable de 12 l/s de aguas subterráneas, con destino a abastecimiento de la Residencia de Mayores "Villaviciosa de Odón" (incluido el riego de jardines, sistema contraincendios e implantación del Plan de Prevención de la Legionelosis), en el T.M. de Villaviciosa de Odón (Madrid).</titulo>
+              <url_pdf szBytes="153677" szKBytes="150" pagina_inicial="68138" pagina_final="68139">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43616.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43616</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43616</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43617</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Tajo de información pública en el expediente de extinción del derecho a un aprovechamiento de un caudal máximo aprovechable de 1,39 l/s de aguas subterráneas, con destino a riego por goteo de pistachos y almendros, en el T.M. de Corral de Almaguer (Toledo).</titulo>
+              <url_pdf szBytes="153366" szKBytes="150" pagina_inicial="68140" pagina_final="68141">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43617.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43617</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43617</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43618</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Tajo de información pública en el expediente de extinción del derecho a un aprovechamiento de un caudal máximo aprovechable de 1,39 l/s de aguas subterráneas, con destino a riego por goteo de pistachos, en el T.M de Corral de Almaguer (Toledo).</titulo>
+              <url_pdf szBytes="153198" szKBytes="150" pagina_inicial="68142" pagina_final="68143">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43618.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43618</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43618</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43619</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre la resolución de concesión de un aprovechamiento de aguas públicas subterráneas en el término municipal de Ricla (Zaragoza).</titulo>
+              <url_pdf szBytes="145911" szKBytes="142" pagina_inicial="68144" pagina_final="68144">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43619.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43619</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43619</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43620</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Tajo de información pública en el expediente de extinción del derecho a un aprovechamiento de un caudal máximo aprovechable de 1,67 l/s de aguas subterráneas, con destino a riego, en el término municipal de Corral de Almaguer (Toledo).</titulo>
+              <url_pdf szBytes="151949" szKBytes="148" pagina_inicial="68145" pagina_final="68146">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43620.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43620</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43620</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43621</identificador>
+              <titulo>Anuncio de la Demarcación de Costas en Cantabria sobre solicitud de prórroga de la concesión de dominio público marítimo-terrestre para "Autovía del Agua, tramo depósito de Polanco-bajo Pas", en el término municipal de Piélagos. Referencia: CNC02/08/39/0004.</titulo>
+              <url_pdf szBytes="146633" szKBytes="143" pagina_inicial="68147" pagina_final="68147">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43621.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43621</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43621</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43622</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Guadalquivir de información pública del procedimiento de transmutación de derechos de aguas privadas a públicas para riego de 1,56 ha y un volumen de 2.340 m3/año con captación subterránea en Fuentes de Andalucía (Sevilla). Expediente 2608/2021.</titulo>
+              <url_pdf szBytes="150156" szKBytes="147" pagina_inicial="68148" pagina_final="68148">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43622.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43622</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43622</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43623</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Guadalquivir de información pública del procedimiento de la concesión de aguas públicas para riego de 2,01 ha y un volumen de 3.015 m3/año con captación superficial en Montefrío (Granada). Expediente 681/2012.</titulo>
+              <url_pdf szBytes="149315" szKBytes="146" pagina_inicial="68149" pagina_final="68149">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43623.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43623</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43623</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43624</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Guadalquivir de información pública del procedimiento de transmutación de derechos de aguas privadas a públicas para riego de 12 ha y un volumen de 44.000 m3/año con captación subterránea en Arahal (Sevilla). Expediente 4692/2019.</titulo>
+              <url_pdf szBytes="149632" szKBytes="146" pagina_inicial="68150" pagina_final="68150">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43624.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43624</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43624</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43625</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Guadalquivir de información pública del procedimiento de transmutación de derechos de aguas privadas a públicas para riego de 9,6 ha y un volumen de 14.400 m3/año, con captación subterránea en Carmona (Sevilla). Expediente 2715/2018.</titulo>
+              <url_pdf szBytes="152464" szKBytes="149" pagina_inicial="68151" pagina_final="68152">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43625.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43625</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43625</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43626</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Guadalquivir de información pública del procedimiento de modificación de características y novación de la concesión de aguas públicas para riego de 7,08 ha, 4.960 cabezas de porcino y uso fitosanitario con un volumen de 22.590 m3/año, con captaciones subterráneas en La Roda de Andalucía (Sevilla). Expediente 562/2012.</titulo>
+              <url_pdf szBytes="153214" szKBytes="150" pagina_inicial="68153" pagina_final="68154">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43626.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43626</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43626</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43627</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Guadalquivir de información pública del procedimiento de modificación de características y novación de la concesión de aguas públicas para riego de 15,3 ha y un volumen de 61.506 m3/año, con captaciones subterráneas en Osuna (Sevilla). Expediente 204/2021.</titulo>
+              <url_pdf szBytes="152506" szKBytes="149" pagina_inicial="68155" pagina_final="68156">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43627.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43627</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43627</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43628</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Guadalquivir de información pública del procedimiento de transmutación de derechos, modificación de características y novación de la concesión de aguas públicas para riego de 6,14 ha y un volumen de 30.700 m3/año, con captaciones subterráneas en Los Molares (Sevilla). Expediente 992/2021.</titulo>
+              <url_pdf szBytes="152446" szKBytes="149" pagina_inicial="68157" pagina_final="68158">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43628.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43628</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43628</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43629</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Miño-Sil, O.A. de información pública del expediente de autorización para la corta de 420 árboles (robles, sauces, fresnos y abedules) y posterior cambio de cultivo, en la margen derecha de un arroyo innominado, parcela 29-polígono 1 de la parroquia de Vilar (Santa María) del término municipal de Cospeito (Lugo).</titulo>
+              <url_pdf szBytes="149045" szKBytes="146" pagina_inicial="68159" pagina_final="68159">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43629.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43629</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43629</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43630</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre la resolución de concesión de un aprovechamiento de aguas públicas subterráneas en el término municipal de Fuentes-Claras (Teruel).</titulo>
+              <url_pdf szBytes="145605" szKBytes="142" pagina_inicial="68160" pagina_final="68160">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43630.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43630</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43630</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43631</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre la resolución de concesión de un aprovechamiento de aguas públicas subterráneas en el término municipal de Lascellas - Lascellas-Ponzano (Huesca).</titulo>
+              <url_pdf szBytes="146101" szKBytes="143" pagina_inicial="68161" pagina_final="68161">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43631.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43631</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43631</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43632</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre la resolución de concesión de un aprovechamiento de aguas públicas subterráneas en el término municipal de Tornos (Teruel).</titulo>
+              <url_pdf szBytes="145766" szKBytes="142" pagina_inicial="68162" pagina_final="68162">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43632.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43632</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43632</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43633</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Miño-Sil, O.A. de información pública del expediente de autorización para la corta de 14 chopos en dominio público hidráulico, 3 chopos en zona de servidumbre y 23 chopos en zona de policía del río Galir, en el término municipal de Rubiá (Ourense).</titulo>
+              <url_pdf szBytes="149606" szKBytes="146" pagina_inicial="68163" pagina_final="68163">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43633.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43633</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43633</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43634</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre información pública de una solicitud de concesión de un aprovechamiento de aguas públicas subterráneas en el término municipal de Villarcayo de Merindad de Castilla la Vieja (Burgos).</titulo>
+              <url_pdf szBytes="147420" szKBytes="144" pagina_inicial="68164" pagina_final="68164">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43634.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43634</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43634</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43635</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre información pública de una solicitud de concesión de un aprovechamiento de aguas públicas subterráneas en el término municipal de Tivissa (Tarragona).</titulo>
+              <url_pdf szBytes="146827" szKBytes="143" pagina_inicial="68165" pagina_final="68165">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43635.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43635</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43635</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43636</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Miño-Sil, O.A. de información pública del expediente de concesión para el aprovechamiento de 7,71 l/s de agua procedente de un pozo, situado en el paraje "Piñeiros de Anta", en la parroquia de Perrelos (Santa María), término municipal de Sarreaus (Ourense), con destino a riego.</titulo>
+              <url_pdf szBytes="148964" szKBytes="145" pagina_inicial="68166" pagina_final="68166">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43636.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43636</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43636</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43637</identificador>
+              <titulo>Anuncio de la Demarcación de Costas en Valencia sobre el otorgamiento de la concesión para ocupación y aprovechamiento del dominio público marítimo-terrestre, en el TM de Valencia. REF: CNC12/09/46/0003.</titulo>
+              <url_pdf szBytes="147809" szKBytes="144" pagina_inicial="68167" pagina_final="68167">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43637.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43637</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43637</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43638</identificador>
+              <titulo>Anuncio de la Demarcación de Costas del País Vasco por el que somete a Información Pública, con documentación complementaria, la solicitud de concesión para la ocupación de terrenos de dominio público marítimo-terrestre con destino a la legalización de las infraestructuras existentes y la ejecución de obras de refuerzo del dique-muro de abrigo de la antigua Central Nuclear de Lemoiz, con el objetivo de garantizar su estabilidad frente al oleaje, en el término municipal de Lemoiz (Bizkaia). Referencia: CNC02/23/48/0019.</titulo>
+              <url_pdf szBytes="149002" szKBytes="146" pagina_inicial="68168" pagina_final="68168">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43638.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43638</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43638</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43639</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Tajo O.A. de la información pública de la solicitud de una concesión de aguas en el término municipal de Hormigos (Toledo). Referencia C-0113/2024.</titulo>
+              <url_pdf szBytes="149167" szKBytes="146" pagina_inicial="68169" pagina_final="68169">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43639.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43639</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43639</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9534" nombre="COMISIÓN NACIONAL DE LOS MERCADOS Y LA COMPETENCIA">
+            <item>
+              <identificador>BOE-B-2024-43640</identificador>
+              <titulo>Anuncio de la Dirección de Transportes y del Sector Postal de la Comisión Nacional de los Mercados y la Competencia por el que se notifica la apertura de trámite de audiencia en el procedimiento de determinación del modo de entrega de los envíos postales ordinarios en la zona de las calles Camino Nuevo de Lanza, Camino Cerro Lanza, Camino Cuesta de Lanza, Camino Lagarillo Los Mirlos, Camino Cortijo Maimón, Camino Cortijo Vallejo, Camino Finca Los Herrera y sus Diseminados del distrito Puerto de la Torre, referencia STP/DTSP/058/24, perteneciente al distrito Puerto de la Torre en el término municipal de Málaga.</titulo>
+              <url_pdf szBytes="147494" szKBytes="144" pagina_inicial="68170" pagina_final="68170">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43640.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43640</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43640</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43641</identificador>
+              <titulo>Anuncio de la Dirección de Transportes y del Sector Postal de la Comisión Nacional de los Mercados y la Competencia por el que se notifica la apertura de trámite de audiencia en el procedimiento de determinación del modo de entrega de los envíos postales ordinarios en la urbanización Santa Rosa dels Pins, referencia STP/DTSP/033/24 perteneciente al término municipal de Arenys de Munt (Barcelona).</titulo>
+              <url_pdf szBytes="147327" szKBytes="144" pagina_inicial="68171" pagina_final="68171">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43641.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43641</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43641</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43642</identificador>
+              <titulo>Anuncio de la Dirección de Transportes y del Sector Postal de la Comisión Nacional de los Mercados y la Competencia por el que se notifica la apertura de trámite de audiencia en el procedimiento de determinación del modo de entrega de los envíos postales ordinarios en la urbanización Tres Turons, referencia STP/DTSP/034/24 perteneciente al término municipal de Arenys de Munt (Barcelona).</titulo>
+              <url_pdf szBytes="147245" szKBytes="144" pagina_inicial="68172" pagina_final="68172">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43642.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43642</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43642</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43643</identificador>
+              <titulo>Anuncio de la Dirección de Transportes y del Sector Postal de la Comisión Nacional de los Mercados y la Competencia por el que se notifica la apertura de trámite de audiencia en el procedimiento de determinación del modo de entrega de los envíos postales ordinarios en la urbanización Collsacreu, referencia STP/DTSP/035/24 perteneciente al término municipal de Arenys de Munt (Barcelona).</titulo>
+              <url_pdf szBytes="147314" szKBytes="144" pagina_inicial="68173" pagina_final="68173">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43643.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43643</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43643</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="8070" nombre="COMUNIDAD AUTÓNOMA DE CATALUÑA">
+            <item>
+              <identificador>BOE-B-2024-43644</identificador>
+              <titulo>Resolución de la Dirección General de Energía, por la cual se otorga a Delta Renovables S.A., la autorización administrativa previa, autorización administrativa de construcción y declaración de utilidad pública del proyecto de la planta solar fotovoltaica de generación de energía de autoconsumo con excedentes denominada PSFV Vilalba dels Arcs de 2,5 MW de potencia instalada sobre terreno en suelo no urbanizable, y sus infraestructuras de evacuación, líneas soterradas a 25 kV, en los términos municipales de Vilalba dels Arcs y Batea, en la comarca de la Terra Alta, Expediente: FUE-2022-02729365; Referencia: 02599.</titulo>
+              <url_pdf szBytes="188730" szKBytes="184" pagina_inicial="68174" pagina_final="68180">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43644.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43644</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43644</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43645</identificador>
+              <titulo>Anuncio de los Servicios Territoriales del Departamento de Territorio, Vivienda y Transición Ecológica en les Terres de l'Ebre por el cual se somete a información pública la solicitud de declaración de utilidad pública de la planta solar fotovoltaica denominada Planta Solar Fotovoltaica La Ribera I de 15 MW sobre terreno en suelo no urbanizable y su infraestructura de evacuación, líneas soterradas en 25kV, en el término municipal de Garcia, en la comarca de la Ribera d'Ebre (Expediente: FUE-2020-01840258; Referencia 02560).</titulo>
+              <url_pdf szBytes="250333" szKBytes="244" pagina_inicial="68181" pagina_final="68184">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43645.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43645</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43645</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="8020" nombre="COMUNIDAD AUTÓNOMA DE ARAGÓN">
+            <item>
+              <identificador>BOE-B-2024-43646</identificador>
+              <titulo>Anuncio del Servicio Provincial de Zaragoza relativo a la admisión definitiva de la solicitud del permiso de investigación para recursos de la Sección C), pizarras, arcillas y cuarcitas, denominado "La Zaragozana", nº 3.562, sito en los términos municipales de Luesma y Fombuena, provincia de Zaragoza y Nogueras, provincia de Teruel.</titulo>
+              <url_pdf szBytes="150986" szKBytes="147" pagina_inicial="68185" pagina_final="68185">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43646.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43646</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43646</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="8030" nombre="COMUNIDAD AUTÓNOMA DE CANARIAS">
+            <item>
+              <identificador>BOE-B-2024-43647</identificador>
+              <titulo>Anuncio de información pública de la Dirección General de Energía relativo a la solicitud de autorización administrativa y declaración, en concreto, de utilidad pública del proyecto correspondiente a la instalación solar fotovoltaica "Llanos de los Bebederos I", en el término municipal de Arona, en la isla de Tenerife. Expediente: ER225921.</titulo>
+              <url_pdf szBytes="172514" szKBytes="168" pagina_inicial="68186" pagina_final="68187">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43647.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43647</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43647</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="310" nombre="UNIVERSIDADES">
+            <item>
+              <identificador>BOE-B-2024-43648</identificador>
+              <titulo>Anuncio de la Facultad de Enfermería de la Universidad de Navarra sobre extravío de título universitario.</titulo>
+              <url_pdf szBytes="143275" szKBytes="140" pagina_inicial="68188" pagina_final="68188">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43648.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43648</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43648</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43649</identificador>
+              <titulo>Anuncio de la Facultad de Derecho de la Universidad Complutense de Madrid sobre extravío de título universitario.</titulo>
+              <url_pdf szBytes="143196" szKBytes="140" pagina_inicial="68189" pagina_final="68189">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43649.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43649</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43649</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43650</identificador>
+              <titulo>Anuncio de la Escuela Técnica Superior de Ingeniería Industrial de la Universidad Politécnica de Cartagena sobre extravío de título universitario.</titulo>
+              <url_pdf szBytes="143813" szKBytes="140" pagina_inicial="68190" pagina_final="68190">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43650.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43650</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43650</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43651</identificador>
+              <titulo>Anuncio de la Escuela Politécnica Superior de Gandia de la Universitat Politècnica de València sobre extravío de título universitario.</titulo>
+              <url_pdf szBytes="143849" szKBytes="140" pagina_inicial="68191" pagina_final="68191">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43651.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43651</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43651</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43652</identificador>
+              <titulo>Anuncio de la Universidad de Las Palmas de Gran Canaria sobre extravío de título universitario.</titulo>
+              <url_pdf szBytes="143722" szKBytes="140" pagina_inicial="68192" pagina_final="68192">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43652.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43652</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43652</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43653</identificador>
+              <titulo>Anuncio de la Facultad de Ciencias de la Información de la Universidad Complutense de Madrid sobre extravío de título universitario.</titulo>
+              <url_pdf szBytes="143343" szKBytes="140" pagina_inicial="68193" pagina_final="68193">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43653.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43653</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43653</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43654</identificador>
+              <titulo>Anuncio de la Facultad de Ciencias Económicas y Empresariales de la Universidad de Granada sobre extravío de título universitario.</titulo>
+              <url_pdf szBytes="143857" szKBytes="140" pagina_inicial="68194" pagina_final="68194">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43654.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43654</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43654</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9536" nombre="OTROS ENTES">
+            <item>
+              <identificador>BOE-B-2024-43655</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes del Pantano del Rumblar sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="145416" szKBytes="142" pagina_inicial="68195" pagina_final="68195">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43655.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43655</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43655</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43656</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes San Isidro, de Tórtoles de Esgueva (Burgos) sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="145048" szKBytes="142" pagina_inicial="68196" pagina_final="68196">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43656.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43656</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43656</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43657</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Ribera Alta del Porma sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="144872" szKBytes="141" pagina_inicial="68197" pagina_final="68197">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43657.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43657</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43657</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43658</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Sequia Aledua Mare Llombai sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="146927" szKBytes="143" pagina_inicial="68198" pagina_final="68198">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43658.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43658</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43658</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43659</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Lasesa sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="146107" szKBytes="143" pagina_inicial="68199" pagina_final="68199">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43659.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43659</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43659</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43660</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes de la Zona Regable del Viar sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="146435" szKBytes="143" pagina_inicial="68200" pagina_final="68200">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43660.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43660</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43660</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43661</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes de La Panderona sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="145246" szKBytes="142" pagina_inicial="68201" pagina_final="68201">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43661.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43661</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43661</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43662</identificador>
+              <titulo>Anuncio de la Comunidad de Usuarios de Aguas de Rozas e Granxa de Arbo sobre convocatoria de Asamblea Extraordinaria.</titulo>
+              <url_pdf szBytes="144072" szKBytes="141" pagina_inicial="68202" pagina_final="68202">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43662.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43662</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43662</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43663</identificador>
+              <titulo>Anuncio de la Comunidad de Usuarios de Tomiño-Forcadela sobre convocatoria de Asamblea General Ordinaria.</titulo>
+              <url_pdf szBytes="145813" szKBytes="142" pagina_inicial="68203" pagina_final="68203">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43663.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43663</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43663</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43664</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes de Borbollon y Rivera de Gata sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="145863" szKBytes="142" pagina_inicial="68204" pagina_final="68204">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43664.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43664</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43664</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43665</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Castrillo Del Val San Medel y Cardeñajimeno sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="145655" szKBytes="142" pagina_inicial="68205" pagina_final="68205">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43665.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43665</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43665</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2024-43666</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Canales del Arlanzón sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="145436" szKBytes="142" pagina_inicial="68206" pagina_final="68206">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43666.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43666</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43666</url_xml>
+            </item>
+          </departamento>
+        </seccion>
+        <seccion codigo="5C" nombre="V. Anuncios. - C. Anuncios particulares">
+          <departamento codigo="9202" nombre="ANUNCIOS PARTICULARES">
+            <item>
+              <identificador>BOE-B-2024-43667</identificador>
+              <titulo>CAJA LABORAL GESTION SGIIC, S.A.</titulo>
+              <url_pdf szBytes="143452" szKBytes="140" pagina_inicial="68207" pagina_final="68207">https://www.boe.es/boe/dias/2024/11/28/pdfs/BOE-B-2024-43667.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-43667</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2024-43667</url_xml>
+            </item>
+          </departamento>
+        </seccion>
+      </diario>
+    </sumario>
+  </data>
+</response>
