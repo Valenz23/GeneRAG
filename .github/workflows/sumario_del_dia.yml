@@ -2,7 +2,7 @@ name: Descargar sumario del día
 
 on:
   schedule:
-    - cron: "0 10 * * 1-6"
+    - cron: "0 9 * * 1-6"
   workflow_dispatch:  
 
 jobs:
