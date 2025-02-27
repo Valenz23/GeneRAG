@@ -27,9 +27,9 @@ jobs:
 
       - name: Descarga de elementos del sumario del día
         run: |
-          cd scripts
-          chmod +x ./get_items_hoy.py
+          cd scripts          
           pip install requests
+          chmod +x ./get_items_hoy.py
           python ./get_items_hoy.py
 
       - name: Commit y push al repositorio
