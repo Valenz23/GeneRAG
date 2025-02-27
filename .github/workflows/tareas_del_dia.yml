@@ -6,7 +6,7 @@ on:
   workflow_dispatch:  
 
 jobs:
-  descargar_sumario:
+  tareas_diarias:
     name: Ejecución de tareas diarias
     runs-on: ubuntu-latest
 
