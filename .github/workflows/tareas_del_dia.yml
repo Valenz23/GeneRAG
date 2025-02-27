@@ -1,0 +1,38 @@
+name: Ejecución de tareas diarias
+
+on:
+  schedule:
+    - cron: "0 9 * * 1-6"
+  workflow_dispatch:  
+
+jobs:
+  descargar_sumario:
+    name: Ejecución de tareas diarias
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v4.2.2
+
+      - name: Configuración de Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11' 
+
+      - name: Descarga del sumario del día
+        run: |        
+          cd scripts
+          chmod +x ./sumario_del_dia.sh
+          ./sumario_del_dia.sh
+
+      - name: Descarga de elementos del sumario del día
+        run: |
+          cd scripts
+          chmod +x ./get_items_hoy.py
+          pip install requests
+          python ./get_items_hoy.py
+
+      - name: Commit y push al repositorio
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with: 
+          commit_message: Update data
