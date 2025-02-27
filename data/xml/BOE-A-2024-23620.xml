@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20241115115601">
+  <metadatos>
+    <identificador>BOE-A-2024-23620</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7320">Ministerio del Interior</departamento>
+    <rango codigo="1350">Orden</rango>
+    <fecha_disposicion>20241112</fecha_disposicion>
+    <numero_oficial>INT/1265/2024</numero_oficial>
+    <titulo>Orden INT/1265/2024, de 12 de noviembre, por la que se aprueba el formulario único y los modelos normalizados para la solicitud de las ayudas a la población afectada gravemente por una emergencia de protección civil, reconocidas en el Real Decreto-ley 6/2024, de 5 de noviembre, por el que se adoptan medidas urgentes de respuesta ante los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20241113</fecha_publicacion>
+    <diario_numero>274</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <pagina_inicial>145458</pagina_inicial>
+    <pagina_final>145467</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>/boe/dias/2024/11/13/pdfs/BOE-A-2024-23620.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>20241113</fecha_vigencia>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/o/2024/11/12/int1265</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2024/11/12/int1265">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2024-23620</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-11-12</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">int1265</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2024/11/12/int1265/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2024-23620</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-11-12</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">int1265</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/o/2024/11/12/int1265"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/o/2024/11/12/int1265/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orden INT/1265/2024, de 12 de noviembre, por la que se aprueba el formulario único y los modelos normalizados para la solicitud de las ayudas a la población afectada gravemente por una emergencia de protección civil, reconocidas en el Real Decreto-ley 6/2024, de 5 de noviembre, por el que se adoptan medidas urgentes de respuesta ante los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-11-13</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/o/2024/11/12/int1265/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2024/11/12/int1265/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2024/11/12/int1265/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2024/11/12/int1265/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2024/11/12/int1265/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2024/11/12/int1265/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2024/11/12/int1265/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="420" orden="1">Ayudas</materia>
+      <materia codigo="669" orden="1">Catástrofes</materia>
+      <materia codigo="1320" orden="1">Comunidades Autónomas</materia>
+      <materia codigo="8220" orden="1">Consentimiento informado</materia>
+      <materia codigo="3161" orden="1">Empresa de Transformación Agraria</materia>
+      <materia codigo="3685" orden="1">Ficheros con datos personales</materia>
+      <materia codigo="3807" orden="1">Formularios administrativos</materia>
+      <materia codigo="4514" orden="1">Inundaciones</materia>
+      <materia codigo="5068" orden="1">Municipios</materia>
+      <materia codigo="5703" orden="1">Procedimiento administrativo</materia>
+      <materia codigo="5778" orden="1">Protección Civil</materia>
+      <materia codigo="6666" orden="1">Sociedad Estatal Correos y Telégrafos</materia>
+      <materia codigo="6800" orden="1">Subvenciones</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2024-22928" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el Real Decreto-ley 6/2024, de 5 de noviembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2005-4573" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Real Decreto 307/2005, de 18 de marzo</texto>
+        </anterior>
+      </anteriores>
+      <posteriores>
+        <posterior referencia="BOE-A-2024-23852" orden="">
+          <palabra codigo="270">SE MODIFICA</palabra>
+          <texto>los anexos I a III, por Orden INT/1283/2024, de 14 de noviembre</texto>
+        </posterior>
+      </posteriores>
+    </referencias>
+    <alertas>
+      <alerta codigo="109" orden="1">Derecho Administrativo</alerta>
+      <alerta codigo="126" orden="1">Seguridad y Defensa</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="parrafo">El Consejo de Ministros, en su reunión del día 5 de noviembre de 2024, acordó declarar zona afectada gravemente por una emergencia de protección civil las Comunidades Autónomas de Comunitat Valenciana, Cataluña, Castilla-La Mancha, Andalucía, Illes Balears y Aragón, como consecuencia de la Depresión Aislada en Niveles Altos (DANA) que ha afectado a amplias zonas de la Península y Baleares entre el 28 de octubre y el 4 de noviembre de 2024. Esto supone la directa aplicación del Real Decreto 307/2005, de 18 de marzo, por el que se regulan las subvenciones en atención a determinadas necesidades derivadas de situaciones de emergencia o de naturaleza catastrófica, y se establece el procedimiento para su concesión.</p>
+    <p class="parrafo">No obstante, en atención a la naturaleza y magnitud de la catástrofe y de los daños acaecidos, el Consejo de Ministros, mediante el Real Decreto-ley 6/2024, de 5 de noviembre, por el que se adoptan medidas urgentes de respuesta ante los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024, aprobó un primer paquete de medidas y ayudas dirigidas a la población más afectada.</p>
+    <p class="parrafo">El artículo 3 del Real Decreto-ley 6/2024, de 5 de noviembre, regula las ayudas destinadas a paliar daños personales, daños materiales en vivienda y enseres, y en establecimientos industriales, mercantiles y de servicios, y por prestaciones personales o de bienes de personas físicas o jurídicas, estableciendo, para la presentación de las solicitudes de concesión de estas ayudas, un plazo de dos meses, contados a partir de la publicación del mismo en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo">Por tanto, a través de esta norma, se habilita la concesión de importantes ayudas directas a ciudadanos y empresas que, en el caso de las ayudas personales, llegan a cuadruplicar las cuantías previstas en el Real Decreto 307/2005, de 18 de marzo, para los municipios que se incluyen en el ámbito de aplicación del Real Decreto-ley 6/2024, de 5 de noviembre. Además, se reducen las cargas burocráticas, facilitando determinados trámites con el fin de aportar celeridad y eliminando algunos requisitos para ampliar los posibles beneficiarios.</p>
+    <p class="parrafo">Por su parte, la disposición final octava del Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan medidas urgentes para el impulso del Plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024, modifica el Real Decreto-ley 6/2024, de 5 de noviembre, con el fin de ampliar más la cobertura de las ayudas en el ámbito competencial de protección civil previstas en el artículo 3 mencionado anteriormente e incluye un nuevo artículo 3 bis en el que se contempla, por primera vez, la habilitación para su concesión a través de una declaración responsable, que permitirá, además, el pago de un anticipo a cuenta por un importe del cincuenta por cien de la ayuda máxima.</p>
+    <p class="parrafo">De acuerdo con lo dispuesto en el artículo 5.7 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la disposición adicional sexta del Real Decreto-ley 7/2024, de 11 de noviembre, establece que «el personal del Grupo TRAGSA y de la sociedad estatal Correos y Telégrafos, SA, S.M.E. (CORREOS) asignado a tareas relacionadas con la gestión de medidas contempladas en el Real Decreto-ley 6/2024, de 5 de noviembre, queda habilitado para actuar como representante de terceros afectados a que se refiere el apartado 3 del artículo 1, en relación con la presentación de las solicitudes de las ayudas previstas en el artículo 3 del referido Real Decreto-ley».</p>
+    <p class="parrafo">Ante las novedades introducidas respecto a las ayudas previstas en el Real Decreto 307/2005, de 18 de marzo, y con la finalidad de simplificar el procedimiento y facilitar a los damnificados la presentación de las solicitudes, el Ministerio del Interior ha considerado conveniente elaborar un modelo de solicitud único para todas las líneas de ayuda cuya competencia tiene atribuida; un modelo normalizado para que pueda ser usado al recabar el consentimiento del solicitante a fin de que el personal designado por TRAGSA y Correos puedan prestar la representación habilitada por el Real Decreto-ley 7/2024, de 11 de noviembre; y un modelo normalizado para suscribir la declaración responsable de cumplimiento de los requisitos establecidos por el Real Decreto 307/2005, de 18 de marzo, y por el Real Decreto-ley 6/2024, de 5 de noviembre.</p>
+    <p class="parrafo">En su virtud, dispongo:</p>
+    <p class="articulo">Artículo único. Aprobación del modelo de formulario único para la solicitud de concesión de las ayudas y de los modelos normalizados para la prestación de consentimiento para representación habilitada y para la declaración responsable por parte del solicitante.</p>
+    <p class="parrafo">Se aprueba el modelo de formulario único y los modelos normalizados que se adjuntan como anexos a esta orden.</p>
+    <p class="articulo">Disposición final única. Entrada en vigor.</p>
+    <p class="parrafo">Esta orden entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Madrid, 12 de noviembre de 2024.–El Ministro del Interior, Fernando Grande-Marlaska Gómez.</p>
+    <p class="anexo_num">ANEXO I</p>
+    <p class="anexo_tit">Formulario único</p>
+    <p class="imagen">
+      <img class="frame" data-pdf="17573_revisado.pdf" src="/datos/imagenes/disp/2024/274/23620_15008789_1.png" width="2071" height="2688"/>
+    </p>
+    <p class="imagen">
+      <img class="frame" data-pdf="17573_revisado.pdf" src="/datos/imagenes/disp/2024/274/23620_15008789_2.png" width="1881" height="2776"/>
+    </p>
+    <p class="imagen">
+      <img class="frame" data-pdf="17573_revisado.pdf" src="/datos/imagenes/disp/2024/274/23620_15008789_3.png" width="1901" height="2776"/>
+    </p>
+    <p class="imagen">
+      <img class="frame" data-pdf="17573_revisado.pdf" src="/datos/imagenes/disp/2024/274/23620_15008789_4.png" width="1963" height="2776"/>
+    </p>
+    <p class="anexo_num">ANEXO II</p>
+    <p class="anexo_tit">Modelo normalizado para recabar el consentimiento del interesado/a para la representación habilitada por TRAGSA/CORREOS de acuerdo con lo establecido en la disposición adicional sexta del Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan medidas urgentes para el impulso del Plan de Respuesta Inmediata, Reconstrucción y Relanzamiento frente a los daños causados por la Depresión Aislada en Niveles Altos (DANA), en diferentes municipios entre el 28 de octubre y el 4 de noviembre</p>
+    <p class="imagen">
+      <img class="frame" data-pdf="17573_revisado.pdf" src="/datos/imagenes/disp/2024/274/23620_15008789_5.png" width="1978" height="2674"/>
+    </p>
+    <p class="imagen">
+      <img class="frame" data-pdf="17573_revisado.pdf" src="/datos/imagenes/disp/2024/274/23620_15008789_6.png" width="1995" height="1948"/>
+    </p>
+    <p class="imagen">
+      <img class="frame" data-pdf="17573_revisado.pdf" src="/datos/imagenes/disp/2024/274/23620_15008789_7.png" width="1896" height="2776"/>
+    </p>
+    <p class="anexo_num">ANEXO III</p>
+    <p class="anexo_tit">Declaración responsable emitida en aplicación de lo establecido en la disposición final octava del Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan medidas urgentes para el impulso del Plan de Respuesta Inmediata, Reconstrucción y Relanzamiento frente a los daños causados por la Depresión Aislada en Niveles Altos (DANA), en diferentes municipios entre el 28 de octubre y el 4 de noviembre</p>
+    <p class="imagen">
+      <img class="frame" data-pdf="17573_revisado.pdf" src="/datos/imagenes/disp/2024/274/23620_15008789_8.png" width="1970" height="2581"/>
+    </p>
+  </texto>
+</documento>

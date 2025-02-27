@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20241203092601">
+  <metadatos>
+    <identificador>BOE-A-2024-25187</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="9593">Ministerio de Política Territorial y Memoria Democrática</departamento>
+    <rango codigo="1350">Orden</rango>
+    <fecha_disposicion>20241129</fecha_disposicion>
+    <numero_oficial>TMD/1361/2024</numero_oficial>
+    <titulo>Orden TMD/1361/2024, de 29 de noviembre, de delegación de competencias en el ámbito del programa 929D «Contingencias asociadas a la Depresión Aislada en Niveles Altos (DANA) de 2024».</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20241203</fecha_publicacion>
+    <diario_numero>291</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <pagina_inicial>164493</pagina_inicial>
+    <pagina_final>164497</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>/boe/dias/2024/12/03/pdfs/BOE-A-2024-25187.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia/>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/o/2024/11/29/tmd1361</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2024/11/29/tmd1361">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2024-25187</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-11-29</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tmd1361</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2024/11/29/tmd1361/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2024-25187</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-11-29</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tmd1361</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/o/2024/11/29/tmd1361"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/o/2024/11/29/tmd1361/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orden TMD/1361/2024, de 29 de noviembre, de delegación de competencias en el ámbito del programa 929D «Contingencias asociadas a la Depresión Aislada en Niveles Altos (DANA) de 2024».</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-03</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/o/2024/11/29/tmd1361/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2024/11/29/tmd1361/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2024/11/29/tmd1361/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2024/11/29/tmd1361/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2024/11/29/tmd1361/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2024/11/29/tmd1361/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2024/11/29/tmd1361/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="669" orden="1">Catástrofes</materia>
+      <materia codigo="2290" orden="1">Delegación de atribuciones</materia>
+      <materia codigo="4514" orden="1">Inundaciones</materia>
+      <materia codigo="5456" orden="1">Ministerio de Política Territorial y Memoria Democrática</materia>
+      <materia codigo="4586" orden="1">Secretaría de Estado de Política Territorial</materia>
+    </materias>
+    <notas>
+      <nota codigo="38" orden="225">Efectos desde el 4 de diciembre de 2024.</nota>
+    </notas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2024-23422" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>la disposición adicional 1 del Real Decreto-ley 7/2024, de 11 de noviembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2024-22928" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>la disposición adicional 1 del Real Decreto-ley 6/2024, de 5 de noviembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2015-10566" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 9 de la Ley 40/2015, de 1 de octubre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2024-12272" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Orden TMD/605/2024, de 12 de junio</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas>
+      <alerta codigo="121" orden="1">Organización de la Administración</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="parrafo">De conformidad con la disposición adicional primera del Real Decreto-ley 6/2024, de 5 de noviembre, por el que se adoptan medidas urgentes de respuesta ante los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024 y la disposición adicional primera del Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan medidas urgentes para el impulso del Plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024, deben imputarse al programa presupuestario 929D «Contingencias asociadas a la Depresión Aislada en Niveles Altos (DANA) de 2024» los expedientes de gastos que se tramiten en ese ámbito.</p>
+    <p class="parrafo">La existencia de este nuevo programa presupuestario determina la necesidad de ajustar la forma de ejercicio de las competencias de determinados órganos superiores y directivos del Ministerio de Política Territorial y Memoria Democrática.</p>
+    <p class="parrafo">De este modo, mediante esta orden se establecen las delegaciones de competencias realizadas por la persona titular del Departamento en diferentes órganos de este y se aprueban las delegaciones de competencias efectuadas por la persona titular de la Secretaría de Estado de Política Territorial en otros órganos del Departamento, para el ámbito del programa presupuestario 929D «Contingencias asociadas a la Depresión Aislada en Niveles Altos (DANA) de 2024».</p>
+    <p class="parrafo">Esta orden resulta complementaria a la Orden TMD/605/2024, de 12 de junio, sobre fijación de límites para la administración de determinados créditos para gastos y de delegación de competencias.</p>
+    <p class="parrafo">A este respecto, cabe recordar que el apartado primero de la referida orden fija en 12 millones de euros el límite por debajo del cual la persona titular de la Secretaría de Estado de Política Territorial podrá Administrar los créditos para gastos de los presupuestos del Ministerio propios de su ámbito de competencia y de los órganos dependientes de la misma, aprobar y comprometer los gastos con cargo a aquellos créditos, así como reconocer las obligaciones económicas y proponer su pago, exceptuando la gestión de los créditos del capítulo 1 (Gastos de personal) de los Presupuestos del Ministerio así como conceder subvenciones y ayudas con cargo a los créditos de gasto propios de su Secretaría de Estado y de los órganos dependientes de la misma. Asimismo se recuerda la delegación de competencias realizada por la persona titular del Ministerio en la persona titular de la Secretaría de Estado de Política Territorial para administrar los créditos para gastos de los presupuestos, aprobar y comprometer los gastos, reconocer las obligaciones económicas y proponer su pago, así como conceder subvenciones y ayudas que sean propias de su ámbito competencial, cuando se supere el importe de doce millones de euros, con excepción de las operaciones de gestión de los créditos del capítulo 1 (Gastos de personal) de los Presupuestos del Ministerio, siendo dichas delegaciones plenamente aplicables a la gestión del citado programa presupuestario 929D.</p>
+    <p class="parrafo">Finalmente, cabe indicar que esta orden se dicta al amparo de lo previsto en el artículo 9 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y en el artículo 20 de la Ley 50/1997, de 27 de noviembre, del Gobierno.</p>
+    <p class="parrafo">En su virtud, dispongo:</p>
+    <p class="capitulo_num">CAPÍTULO I</p>
+    <p class="capitulo_tit">Competencias delegadas por la persona titular del Ministerio</p>
+    <p class="articulo">Primero. Delegación de competencias en la persona titular de la Dirección General de Cooperación Autonómica y Local.</p>
+    <p class="parrafo">Se delega en la persona titular de la Dirección General de Cooperación Autonómica y Local, en relación con los créditos del programa 929D «Contingencias asociadas a la Depresión Aislada en Niveles Altos (DANA) de 2024», y para su ámbito material de actuación, la competencia para la autorización de todos los documentos contables del programa 929D «Contingencias asociadas a la Depresión Aislada en Niveles Altos (DANA) de 2024», cualquiera que sea su importe excepto las referidas a los capítulos 1 (Gastos de personal) y 8 (Activos financieros).</p>
+    <p class="articulo">Segundo. Delegación de competencias en la persona titular de la Dirección General de la Administración General del Estado en el Territorio.</p>
+    <p class="parrafo">Se delegan en la persona titular de la Dirección General de la Administración General del Estado en el Territorio las siguientes competencias, en relación con los créditos del programa 929D «Contingencias asociadas a la Depresión Aislada en Niveles Altos (DANA) de 2024» y para su ámbito material de actuación:</p>
+    <p class="parrafo_2">a) La aprobación y el compromiso de gasto, así como el reconocimiento y propuesta de pago de las obligaciones económicas correspondientes al capítulo 1 (Gastos de personal), excepto los gastos correspondientes al concepto 162 (gastos sociales).</p>
+    <p class="parrafo">b) La autorización de todos los documentos contables, cualquiera que sea su importe, en el capítulo 1, excepto los correspondientes al concepto 162 (Gastos sociales).</p>
+    <p class="articulo">Tercero. Delegación de competencias en la persona titular de la Subdirección General de la Administración Financiera y Patrimonio de la Administración General del Estado en el Territorio.</p>
+    <p class="parrafo">Se delegan en la persona titular de la Subdirección General de la Administración Financiera y Patrimonio de la Administración General del Estado en el Territorio las siguientes competencias, en el ámbito del programa 929D «Contingencias asociadas a la Depresión Aislada en Niveles Altos (DANA) de 2024» y para su ámbito material de actuación:</p>
+    <p class="parrafo_2">a) La aprobación y el compromiso de gasto, así como el reconocimiento y propuesta de pago de las obligaciones económicas y la autorización de todos los documentos contables correspondientes al concepto 162 (Gastos sociales).</p>
+    <p class="parrafo">b) La autorización de todos los documentos contables, cualquiera que sea su importe en los capítulos 2 a 8.</p>
+    <p class="capitulo_num">CAPÍTULO II</p>
+    <p class="capitulo_tit">Aprobación de las delegaciones de competencias efectuadas por la persona titular de la Secretaría de Estado de Política Territorial</p>
+    <p class="articulo">Cuarto. Delegación de competencias en la persona titular de la Secretaría General de Coordinación Territorial.</p>
+    <p class="parrafo">Se aprueba la delegación de la persona titular de la Secretaría de Estado de Política Territorial en la persona titular de la Secretaría General de Coordinación Territorial de las siguientes competencias en relación con los créditos presupuestarios del programa 929D «Contingencias asociadas a la Depresión Aislada en Niveles Altos (DANA) de 2024»:</p>
+    <p class="parrafo_2">a) La aprobación y el compromiso de gasto y el reconocimiento y propuesta de pago de las obligaciones económicas de importe superior a 600.000 euros y hasta doce millones de euros, incluso cuando sea consecuencia del cumplimiento de resoluciones judiciales y siempre que no se encuentre atribuida o expresamente delegada en favor de otros órganos.</p>
+    <p class="parrafo">b) Las competencias que el ordenamiento jurídico atribuye a la persona titular de la Secretaría de Estado de Política Territorial como órgano de contratación, en relación con los contratos cuya cuantía supere los 600.000 euros.</p>
+    <p class="parrafo">c) La formalización de encomiendas de gestión del artículo 11 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y de encargos a medios propios personificados a los que se refiere el artículo 32 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, cuya cuantía supere los 600.000 euros.</p>
+    <p class="parrafo">d) La convocatoria y concesión de subvenciones, así como la declaración de pérdida del derecho al cobro o reintegro, por importe superior a 600.000 euros y hasta doce millones de euros.</p>
+    <p class="parrafo">e) La formalización de convenios cuya cuantía supere los 600.000 y hasta el límite de doce millones de euros.</p>
+    <p class="parrafo">f) Las competencias enumeradas en los párrafos a) a e) hasta el límite de 600.000 euros, incluso cuando sean consecuencia del cumplimiento de resoluciones judiciales, cuando no estén delegadas en otros órganos.</p>
+    <p class="articulo">Quinto. Delegación de competencias en la persona titular de la Dirección General de Cooperación Autonómica y Local.</p>
+    <p class="parrafo">Se aprueba la delegación de la persona titular de la Secretaría de Estado de Política Territorial en la persona titular de la Dirección General de Cooperación Autonómica y Local de las siguientes competencias en su ámbito material de actuación en relación con los créditos presupuestarios del programa 929D «Contingencias asociadas a la Depresión Aislada en Niveles Altos (DANA) de 2024»:</p>
+    <p class="parrafo_2">a) La aprobación y compromiso de gastos, así como el reconocimiento y propuesta de pago de las obligaciones económicas incluso cuando sea consecuencia del cumplimiento de resoluciones judiciales, hasta el límite de 600.000 euros.</p>
+    <p class="parrafo">b) La celebración de contratos y la formalización de convenios hasta el límite de 600.000 euros.</p>
+    <p class="parrafo">c) La convocatoria y concesión de subvenciones, así como la declaración de pérdida del derecho al cobro o reintegro, hasta el límite de 600.000 euros.</p>
+    <p class="parrafo">d) La formalización de encomiendas de gestión del artículo 11 de la Ley 40/2015, de 1 de octubre, y de encargos a medios propios personificados a los que se refiere el artículo 32 de la Ley 9/2017, de 8 de noviembre, hasta el límite de 600.000 euros.</p>
+    <p class="parrafo">e) La autorización de todos los documentos contables, cualquiera que sea su importe.</p>
+    <p class="articulo">Sexto. Delegación de competencias en la persona titular de la Dirección General de la Administración General del Estado en el Territorio.</p>
+    <p class="parrafo">Se aprueba la delegación de la persona titular de la Secretaría de Estado de Política Territorial en la persona titular de la Dirección General de la Administración General del Estado en el Territorio, en su ámbito material de actuación, de las siguientes competencias en relación con los créditos presupuestarios del programa 929D «Contingencias asociadas a la Depresión Aislada en Niveles Altos (DANA) de 2024»:</p>
+    <p class="parrafo_2">a) Las que el ordenamiento jurídico atribuye a la persona titular de la Secretaría de Estado de Política Territorial en cuanto a la formalización de convenios y acuerdos dentro del ámbito de los servicios territoriales de las Delegaciones y Subdelegaciones del Gobierno y Direcciones Insulares, en gestión patrimonial y demás materias.</p>
+    <p class="parrafo">b) La convocatoria y concesión de subvenciones, así como la declaración de pérdida del derecho al cobro o reintegro, hasta el límite de 600.000 euros, dentro del ámbito de los servicios territoriales de las Delegaciones y Subdelegaciones del Gobierno y Direcciones Insulares.</p>
+    <p class="articulo">Séptimo. Delegación de competencias en la persona titular de la Subdirección General de Administración Financiera y Patrimonio de la Administración General del Estado en el Territorio.</p>
+    <p class="parrafo">Se aprueba la delegación de la persona titular de la Secretaría de Estado de Política Territorial en la persona titular de la Subdirección General de Administración Financiera y Patrimonio de la Administración General del Estado en el Territorio de las siguientes competencias en el ámbito material de actuación de la Dirección General de Administración General del Estado en el Territorio, en relación con los créditos presupuestarios del programa 929D «Contingencias asociadas a la Depresión Aislada en Niveles Altos (DANA) de 2024»:</p>
+    <p class="parrafo_2">a) La aprobación y el compromiso de gastos y el reconocimiento y propuesta de pago de las obligaciones económicas hasta el límite de 600.000 euros.</p>
+    <p class="parrafo">b) Las competencias que el ordenamiento jurídico atribuye a la persona titular de la Secretaría de Estado de Política Territorial como órgano de contratación, en relación con los contratos cuyo presupuesto inicial no supere los 600.000 euros.</p>
+    <p class="parrafo">c) La formalización de encomiendas de gestión del artículo 11 de la Ley 40/2015, de 1 de octubre, y de encargos a medios propios personificados a los que se refiere el artículo 32 de la Ley 9/2017, de 8 de noviembre, cuya cuantía no supere los 600.000 euros.</p>
+    <p class="parrafo">d) En materia de obligaciones económicas que se deriven de la ejecución de sentencias, la competencia para la aprobación y compromiso del gasto y reconocimiento y propuesta de pagos, hasta el límite de 600.000 euros.</p>
+    <p class="parrafo">e) La expedición de libramientos a justificar, la aprobación de las cuentas justificativas de los mismos, una vez fiscalizadas, así como su remisión al Tribunal de Cuentas y la competencia para ampliar los plazos previstos en el artículo 79.4 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.</p>
+    <p class="parrafo">e) La aprobación del gasto y ordenación del pago con cargo al anticipo de caja fija de esta Unidad, así como la autorización de los documentos contables necesarios para la reposición de fondos e imputación al presupuesto de los gastos realizados, y la remisión del correspondiente certificado al Tribunal de Cuentas.</p>
+    <p class="parrafo">f) La competencia para acordar la cancelación o, en su caso, devolución de las garantías de cualquier clase constituidas ante el Departamento.</p>
+    <p class="parrafo">g) La autorización de todos los documentos contables, cualquiera que sea su importe.</p>
+    <p class="articulo">Octavo. Delegación de competencias en las personas titulares de los órganos de los servicios territoriales integrados en las Delegaciones y Subdelegaciones del Gobierno y en las Direcciones Insulares.</p>
+    <p class="parrafo">Se aprueba la delegación de la persona titular de la Secretaría de Estado de Política Territorial en las personas titulares de las Delegaciones del Gobierno respecto de los servicios territoriales integrados de la provincia donde tenga su sede la Delegación, de las Subdelegaciones del Gobierno y de las Direcciones Insulares en las provincias en las que no radique la sede de la Delegación del Gobierno y en las islas, respectivamente, de las siguientes competencias, siempre que afecten únicamente al ámbito de la respectiva Delegación, Subdelegación del Gobierno o Dirección Insular en relación con los créditos presupuestarios del programa 929D «Contingencias asociadas a la Depresión Aislada en Niveles Altos (DANA) de 2024» con la excepción del concepto 162 (Gastos sociales):</p>
+    <p class="parrafo_2">a) La aprobación y compromiso de gasto, así como el reconocimiento y propuesta de pago de las obligaciones económicas correspondientes, así como la autorización de los documentos contables necesarios.</p>
+    <p class="parrafo">b) La contratación de bienes corrientes, y de servicios e inversiones reales en el ámbito de los servicios territoriales integrados que les correspondan, sin perjuicio de lo dispuesto en la letra siguiente en relación con la contratación de obras y servicios asociados a las mismas.</p>
+    <p class="parrafo">c) La contratación de obras únicamente mediante contrato menor, incluyendo los servicios asociados a dichas obras como dirección facultativa, coordinación de seguridad y salud o redacción de proyecto. Queda excluida la contratación de obras que no consistan en contrato menor y los servicios asociados a las mismas.</p>
+    <p class="parrafo">d) La aprobación del gasto, así como el reconocimiento y propuesta de pago de las obligaciones con cargo a los anticipos de caja fija, la autorización de los documentos contables necesarios para la reposición de fondos e imputación al presupuesto de los gastos realizados.</p>
+    <p class="parrafo">e) La aprobación de las cuentas justificativas de las obligaciones satisfechas con cargo a los anticipos de caja fija y, una vez fiscalizadas las mismas, su remisión al Tribunal de Cuentas.</p>
+    <p class="capitulo_num">CAPÍTULO III</p>
+    <p class="capitulo_tit">Control y eficacia</p>
+    <p class="articulo">Noveno. Control del ejercicio de la delegación.</p>
+    <p class="parrafo">1. Los órganos delegantes podrán exigir de los órganos delegados la remisión periódica de una relación de los actos que se dicten en el ejercicio de las competencias delegadas.</p>
+    <p class="parrafo">2. Los actos que se dicten en aplicación de esta orden indicarán expresamente que lo son por delegación.</p>
+    <p class="articulo">Décimo. Eficacia.</p>
+    <p class="parrafo">Esta orden producirá efectos el día siguiente al de su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Madrid, 29 de noviembre de 2024.–El Ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres Pérez.</p>
+  </texto>
+</documento>

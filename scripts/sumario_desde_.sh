@@ -6,7 +6,7 @@ if [ -z "$1" ]; then
     exit 1
 fi
 
-# Fecha de inicio proporcionada por el usuario (argumento)
+# Fecha de inicio proporcionada por el usuario
 fecha_inicio=$1
 
 # Fecha de hoy (actual) en formato YYYYMMDD
@@ -18,42 +18,27 @@ if [[ "$fecha_inicio" > "$fecha_hoy" ]]; then
     exit 1
 fi
 
-# Convertir las fechas a formato YYYYMMDD (ya está en este formato, pero es para asegurar que estén bien)
+# Convertir las fechas a formato YYYYMMDD
 fecha_actual=$fecha_hoy
 fecha=$fecha_inicio
 
-# Iterar desde la fecha de inicio hasta hoy (inclusive)
+# Iterar desde la fecha de inicio hasta hoy
 while [[ "$fecha" -le "$fecha_actual" ]]; do
 
     # Comprobar si la fecha actual es un domingo (0 = domingo, 1 = lunes, etc.)
     dia_semana=$(date -d "$fecha" +%u)
     
-    # Si es domingo (día 7), pasamos al siguiente día
+    # Si es domingo, pasamos al siguiente día
     if [ "$dia_semana" -eq 7 ]; then
-        # echo "⚠️ El $fecha es domingo, no se descarga ningún archivo."
         fecha=$(date -d "$fecha + 1 day" +"%Y%m%d")
         continue
     fi
 
-    # Definir los nombres de los archivos
-    ficheroXML="../data/xml/$fecha.xml"
-    ficheroJSON="../data/json/$fecha.json"
-    ficheroPDF="../data/pdf/$fecha.pdf"
+    sumario="../data/sumarios/$fecha.xml"
     
-    # Descargar los sumarios en XML y JSON
-    curl -s -L -X GET -H "Accept: application/xml" "https://www.boe.es/datosabiertos/api/boe/sumario/$fecha" -o "$ficheroXML"
-    curl -s -L -X GET -H "Accept: application/json" "https://www.boe.es/datosabiertos/api/boe/sumario/$fecha" -o "$ficheroJSON"
-
-    # Extraer la URL del PDF 
-    urlPDF=$(sed -n 's/.*<url_pdf[^>]*>\(https[^<]*\)<\/url_pdf>.*/\1/p' "$ficheroXML" | head -n 1)
-
-    # Verificar si se encontró la URL del PDF
-    if [[ -n "$urlPDF" ]]; then
-        # Descargar el PDF usando la URL
-        curl -s -L "$urlPDF" -o "$ficheroPDF"
-    else
-        echo "⚠️ No se encontró un PDF."
-    fi
+    # Descarga
+    curl -s -L -X GET -H "Accept: application/xml" "https://www.boe.es/datosabiertos/api/boe/sumario/$fecha" -o "$sumario"
+    echo "✅ XML descargado: $sumario"
 
     echo "🎉 Descarga completada para la fecha $fecha."
 
@@ -61,4 +46,4 @@ while [[ "$fecha" -le "$fecha_actual" ]]; do
     fecha=$(date -d "$fecha + 1 day" +"%Y%m%d")
 done
 
-echo "📚 Todos los archivos han sido descargados desde $fecha_inicio hasta $fecha_hoy."
+echo "📚 Todos los sumarios han sido descargados desde $fecha_inicio hasta $fecha_hoy."

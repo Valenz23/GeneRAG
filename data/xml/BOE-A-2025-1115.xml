@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20250123082601">
+  <metadatos>
+    <identificador>BOE-A-2025-1115</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="9593">Ministerio de Política Territorial y Memoria Democrática</departamento>
+    <rango codigo="1350">Orden</rango>
+    <fecha_disposicion>20250115</fecha_disposicion>
+    <numero_oficial>TMD/29/2025</numero_oficial>
+    <titulo>Orden TMD/29/2025, de 15 de enero, de delegación de competencias en el Comisionado especial para la reconstrucción y reparación de los daños provocados por la DANA en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024 en el ámbito del programa 929D «Contingencias asociadas a la Depresión Aislada en Niveles Altos (DANA) de 2024».</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20250122</fecha_publicacion>
+    <diario_numero>19</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <pagina_inicial>9381</pagina_inicial>
+    <pagina_final>9382</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>/boe/dias/2025/01/22/pdfs/BOE-A-2025-1115.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia/>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/o/2025/01/15/tmd29</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2025/01/15/tmd29">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2025-1115</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-01-15</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tmd29</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2025/01/15/tmd29/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2025-1115</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-01-15</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tmd29</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/o/2025/01/15/tmd29"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/o/2025/01/15/tmd29/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orden TMD/29/2025, de 15 de enero, de delegación de competencias en el Comisionado especial para la reconstrucción y reparación de los daños provocados por la DANA en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024 en el ámbito del programa 929D «Contingencias asociadas a la Depresión Aislada en Niveles Altos (DANA) de 2024».</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-01-22</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/o/2025/01/15/tmd29/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2025/01/15/tmd29/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2025/01/15/tmd29/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2025/01/15/tmd29/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2025/01/15/tmd29/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2025/01/15/tmd29/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2025/01/15/tmd29/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="2290" orden="1">Delegación de atribuciones</materia>
+      <materia codigo="5456" orden="1">Ministerio de Política Territorial y Memoria Democrática</materia>
+    </materias>
+    <notas>
+      <nota codigo="38" orden="225">Efectos desde el 23 de enero de 2025.</nota>
+    </notas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2015-10566" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art- 9 de la Ley 40/2015, de 1 de octubre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2024-12272" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Orden TMD/605/2024, de 12 de junio</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas>
+      <alerta codigo="121" orden="1">Organización de la Administración</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="parrafo">De conformidad con la disposición adicional primera del Real Decreto-ley 6/2024, de 5 de noviembre, por el que se adoptan medidas urgentes de respuesta ante los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024 y la disposición adicional primera del Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan medidas urgentes para el impulso del Plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024, deben imputarse al programa presupuestario 929D «Contingencias asociadas a la Depresión Aislada en Niveles Altos (DANA) de 2024» los expedientes de gastos que se tramiten en ese ámbito.</p>
+    <p class="parrafo">La existencia de este nuevo programa presupuestario conllevó la necesidad de ajustar la forma de ejercicio de las competencias de determinados órganos superiores y directivos del Ministerio de Política Territorial y Memoria Democrática.</p>
+    <p class="parrafo">De este modo, mediante la Orden TMD/1361/2024, de 29 de noviembre, de delegación de competencias en el ámbito del programa 929D «Contingencias asociadas a la Depresión Aislada en Niveles Altos (DANA) de 2024», se establecieron las delegaciones de competencias realizadas por la persona titular del Departamento en diferentes órganos de este y se aprobaron las delegaciones de competencias efectuadas por la persona titular de la Secretaría de Estado de Política Territorial en otros órganos del Departamento, para el ámbito del programa presupuestario 929D «Contingencias asociadas a la Depresión Aislada en Niveles Altos (DANA) de 2024».</p>
+    <p class="parrafo">Asimismo, de acuerdo con el Real Decreto 1160/2024, de 19 de noviembre, por el que se crea el Comisionado especial para la reconstrucción y reparación de los daños provocados por la DANA en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024, se creó el Comisionado especial para la reconstrucción y reparación de los daños provocados por la DANA en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024.</p>
+    <p class="parrafo">De conformidad con el artículo 2 del Real Decreto 1160/2024, de 19 de noviembre, el Comisionado especial para la reconstrucción y reparación de los daños provocados por la DANA en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024 (el Comisionado especial) depende orgánica y funcionalmente de la persona titular del Ministerio de Política Territorial y Memoria Democrática.</p>
+    <p class="parrafo">Con el objetivo de lograr una mayor eficacia y efectividad en el desarrollo de las funciones encomendadas a este Departamento en relación con la mencionada emergencia, se considera necesaria una nueva delegación de competencias por parte de la persona titular del Ministerio en el Comisionado especial.</p>
+    <p class="parrafo">Tanto la Orden TMD/1361/2024, de 29 de noviembre, como esta orden, resultan complementarias a la Orden TMD/605/2024, de 12 de junio, sobre fijación de límites para la administración de determinados créditos para gastos y de delegación de competencias.</p>
+    <p class="parrafo">Finalmente, cabe indicar que esta orden se dicta al amparo de lo previsto en el artículo 9 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y en el artículo 20 de la Ley 50/1997, de 27 de noviembre, del Gobierno.</p>
+    <p class="parrafo">En su virtud, dispongo:</p>
+    <p class="articulo">Primero. Delegación de competencias por la persona titular del Ministerio de Política Territorial y Memoria Democrática en la persona titular del Comisionado especial para la reconstrucción y reparación de los daños provocados por la DANA en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024.</p>
+    <p class="parrafo">Se delegan en la persona titular del Comisionado especial para la reconstrucción y reparación de los daños provocados por la DANA en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024 (el Comisionado especial) las siguientes competencias en relación con los créditos del programa 929D «Contingencias asociadas a la Depresión Aislada en Niveles Altos (DANA) de 2024», del Servicio 01, y para su ámbito material de actuación:</p>
+    <p class="parrafo_2">a) La aprobación y el compromiso de gasto, así como el reconocimiento y propuesta de pago de las obligaciones económicas excepto las referidas a los capítulos 1 (Gastos de personal) y 8 (Activos financieros).</p>
+    <p class="parrafo">b) Todas las competencias que el ordenamiento jurídico atribuye a la persona titular del Departamento como órgano de contratación.</p>
+    <p class="parrafo">c) El ejercicio de las competencias que el ordenamiento jurídico atribuye a la persona titular del Departamento en materia de encomiendas de gestión al amparo de lo previsto en el artículo 11 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.</p>
+    <p class="parrafo">d) El ejercicio de las competencias que el ordenamiento jurídico atribuye a la persona titular del Departamento en materia de encargos a medios propios conforme a lo previsto en la legislación sobre contratos del sector público.</p>
+    <p class="parrafo">e) El ejercicio de las competencias que el ordenamiento jurídico atribuye a la persona titular del Departamento respecto de los convenios, con o sin contenido económico.</p>
+    <p class="parrafo_2">Se excluye de dicha delegación de competencias aquellos convenios suscritos con comunidades autónomas cuya firma sea realizada por las personas titulares de la Presidencia de una comunidad autónoma o de la Consejería correspondiente.</p>
+    <p class="articulo">Segundo. Control del ejercicio de la delegación.</p>
+    <p class="parrafo">1. La persona titular del Departamento podrá exigir al Comisionado especial la remisión periódica de una relación de los actos que se dicten en el ejercicio de las competencias delegadas.</p>
+    <p class="parrafo">2. Los actos que se dicten en aplicación de esta orden indicarán expresamente que lo son por delegación.</p>
+    <p class="articulo">Tercero. Eficacia.</p>
+    <p class="parrafo">1. Esta orden producirá efectos el día siguiente al de su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo">2. Las actuaciones incursas en procedimientos administrativos no finalizados, dictadas por delegación al amparo de la Orden TMD/605/2024, de 12 de junio, sobre fijación de límites para la administración de determinados créditos para gastos y de delegación de competencias y de la Orden TMD/1361/2024, de 29 de noviembre, de delegación de competencias en el ámbito del programa 929D «Contingencias asociadas a la Depresión Aislada en Niveles Altos (DANA) de 2024»,, no perderán por ello su validez ni precisarán de ratificación por sus nuevos titulares.</p>
+    <p class="parrafo_2">Madrid, 15 de enero de 2025.–El Ministro de Política Territorial y Memoria Democrática, Ángel Víctor Torres Pérez.</p>
+  </texto>
+</documento>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20241217105601">
+  <metadatos>
+    <identificador>BOE-A-2024-26250</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="1220">Cortes Generales</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <fecha_disposicion>20241212</fecha_disposicion>
+    <numero_oficial/>
+    <titulo>Resolución de 12 de diciembre de 2024, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan medidas urgentes para el impulso del Plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20241217</fecha_publicacion>
+    <diario_numero>303</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>172824</pagina_inicial>
+    <pagina_final>172824</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>/boe/dias/2024/12/17/pdfs/BOE-A-2024-26250.pdf</url_pdf>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2024-26250</url_epub>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia/>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/res/2024/12/12/(1)</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2024/12/12/(1)">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2024-26250</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-12</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1)</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2024/12/12/(1)/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2024-26250</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-12</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1)</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/res/2024/12/12/(1)"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/res/2024/12/12/(1)/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolución de 12 de diciembre de 2024, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan medidas urgentes para el impulso del Plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-17</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/res/2024/12/12/(1)/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2024/12/12/(1)/dof/spa/epub">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/epub+zip"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2024/12/12/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2024/12/12/(1)/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2024/12/12/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2024/12/12/(1)/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2024/12/12/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2024/12/12/(1)/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2024/12/12/(1)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="5" orden="1">Abastecimiento de aguas</materia>
+      <materia codigo="56" orden="1">Actividades económicas</materia>
+      <materia codigo="85" orden="1">Administración Local</materia>
+      <materia codigo="119" orden="1">Agencia Estatal de la Administración Tributaria</materia>
+      <materia codigo="177" orden="1">Aguas residuales</materia>
+      <materia codigo="302" orden="1">Arrendamiento Financiero</materia>
+      <materia codigo="329" orden="1">Asistencia social</materia>
+      <materia codigo="403" orden="1">Aval</materia>
+      <materia codigo="415" orden="1">Ayuda alimentaria</materia>
+      <materia codigo="420" orden="1">Ayudas</materia>
+      <materia codigo="503" orden="1">Bienes inmuebles</materia>
+      <materia codigo="571" orden="1">Calendario Escolar</materia>
+      <materia codigo="619" orden="1">Carburantes y combustibles</materia>
+      <materia codigo="669" orden="1">Catástrofes</materia>
+      <materia codigo="772" orden="1">Centros culturales</materia>
+      <materia codigo="788" orden="1">Centros de enseñanzas artísticas</materia>
+      <materia codigo="817" orden="1">Certificaciones</materia>
+      <materia codigo="856" orden="1">Cinematografía</materia>
+      <materia codigo="862" orden="1">Clases Pasivas</materia>
+      <materia codigo="1002" orden="1">Comercio exterior</materia>
+      <materia codigo="7894" orden="1">Comunicaciones electrónicas</materia>
+      <materia codigo="1318" orden="1">Comunidad Valenciana</materia>
+      <materia codigo="1337" orden="1">Conductores de vehículos de motor</materia>
+      <materia codigo="1624" orden="1">Consumidores y usuarios</materia>
+      <materia codigo="1640" orden="1">Contratación administrativa</materia>
+      <materia codigo="1664" orden="1">Contratos</materia>
+      <materia codigo="1667" orden="1">Contratos de trabajo</materia>
+      <materia codigo="1708" orden="1">Cooperativas</materia>
+      <materia codigo="1754" orden="1">Cotización a la Seguridad Social</materia>
+      <materia codigo="1759" orden="1">Créditos Presupuestarios</materia>
+      <materia codigo="2202" orden="1">Cuerpo Nacional de Policía</materia>
+      <materia codigo="2256" orden="1">Cultura</materia>
+      <materia codigo="2483" orden="1">Desempleo</materia>
+      <materia codigo="2490" orden="1">Despidos</materia>
+      <materia codigo="3114" orden="1">Educación</materia>
+      <materia codigo="3140" orden="1">Electricidad</materia>
+      <materia codigo="3158" orden="1">Empleados de Hogar</materia>
+      <materia codigo="3160" orden="1">Empleo</materia>
+      <materia codigo="3166" orden="1">Empresas</materia>
+      <materia codigo="3217" orden="1">Enseñanza de Formación Profesional</materia>
+      <materia codigo="3227" orden="1">Entidad Estatal de Seguros Agrarios</materia>
+      <materia codigo="3442" orden="1">Establecimientos comerciales</materia>
+      <materia codigo="3482" orden="1">Estimación objetiva</materia>
+      <materia codigo="3515" orden="1">Explotaciones agrarias</materia>
+      <materia codigo="3533" orden="1">Facturas</materia>
+      <materia codigo="3771" orden="1">Fondo CE</materia>
+      <materia codigo="3889" orden="1">Gas</materia>
+      <materia codigo="3924" orden="1">Gestión de residuos</materia>
+      <materia codigo="4012" orden="1">Hipoteca</materia>
+      <materia codigo="4096" orden="1">Impuesto sobre Bienes Inmuebles</materia>
+      <materia codigo="4102" orden="1">Impuesto sobre el Valor Añadido</materia>
+      <materia codigo="4107" orden="1">Impuesto sobre la Renta de las Personas Físicas</materia>
+      <materia codigo="4157" orden="1">Industrias</materia>
+      <materia codigo="4316" orden="1">Instituto de Comercio Exterior</materia>
+      <materia codigo="4323" orden="1">Instituto de Crédito Oficial</materia>
+      <materia codigo="4350" orden="1">Instituto de la Cinematografía y de las Artes Audiovisuales</materia>
+      <materia codigo="4378" orden="1">Instituto Geográfico Nacional</materia>
+      <materia codigo="4468" orden="1">Instituto Social de las Fuerzas Armadas</materia>
+      <materia codigo="4505" orden="1">Intereses</materia>
+      <materia codigo="4514" orden="1">Inundaciones</materia>
+      <materia codigo="4518" orden="1">Inversiones</materia>
+      <materia codigo="4553" orden="1">Jornada laboral</materia>
+      <materia codigo="4555" orden="1">Jubilación</materia>
+      <materia codigo="4706" orden="1">Juventud</materia>
+      <materia codigo="4790" orden="1">Libros</materia>
+      <materia codigo="4799" orden="1">Licencias</materia>
+      <materia codigo="4864" orden="1">Maquinaria agrícola</materia>
+      <materia codigo="4925" orden="1">Menores</materia>
+      <materia codigo="5066" orden="1">Mujer</materia>
+      <materia codigo="5068" orden="1">Municipios</materia>
+      <materia codigo="5117" orden="1">Mutualidad General de Funcionarios Civiles del Estado</materia>
+      <materia codigo="5125" orden="1">Mutualidad General Judicial</materia>
+      <materia codigo="5181" orden="1">Obras</materia>
+      <materia codigo="5541" orden="1">Pensiones</materia>
+      <materia codigo="5680" orden="1">Préstamos</materia>
+      <materia codigo="5703" orden="1">Procedimiento administrativo</materia>
+      <materia codigo="7156" orden="1">Procedimiento judicial</materia>
+      <materia codigo="5776" orden="1">Propiedad Intelectual</materia>
+      <materia codigo="5778" orden="1">Protección Civil</materia>
+      <materia codigo="5876" orden="1">Recaudación</materia>
+      <materia codigo="7921" orden="1">Red Ferroviaria de Interés General</materia>
+      <materia codigo="5923" orden="1">Redes de telecomunicación</materia>
+      <materia codigo="8126" orden="1">Renta Mínima de Inserción</materia>
+      <materia codigo="6258" orden="1">Salas de exhibición cinematográfica</materia>
+      <materia codigo="6264" orden="1">Salud</materia>
+      <materia codigo="6275" orden="1">Saneamiento</materia>
+      <materia codigo="6278" orden="1">Sanidad</materia>
+      <materia codigo="6284" orden="1">Sanidad veterinaria</materia>
+      <materia codigo="6496" orden="1">Seguridad e higiene en el trabajo</materia>
+      <materia codigo="6499" orden="1">Seguridad Social</materia>
+      <materia codigo="6627" orden="1">Servicios de telecomunicación</materia>
+      <materia codigo="8114" orden="1">Servicios Públicos de Salud</materia>
+      <materia codigo="5231" orden="1">Servicios Sociales de las Comunidades Autónomas</materia>
+      <materia codigo="7896" orden="1">Sistema financiero</materia>
+      <materia codigo="6658" orden="1">Sistema tributario</materia>
+      <materia codigo="6666" orden="1">Sociedad Estatal Correos y Telégrafos</materia>
+      <materia codigo="6669" orden="1">Sociedad Estatal de Promoción y Equipamiento de Suelo</materia>
+      <materia codigo="6800" orden="1">Subvenciones</materia>
+      <materia codigo="6803" orden="1">Suelo</materia>
+      <materia codigo="6806" orden="1">Suministro de energía</materia>
+      <materia codigo="6832" orden="1">Trabajadores autónomos</materia>
+      <materia codigo="6926" orden="1">Transporte de energía</materia>
+      <materia codigo="6928" orden="1">Transporte de viajeros</materia>
+      <materia codigo="6932" orden="1">Transportes</materia>
+      <materia codigo="6938" orden="1">Transportes terrestres</materia>
+      <materia codigo="7928" orden="1">Violencia de género</materia>
+      <materia codigo="7162" orden="1">Viviendas</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2024-23422" orden="4120">
+          <palabra codigo="301">PUBLICA  Acuerdo de convalidación</palabra>
+          <texto>del Real Decreto-ley 7/2024, de 11 de noviembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas>
+      <alerta codigo="138" orden="1">Administración de Justicia</alerta>
+      <alerta codigo="101" orden="1">Agricultura</alerta>
+      <alerta codigo="102" orden="1">Alimentación</alerta>
+      <alerta codigo="104" orden="1">Asuntos sociales</alerta>
+      <alerta codigo="105" orden="1">Comercio</alerta>
+      <alerta codigo="106" orden="1">Consumidores y usuarios</alerta>
+      <alerta codigo="107" orden="1">Cultura y ocio</alerta>
+      <alerta codigo="108" orden="1">Deporte</alerta>
+      <alerta codigo="109" orden="1">Derecho Administrativo</alerta>
+      <alerta codigo="112" orden="1">Derecho Mercantil</alerta>
+      <alerta codigo="114" orden="1">Educación y enseñanza</alerta>
+      <alerta codigo="115" orden="1">Energía</alerta>
+      <alerta codigo="116" orden="1">Función Pública</alerta>
+      <alerta codigo="118" orden="1">Industria</alerta>
+      <alerta codigo="119" orden="1">Medio ambiente</alerta>
+      <alerta codigo="120" orden="1">Obras y construcciones</alerta>
+      <alerta codigo="121" orden="1">Organización de la Administración</alerta>
+      <alerta codigo="124" orden="1">Sanidad</alerta>
+      <alerta codigo="126" orden="1">Seguridad y Defensa</alerta>
+      <alerta codigo="128" orden="1">Sistema tributario</alerta>
+      <alerta codigo="130" orden="1">Telecomunicaciones</alerta>
+      <alerta codigo="131" orden="1">Trabajo y empleo</alerta>
+      <alerta codigo="132" orden="1">Transportes y tráfico</alerta>
+      <alerta codigo="134" orden="1">Unión Europea</alerta>
+      <alerta codigo="137" orden="1">Vivienda y urbanismo</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="parrafo">De conformidad con lo dispuesto en el artículo 86.2 de la Constitución, el Congreso de los Diputados, en su sesión del día de hoy, acordó convalidar el Real Decre<span class="no_partir">to-l</span>ey 7/2024, de 11 de noviembre, por el que se adoptan medidas urgentes para el impulso del Plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024, publicado en el «Boletín Oficial del Estado» número 273, de 12 de noviembre de 2024.</p>
+    <p class="parrafo_2">Palacio del Congreso de los Diputados, 12 de diciembre de 2024.–La Presidenta del Congreso de los Diputados, Francina Armengol Socias.</p>
+  </texto>
+</documento>

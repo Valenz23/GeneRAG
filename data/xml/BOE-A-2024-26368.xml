@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20241218112601">
+  <metadatos>
+    <identificador>BOE-A-2024-26368</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7723">Jefatura del Estado</departamento>
+    <rango codigo="1590">Corrección (errores o erratas)</rango>
+    <fecha_disposicion/>
+    <numero_oficial/>
+    <titulo>Corrección de errores del Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan medidas urgentes complementarias en el marco del Plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20241218</fecha_publicacion>
+    <diario_numero>304</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>173553</pagina_inicial>
+    <pagina_final>173553</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>/boe/dias/2024/12/18/pdfs/BOE-A-2024-26368.pdf</url_pdf>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2024-26368</url_epub>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia/>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/rdl/2024/11/28/8/corrigendum/20241218</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/rdl/2024/11/28/8/corrigendum/20241218">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/rdl"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2024-26368</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-11-28</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</eli:number>
+        <eli:subtype_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/corrigendum"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/rdl/2024/11/28/8/corrigendum/20241218/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/rdl"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2024-26368</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-11-28</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</eli:number>
+            <eli:subtype_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/corrigendum"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:corrects rdf:resource="https://www.boe.es/eli/es/rdl/2024/11/28/8/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/rdl/2024/11/28/8/corrigendum/20241218"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/rdl/2024/11/28/8/corrigendum/20241218/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corrección de errores del Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan medidas urgentes complementarias en el marco del Plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-18</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/rdl/2024/11/28/8/corrigendum/20241218/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rdl/2024/11/28/8/corrigendum/20241218/dof/spa/epub">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/epub+zip"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rdl/2024/11/28/8/corrigendum/20241218/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rdl/2024/11/28/8/corrigendum/20241218/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rdl/2024/11/28/8/corrigendum/20241218/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rdl/2024/11/28/8/corrigendum/20241218/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rdl/2024/11/28/8/corrigendum/20241218/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rdl/2024/11/28/8/corrigendum/20241218/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rdl/2024/11/28/8/corrigendum/20241218/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="62" orden="1">Actos procesales</materia>
+      <materia codigo="420" orden="1">Ayudas</materia>
+      <materia codigo="669" orden="1">Catástrofes</materia>
+      <materia codigo="1318" orden="1">Comunidad Valenciana</materia>
+      <materia codigo="4514" orden="1">Inundaciones</materia>
+      <materia codigo="4709" orden="1">Juzgados</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2024-24840" orden="2120">
+          <palabra codigo="201">CORRECCIÓN de errores</palabra>
+          <texto>del Real Decreto-ley 8/2024, de 28 de noviembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas>
+      <alerta codigo="138" orden="1">Administración de Justicia</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="parrafo">Advertidos errores en el Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan medidas urgentes complementarias en el marco del Plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024, publicado en el «Boletín Oficial del Estado» número 288, de 29 de noviembre de 2024, se procede a efectuar las oportunas rectificaciones:</p>
+    <p class="parrafo_2">En la página 160434, parte expositiva, se suprime el último párrafo: «También se extiende al ámbito de los procesos judiciales el carácter inembargable de todas las ayudas que se hayan concedido o sean concedidas por cualquier administración o entidad pública que tengan por objeto paliar los daños causados por la DANA, en línea con lo ya acordado por el Real Decreto-ley 6/2024, de 5 de noviembre, a los efectos del artículo 169.5 de la Ley 58/2003, de 17 de diciembre, General Tributaria.»</p>
+    <p class="parrafo_2">En la página 160435, parte expositiva, se suprime el primero y el segundo párrafo: «A continuación, se declaran preferentes en su tramitación determinados procedimientos, ya que debe garantizarse una respuesta pronta, ágil y adecuada a las reclamaciones que las personas afectadas puedan formular ante los tribunales de justicia en relación con necesidades derivadas de los daños causados por la DANA.</p>
+    <p class="parrafo">Igualmente, por razones de seguridad jurídica deviene necesario establecer unas reglas generales para el cómputo de los plazos que fueron suspendidos, optándose por el reinicio del cómputo de los plazos y por no tomar en consideración, por tanto, el plazo que hubiera transcurrido previamente. Además, para garantizar que la vuelta a la normalidad, una vez se reactiven los plazos y el servicio de notificaciones, no suponga un colapso de las plataformas para presentación de escritos y demandas, y que los juzgados y tribunales puedan dar respuesta a todos ellos, así como que los profesionales que se relacionan con la Administración de Justicia tengan el tiempo necesario para preparar los escritos procesales, en aras a proteger el derecho de defensa de sus clientes y representados, se acuerda la ampliación de los plazos para la presentación de recursos contra sentencias y otras resoluciones que ponen fin al procedimiento y que sean notificadas durante la suspensión de plazos acordada, así como las que sean notificadas dentro de los veinte días hábiles siguientes al levantamiento de los plazos procesales suspendidos.».</p>
+  </texto>
+</documento>

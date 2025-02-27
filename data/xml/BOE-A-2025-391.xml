@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20250108102602">
+  <metadatos>
+    <identificador>BOE-A-2025-391</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="9591">Ministerio de Industria y Turismo</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <fecha_disposicion>20250103</fecha_disposicion>
+    <numero_oficial/>
+    <titulo>Resolución de 3 de enero de 2025, de la Secretaría de Estado de Industria, por la que se publica el Acuerdo del Consejo de Ministros de 10 de diciembre de 2024, por el que se establece la actividad y el funcionamiento del mecanismo de financiación para las PYMES afectadas por la DANA. Mecanismo REINICIA+FEPYME DANA.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20250108</fecha_publicacion>
+    <diario_numero>7</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <pagina_inicial>4059</pagina_inicial>
+    <pagina_final>4065</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>/boe/dias/2025/01/08/pdfs/BOE-A-2025-391.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia/>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/res/2025/01/03/(2)</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2025/01/03/(2)">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2025-391</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-01-03</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(2)</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2025/01/03/(2)/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2025-391</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-01-03</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(2)</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/res/2025/01/03/(2)"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/res/2025/01/03/(2)/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolución de 3 de enero de 2025, de la Secretaría de Estado de Industria, por la que se publica el Acuerdo del Consejo de Ministros de 10 de diciembre de 2024, por el que se establece la actividad y el funcionamiento del mecanismo de financiación para las PYMES afectadas por la DANA. Mecanismo REINICIA+FEPYME DANA.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-01-08</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/res/2025/01/03/(2)/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2025/01/03/(2)/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2025/01/03/(2)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2025/01/03/(2)/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2025/01/03/(2)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2025/01/03/(2)/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2025/01/03/(2)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="183" orden="1">Albacete</materia>
+      <materia codigo="420" orden="1">Ayudas</materia>
+      <materia codigo="669" orden="1">Catástrofes</materia>
+      <materia codigo="1617" orden="1">Construcciones</materia>
+      <materia codigo="3790" orden="1">Fondos de dinero</materia>
+      <materia codigo="4863" orden="1">Maquinaria</materia>
+      <materia codigo="5455" orden="1">Ministerio de Industria y Turismo</materia>
+      <materia codigo="5542" orden="1">Pequeña y Mediana Empresa</materia>
+      <materia codigo="5680" orden="1">Préstamos</materia>
+      <materia codigo="7105" orden="1">Valencia</materia>
+      <materia codigo="7116" orden="1">Vehículos de motor</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2024-24840" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 23 del Real Decreto-ley 8/2024, de 28 de noviembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas>
+      <alerta codigo="118" orden="1">Industria</alerta>
+      <alerta codigo="120" orden="1">Obras y construcciones</alerta>
+      <alerta codigo="127" orden="1">Sistema financiero</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="parrafo">El Consejo de Ministros, en su reunión del día 10 de diciembre de 2024, ha adoptado un acuerdo por el que se establece la actividad y el funcionamiento del mecanismo de financiación para las pymes afectadas por la DANA. Mecanismo REINICIA+FEPYME DANA.</p>
+    <p class="parrafo">A efectos de dar publicidad al mencionado Acuerdo del Consejo de Ministros del 10 de diciembre de 2024,</p>
+    <p class="parrafo">Esta Secretaría de Estado de Industria ha resuelto disponer la publicación del mismo en el «Boletín Oficial del Estado» como anexo a la presente resolución.</p>
+    <p class="parrafo_2">Madrid, 3 de enero de 2025.–La Secretaria de Estado de Industria, Rebeca Torró Soler.</p>
+    <p class="anexo">ANEXO</p>
+    <p class="parrafo_2">El Consejo de Ministros acuerda:</p>
+    <p class="parrafo_2">Establecer, de acuerdo con lo previsto en el artículo 23 del Real Decreto-ley 8/2024, de 28 de noviembre, por el que se adoptan medidas urgentes complementarias en el marco del Plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024, los requisitos de elegibilidad de operaciones y los elementos de gestión y funcionamiento para el Mecanismo REINICIA+FEPYME DANA en el anexo I.</p>
+    <p class="centro_redonda">EXPOSICIÓN</p>
+    <p class="parrafo_2">La situación provocada por la Depresión Aislada en Niveles Altos (DANA), acaecida entre el 28 de octubre y el 4 de noviembre de 2024, ha generado graves daños en el tejido productivo y económico de las zonas afectadas, con especial afectación sobre las pequeñas y medianas empresas. Una catástrofe de estas dimensiones implica el despliegue de medidas extraordinarias y urgentes para contribuir a reparar los daños que se estiman en miles de millones de euros.</p>
+    <p class="parrafo">La recuperación de la actividad económica y social de las zonas afectadas pasa por el fomento de la competitividad y el desarrollo sostenible del territorio a través de la regeneración y/o creación de un tejido empresarial y emprendedor innovador, fomentando la inversión en nuevas iniciativas empresariales y la transformación de las existentes.</p>
+    <p class="parrafo">En este sentido, la disposición adicional novena del Real Decreto-ley 8/2024, de 28 de noviembre, ha creado el Fondo de Emprendimiento y de la Pequeña y Mediana Empresa, F.C.P.J. (en adelante, FEPYME) en ejecución de los compromisos del Plan de Recuperación, Transformación y Resiliencia (PRTR). Este Fondo se destinará a la concesión de préstamos participativos.</p>
+    <p class="parrafo">Asimismo, el artículo 23 del Real Decreto ley 8/2024, de 28 de noviembre, crea dentro del FEPYME, un Mecanismo de financiación para las pymes afectadas por la DANA (Mecanismo REINICIA+FEPYME DANA), dotado con 350 millones de euros en préstamos con parte no reembolsable, financiado con recursos de los Presupuestos Generales del Estado. El FEPYME tiene una mayor agilidad en la gestión por lo que se considera que es el instrumento adecuado para poner en marcha una herramienta de financiación a través de préstamos participativos, instrumento de deuda a medio camino entre el préstamo tradicional y el capital riesgo, no convertible, ideado para reforzar la estructura financiera de la empresa, que ayuden a reactivar las zonas afectadas; de esta manera el Mecanismo REINICIA+FEPYME DANA, cubrirá las necesidades de inversión de pymes con proyectos viables, con potencial de crecimiento y sostenibles.</p>
+    <p class="anexo_num">ANEXO I</p>
+    <p class="anexo_tit">Disposiciones Generales para el establecimiento de la actividad y el funcionamiento del Mecanismo de financiación para las pymes afectadas por la DANA. Mecanismo REINICIA+FEPYME DANA</p>
+    <p class="articulo">Uno. Objeto.</p>
+    <p class="parrafo">El Mecanismo de financiación para pequeñas y medianas empresas (pymes) afectadas por la DANA (Mecanismo REINICIA+FEPYME DANA tiene por objeto conceder préstamos participativos con parte no reembolsable a través del Fondo de Emprendimiento y PYME, F.C.P.J (FEPYME) a pymes titulares de actividades o establecimientos industriales, mercantiles, de servicios y turísticos viables y con potencial de crecimiento y que además generen un impacto positivo en su territorio; incorporen la sostenibilidad como elemento de una gestión eficiente de los recursos y contribuyan a generar resiliencia frente a futuras eventualidades.</p>
+    <p class="articulo">Dos. Dotación económica.</p>
+    <p class="parrafo">El Mecanismo REINICIA+FEPYME DANA estará dotado con 350 millones de euros de los Presupuestos Generales del Estado de 2023 prorrogados para 2024; 300 millones de euros para la financiación del tramo reembolsable y 50 millones de euros para el tramo no reembolsable.</p>
+    <p class="articulo">Tres. Ámbito geográfico.</p>
+    <p class="parrafo">El ámbito geográfico será la relación de municipios definidos en el anexo del Real Decreto-ley 6/2024, de 5 de noviembre, por el que se adoptan medidas urgentes de respuesta ante los daños causados por la DANA en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024.</p>
+    <p class="articulo">Cuatro. Plazo y forma de presentación de solicitudes.</p>
+    <p class="parrafo">Las solicitudes de financiación del Mecanismo REINICIA+FEPYME DANA se podrán realizar a partir de la entrada en vigor del Real Decreto-ley 8/2024, de 28 de noviembre hasta el 31 de diciembre de 2025. Este mecanismo tendrá vigencia, como máximo, hasta el 31 de diciembre de 2032.</p>
+    <p class="parrafo">Las solicitudes deberán presentarse a través de la página web de ENISA.</p>
+    <p class="parrafo">Las solicitudes se tramitarán por orden de entrada. En aquellos supuestos en que sea necesaria documentación complementaria, los solicitantes tendrán un plazo de diez días, desde la solicitud de ENISA, para aportarla; en caso de no contestar al requerimiento de información ENISA anulará la petición, lo cual no impedirá presentar una nueva solicitud. El orden de prelación de esta nueva solicitud, será el correspondiente al momento de presentación y no al de la solicitud anulada.</p>
+    <p class="articulo">Cinco. Beneficiarios.</p>
+    <p class="parrafo">Pequeñas y Medianas Empresas titulares de actividades o establecimientos industriales, mercantiles de servicios y turísticos en las zonas afectadas que cumplan los siguientes requisitos:</p>
+    <p class="parrafo_2">Ser pyme conforme al anexo I del Reglamento (UE) n.º 651/2014 de la Comisión, de 17 de junio de 2014, por el que se declaran determinadas categorías de ayudas compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado.</p>
+    <p class="parrafo">Tener personalidad jurídica, como sociedad mercantil o sociedad cooperativa.</p>
+    <p class="parrafo">Haber sido constituida antes del 28 de octubre de 2024 y encontrarse en funcionamiento en el momento anterior a dicha fecha.</p>
+    <p class="parrafo">Tener domicilio social o instalaciones afectadas en los municipios recogidos en el anexo del Real Decreto-ley 6/2024.</p>
+    <p class="parrafo">No tener la consideración de empresa en crisis antes del 28 de octubre de 2024, de conformidad con el artículo 2 del Reglamento (UE) No 651/2014 de la Comisión de 17 de junio de 2014, por el que se declaran determinadas categorías de ayudas compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado.</p>
+    <p class="parrafo">Hallarse al corriente de pago de obligaciones por reintegro de subvenciones o ayudas públicas.</p>
+    <p class="parrafo">La obligación de estar al corriente de pago de las obligaciones de rembolso de cualesquiera otros préstamos o anticipos anteriormente concedidos con cargo a los Presupuestos Generales del Estado.</p>
+    <p class="parrafo">Hallarse al corriente en el cumplimiento de las obligaciones tributarias y frente a la Seguridad Social.</p>
+    <p class="parrafo">No haber solicitado la declaración de concurso voluntario o institución jurídica sustancialmente equivalente; no haber sido declarada insolvente en cualquier procedimiento; no hallarse declarada en concurso o institución jurídica sustancialmente equivalente, salvo que en éste haya adquirido la eficacia un convenio; no estar sujeta a intervención judicial o haber sido inhabilitada conforme al texto refundido de la Ley Concursal, sin que haya concluido el período de inhabilitación fijado en la sentencia de calificación del concurso.</p>
+    <p class="parrafo">No encontrarse en situación de insolvencia actual siempre que concurra además alguno de los hechos externos reveladores de la insolvencia previstos en el artículo 2.4 del texto refundido de la Ley Concursal.</p>
+    <p class="parrafo">Tener un proyecto viable, sostenible y con potencial de crecimiento.</p>
+    <p class="parrafo">El proyecto deberá recoger las mejoras de la capacidad productiva y los activos que se quieren financiar en el marco de la empresa que los desarrolla, con detalle de los elementos técnicos y económicos del proyecto y la evolución esperable de la empresa en su conjunto.</p>
+    <p class="parrafo">Las cuentas del último ejercicio cerrado habrán de estar depositadas en el Registro Mercantil o en el registro público que proceda.</p>
+    <p class="parrafo">Aportar declaración responsable de que el solicitante cumple con los requisitos establecidos en la normativa comunitaria de ayudas.</p>
+    <p class="articulo">Seis. Líneas de actuación financiables.</p>
+    <p class="parrafo">Los proyectos empresariales a financiar deberán estar vinculados a los daños sufridos como consecuencia de la DANA y tendrán por finalidad la reparación, renovación, adecuación, reposición, ampliación o mejora de:</p>
+    <p class="parrafo_2">Construcciones e instalaciones.</p>
+    <p class="parrafo">Maquinaria, equipos y vehículos.</p>
+    <p class="parrafo">Existencias.</p>
+    <p class="parrafo_2">De acuerdo con el punto anterior podrán ser gastos financiables elegibles, entre otros, los siguientes:</p>
+    <p class="parrafo_2">Adquisición y construcción de naves, locales comerciales, instalaciones y otros inmuebles, para el desarrollo de la actividad de la empresa, incluyendo la adquisición y acondicionamiento de terrenos, siempre que, la compra y/o acondicionamiento de terrenos.</p>
+    <p class="parrafo">Construcción de instalaciones de energía renovable, tanto si su destino es el autoconsumo como el vertido a red.</p>
+    <p class="parrafo">Adquisición de equipamiento vinculado a las tecnologías de la información y la comunicación.</p>
+    <p class="parrafo">Maquinaria, herramientas, moldes o utillaje.</p>
+    <p class="parrafo">Mobiliario.</p>
+    <p class="parrafo">Vehículos industriales y elementos de transporte afectos a la explotación.</p>
+    <p class="parrafo">Reposición de existencias.</p>
+    <p class="articulo">Siete. Características e importe de la financiación.</p>
+    <p class="parrafo">a) Préstamo participativo no convertible. Se entiende por préstamo participativo aquel que reúna las características y condiciones previstas en el artículo 20 del Real Decreto-Ley 7/1996, de 7 de junio, sobre Medidas Urgentes de carácter Fiscal y de Fomento y Liberalización de la Actividad Económica, modificado por la disposición adicional segunda de la Ley 10/1996, de 18 de diciembre, de Medidas Fiscales Urgentes sobre Corrección de la Doble Imposición Interna Intersocietaria y sobre Incentivos a la Internacionalización de Empresas, por la disposición derogatoria única, apartado 1.c), del Real Decreto Legislativo 4/2004, de 5 de marzo, por el que se aprobó el hoy derogado texto refundido de la Ley del Impuesto sobre Sociedades; y por la disposición adicional tercera de la Ley 16/2007, de 4 de julio, de reforma y adaptación de la legislación mercantil en materia contable para su armonización internacional con base en la normativa de la Unión Europea.</p>
+    <p class="parrafo">Las operaciones a realizar con cargo al Mecanismo REINICIA+FEPYME DANA se realizarán mediante préstamos participativos no convertibles. Sus características principales son:</p>
+    <p class="parrafo_2">Importe máximo del préstamo: 150.000 euros.</p>
+    <p class="parrafo">Importe mínimo del préstamo: 25.000 euros.</p>
+    <p class="parrafo">Para la determinación del importe se valorará la cuantía de fondos propios y la estructura financiera de la empresa.</p>
+    <p class="parrafo_2">El tipo de interés de la parte reembolsable se aplicará en dos tramos:</p>
+    <p class="parrafo_2">– Primer tramo: 0 %.</p>
+    <p class="parrafo">– Segundo tramo: se devengará y calculará a un tipo nominal anual calculado en base al porcentaje que, en cada ejercicio, represente el resultado antes de impuestos sobre los fondos propios medios de la empresa prestataria (ambos del ejercicio al que corresponde la liquidación de intereses).</p>
+    <p class="parrafo_2">Comisión de apertura: 0 %.</p>
+    <p class="parrafo">Vencimiento: máximo 7 años.</p>
+    <p class="parrafo">Carencia de principal: máximo 2 años.</p>
+    <p class="parrafo">No se exigen avales ni garantías.</p>
+    <p class="parrafo_2">b) La parte no reembolsable del préstamo participativo podrá alcanzar hasta un 15 por ciento del importe del préstamo, que se repartirá entre todas las cuotas en que se divida ese préstamo. La cuota de amortización del préstamo será trimestral.</p>
+    <p class="parrafo">c) El beneficiario podrá amortizar anticipadamente todo o parte de la financiación otorgada pendiente, debiendo notificarlo a través del Portal Web de ENISA, con al menos quince días naturales de antelación a la fecha prevista para la amortización del siguiente pago, indicando la cantidad que se desea amortizar y la fecha prevista para la amortización. En caso de amortización anticipada parcial se ajustará el calendario de amortización.</p>
+    <p class="parrafo">d) En caso de impago de cualesquiera de las cuotas del préstamo participativo con tramo no reembolsable, se solicitará el reintegro de todo el préstamo no satisfecho.</p>
+    <p class="parrafo_2">Serán causas de reintegro:</p>
+    <p class="parrafo_2">a) Causas relativas a las actuaciones financiadas: si el beneficiario no destinase la financiación a la finalidad y atención para el que fue solicitada, se otorgarán 15 días naturales para la presentación de la documentación adicional y de las alegaciones que el beneficiario considere oportunas. Se valorará el grado de incumplimiento y las causas que lo motivaron pudiendo instar, una vez informada la Comisión, un vencimiento anticipado parcial e, incluso, optar por la resolución anticipada del contrato.</p>
+    <p class="parrafo">b) Causas relativas a impagos: la falta de pago a sus respectivos vencimientos de cualquier cantidad adeudada por principal.</p>
+    <p class="parrafo_2">c) Otras causas:</p>
+    <p class="parrafo_2">i) La falsedad en los datos aportados y declaraciones efectuadas por el beneficiario, con base en los cuales la Sociedad Gestora otorgó la financiación.</p>
+    <p class="parrafo">ii) Si los informes de auditoría de las Cuentas Anuales entregados por el Beneficiario, fueran emitidos por los auditores con opinión «desfavorable» o «denegada» con arreglo a la normativa que resulte de aplicación.</p>
+    <p class="parrafo">iii) El incumplimiento de cualquiera de las obligaciones recogidas en el Contrato.</p>
+    <p class="parrafo_2">e) La empresa prestataria queda obligada a facilitar a ENISA la información sobre su evolución económica y financiera que, en su caso, le sea requerida.</p>
+    <p class="parrafo">f) El resto de condiciones del contrato de préstamo participativo serán las establecidas en la guía operativa de ENISA.</p>
+    <p class="parrafo">g) ENISA asegurará que los préstamos participativos concedidos cumplan con el Manual de Procedimiento de Concesión y Control de Préstamos Participativos.</p>
+    <p class="articulo">Ocho. Régimen de ayudas.</p>
+    <p class="parrafo">A los efectos de ayudas de estado resultará de aplicación el Reglamento (UE) 2023/2831 de la Comisión de 13 de diciembre de 2023 relativo a la aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea las ayudas de Minimis.</p>
+    <p class="articulo">Nueve. Gestión del Mecanismo REINICIA+FEPYME DANA.</p>
+    <p class="parrafo">a) De acuerdo con lo establecido en la disposición adicional novena, apartado 4 del Real Decreto ley 8/2024, de 28 de noviembre, ENISA es la gestora del Fondo de Emprendimiento y PYME (FEPYME), siéndolo de igual manera del Mecanismo REINICIA+FEPYME DANA, según disponen los apartados 8 y 9 del artículo 23 del citado Real Decreto-ley.</p>
+    <p class="parrafo">b) ENISA llevará a cabo todas las acciones relativas a la gestión del Mecanismo REINICIA+FEPYME DANA incluyendo, con carácter no limitativo, las siguientes:</p>
+    <p class="parrafo_2">Recibir, estudiar y evaluar las propuestas de financiación o inversión con cargo al Mecanismo que serán aprobadas o denegadas por el Comité de inversión de la sociedad.</p>
+    <p class="parrafo">Elaborar un informe de incumplimiento por cualquiera de las causas de reintegro establecidas en el apartado siete que elevará a la Comisión de Seguimiento y Control.</p>
+    <p class="parrafo">Suscribir y ejecutar en nombre propio, por cuenta de la Administración General del Estado y con cargo al Mecanismo, los contratos que formalicen las operaciones aprobadas de forma definitiva.</p>
+    <p class="parrafo">Efectuar el seguimiento de las operaciones de financiación formalizadas con cargo al Fondo informando a la Comisión de Seguimiento y Control del Mecanismo periódicamente al respecto.</p>
+    <p class="parrafo">Informar a la Comisión de Seguimiento y Control del Mecanismo de la evolución de la actividad del Mecanismo, al menos, con una periodicidad semestral. Actuar como depositaria de los contratos suscritos en nombre propio, por cuenta de la Administración General del Estado, y con cargo al Mecanismo.</p>
+    <p class="parrafo">Cargar a los recursos del Fondo, los gastos incurridos para la contratación de las asistencias necesarias y la retribución que corresponda para el desarrollo y ejecución de las actividades inherentes a la gestión del mismo. La remuneración se determinará por convenio que al efecto suscriba la Secretaría de Estado de Industria con ENISA; dicha remuneración deberá ser, como mínimo, suficiente para cubrir los costes de gestión del mecanismo. La estructura de retribuciones incentivará la eficiencia en la gestión del Mecanismo.</p>
+    <p class="parrafo">Ejercitar las acciones legales, según considere oportuno, en defensa de los intereses públicos en los términos establecidos en la Guía Operativa del Mecanismo a que se refiere el apartado siguiente.</p>
+    <p class="parrafo">Elaborar una Guía operativa del Mecanismo que establecerá los criterios para valorar la estructura financiera de la empresa, la profesionalidad en la gestión y la viabilidad técnica y económica del proyecto y someterla a la Comisión de Seguimiento y Control del Mecanismo para su aprobación.</p>
+    <p class="parrafo">Elaborar la adaptación al Mecanismo del Manual de Procedimiento de Concesión y Control de Préstamos Participativos de la sociedad.</p>
+    <p class="parrafo">Registrar todas las operaciones realizadas con cargo al Mecanismo en una contabilidad específica, diferenciada e independiente de la propia.</p>
+    <p class="parrafo">Elaborar los presupuestos de capital y explotación del Mecanismo, así como definir los objetivos del Mecanismo a corto y medio plazo.</p>
+    <p class="parrafo">Elaborar las cuentas del Mecanismo y aprobarlas, previa remisión a la Comisión de Seguimiento y Control del Mecanismo, como asunto para información.</p>
+    <p class="parrafo">Establecer el plan de liquidación del retorno al Tesoro Público al finalizar el plazo de vigencia del Mecanismo que deberá ser aprobado por la Comisión de Seguimiento y Control.</p>
+    <p class="parrafo">El sistema de evaluación, seguimiento, control y auditoría del Mecanismo REINICIA+ FEPYME DANA se sujetará a lo establecido en la Guía Operativa del Mecanismo. En todo caso, el sistema de evaluación, seguimiento, control y auditoría se apoyará en los sistemas generales de control ya existentes en ENISA.</p>
+    <p class="parrafo">El funcionamiento del Mecanismo REINICIA+FEPYME DANA queda sujeto al Plan de Medidas Antifraude (PMA) vigente en ENISA.</p>
+    <p class="articulo">Diez. Comisión de Seguimiento y Control.</p>
+    <p class="parrafo">El Ministerio de Industria y Turismo (MINTUR) una Comisión de Seguimiento y Control (en adelante, la Comisión) que velará por el correcto funcionamiento del Mecanismo REINICIA+FEPYME DANA.</p>
+    <p class="parrafo">Esta Comisión estará compuesta por los siguientes miembros:</p>
+    <p class="parrafo_2">La persona titular de la Dirección General de Estrategia Industrial y PYME del MINTUR.</p>
+    <p class="parrafo">Dos representantes de la Dirección General de Estrategia Industrial y de la PYME del MINTUR.</p>
+    <p class="parrafo">Dos representantes de ENISA.</p>
+    <p class="parrafo">La persona titular del área jurídica de ENISA actuará como secretario de la Comisión, sin derecho a voto.</p>
+    <p class="parrafo_2">La Comisión tendrá las siguientes funciones:</p>
+    <p class="parrafo_2">a) Aprobar o denegar el informe por causas de incumplimiento. Si se aprobara el informe, la Comisión lo elevará al Director General de Estrategia Industrial y PYME para que inicie el procedimiento de reintegro conforme a la Ley 38/2003, de 17 de noviembre, General de Subvenciones.</p>
+    <p class="parrafo">b) Aprobar, a propuesta de la gestora, una Guía Operativa del Mecanismo REINICIA+FEPYME DANA.</p>
+    <p class="parrafo">c) Aprobar, a propuesta de la gestora, la adaptación al Mecanismo del Manual de Procedimiento de Concesión y Control de Préstamos Participativos de la sociedad.</p>
+    <p class="parrafo">d) Analizar y valorar la evolución de las operaciones por cuenta del Mecanismo REINICIA+ FEPYME DANA para garantizar la buena marcha de las operaciones y el cumplimiento de los objetivos para los que fue creado.</p>
+    <p class="parrafo">e) Solicitar a la gestora cualquier información necesaria para valorar los riesgos que asumiera el Estado, así como determinar la información económico-financiera que de forma específica o periódica determine deba serle remitida. En general, podrá solicitar cuanta información o documentación sea necesaria para el desarrollo de sus funciones de control y seguimiento de las operaciones que realice la gestora con cargo al Mecanismo.</p>
+    <p class="parrafo">f) Ser informada sobre las cuentas anuales del Mecanismo con carácter previo a su aprobación por parte de la gestora.</p>
+    <p class="parrafo">g) Verificar la adecuación de las propuestas de remuneración de la gestora a las normas de retribución fijadas en el convenio suscrito entre la Secretaría de Estado de Industria y ENISA.</p>
+    <p class="parrafo">h) Aprobar el plan de liquidación del retorno al Tesoro Público al finalizar el plazo de vigencia del Mecanismo para su aprobación por el Ministerio de Industria y Turismo, previo informe vinculante de la Intervención General de la Administración del Estado.</p>
+    <p class="parrafo">i) En general, realizar el control y seguimiento de las operaciones que se aprueben con cargo al Mecanismo y cualesquiera otras que se deriven de este Mecanismo.</p>
+    <p class="articulo">Once. Política de riesgos.</p>
+    <p class="parrafo">A los efectos del Mecanismo REINICIA+ FEPYME DANA para la admisión de las solicitudes Se aplicará la política de riesgos actual de ENISA con las siguientes salvedades:</p>
+    <p class="parrafo_2">No serán de aplicación los ratios de cofinanciación y supervivencia,</p>
+    <p class="parrafo">y se aprobarán operaciones con rating C3.</p>
+    <p class="articulo">Doce.</p>
+    <p class="parrafo">La Ley 38/2003, de 17 de noviembre, General de Subvenciones, será de aplicación subsidiaria.</p>
+  </texto>
+</documento>
