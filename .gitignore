@@ -1,6 +1,10 @@
 /.vscode
 /.venv
 
+/chroma
+
+/src/__pycache__
+
 /_demos/*/.venv
 /_demos/*/.env
 /_demos/*/__pycache__
@@ -19,4 +23,3 @@
 *.out
 *.bbl
 *.blg
-
