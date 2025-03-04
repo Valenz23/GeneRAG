@@ -7,6 +7,8 @@ from functions.get_chroma_db import get_chroma_db
 from functions.get_embedding_function import get_embedding_function
 from functions.get_llm_model import get_llm_model, get_chat_model
 
+from langchain.chat_models import init_chat_model
+
 import random
 from enum import Enum
 import time
@@ -58,8 +60,10 @@ def query(question: str, sel_llm: str):
     
     # Prompt and chain
     prompt = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
+
     llm = get_llm_model(model=sel_llm)
     # llm = get_chat_model(model=sel_llm)
+    # llm = init_chat_model(sel_llm, model_provider="ollama")
     
     chain = prompt | llm | StrOutputParser()
 
