@@ -3,7 +3,7 @@
 
 /chroma
 
-/src/__pycache__
+/functions/__pycache__
 
 /_demos/*/.venv
 /_demos/*/.env
