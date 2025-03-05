@@ -22,8 +22,8 @@ jobs:
       - name: Descarga del sumario del día
         run: |        
           cd scripts
-          chmod +x ./sumario_del_dia.sh
-          ./sumario_del_dia.sh
+          chmod +x ./get_sumario_hoy.sh
+          ./get_sumario_hoy.sh
 
       - name: Descarga de elementos del sumario del día
         run: |
