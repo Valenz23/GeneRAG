@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20241226115601">
+  <metadatos>
+    <identificador>BOE-A-2024-23055</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="9585">Ministerio de la Presidencia, Justicia y Relaciones con las Cortes</departamento>
+    <rango codigo="1350">Orden</rango>
+    <fecha_disposicion>20241106</fecha_disposicion>
+    <numero_oficial>PJC/1222/2024</numero_oficial>
+    <titulo>Orden PJC/1222/2024, de 6 de noviembre, por la que se publica el Acuerdo del Consejo de Ministros de 5 de noviembre de 2024, por el que se declara «Zona afectada gravemente por una emergencia de protección civil» el territorio damnificado como consecuencia de la Depresión Aislada en Niveles Altos (DANA) que ha afectado a amplias zonas de la Península y Baleares entre el 28 de octubre y el 4 de noviembre de 2024.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20241107</fecha_publicacion>
+    <diario_numero>269</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <pagina_inicial>141986</pagina_inicial>
+    <pagina_final>141994</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>/boe/dias/2024/11/07/pdfs/BOE-A-2024-23055.pdf</url_pdf>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2024-23055</url_epub>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia/>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/o/2024/11/06/pjc1222</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2024/11/06/pjc1222">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2024-23055</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-11-06</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pjc1222</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/o/2024/11/06/pjc1222/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/o"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2024-23055</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-11-06</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pjc1222</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/o/2024/11/06/pjc1222"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/o/2024/11/06/pjc1222/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orden PJC/1222/2024, de 6 de noviembre, por la que se publica el Acuerdo del Consejo de Ministros de 5 de noviembre de 2024, por el que se declara «Zona afectada gravemente por una emergencia de protección civil» el territorio damnificado como consecuencia de la Depresión Aislada en Niveles Altos (DANA) que ha afectado a amplias zonas de la Península y Baleares entre el 28 de octubre y el 4 de noviembre de 2024.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-11-07</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/o/2024/11/06/pjc1222/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2024/11/06/pjc1222/dof/spa/epub">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/epub+zip"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2024/11/06/pjc1222/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2024/11/06/pjc1222/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2024/11/06/pjc1222/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2024/11/06/pjc1222/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2024/11/06/pjc1222/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/o/2024/11/06/pjc1222/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/o/2024/11/06/pjc1222/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="78" orden="1">Administración de Justicia</materia>
+      <materia codigo="85" orden="1">Administración Local</materia>
+      <materia codigo="5787" orden="1">Agencia Española de Cooperación Internacional para el Desarrollo</materia>
+      <materia codigo="233" orden="1">Andalucía</materia>
+      <materia codigo="265" orden="1">Aragón</materia>
+      <materia codigo="420" orden="1">Ayudas</materia>
+      <materia codigo="433" orden="1">Baleares</materia>
+      <materia codigo="632" orden="1">Carreteras</materia>
+      <materia codigo="658" orden="1">Castilla La Mancha</materia>
+      <materia codigo="665" orden="1">Cataluña</materia>
+      <materia codigo="669" orden="1">Catástrofes</materia>
+      <materia codigo="1241" orden="1">Comisiones Interministeriales</materia>
+      <materia codigo="1318" orden="1">Comunidad Valenciana</materia>
+      <materia codigo="1499" orden="1">Consejo General del Poder Judicial</materia>
+      <materia codigo="1612" orden="1">Consorcio de Compensación de Seguros</materia>
+      <materia codigo="1640" orden="1">Contratación administrativa</materia>
+      <materia codigo="2289" orden="1">Defunciones</materia>
+      <materia codigo="3161" orden="1">Empresa de Transformación Agraria</materia>
+      <materia codigo="3180" orden="1">Empresas públicas</materia>
+      <materia codigo="3455" orden="1">Estadística</materia>
+      <materia codigo="4089" orden="1">Impuesto General sobre la Renta de las Personas Físicas</materia>
+      <materia codigo="4157" orden="1">Industrias</materia>
+      <materia codigo="4514" orden="1">Inundaciones</materia>
+      <materia codigo="4518" orden="1">Inversiones</materia>
+      <materia codigo="4932" orden="1">Mercados</materia>
+      <materia codigo="5452" orden="1">Ministerio de la Presidencia Justicia y Relaciones con las Cortes</materia>
+      <materia codigo="5456" orden="1">Ministerio de Política Territorial y Memoria Democrática</materia>
+      <materia codigo="5678" orden="1">Prestación personal</materia>
+      <materia codigo="5703" orden="1">Procedimiento administrativo</materia>
+      <materia codigo="5778" orden="1">Protección Civil</materia>
+      <materia codigo="7869" orden="1">Registros telemáticos</materia>
+      <materia codigo="6499" orden="1">Seguridad Social</materia>
+      <materia codigo="6909" orden="1">Trabajadores</materia>
+      <materia codigo="7162" orden="1">Viviendas</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2015-7730" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>la Ley 17/2015, de 9 de julio</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2024-22928" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Real Decreto-ley 6/2024, de 5 de noviembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores>
+        <posterior referencia="BOE-A-2024-23744" orden="">
+          <palabra codigo="270">SE MODIFICA</palabra>
+          <texto>el apartado 14.2, por Resolución de 12 de noviembre de 2024</texto>
+        </posterior>
+        <posterior referencia="BOE-A-2024-27079" orden="">
+          <palabra codigo="331">SE DICTA EN RELACIÓN</palabra>
+          <texto>y se finaliza la suspensión de términos e interrupción de plazos establecida en el Acuerdo del Consejo de Ministros, de 5 de noviembre de 2024: Resolución de 23 de diciembre de 2024</texto>
+        </posterior>
+      </posteriores>
+    </referencias>
+    <alertas>
+      <alerta codigo="138" orden="1">Administración de Justicia</alerta>
+      <alerta codigo="109" orden="1">Derecho Administrativo</alerta>
+      <alerta codigo="112" orden="1">Derecho Mercantil</alerta>
+      <alerta codigo="118" orden="1">Industria</alerta>
+      <alerta codigo="121" orden="1">Organización de la Administración</alerta>
+      <alerta codigo="126" orden="1">Seguridad y Defensa</alerta>
+      <alerta codigo="127" orden="1">Sistema financiero</alerta>
+      <alerta codigo="128" orden="1">Sistema tributario</alerta>
+      <alerta codigo="130" orden="1">Telecomunicaciones</alerta>
+      <alerta codigo="131" orden="1">Trabajo y empleo</alerta>
+      <alerta codigo="132" orden="1">Transportes y tráfico</alerta>
+      <alerta codigo="137" orden="1">Vivienda y urbanismo</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="parrafo">El Consejo de Ministros, en su reunión de 5 de noviembre de 2024, ha aprobado un Acuerdo por el que se declara «Zona afectada gravemente por una emergencia de protección civil» el territorio damnificado como consecuencia de la Depresión Aislada en Niveles Altos (DANA) que ha afectado a amplias zonas de la Península y Baleares entre el 28 de octubre y el 4 de noviembre de 2024.</p>
+    <p class="parrafo">Para general conocimiento, se dispone su publicación como anexo a la presente orden.</p>
+    <p class="parrafo_2">Madrid, 6 de noviembre de 2024.–El Ministro de la Presidencia, Justicia y Relaciones con las Cortes, Félix Bolaños García.</p>
+    <p class="anexo_num">ANEXO</p>
+    <p class="anexo_tit">Acuerdo por el que se declara «Zona afectada gravemente por una emergencia de protección civil» el territorio damnificado como consecuencia de la Depresión Aislada en Niveles Altos (DANA) que ha afectado a amplias zonas de la Península y Baleares entre el 28 de octubre y el 4 de noviembre de 2024</p>
+    <p class="parrafo_2">El domingo 27 de octubre de 2024, la Agencia Estatal de Meteorología (AEMET) emitió un aviso especial en el que informaba de que una DANA (Depresión Aislada en Niveles Altos) se había situado en el interior peninsular, con la previsión de precipitaciones generalizadas en la Península y Baleares, con mayor probabilidad e intensidad en la vertiente mediterránea.</p>
+    <p class="parrafo">La parte más severa del episodio comenzó a partir del lunes 28, convirtiéndose el martes 29 en la peor DANA en lo que va de siglo, siendo las comunidades autónomas más afectadas la Comunitat Valenciana, Castilla-La Mancha, Andalucía y, en menor medida, Illes Balears, Cataluña y Aragón. En algunos puntos, las lluvias han llegado a superar los 600 litros por metro cuadrado en pocas horas, provocando, entre otros, inundaciones en decenas de municipios, carreteras y vías cortadas, puentes destrozados por la violencia de las aguas y, lo que es peor, más de 200 víctimas mortales. Se trata del mayor desastre natural en la historia reciente de nuestro país, y es ya la segunda inundación que más víctimas se ha cobrado en Europa en lo que va de este siglo.</p>
+    <p class="parrafo">La intensidad de las precipitaciones ha provocado graves inundaciones, que han ocasionado un gran número de fallecidos, desaparecidos, múltiples rescates, personas atrapadas en sus viviendas y vehículos, conductores inmovilizados en las autovías A-3 y A-7, cortes en la red de ferrocarril, inundación del aeropuerto de Valencia, interrupción de servicios esenciales como el abastecimiento de agua, suministro eléctrico y telefonía.</p>
+    <p class="parrafo">Las zonas más afectadas han sido, en la provincia de Valencia, la zona de Utiel-Requena, l´Horta Sud, la Ribera Alta y Baja y la Comarca de los Serranos; en Albacete, el municipio de Letur, en el que se ha producido una riada; en Cuenca, el municipio de Mira; y en diversos puntos de Andalucía.</p>
+    <p class="parrafo">La magnitud de la emergencia ha sido tal que, en solidaridad con la Comunitat Valenciana, se han sucedido los ofrecimientos de medios por parte de diversas comunidades autónomas y ciudades autónomas, así como de numerosos organismos internacionales, para atender las múltiples emergencias de personas atrapadas y aisladas en los municipios afectados.</p>
+    <p class="parrafo">El Estado ha desplegado hasta la fecha más de 7.500 efectivos de las Fuerzas Armadas y 10.000 policías nacionales y guardias civiles, así como varios grupos especializados en salvamento y actividades subacuáticas, con el fin de rescatar a supervivientes, garantizar la seguridad y restablecer la normalidad en las calles. Estos efectivos están siendo asistidos, además, por unos 5.000 militares en sus bases de origen, por equipos digitales y satélites de última generación y por una flota de 400 vehículos especializados, 30 helicópteros, medio centenar de drones y de embarcaciones y un buque anfibio de la Armada dotado de alojamientos, de quirófanos, de helicópteros y de una flota de vehículos de apoyo. Se trata del mayor despliegue de efectivos de las Fuerzas y Cuerpos de Seguridad del Estado y de las Fuerzas Armadas, que se haya hecho jamás en nuestro país en tiempos de paz. Asimismo, la Agencia Estatal de Administración Tributaria ha contribuido con 100 efectivos y 30 vehículos de Vigilancia Aduanera.</p>
+    <p class="parrafo">También, se ha llevado a cabo una serie de actuaciones en aspectos considerados como prioritarios, entre las que cabe destacar las siguientes:</p>
+    <p class="parrafo_2">– Con el fin de recuperar e identificar los cuerpos de los fallecidos, se han reforzado los equipos para el levantamiento de cadáveres, se han instalado varias morgues móviles y se ha desplazado una Unidad de Identificación de Víctimas en Desastres de la Policía Nacional.</p>
+    <p class="parrafo">– Se han realizado labores de reparación de servicios esenciales por parte de las administraciones públicas en estrecha colaboración con el sector privado.</p>
+    <p class="parrafo">– Se han desplazado centenares de especialistas en infraestructuras del transporte de la Administración General del Estado, para facilitar la reactivación de las mismas.</p>
+    <p class="parrafo">– También se ha desplegado un dispositivo de Brigadas de Prevención y Extinción de Incendios Forestales (BRIF) y personal coordinador del Ministerio para la Transición Ecológica y el Reto Demográfico para limpiar los cauces y riberas más afectadas, y contribuir a la reparación de las infraestructuras hidráulicas dañadas.</p>
+    <p class="parrafo">– Se ha activado el Protocolo Nacional de Actuación Médico-Forense y de Policía Científica en sucesos con víctimas múltiples.</p>
+    <p class="parrafo_2">También son destacables las aportaciones, disponibilidad y ofrecimientos de todos los departamentos ministeriales.</p>
+    <p class="parrafo">Como consecuencia de estos sucesos se han producido daños personales, en infraestructuras y en bienes públicos y privados.</p>
+    <p class="parrafo">A la vista de los daños ocasionados y las medidas necesarias para subvenir la grave perturbación de las condiciones de vida de la población, el pleno restablecimiento de los servicios públicos esenciales y, en definitiva, la recuperación de la normalidad en las zonas afectadas, está justificada la intervención de la Administración General del Estado, con base en el principio de solidaridad interterritorial y de manera subsidiaria, complementando las actuaciones que, en ejercicio de sus competencias, tienen encomendadas las Administraciones Públicas territoriales.</p>
+    <p class="parrafo">En este sentido, el artículo 20.2 de la Ley 17/2015, de 9 de julio, del Sistema Nacional de Protección Civil, prevé que, cuando se produzca una emergencia cuya magnitud requiera para su recuperación la intervención de la Administración General del Estado, se podrán aplicar las medidas recogidas en el capítulo V del título II, previa declaración de zona afectada gravemente por una emergencia de protección civil, de acuerdo con el procedimiento previsto en su artículo 23, a propuesta de las personas titulares de los Ministerios de Hacienda y del Interior. De las circunstancias concurrentes en este supuesto, descritas con anterioridad, se deduce que concurren las recogidas en el apartado 2 de dicho artículo 23 para proceder a la citada declaración (daños personales y materiales derivados de un siniestro que perturba gravemente las condiciones de vida de la población en un área geográfica determinada, y paralización, como consecuencia del mismo, de todos o algunos de los servicios públicos esenciales).</p>
+    <p class="parrafo">A su vez, el artículo 24 del citado texto legal contiene una relación de medidas que podrán adoptarse cuando se produzca la mencionada declaración, en los términos que apruebe el Consejo de Ministros. Se trata de una relación abierta de las medidas y ayudas que, con mayor frecuencia, suelen adoptarse en caso de sucesos como los que justifican la aprobación de este acuerdo, sin perjuicio de otras que el Consejo de Ministros puede impulsar, en función de las circunstancias, o adoptar las comunidades autónomas y las entidades locales en ejercicio de sus competencias.</p>
+    <p class="parrafo">Esta declaración se extiende a las zonas en las que, teniendo en cuenta las situaciones operativas 1 ó 2 activadas, podrían haber padecido, o seguir padeciendo, los efectos de los fenómenos adversos considerados. Por lo tanto, la aprobación definitiva de las medidas y ayudas mencionadas anteriormente quedará condicionada a la acreditación de los daños producidos y las zonas concretas afectadas.</p>
+    <p class="parrafo">En particular, este acuerdo contempla la posibilidad de aprobar ayudas extraordinarias destinadas a paliar daños personales, daños materiales en vivienda y enseres y en establecimientos industriales, mercantiles, y de servicios; ayudas a personas físicas o jurídicas que hayan realizado prestaciones personales y de bienes; y ayudas a corporaciones locales. Todas ellas están previstas y reguladas en el Real Decreto 307/2005, de 18 de marzo, por el que se determinan las subvenciones en atención a determinadas necesidades derivadas de situaciones de emergencia o de naturaleza catastrófica, y se establece el procedimiento para su concesión. Estas ayudas paliativas, cumpliéndose los requisitos y dentro de los límites reglamentariamente previstos, complementan las previstas con carácter ordinario por el Sistema Nacional de Protección Civil, que pueden concederse sin necesidad de que se efectúe la declaración de zona afectada gravemente por una emergencia de protección civil, tal como prevé la disposición adicional cuarta de la Ley 17/2015, de 9 de julio. También se recogen las correspondientes medidas de carácter notarial, registral, procesal y organizativo en el ámbito de la Administración de Justicia.</p>
+    <p class="parrafo">Asimismo, se acuerda la creación de una comisión interministerial, presidida por el titular del Ministerio de Política Territorial y Memoria Democrática, para facilitar el impulso y coordinación de las medidas adoptadas o que puedan adoptarse para hacer frente a los daños ocasionados por la DANA.</p>
+    <p class="parrafo">Una vez que la Administración General del Estado disponga de una evaluación de los daños producidos, en colaboración con el resto de Administraciones autonómicas y locales competentes, este acuerdo podrá completarse con la adopción de otras medidas que se consideren procedentes y complementarias a las adoptadas por las administraciones territoriales en el ámbito de sus competencias en materia de protección civil.</p>
+    <p class="parrafo">En su virtud, de conformidad con lo dispuesto en los artículos 23 y 24 de la Ley 17/2015, de 9 de julio, a propuesta del Ministro del Interior y de las Ministras y Ministros de la Presidencia, Justicia y Relaciones con las Cortes, de Hacienda, de Transportes y Movilidad Sostenible, de Trabajo y Economía Social, de Agricultura, Pesca y Alimentación, de Política Territorial y Memoria Democrática, para la Transición Ecológica y el Reto Demográfico, de Vivienda y Agenda Urbana, de Economía, Comercio y Empresa, y de Inclusión, Seguridad Social y Migraciones, el Consejo de Ministros, en su reunión del día 5 de noviembre de 2024, acuerda:</p>
+    <p class="articulo">Primero. Declaración de zona afectada gravemente por una emergencia de protección civil.</p>
+    <p class="parrafo">1. De acuerdo con lo previsto en el artículo 23 de la Ley 17/2015, de 9 de julio, del Sistema Nacional de Protección Civil, se declara zona afectada gravemente por una emergencia de protección civil, el territorio afectado como consecuencia de la Depresión Aislada en Niveles Altos (DANA) que ha afectado a amplias zonas de la Península y Baleares durante los días 28 de octubre al 4 de noviembre de 2024, en las Comunidades Autónomas de Comunitat Valenciana, Castilla-La Mancha, Andalucía, Illes Balears, Cataluña y Aragón.</p>
+    <p class="parrafo">A fin de paliar los daños personales y materiales que puedan haberse producido, de conformidad con lo dispuesto en el artículo 24 de la Ley 17/2015, de 9 de julio, y demás disposiciones legales y reglamentarias aplicables, se podrán adoptar, si se considera oportuno, las medidas a las que se refieren los apartados siguientes.</p>
+    <p class="parrafo">2. Las ayudas de la Administración General del Estado recogidas en este acuerdo que se habiliten, en su caso, se aplicarán sobre la base del principio de solidaridad interterritorial y de manera subsidiaria, complementando las actuaciones que, en ejercicio de sus competencias, tienen encomendadas las demás Administraciones Públicas territoriales.</p>
+    <p class="articulo">Segundo. Ayudas destinadas a paliar daños personales; daños materiales en vivienda y enseres; corporaciones locales; establecimientos industriales, mercantiles y de servicios y a personas físicas o jurídicas que hayan realizado prestaciones personales y de bienes.</p>
+    <p class="parrafo">1. Las siguientes ayudas se regirán por el Real Decreto 307/2005, de 18 de marzo, por el que se determinan las subvenciones en atención a determinadas necesidades derivadas de situaciones de emergencia o de naturaleza catastrófica, y se establece el procedimiento para su concesión:</p>
+    <p class="parrafo_2">a) Por fallecimiento o incapacidad causados directamente por los hechos que motivan la declaración efectuada en el apartado anterior.</p>
+    <p class="parrafo">b) Por la destrucción o daños en enseres y por los daños en vivienda.</p>
+    <p class="parrafo">c) A corporaciones locales por los gastos causados para hacer frente a estas situaciones de emergencia.</p>
+    <p class="parrafo">d) Por los daños a establecimientos industriales, mercantiles y de servicios.</p>
+    <p class="parrafo">e) A las personas físicas o jurídicas que hayan realizado prestaciones personales y de bienes.</p>
+    <p class="parrafo_2">2. Estarán exentas del Impuesto sobre la Renta de las Personas Físicas las ayudas por daños personales concedidas de acuerdo con lo establecido en el artículo 24.2 de la Ley 17/ 2015, de 9 de julio.</p>
+    <p class="parrafo">3. Las ayudas a corporaciones locales por gastos de emergencia no tendrán por objeto las reparaciones o reposiciones en infraestructuras a las que se refiere el apartado tercero. No obstante, podrán subvencionarse aquellas actuaciones inaplazables que, incidiendo en el mismo ámbito de aplicación a que se refiere dicho apartado, se hayan llevado a cabo con el fin de garantizar la vida y seguridad de las personas y el funcionamiento de los servicios públicos esenciales.</p>
+    <p class="parrafo">4. Quedan excluidos de lo dispuesto en el número anterior los trabajos llevados a cabo con medios propios de la corporación local, ya sean materiales, tales como maquinaria o herramientas, o humanos, entendiéndose incluido entre estos el personal contratado con anterioridad a los hechos causantes. En ningún caso serán subvencionables los gastos de personal generados por bomberos, policía local, protección civil y otros de carácter análogo.</p>
+    <p class="articulo">Tercero. Daños en infraestructuras municipales y red viaria provincial e insular.</p>
+    <p class="parrafo">1. A los proyectos directamente relacionados con los siniestros a los que se refiere el apartado primero que ejecuten los ayuntamientos, los consejos insulares, las diputaciones provinciales, las comarcas y las mancomunidades en los términos municipales y núcleos de población, relativos a las obras de reparación o restitución de infraestructuras, equipamientos o instalaciones y servicios de titularidad municipal y de las mancomunidades incluidos en el artículo 25.2 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, y de la red viaria de las diputaciones provinciales o, en su caso, de los consejos insulares, se les podrá conceder una subvención de hasta el 50 por ciento de su coste, excluidos de estas ayudas los trabajos llevados a cabo con medios propios no personificados de la entidad local, ya sean materiales, maquinaria o personal.</p>
+    <p class="parrafo">2. Se entenderá que los proyectos indicados en el número anterior cumplen los requisitos previstos en el artículo 119.1 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, aplicándoseles la tramitación de urgencia a la que se refiere dicho artículo.</p>
+    <p class="articulo">Cuarto. Daños en las demás infraestructuras públicas.</p>
+    <p class="parrafo">Se faculta a los titulares de los departamentos ministeriales competentes por razón de la materia para declarar las áreas afectadas como zona de actuación especial, para que dichos departamentos, sus organismos autónomos y entidades públicas vinculadas o dependientes de ellos puedan llevar a cabo las actuaciones de restauración que procedan. A los efectos indicados se podrán declarar de emergencia las obras que ejecuten tales departamentos para reparar los daños causados en infraestructuras de titularidad pública comprendidas en su ámbito de competencias.</p>
+    <p class="articulo">Quinto. Régimen de contratación.</p>
+    <p class="parrafo">1. Podrán tener la consideración de obras, servicios o suministros de emergencia, previo el correspondiente acuerdo del órgano de contratación, y en la medida en que se cumplan los requisitos del artículo 120 de la Ley 9/2017, de 8 de noviembre, los contratos de reparación o mantenimiento de infraestructuras, equipamientos o servicios, de obras de reposición de bienes perjudicados y de valoraciones de daños, cualquiera que sea su cuantía.</p>
+    <p class="parrafo">A los efectos de lo dispuesto en el artículo 120 de la Ley 9/2017, de 8 de noviembre, la resolución del órgano de contratación por el que se acuerde la aplicación de la tramitación de emergencia contendrá la justificación de la concurrencia, en el caso concreto, del supuesto que habilita para la aplicación de dicha tramitación.</p>
+    <p class="parrafo">2. Se declara urgente la ocupación de los bienes afectados por las expropiaciones derivadas de la realización de las obras a que se refiere este apartado, a los efectos establecidos en el artículo 52 de la Ley de Expropiación Forzosa, de 16 de diciembre de 1954.</p>
+    <p class="parrafo">3. De acuerdo con lo establecido en el artículo 7bis.3 de la Ley 17/2015, de 9 de julio, se podrá proceder a la ocupación temporal de espacios de propiedad privada para la ejecución de contratos tramitados por el procedimiento de emergencia.</p>
+    <p class="articulo">Sexto. Consorcio de Compensación de Seguros.</p>
+    <p class="parrafo">1. Para facilitar la tramitación de las ayudas y la valoración de los daños, la administración competente y el Consorcio de Compensación de Seguros podrán transmitirse los datos sobre beneficiarios de las ayudas que se concedan e indemnizaciones que se reconozcan, sus cuantías respectivas y los bienes afectados. Las entidades aseguradoras que operen en el territorio español, estarán obligadas a suministrar al Consorcio de Compensación de Seguros la información que éste les solicite para dar cumplimiento a lo dispuesto anteriormente.</p>
+    <p class="parrafo">2. El intercambio de los datos sobre personas beneficiarias de las ayudas que se concedan, sus cuantías respectivas y los bienes asegurados entre la Administración competente y el Consorcio de Compensación de Seguros, necesarios para facilitar la tramitación de las ayudas y la valoración de los daños, se realizará a través de la Dirección General de Protección Civil y Emergencias y el Consorcio de Compensación de Seguros, mediante el procedimiento que entre ambos establezcan.</p>
+    <p class="articulo">Séptimo. Inversiones realizadas para reparar los daños incluidos en el ámbito de aplicación de este acuerdo.</p>
+    <p class="parrafo">1. Las inversiones realizadas para reparar los daños a que se refiere este acuerdo por las entidades locales que cumplan con los requisitos establecidos en la disposición adicional sexta de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, tendrán la consideración de inversiones financieramente sostenibles.</p>
+    <p class="parrafo">2. Excepcionalmente, estas inversiones se ejecutarán con carácter prioritario frente a otras inversiones financieramente sostenibles.</p>
+    <p class="articulo">Octavo. Medidas laborales y de Seguridad Social.</p>
+    <p class="parrafo">De conformidad con lo previsto en el apartado 2 de la disposición final segunda de la Ley 17/2015, de 9 de julio, las medidas laborales y de Seguridad Social a las que se refiere su artículo 24.2b) se podrán desarrollar, respectivamente, mediante órdenes de las Ministras de Trabajo y Economía Social, y de Inclusión, Seguridad Social y Migraciones, ajustándose a lo establecido en el artículo 47.5 y 7 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre, y en la disposición adicional cuadragésima cuarta del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre.</p>
+    <p class="articulo">Noveno. Medidas de carácter notarial, registral, procesal y organizativo en el ámbito de la Administración de Justicia.</p>
+    <p class="parrafo">1. El Ministerio de la Presidencia, Justicia y Relaciones con las Cortes podrá adoptar, impulsar o instar, según proceda, en colaboración y coordinación con el Consejo General del Poder Judicial y con las corporaciones de derecho público correspondientes, en tanto persista la situación excepcional ocasionada por la emergencia, las siguientes medidas:</p>
+    <p class="parrafo_2">a) Habilitar un Portal Registral de Emergencias (PRE), para facilitar estadísticas de parcelas, fincas afectadas, edificios o construcciones dañadas por catástrofes naturales.</p>
+    <p class="parrafo">b) Acordar pautas de actuación respecto a la prestación del servicio por los Letrados y Letradas de la Administración de Justicia en los órganos judiciales afectados.</p>
+    <p class="parrafo">c) Reforzar los medios personales y materiales de los Institutos de Medicina Legal y Ciencias Forenses afectados.</p>
+    <p class="parrafo_2">2. Asimismo, la Comisión Técnica Nacional para Sucesos con Víctimas Múltiples adoptará, en el ámbito de sus competencias, las medidas necesarias para hacer frente a la situación de emergencia.</p>
+    <p class="articulo">Décimo. Compatibilidad de las ayudas.</p>
+    <p class="parrafo">Las subvenciones objeto del presente acuerdo serán compatibles con otras ayudas, subvenciones, ingresos o recursos procedentes de cualesquiera administraciones o entes públicos o privados que obtenga el beneficiario para la misma o similar finalidad en los términos establecidos en el artículo 34 del Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.</p>
+    <p class="parrafo">Los beneficiarios deberán declarar las ayudas, subvenciones, ingresos o recursos que hayan obtenido para la misma actividad, en cualquier momento en que se notifique la concesión de tal ayuda o subvención, y aceptarán las eventuales minoraciones aplicables cuando la suma de todas supere la actividad subvencionada.</p>
+    <p class="articulo">Undécimo. Excepción de requisitos.</p>
+    <p class="parrafo">Con la finalidad de facilitar la gestión y obtención de estas ayudas, y por concurrir circunstancias debidamente justificadas derivada de su naturaleza, las personas peticionarias de las mismas estarán exceptuadas del requisito de hallarse al corriente en el cumplimiento de las obligaciones tributarias o frente a la Seguridad Social establecido en los artículos 13.2 y 34.5 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.</p>
+    <p class="articulo">Duodécimo. Límites de las ayudas.</p>
+    <p class="parrafo">El valor de las ayudas concedidas en aplicación de este acuerdo, en lo que a daños materiales se refiere, no podrá superar en ningún caso la diferencia entre el valor del daño producido y el importe de otras ayudas o indemnizaciones declaradas compatibles o complementarias que, por los mismos conceptos, pudieran concederse por otros organismos públicos, nacionales o internacionales, o que correspondieran en virtud de la existencia de pólizas de aseguramiento.</p>
+    <p class="articulo">Decimotercero. Créditos presupuestarios.</p>
+    <p class="parrafo">Las medidas recogidas en este acuerdo se financiarán de conformidad con lo previsto en la Ley 47/2003, de 26 de noviembre, General Presupuestaria.</p>
+    <p class="articulo">Decimocuarto. Comisión interministerial para el desarrollo de medidas urgentes para el territorio afectado por la DANA.</p>
+    <p class="parrafo">1. Se crea una Comisión interministerial para el impulso y coordinación de las medidas que hayan de adoptarse por la Administración General del Estado para apoyar a los afectados y para la reconstrucción y reparación de los daños ocasionados por la DANA de los días 28 de octubre al 4 de noviembre de 2024.</p>
+    <p class="parrafo">2. La Comisión interministerial estará presidida por la persona titular del Ministerio de Política Territorial y Memoria Democrática, y formarán parte de la misma:</p>
+    <p class="parrafo_2">a) La persona titular del Ministerio del Interior, que ejercerá la vicepresidencia.</p>
+    <p class="parrafo">b) La persona titular del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes.</p>
+    <p class="parrafo">c) La persona titular del Ministerio de Defensa.</p>
+    <p class="parrafo">d) La persona titular del Ministerio de Hacienda.</p>
+    <p class="parrafo">e) La persona titular del Ministerio de Transportes y Movilidad Sostenible.</p>
+    <p class="parrafo">f) La persona titular del Ministerio de Trabajo y Economía Social.</p>
+    <p class="parrafo">g) La persona titular del Ministerio de Agricultura, Pesca y Alimentación.</p>
+    <p class="parrafo">h) La persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico.</p>
+    <p class="parrafo">i) La persona titular del Ministerio de Vivienda y Agenda Urbana.</p>
+    <p class="parrafo">j) La persona titular del Ministerio de Economía, Comercio y Empresa.</p>
+    <p class="parrafo">k) La persona titular del Ministerio de Sanidad.</p>
+    <p class="parrafo">l) La persona titular del Ministerio de Derechos Sociales, Consumo y Agenda 2030.</p>
+    <p class="parrafo">m) La persona titular del Ministerio de Ciencia, Innovación y Universidades.</p>
+    <p class="parrafo">n) La persona titular del Ministerio de Inclusión, Seguridad Social y Migraciones.</p>
+    <p class="parrafo_2">3. Ejercerá la secretaría de la Comisión la persona que designe la presidencia de la comisión, que participará con voz, pero sin voto. En caso de vacante, ausencia, enfermedad u otra causa legal le sustituirá la persona que designe igualmente la misma presidencia.</p>
+    <p class="parrafo">4. En función de los asuntos a tratar, la presidencia también podrá convocar a las reuniones del pleno a otros altos cargos de la Administración General del Estado y responsables de entidades del sector público institucional estatal, que participarán con voz, pero sin voto.</p>
+    <p class="parrafo">5. La comisión interministerial podrá acordar la creación de grupos de trabajo con la composición y régimen de funcionamiento que se acuerde por la misma.</p>
+    <p class="parrafo">6. En lo no previsto por este acuerdo, la comisión interministerial ajustará su funcionamiento a las normas generales de actuación de los órganos colegiados dispuestas en el título preliminar, capítulo II, sección 3.ª de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.</p>
+    <p class="articulo">Decimoquinto. Evaluación de impacto ambiental.</p>
+    <p class="parrafo">Mediante acuerdo del Consejo de Ministros se determinará la exención de evaluación de impacto ambiental de aquellas obras de reparación o rehabilitación de infraestructuras, equipamientos o instalaciones que, debiendo someterse a dicha evaluación, conforme al artículo 7 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, quedarán exentas de la sustanciación de dicho trámite en cumplimiento de lo dispuesto en los apartados 3 y 4 del artículo 8 de la mencionada ley.</p>
+    <p class="articulo">Decimosexto. Peritación, valoración y cuantificación de daños por el medio propio «Tecnologías y Servicios Agrarios, SA, S. M. E., M. P.» (TRAGSATEC).</p>
+    <p class="parrafo">1. La empresa pública «Tecnologías y Servicios Agrarios, S. A., S. M. E., M. P.» (TRAGSATEC), en su condición de medio propio personificado establecido en la disposición adicional vigésimo cuarta de la Ley 9/2017, de 8 de noviembre, ejecutará, en los casos en los que así lo requieran las Administraciones competentes, las actuaciones de peritación, valoración y cuantificación en alcance y contenido económico de los daños materiales que, como consecuencia de la DANA, pudieran haberse producido en el ámbito territorial de aplicación de este acuerdo, tanto en bienes públicos como privados, que le sean encargados. Dicha ejecución se realizará sin menoscabo de las funciones de valoración y cuantificación atribuidas normativamente a otras entidades públicas y privadas, o en coordinación con las mismas.</p>
+    <p class="parrafo">2. TRAGSATEC actuará como servicio técnico cualificado, de acuerdo con las instrucciones recibidas por la administración encargante, pudiendo, a tal efecto, desarrollar tanto tareas materiales, técnicas y numéricas, como aquellas otras de evaluación jurídica y patrimonial derivadas, estableciendo las relaciones y contactos con las personas y entidades afectadas, públicas y privadas, que para ello resulte preciso, y poniendo la información resultante a disposición de la administración pública al objeto de que esta adopte las decisiones que, en su caso, resulten pertinentes. Las valoraciones y peritaciones podrán ser objeto de utilización por la administración en la defensa del interés general en el ámbito judicial, o en la instrumentación que resulte precisa ante entidades aseguradoras, juzgados mercantiles u otros operadores involucrados.</p>
+    <p class="parrafo">3. TRAGSATEC realizará todas sus actuaciones bajo las órdenes e instrucciones de la Administración encargante de la que sea medio propio, sin ejercer ningún tipo de potestad administrativa. Su actuación se limitará a cumplir las órdenes e instrucciones recibidas a través de los instrumentos que se determinen para ello.</p>
+    <p class="parrafo">4. A los efectos de lo dispuesto en este apartado, las actuaciones contempladas se iniciarán de forma inmediata tan pronto se acuerde el correspondiente encargo, pudiendo aplicarse al mismo la tramitación de emergencia en tanto concurran los requisitos del artículo 120 de la Ley 9/2017 de 8 de noviembre.</p>
+    <p class="articulo">Decimoséptimo. Apoyo logístico y distribución alimentaria por parte de Mercados Centrales de Abastecimiento, SA (MERCASA).</p>
+    <p class="parrafo">1. La empresa pública Mercados Centrales de Abastecimiento, SA (MERCASA), en su condición de medio propio personificado de conformidad con lo dispuesto en la Ley 9/2017, de 8 de noviembre, y el punto 2.2 de sus estatutos ejecutará actuaciones de apoyo logístico y de acopio de material, alimentos y donaciones como consecuencia de los daños causados por la DANA en el ámbito territorial de aplicación de este acuerdo.</p>
+    <p class="parrafo">2. Promoverá las actuaciones necesarias con el propósito de que Mercavalencia y Mercalicante puedan actuar como centro logístico de almacenamiento y aparcamiento de vehículos pesados utilizados por las Administraciones y entidades que estén desarrollando actuaciones en el ámbito de protección civil, de limpieza y de obras de emergencia, y que sean requeridos por las administraciones.</p>
+    <p class="parrafo">3. Promoverá actuaciones para facilitar a través de la red de Mercados Centrales de Abastecimiento, SA (MERCASA) y sus mayoristas la centralización y distribución de las campañas de donación de alimentos.</p>
+    <p class="parrafo">4. Colaborará con las asociaciones humanitarias, organizaciones y entidades sin ánimo de lucro para la distribución de alimentos entre la población.</p>
+    <p class="parrafo">5. Colaborará en la promoción de actuaciones para que Mercavalencia y Mercalicante habiliten espacios para la instalación de cocinas de campaña para preparación de alimentos.</p>
+    <p class="articulo">Decimoctavo. Material de emergencias y ayuda humanitaria de la Agencia Española de Cooperación Internacional al Desarrollo.</p>
+    <p class="parrafo">La Agencia Española de Cooperación Internacional al Desarrollo (AECID), como consecuencia de los daños causados por la DANA, pondrá a disposición de las autoridades competentes por razón de la materia los insumos de material de emergencias y de ayuda humanitaria existentes en sus almacenes.</p>
+    <p class="articulo">Decimonoveno. Suspensión de términos e interrupción de plazos administrativos.</p>
+    <p class="parrafo">1. En los términos previstos en la disposición adicional novena de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se suspenden los términos y se interrumpen los plazos para la tramitación de los procedimientos administrativos hasta el momento en que se dicte un nuevo acuerdo de Consejo de Ministros decretando la finalización de esta medida. Dicha previsión será de aplicación a los interesados que residan en los términos municipales incluidos en el anexo del Real Decreto-ley 6/2024, de 5 de noviembre, por el que se adoptan medidas urgentes de respuesta ante los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024, así como a aquellos otros interesados que acrediten el carácter imposible o gravoso de su cumplimiento en atención a los efectos de la emergencia.</p>
+    <p class="parrafo">2. El número anterior no será de aplicación a los procedimientos administrativos iniciados a consecuencia de la declaración de zona afectada gravemente por una emergencia de protección civil incluida en el presente acuerdo y de las disposiciones de carácter estatal, autonómico o local que se adopten para atender esta emergencia.</p>
+    <p class="parrafo">3. La suspensión de términos y la interrupción de plazos se aplicará a todo el sector público definido en la Ley 39/2015, de 1 de octubre.</p>
+    <p class="parrafo">4. La suspensión de los términos y la interrupción de los plazos a que se hace referencia en el primer número de este apartado no será de aplicación a los procedimientos en el ámbito de la Seguridad Social. Estos procedimientos se ajustarán a las especificidades en materia de tramitación y plazos contenidas en el Real Decreto-ley por el que se adoptan medidas urgentes de respuesta ante los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024.</p>
+    <p class="articulo">Vigésimo. Habilitaciones.</p>
+    <p class="parrafo">Los titulares de los departamentos ministeriales, en el ámbito de sus competencias, dictarán las disposiciones necesarias para la aplicación de lo dispuesto en este acuerdo.</p>
+  </texto>
+</documento>

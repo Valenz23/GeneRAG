@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20241113122601">
+  <metadatos>
+    <identificador>BOE-A-2024-23622</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="9573">Ministerio de Trabajo y Economía Social</departamento>
+    <rango codigo="1370">Resolución</rango>
+    <fecha_disposicion>20241112</fecha_disposicion>
+    <numero_oficial/>
+    <titulo>Resolución de 12 de noviembre de 2024, del Servicio Público de Empleo Estatal, por la que se regula la tramitación electrónica del procedimiento de reconocimiento de las prestaciones por desempleo reguladas en el Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan medidas urgentes para el impulso del Plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20241113</fecha_publicacion>
+    <diario_numero>274</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <pagina_inicial>145475</pagina_inicial>
+    <pagina_final>145486</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>/boe/dias/2024/11/13/pdfs/BOE-A-2024-23622.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia>20241113</fecha_vigencia>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/res/2024/11/12/(2)</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2024/11/12/(2)">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2024-23622</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-11-12</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(2)</eli:number>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/res/2024/11/12/(2)/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/res"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2024-23622</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-11-12</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(2)</eli:number>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/res/2024/11/12/(2)"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/res/2024/11/12/(2)/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolución de 12 de noviembre de 2024, del Servicio Público de Empleo Estatal, por la que se regula la tramitación electrónica del procedimiento de reconocimiento de las prestaciones por desempleo reguladas en el Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan medidas urgentes para el impulso del Plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-11-13</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/res/2024/11/12/(2)/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2024/11/12/(2)/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2024/11/12/(2)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2024/11/12/(2)/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2024/11/12/(2)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/res/2024/11/12/(2)/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/res/2024/11/12/(2)/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="1508" orden="1">Administración electrónica</materia>
+      <materia codigo="669" orden="1">Catástrofes</materia>
+      <materia codigo="1667" orden="1">Contratos de trabajo</materia>
+      <materia codigo="2483" orden="1">Desempleo</materia>
+      <materia codigo="3158" orden="1">Empleados de Hogar</materia>
+      <materia codigo="3160" orden="1">Empleo</materia>
+      <materia codigo="3807" orden="1">Formularios administrativos</materia>
+      <materia codigo="4514" orden="1">Inundaciones</materia>
+      <materia codigo="5703" orden="1">Procedimiento administrativo</materia>
+      <materia codigo="7869" orden="1">Registros telemáticos</materia>
+      <materia codigo="6798" orden="1">Subsidio de desempleo</materia>
+    </materias>
+    <notas/>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2024-23422" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el Real Decreto-ley 7/2024, de 11 de noviembre</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2015-11724" orden="5020">
+          <palabra codigo="330">CITA</palabra>
+          <texto>Ley General de la Seguridad Social, texto refundido de la  aprobado por Real Decreto Legislativo 8/2015, de 30 de octubre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas>
+      <alerta codigo="109" orden="1">Derecho Administrativo</alerta>
+      <alerta codigo="131" orden="1">Trabajo y empleo</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="parrafo">El Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan medidas urgentes para el impulso del Plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024, publicado en el «Boletín Oficial del Estado» del 12 de noviembre de 2024, regula un régimen especial de la prestación por desempleo previsto para los casos de suspensión de contratos o reducción de jornada por fuerza mayor o por causas económicas, técnicas, organizativas y de producción, relacionadas con la DANA. Este mismo régimen especial se extiende a la protección a un colectivo vulnerable y se permite que las personas trabajadoras del hogar accedan a prestaciones por desempleo en unas condiciones que respondan de manera justa a la situación que atraviesan.</p>
+    <p class="parrafo">En su artículo 48 sobre normas especiales en materia de desempleo, se establece que las especialidades procedimentales que resulten precisas para la gestión de las prestaciones por desempleo se establecerán mediante resolución de la Dirección General del Servicio Público de Empleo Estatal, de conformidad con el artículo 129.4 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre.</p>
+    <p class="parrafo">Por ello, de conformidad con lo establecido en el artículo 129 del mencionado texto refundido de la Ley General de la Seguridad Social, y en base a la habilitación contenida en el artículo 48 del Real Decreto-ley 7/2024, de 11 de noviembre, dispongo:</p>
+    <p class="articulo">Artículo 1. Objeto y ámbito de aplicación.</p>
+    <p class="parrafo">1. Esta resolución tiene por objeto regular las especialidades de los procedimientos de gestión de las prestaciones por desempleo a las que se refiere el Real Decreto-ley 7/2024, de 11 de noviembre, de acuerdo con lo dispuesto en el artículo 48 del mismo.</p>
+    <p class="parrafo">2. En lo no previsto expresamente en esta resolución se estará a lo dispuesto en el título III del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre.</p>
+    <p class="articulo">Artículo 2. Solicitudes colectivas.</p>
+    <p class="parrafo">1. Las empresas deberán presentar, en representación de sus trabajadores, una solicitud colectiva por cada centro de trabajo, a través de la aplicación Certific@2, aprobada por la Orden TAS/3261/2006, de 19 de octubre, por la que se regula la comunicación del contenido del certificado de empresa y de otros datos relativos a los períodos de actividad laboral de los trabajadores y el uso de medios telemáticos en relación con aquella, en formato electrónico y según el modelo e instrucciones del anexo I de esta resolución.</p>
+    <p class="parrafo">2. El plazo para la presentación de esta solicitud será de un mes a computar desde la fecha de la notificación a la empresa de la resolución de la autoridad laboral constatando la existencia de la fuerza mayor, desde que se entienda estimada dicha solicitud por silencio administrativo, o, en los supuestos previstos en el artículo 44.2 del Real Decreto-ley 7/2024, de 11 de noviembre, desde la fecha de la comunicación de la empresa a la autoridad laboral de su decisión de adoptar la medida correspondiente.</p>
+    <p class="parrafo">En caso de presentación fuera de plazo, el derecho nacerá el día de la solicitud. En este supuesto, la empresa deberá abonar a las personas afectadas el importe que hubiesen percibido en concepto de prestación por desempleo desde el primer día en que se hubiese aplicado la medida de suspensión del contrato o de la actividad, o de reducción de jornada, hasta el día anterior al de la presentación de la solicitud colectiva.</p>
+    <p class="parrafo">3. No será necesaria la presentación de los certificados de empresa en estos procedimientos.</p>
+    <p class="parrafo">4. Las solicitudes de alta y reanudación de las prestaciones contributivas por desempleo se reconocerán de forma automatizada, bajo el marco de la Resolución de 15 de octubre de 2009, del Servicio Público de Empleo Estatal, por la que se regula la tramitación electrónica automatizada de diversos procedimientos en materia de protección por desempleo.</p>
+    <p class="parrafo">5. La solicitud colectiva se incorporará la fecha prevista de finalización del periodo de suspensión o reducción de jornada por fuerza mayor, o bien la fecha de finalización del periodo de suspensión de contratos o reducción de jornada comunicada por la empresa. Llegada a término esta fecha, la prestación quedará suspendida sin perjuicio de su reanudación, si las medidas fueran objeto de prórroga. En este caso, la empresa presentará nueva solicitud colectiva para la reanudación de las prestaciones.</p>
+    <p class="articulo">Artículo 3. Inscripción como demandantes de empleo de las personas solicitantes.</p>
+    <p class="parrafo">El Servicio Público de Empleo Estatal reconocerá las prestaciones por desempleo, previa verificación de que la persona trabajadora se encuentra inscrita como demandante de empleo en el servicio público de empleo competente. En el supuesto de que la misma no se hubiera inscrito con anterioridad, se ha articulado un procedimiento de coordinación entre ambos servicios públicos con el fin de obtener los datos precisos que permitan realizar la inscripción de oficio y sucesivamente el reconocimiento de las prestaciones por desempleo.</p>
+    <p class="articulo">Artículo 4. Reconocimiento de prestaciones y comunicaciones informativas.</p>
+    <p class="parrafo">Para el reconocimiento de las prestaciones se tendrán en cuenta los datos obrantes en el Servicio Público de Empleo sobre hijos a cargo de la persona beneficiaria.</p>
+    <p class="parrafo">En todos los casos se emitirá, al número de teléfono de la persona trabajadora que conste en la solicitud colectiva, un SMS informativo sobre el reconocimiento de la prestación, que contendrá, además, la información sobre el número de hijos a cargo y el enlace al servicio electrónico para facilitar su actualización. En dicho SMS, en ningún caso se solicitarán datos económicos o información sobre la cuenta corriente de abono de la prestación.</p>
+    <p class="articulo">Artículo 5. Pluralidad de suspensiones de contratos o reducciones de jornada.</p>
+    <p class="parrafo">En los casos en que una misma persona se encuentre afectada por varias suspensiones de contrato o reducciones de jornada, o por ambas medidas, por las causas previstas en el artículo 44 del Real Decreto–ley 7/2024, de 11 de noviembre, se reconocerá una única prestación, que se calculará, según lo previsto en su artículo 48, teniendo en cuenta las bases de cotización de todas las empresas afectadas. En este caso, las cantidades máximas y mínimas previstas en el artículo 270.3 del texto refundido de la Ley General de la Seguridad Social se determinarán en función del promedio de las horas trabajadas, al amparo de las relaciones laborales suspendidas o afectadas por la reducción de jornada, durante los 180 días anteriores a la fecha de la situación legal de desempleo o, en su defecto, durante el período de tiempo inferior trabajado inmediatamente anterior a dicha fecha.</p>
+    <p class="articulo">Artículo 6. Elección de prestación contributiva anterior.</p>
+    <p class="parrafo">En el supuesto previsto en el artículo 48.2 del Real Decreto-ley 7/2024, de 11 de noviembre, si se hubiera solicitado y reconocido la prestación contributiva prevista en la disposición adicional cuadragésima sexta del texto refundido de la Ley General de la Seguridad Social, la persona beneficiaria deberá solicitar formalmente su opción por la prestación anterior suspendida, sin deducción por el trabajo compatible afectado por la suspensión o reducción de jornada, con efectos desde la fecha de inicio de la medida de suspensión del contrato o reducción de jornada. La opción podrá formalizarse por vía telefónica mediante llamada al 060. En este caso, si se hubiera realizado algún pago, se revisará la cuantía abonada y se regularizará según lo previsto en el artículo 34.3 del citado Real Decreto 625/1985, de 2 de abril.</p>
+    <p class="articulo">Artículo 7. Comunicación de periodos de actividad e inactividad.</p>
+    <p class="parrafo">A efectos del pago de las prestaciones, cuando, a partir del hecho causante de la prestación, la medida aplicada por la empresa consista en la suspensión del contrato, y no exista ningún día de actividad durante el mes natural, no será necesaria la comunicación de los periodos de actividad e inactividad según lo previsto en el artículo 22. 3 y 4 del Real Decreto 625/1985, de 2 de abril, por el que se desarrolla la Ley 31/1984, de 2 de agosto, de Protección por Desempleo.</p>
+    <p class="parrafo">No obstante, en este supuesto, a partir del mes en el que la persona beneficiaria de la prestación se reincorpore por primera vez a su actividad, sí será necesaria dicha comunicación de periodos de actividad e inactividad del mes en que se reincorpore y de los posteriores, hasta la finalización de la medida. En el último mes natural de vigencia de la medida de suspensión o reducción de jornada se efectuará la comunicación de los periodos de actividad e inactividad durante el mismo mes para que tenga efectos respecto del pago de la prestación.</p>
+    <p class="parrafo">En estos casos se revisarán las cuantías abonadas y se regularizarán según lo previsto en el artículo 34.3 del citado Real Decreto 625/1985, de 2 de abril.</p>
+    <p class="articulo">Artículo 8. Regularización de cuantías mínima y máxima por hijos a cargo.</p>
+    <p class="parrafo">En los supuestos en que, a instancia de las personas trabajadoras interesadas, se actualice la información sobre hijos a cargo con posterioridad al reconocimiento inicial de la prestación, si se hubiera realizado algún pago, se revisará la cuantía abonada y se regularizará según lo previsto en el artículo 34.3 del citado Real Decreto 625/1985, de 2 de abril.</p>
+    <p class="articulo">Artículo 9. Especialidades del procedimiento de gestión de la prestación por desempleo en el ámbito de la relación laboral de carácter especial del servicio del hogar familiar.</p>
+    <p class="parrafo">1. La declaración responsable de la persona empleadora a la que se refiere el artículo 45 del Real Decreto-ley 7/2024, de 11 de noviembre, deberá incluir los siguientes datos:</p>
+    <p class="parrafo_2">a) Nombre de la persona empleadora, así como su código de cuenta de cotización a la Seguridad Social, su número de identificación fiscal, y su domicilio.</p>
+    <p class="parrafo">b) Indicación de si la medida adoptada supone la suspensión del contrato o la reducción de la jornada.</p>
+    <p class="parrafo">c) Nombre de la persona trabajadora afectada, su número de identificación fiscal y fecha de inicio de la medida decidida por el empleador.</p>
+    <p class="parrafo">d) Fechas de inicio y de fin de los efectos entre las que se extenderá la vigencia de la medida. En el supuesto de reducción de la jornada, se determinará el porcentaje de disminución temporal, computada sobre la jornada mensual pactada en el contrato.</p>
+    <p class="parrafo_2">2. Cuando se decidan variaciones en los datos comunicados previamente sobre el tipo de medida, suspensión del contrato o reducción de jornada, o sobre el porcentaje de disminución de la jornada, la persona beneficiaria de la prestación deberá comunicar dichas variaciones durante el mismo mes natural en que se produzcan, aportando nueva declaración responsable de su empleadora.</p>
+    <p class="parrafo">3. En el anexo II de esta resolución se facilita un modelo de declaración responsable, que se ha publicado en la web del SEPE.</p>
+    <p class="parrafo">4. En el reconocimiento de las prestaciones se tendrán en cuenta los datos obrantes en el Servicio Público de Empleo sobre número de hijos a cargo, y se emitirá el SMS informativo al que se refiere el artículo 4.</p>
+    <p class="articulo">Artículo 10. Entrada en vigor.</p>
+    <p class="parrafo">La presente resolución entrará en vigor el día de su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Madrid, 12 de noviembre de 2024.–El Director General del Servicio Público de Empleo Estatal, Gerardo Gutiérrez Ardoy.</p>
+    <p class="anexo_num">ANEXO I</p>
+    <p class="anexo_tit">Solicitud colectiva: Modelo e instrucciones</p>
+    <p class="imagen_girada">
+      <img class="frame" data-pdf="17574_Imagenes_OK.pdf" src="/datos/imagenes/disp/2024/274/23622_15009034_1.png" width="2009" height="2776"/>
+    </p>
+    <p class="imagen_girada">
+      <img class="frame" data-pdf="17574_Imagenes_OK.pdf" src="/datos/imagenes/disp/2024/274/23622_15009034_2.png" width="2009" height="2776"/>
+    </p>
+    <p class="imagen_girada">
+      <img class="frame" data-pdf="17574_Imagenes_OK.pdf" src="/datos/imagenes/disp/2024/274/23622_15009034_3.png" width="2009" height="2776"/>
+    </p>
+    <p class="imagen_girada">
+      <img class="frame" data-pdf="17574_Imagenes_OK.pdf" src="/datos/imagenes/disp/2024/274/23622_15009034_4.png" width="2009" height="2776"/>
+    </p>
+    <p class="imagen_girada">
+      <img class="frame" data-pdf="17574_Imagenes_OK.pdf" src="/datos/imagenes/disp/2024/274/23622_15009034_5.png" width="1906" height="2776"/>
+    </p>
+    <p class="imagen_girada">
+      <img class="frame" data-pdf="17574_Imagenes_OK.pdf" src="/datos/imagenes/disp/2024/274/23622_15009034_6.png" width="1906" height="2776"/>
+    </p>
+    <p class="anexo_num">ANEXO II</p>
+    <p class="anexo_tit">Declaración responsable</p>
+    <p class="imagen">
+      <img class="frame" data-pdf="17574_Imagenes_OK.pdf" src="/datos/imagenes/disp/2024/274/23622_15009034_7.png" width="2126" height="2738"/>
+    </p>
+    <p class="imagen">
+      <img class="frame" data-pdf="17574_Imagenes_OK.pdf" src="/datos/imagenes/disp/2024/274/23622_15009034_8.png" width="2126" height="2625"/>
+    </p>
+  </texto>
+</documento>
