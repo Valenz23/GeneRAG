@@ -24,8 +24,8 @@ class LLM(Enum):
     QWEN25_3B = "qwen2.5:3b" # alibaba 3b 1.9gb
     HERMES3 = "hermes3" # nous research 8b 4.7gb
     HERMES3_3B = "hermes3:3b" # nous research 3b 2gb
-    GEMMA = "gemma" # nous research 8b 4.7gb
-    GEMMA_2B = "gemma:2b" # nous research 3b 2gb
+    GEMMA = "gemma" # google dm 7b 5gb
+    GEMMA_2B = "gemma:2b" # google dm 2b 1.7gb
 
 class EMBEDDING(Enum):
     NOMIC = "nomic-embed-text" # nomic team
