@@ -27,24 +27,43 @@ class EMBEDDING(Enum):
     JINA = "jina/jina-embeddings-v2-base-es"
 
 def main():
+
+    print("PDF")
     start = timer()
-
-    # documents = load_pdf_documents(DATA_PDF_PATH)
-    # documents = load_xml_documents(DATA_XML_PATH)    
-    documents = load_web_documents(DATA_WEB_PATH)
-
-    # documents = load_web_documents2(DATA_XML_PATH) # DELETE
-
+    documents = load_pdf_documents(DATA_PDF_PATH)
     chunks = split_text(documents, 500, 50)
-
     # for doc in documents:
     #     print(doc.metadata)
-    print(chunks)
-
+    # print(chunks)
     end = timer()
-    print("%.2fs" % (end-start))
+    print("Load & Split: %.2fs" % (end-start))
+    start = timer()
+    add_to_chroma(chunks, CHROMA_PDF_PATH, get_embedding_function(model=EMBEDDING.NOMIC))
+    end = timer()
+    print("Update DB: %.2fs" % (end-start))
 
-    # add_to_chroma(chunks, CHROMA_PDF_PATH, get_embedding_function(model=EMBEDDING.NOMIC))
+    print("XML")
+    start = timer()
+    documents = load_xml_documents(DATA_XML_PATH) 
+    chunks = split_text(documents, 500, 50)
+    end = timer()
+    print("Load & Split: %.2fs" % (end-start))
+    start = timer()
+    add_to_chroma(chunks, CHROMA_XML_PATH, get_embedding_function(model=EMBEDDING.NOMIC))
+    end = timer()
+    print("Update DB: %.2fs" % (end-start))
+
+    print("WEB")
+    start = timer()
+    documents = load_web_documents(DATA_WEB_PATH)
+    # documents = load_web_documents2(DATA_XML_PATH) # DELETE
+    chunks = split_text(documents, 500, 50)
+    end = timer()
+    print("Load & Split: %.2fs" % (end-start))
+    start = timer()
+    add_to_chroma(chunks, CHROMA_WEB_PATH, get_embedding_function(model=EMBEDDING.NOMIC))
+    end = timer()
+    print("Update DB: %.2fs" % (end-start))    
 
 if __name__ == "__main__":
     main()

@@ -11,16 +11,21 @@ from langchain.chat_models import init_chat_model
 
 import random
 from enum import Enum
-import time
+from timeit import default_timer as timer
 
 CHROMA_PDF_PATH = "chroma/pdf"
+CHROMA_XML_PATH = "chroma/xml"
+CHROMA_WEB_PATH = "chroma/web"
 
 class LLM(Enum):
-    LLAMA32 = "llama3.2"  # meta
-    PHI4MINI = "phi4-mini" # microsoft
-    MISTRAL = "mistral" # mistral ai
-    QWEN25 = "qwen2.5" # alibaba
-    HERMES3 = "hermes3" # nous research
+    LLAMA32 = "llama3.2"  # meta 3b 2gb
+    MISTRAL = "mistral" # mistral ai 7b 4.1gb
+    QWEN25 = "qwen2.5" # alibaba 7b 4.7gb
+    QWEN25_3B = "qwen2.5:3b" # alibaba 3b 1.9gb
+    HERMES3 = "hermes3" # nous research 8b 4.7gb
+    HERMES3_3B = "hermes3:3b" # nous research 3b 2gb
+    GEMMA = "gemma" # nous research 8b 4.7gb
+    GEMMA_2B = "gemma:2b" # nous research 3b 2gb
 
 class EMBEDDING(Enum):
     NOMIC = "nomic-embed-text" # nomic team
@@ -40,6 +45,7 @@ WELCOME_MESSAGES = [
 
 def query(question: str, sel_llm: str):
 
+    start = timer()
     db = get_chroma_db(CHROMA_PDF_PATH, get_embedding_function(model=EMBEDDING.NOMIC))
     results = db.similarity_search_with_score(question, k=5)
     # print(results[:1])
@@ -57,6 +63,8 @@ def query(question: str, sel_llm: str):
         }
         for doc, _score in results
     ]
+    end = timer()
+    print("Search DB: %.2fs" % (end-start))
     
     # Prompt and chain
     prompt = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
@@ -68,7 +76,10 @@ def query(question: str, sel_llm: str):
     chain = prompt | llm | StrOutputParser()
 
     ## mal -> agregar a response
+    start = timer()
     response_text = st.write_stream(chain.stream({"context": context, "question": question}))
+    end = timer()
+    print(f"Response {sel_llm}: %.2fs" % (end-start))
     # st.write("Recursos:")
     # st.write_stream(metadata)    
 
