@@ -1,7 +1,7 @@
 
 
 from functions.add_to_chroma import add_to_chroma
-from functions.get_document_loader import load_pdf_documents, load_xml_documents, load_web_documents, load_web_documents2
+from functions.get_document_loader import load_pdf_documents, load_xml_documents, load_web_documents
 from functions.get_embedding_function import get_embedding_function
 from functions.get_text_spliter import split_text
 
@@ -12,13 +12,9 @@ CHROMA_PDF_PATH = "chroma/pdf"
 CHROMA_XML_PATH = "chroma/xml"
 CHROMA_WEB_PATH = "chroma/web"
 
-# DATA_PDF_PATH = "data/pdf"
-# DATA_XML_PATH = "data/xml"
-# DATA_WEB_PATH = "data/web"
-
-DATA_PDF_PATH = "miniset/pdf"
-DATA_XML_PATH = "miniset/xml"
-DATA_WEB_PATH = "miniset/web"
+DATA_PDF_PATH = "data/pdf"
+DATA_XML_PATH = "data/xml"
+DATA_WEB_PATH = "data/web"
 
 class EMBEDDING(Enum):
     NOMIC = "nomic-embed-text"
@@ -28,10 +24,12 @@ class EMBEDDING(Enum):
 
 def main():
 
+    size, overlap = 500, 25
+
     print("PDF")
     start = timer()
     documents = load_pdf_documents(DATA_PDF_PATH)
-    chunks = split_text(documents, 500, 50)
+    chunks = split_text(documents, size, overlap)
     # for doc in documents:
     #     print(doc.metadata)
     # print(chunks)
@@ -45,7 +43,7 @@ def main():
     print("XML")
     start = timer()
     documents = load_xml_documents(DATA_XML_PATH) 
-    chunks = split_text(documents, 500, 50)
+    chunks = split_text(documents, size, overlap)
     end = timer()
     print("Load & Split: %.2fs" % (end-start))
     start = timer()
@@ -56,8 +54,7 @@ def main():
     print("WEB")
     start = timer()
     documents = load_web_documents(DATA_WEB_PATH)
-    # documents = load_web_documents2(DATA_XML_PATH) # DELETE
-    chunks = split_text(documents, 500, 50)
+    chunks = split_text(documents, size, overlap)
     end = timer()
     print("Load & Split: %.2fs" % (end-start))
     start = timer()

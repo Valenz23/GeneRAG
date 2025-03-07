@@ -31,16 +31,3 @@ def load_web_documents(path):
 
     document_loader = WebBaseLoader(webs)
     return document_loader.load()
-
-# DELETE
-def load_web_documents2(path):
-    
-    xmls = []
-
-    for file in os.listdir(path):
-        file_url = ("https://www.boe.es/diario_boe/txt.php?id="+file.replace(".xml",""))
-        xmls.append(file_url)
-
-    document_loader = WebBaseLoader(xmls)
-    document_loader.default_parser = "xml"
-    return document_loader.load()
