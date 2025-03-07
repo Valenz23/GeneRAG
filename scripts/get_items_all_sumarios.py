@@ -7,7 +7,7 @@ from datetime import datetime
 base_download_folder = "../data"
 xml_folder = os.path.join(base_download_folder, "xml")
 pdf_folder = os.path.join(base_download_folder, "pdf")
-html_folder = os.path.join(base_download_folder, "html")
+html_folder = os.path.join(base_download_folder, "web")
 
 os.makedirs(xml_folder, exist_ok=True)
 os.makedirs(pdf_folder, exist_ok=True)
