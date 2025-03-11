@@ -34,10 +34,17 @@ class EMBEDDING(Enum):
     JINA = "jina/jina-embeddings-v2-base-es" # jina ai
 
 PROMPT_TEMPLATE = """
-Responde la pregunta basandote solamente en el siguiente contexto: {context}
+Responde la pregunta basándote solamente en el siguiente contexto: {context}
+
 ---
-Responde la pregunta basandote en el contexto anterior: {question}
+Todas las preguntas están relacionadas con la DANA que ocurrió en Valencia, incluso si el usuario no lo menciona explícitamente.  
+Debes proporcionar una respuesta detallada y bien estructurada, utilizando exclusivamente la información del contexto.  
+Si la respuesta no se encuentra en el contexto, indícalo claramente y no inventes datos.  
+Usa un tono formal y preciso, organizando la información en párrafos y listas si es necesario.
+
+Responde la siguiente pregunta basándote en el contexto anterior: {question}
 """
+
 
 WELCOME_MESSAGES = [
     "Mensaje de bienvenida de prueba.",
