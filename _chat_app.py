@@ -81,7 +81,7 @@ def query(question: str, sel_llm: str):
     end = timer()
     print(f"Response {sel_llm}: %.2fs" % (end-start))
     # st.write("Recursos:")
-    # st.write_stream(metadata)    
+    st.write_stream(metadata)    
 
     return response_text
 
