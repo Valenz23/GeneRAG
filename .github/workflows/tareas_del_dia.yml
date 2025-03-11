@@ -32,12 +32,6 @@ jobs:
           chmod +x ./get_items_hoy.py
           python ./get_items_hoy.py
 
-      - name: Auto actualización de la base de datos
-        run: |
-          pip install -r requirements.txt          
-          chmod +x ./_update_database.py
-          python ./_update_database.py
-
       - name: Commit y push al repositorio
         uses: stefanzweifel/git-auto-commit-action@v5
         with: 

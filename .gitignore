@@ -1,7 +1,7 @@
 /.vscode
 /.venv
 
-# /chroma
+/chroma
 
 /functions/__pycache__
 

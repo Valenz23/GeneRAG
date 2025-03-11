@@ -122,7 +122,8 @@ def main():
             
         with st.chat_message("AI"):
             # response = st.write_stream(get_response(user_query, st.session_state.chat_history))
-            response = query(user_query, select_llm)
+            with st.spinner("Pensando ...", show_time=True):
+                response = query(user_query, select_llm)
             
         st.session_state.chat_history.append(AIMessage(content=response))   
 
