@@ -34,15 +34,13 @@ class EMBEDDING(Enum):
     JINA = "jina/jina-embeddings-v2-base-es" # jina ai
 
 PROMPT_TEMPLATE = """
-Responde la pregunta basándote solamente en el siguiente contexto: {context}
-
+Responde la pregunta: {question}
 ---
-Todas las preguntas están relacionadas con la DANA que ocurrió en Valencia, incluso si el usuario no lo menciona explícitamente.  
-Debes proporcionar una respuesta detallada y bien estructurada, utilizando exclusivamente la información del contexto.  
+Tienes que basarte ÚNICAMENTE en el siguiente contexto: {context}
+---
+Todas las preguntas que haga el usuario estarán relacionadas con la DANA ocurrida en España.  
+Debes proporcionar una respuesta detallada y bien estructurada, organizando la información en párrafos y listas si es necesario.  
 Si la respuesta no se encuentra en el contexto, indícalo claramente y no inventes datos.  
-Usa un tono formal y preciso, organizando la información en párrafos y listas si es necesario.
-
-Responde la siguiente pregunta basándote en el contexto anterior: {question}
 """
 
 
@@ -52,12 +50,12 @@ WELCOME_MESSAGES = [
 
 def query(question: str, sel_llm: str):
 
-    start = timer()
+    # conexion base de datos y consulta
     db = get_chroma_db(CHROMA_PDF_PATH, get_embedding_function(model=EMBEDDING.NOMIC))
     results = db.similarity_search_with_score(question, k=5)
-    # print(results[:1])
-    context = "\n\n---\n\n".join([doc.page_content for doc, _score in results])    
-    metadata = [
+
+    context = "\n\n---\n\n".join([doc.page_content for doc, _score in results])    # contexto
+    metadata = [    # metadatos
         {            
             "score": _score,
             "author": doc.metadata.get("author", None),
@@ -70,27 +68,21 @@ def query(question: str, sel_llm: str):
         }
         for doc, _score in results
     ]
-    end = timer()
-    print("Search DB: %.2fs" % (end-start))
+    sources_set = {item["source"] for item in metadata if item.get("source")}   # recursos(set)
+    sources = "---\n\n**Recursos**:\n\n" + "\n".join(f"\t🔗 {src}" for src in sources_set)
     
-    # Prompt and chain
+    # Prompt & chain
     prompt = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
-
     llm = get_llm_model(model=sel_llm)
     # llm = get_chat_model(model=sel_llm)
-    # llm = init_chat_model(sel_llm, model_provider="ollama")
-    
+    # llm = init_chat_model(sel_llm, model_provider="ollama")    
     chain = prompt | llm | StrOutputParser()
 
-    ## mal -> agregar a response
-    start = timer()
+    # generacion de respuesta
     response_text = st.write_stream(chain.stream({"context": context, "question": question}))
-    end = timer()
-    print(f"Response {sel_llm}: %.2fs" % (end-start))
-    # st.write("Recursos:")
-    st.write_stream(metadata)    
-
-    return response_text
+    st.write(sources)
+    
+    return response_text + "\n\n" + sources
 
 #################################################
 
@@ -128,7 +120,6 @@ def main():
             st.markdown(user_query)
             
         with st.chat_message("AI"):
-            # response = st.write_stream(get_response(user_query, st.session_state.chat_history))
             with st.spinner("Pensando ...", show_time=True):
                 response = query(user_query, select_llm)
             
