@@ -5,30 +5,28 @@ import streamlit as st
 
 from functions.get_chroma_db import get_chroma_db
 from functions.get_embedding_function import get_embedding_function
-from functions.get_llm_model import get_llm_model, get_chat_model
-
-from langchain.chat_models import init_chat_model
+from functions.get_llm_model import get_llm_model
 
 import random
 from enum import Enum
-from timeit import default_timer as timer
 
 CHROMA_PDF_PATH = "chroma/pdf"
 CHROMA_XML_PATH = "chroma/xml"
 CHROMA_WEB_PATH = "chroma/web"
 
 class LLM(Enum):
-    LLAMA32 = "llama3.2"  # meta 3b 2gb
-    MISTRAL = "mistral" # mistral ai 7b 4.1gb
-    QWEN25 = "qwen2.5" # alibaba 7b 4.7gb
-    HERMES3 = "hermes3" # nous research 8b 4.7gb
-    GEMMA3 = "gemma3" # google dm 4b 3.3gb
+    LLAMA32 = "llama3.2"        # meta 3b 2gb
+    DEEPSEEKR1 = "deepseek-r1"  #ds 7b 4.7gb
+    GEMMA3 = "gemma3"           # google dm 4b 3.3gb
+    QWEN25 = "qwen2.5"          # alibaba 7b 4.7gb
+    MISTRAL = "mistral"         # mistral ai 7b 4.1gb    
+    HERMES3 = "hermes3"         # nous research 8b 4.7gb
 
 class EMBEDDING(Enum):
-    NOMIC = "nomic-embed-text" # nomic team
-    MXBAI = "mxbai-embed-large" # mixed bread
-    SNOWFLAKEv2 = "snowflake-arctic-embed2" # snowflake
-    JINA = "jina/jina-embeddings-v2-base-es" # jina ai
+    NOMIC = "nomic-embed-text"                  # nomic team
+    MXBAI = "mxbai-embed-large"                 # mixed bread
+    SNOWFLAKEv2 = "snowflake-arctic-embed2"     # snowflake
+    JINA = "jina/jina-embeddings-v2-base-es"    # jina ai
 
 PROMPT_TEMPLATE = """
 Responde la pregunta: {question}
@@ -36,7 +34,7 @@ Tienes que basarte ÚNICAMENTE en el siguiente contexto: {context}
 ---
 Todas las preguntas que haga el usuario estarán relacionadas con la DANA ocurrida en España.  
 Debes proporcionar una respuesta detallada y bien estructurada, organizando la información en párrafos y listas si es necesario.  
-Si la respuesta no se encuentra en el contexto, indícalo claramente y no inventes datos.  
+Si la respuesta no se encuentra en el contexto, indícalo claramente y no inventes datos.
 """
 
 
@@ -48,6 +46,8 @@ def query(question: str, sel_llm: str):
 
     # conexion base de datos y consulta
     db = get_chroma_db(CHROMA_PDF_PATH, get_embedding_function(model=EMBEDDING.NOMIC))
+    # db = get_chroma_db(CHROMA_XML_PATH, get_embedding_function(model=EMBEDDING.NOMIC))
+    # db = get_chroma_db(CHROMA_WEB_PATH, get_embedding_function(model=EMBEDDING.NOMIC))
     results = db.similarity_search_with_score(question, k=5)
 
     context = "\n\n---\n\n".join([doc.page_content for doc, _score in results])    # contexto
@@ -64,14 +64,13 @@ def query(question: str, sel_llm: str):
         }
         for doc, _score in results
     ]
-    sources_set = {item["source"] for item in metadata if item.get("source")}   # recursos(set)
+    sources_set = {item["id"] for item in metadata if item.get("id")}   # recursos(set)
+    # sources_set = {item["source"] for item in metadata if item.get("source")}   # recursos(set)
     sources = "---\n\n**Recursos**:\n\n" + "\n".join(f"\t🔗 {src}" for src in sources_set)
     
     # Prompt & chain
     prompt = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
     llm = get_llm_model(model=sel_llm)
-    # llm = get_chat_model(model=sel_llm)
-    # llm = init_chat_model(sel_llm, model_provider="ollama")    
     chain = prompt | llm | StrOutputParser()
 
     # generacion de respuesta
