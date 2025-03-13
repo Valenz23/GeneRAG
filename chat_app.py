@@ -21,11 +21,8 @@ class LLM(Enum):
     LLAMA32 = "llama3.2"  # meta 3b 2gb
     MISTRAL = "mistral" # mistral ai 7b 4.1gb
     QWEN25 = "qwen2.5" # alibaba 7b 4.7gb
-    QWEN25_3B = "qwen2.5:3b" # alibaba 3b 1.9gb
     HERMES3 = "hermes3" # nous research 8b 4.7gb
-    HERMES3_3B = "hermes3:3b" # nous research 3b 2gb
-    GEMMA = "gemma" # google dm 7b 5gb
-    GEMMA_2B = "gemma:2b" # google dm 2b 1.7gb
+    GEMMA3 = "gemma3" # google dm 4b 3.3gb
 
 class EMBEDDING(Enum):
     NOMIC = "nomic-embed-text" # nomic team
@@ -35,7 +32,6 @@ class EMBEDDING(Enum):
 
 PROMPT_TEMPLATE = """
 Responde la pregunta: {question}
----
 Tienes que basarte ÚNICAMENTE en el siguiente contexto: {context}
 ---
 Todas las preguntas que haga el usuario estarán relacionadas con la DANA ocurrida en España.  
