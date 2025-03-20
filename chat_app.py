@@ -39,13 +39,14 @@ class EMBEDDING(Enum):
     Jina = "jina/jina-embeddings-v2-base-es"    # jina ai
 
 PROMPT_TEMPLATE = """
-Responde la pregunta: {question}
-Tienes que basarte ÚNICAMENTE en el siguiente contexto: {context}
+Tu tarea es responder a la pregunta hecha por el usuario basandote UNÍCAMENTE en el contexto. El contexto son documentos del BOE (Boletín Oficial Español) relacionados con la DANA (Depresión Aislada en Niveles Altos), ocurrida a finales de 2024.
+Tus respuestas deben de ser detalladas y bien estructuradas, organizando la información en párrafos y listas si es necesario.
+Tus respuestas tienen que contener información sacada del contexto, si no puedes obtener información del contexto indícalo.
+Tus respuestas NO DEBEN mencionar cosas como "de acuerdo a la información" o "según el contexto".
+
 ---
-Todas las preguntas que haga el usuario estarán relacionadas con la DANA ocurrida en España.  
-Debes proporcionar una respuesta detallada y bien estructurada, organizando la información en párrafos y listas si es necesario.  
-Si la respuesta no se encuentra en el contexto, indícalo claramente y no inventes datos.
-Escribe SOLO la respuesta, no escribas NUNCA "segun el contexto" o cosas parecidas.
+Pregunta: {question}
+Contexto: {context}
 """
 
 
