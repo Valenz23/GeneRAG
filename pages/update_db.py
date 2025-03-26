@@ -1,83 +1,122 @@
-from functions.add_to_chroma import add_to_chroma
-from functions.get_document_loader import load_pdf_documents, load_xml_documents, load_web_documents
-from functions.get_embedding_function import get_embedding_function
-from functions.get_text_spliter import split_text
-
-from enum import Enum
-from timeit import default_timer as timer
 import streamlit as st
+import tkinter as tk
+import os
+import shutil
 
-CHROMA_PDF_PATH = "chroma/pdf"
-CHROMA_XML_PATH = "chroma/xml"
-CHROMA_WEB_PATH = "chroma/web"
+from tkinter import filedialog
 
-DATA_PDF_PATH = "data/pdf"
-DATA_XML_PATH = "data/xml"
-DATA_WEB_PATH = "data/web"
-
-class EMBEDDING(Enum):
-    NOMIC = "nomic-embed-text"
-    MXBAI = "mxbai-embed-large"
-    SNOWFLAKEv2 = "snowflake-arctic-embed2"
-    JINA = "jina/jina-embeddings-v2-base-es"
+from classes.chatbot import Chatbot
 
 
+### Muestra el número de docs que hay en la base de datos ###
+def get_existing_docs():
+    db = st.session_state["chatbot"].get_vector_store()
+    existing_items = db.get(include=[])
+    existing_ids = set(existing_items["ids"])
+    st.markdown("---")
+    st.markdown(f"Número de documentos existentes en la base de datos: {len(existing_ids)}")
 
-def main():
-    st.set_page_config(page_title="Index", page_icon="images/icon_blue.png")
+
+### Abre una ventana para seleccionar la carpeta desde la que cargar los documentos ###
+# https://medium.com/@kjavaman12/how-to-create-a-folder-selector-in-streamlit-e44816c06afd
+def select_folder():     
+    try:
+        root = tk.Tk()
+        root.withdraw()
+        root.attributes("-topmost", True)
+        folder_path = filedialog.askdirectory(master=root)
+        root.destroy()
+        st.session_state["folder_path"] = folder_path   # path del directorio
+        if folder_path:
+            populate_db()
+
+    except Exception as e:
+        st.error(f"Se produjo un error: {e}")
+
+
+### Carga de documentos desde directorio en la base de datos ###
+@st.dialog("Actualizando base de datos")
+def populate_db():   
+    try:
+        with st.spinner("Realizando el proceso, espere  ...", show_time=True):
+
+            folder_path = st.session_state["folder_path"]
+            mydata = st.session_state["chatbot"].get_docs_directory()
+            if not os.path.exists(mydata):
+                os.makedirs(mydata)
+
+            for file in os.listdir(folder_path):                
+                if file.endswith(".pdf"):
+                    src_path = os.path.join(folder_path, file)
+                    dst_path = os.path.join(mydata, file)    
+                    if not file in os.listdir(mydata):      
+                        shutil.copy2(src_path, dst_path)
+
+            st.session_state["chatbot"].populate_db(mydata)
+
+        st.session_state["folder_path"] = None  # reset path del directorio
+        st.success("¡Proceso finalizado con éxito!")
+
+    except Exception as e:
+        st.error(f"Se produjo un error: {e}")
+
+
+### Carga de documentos desde fichero/s a la base de datos ###
+@st.dialog("Actualizando base de datos")
+def upload_files():
+    try:
+        with st.spinner("Realizando el proceso, espere  ...", show_time=True):
+
+            file_uploader = st.session_state["file_uploader"]
+            mydata = st.session_state["chatbot"].get_docs_directory()
+            if not os.path.exists(mydata):
+                os.makedirs(mydata)
+
+            for file in file_uploader:  
+                file_path = os.path.join(mydata, file.name)  
+                if not file in os.listdir(mydata):
+                    with open(file_path, "wb") as f:
+                        f.write(file.getbuffer())
+
+                st.session_state["chatbot"].load_document(file_path)
+
+        st.success("¡Proceso finalizado con éxito!")
+
+    except Exception as e:
+        st.error(f"Se produjo un error: {e}")
+
+##############################################################################################
+
+
+def update_page():    
+    if "chatbot" not in st.session_state:
+        st.session_state["chatbot"] = Chatbot()
+
+    st.set_page_config(page_title="Actualizar ", page_icon="images/icon_blue.png")
     st.logo("images/horizontal_blue.png", icon_image="images/icon_blue.png")
 
-    st.markdown("<h1 style='text-align: center;'>Actualizar DB</h1>", unsafe_allow_html=True)
-    st.markdown("<h2 style='text-align: center;'>Pulse el botón para actualizar la DB</h2>", unsafe_allow_html=True)
+    st.header("Actualizar la base de datos")
 
-    if st.button("Actualizar", icon=":material/database:"):
-        update_db()
+    get_existing_docs()    
     
-def update_db():
-    with st.spinner("Actualizando DB, espere ...", show_time=True):
-        
-        size, overlap = 500, 25
+    col1, col2 = st.columns([3, 1], vertical_alignment="bottom")
+    with col1:
+        st.text_input(
+            label="Carga desde directorio",
+            value = st.session_state.get("folder_path", None),            
+            disabled=True
+        )
+    with col2:        
+        st.button("Seleccionar y Cargar", on_click=select_folder)    
 
-        container1 = st.container(border=True)
-        container1.write("• pdf db")
-        start = timer()
-        documents = load_pdf_documents(DATA_PDF_PATH)
-        chunks = split_text(documents, size, overlap)
-        # for doc in documents:
-        #     print(doc.metadata)
-        # print(chunks)
-        end = timer()
-        container1.write("Carga & Split: %.2fs" % (end-start))
-        start = timer()
-        add_to_chroma(chunks, CHROMA_PDF_PATH, get_embedding_function(model=EMBEDDING.NOMIC), container1)
-        end = timer()
-        container1.write("Actualización finalizada: %.2fs" % (end-start))
-        
-        container2 = st.container(border=True)
-        container2.write("• xml db")
-        start = timer()
-        documents = load_xml_documents(DATA_XML_PATH) 
-        chunks = split_text(documents, size, overlap)
-        end = timer()
-        container2.write("Carga & Split: %.2fs" % (end-start))
-        start = timer()
-        add_to_chroma(chunks, CHROMA_XML_PATH, get_embedding_function(model=EMBEDDING.NOMIC), container2)
-        end = timer()
-        container2.write("Actualización finalizada: %.2fs" % (end-start))
-        
-        container3 = st.container(border=True)
-        container3.write("• web db")
-        start = timer()
-        documents = load_web_documents(DATA_WEB_PATH)
-        chunks = split_text(documents, size, overlap)
-        end = timer()
-        container3.write("Carga & Split: %.2fs" % (end-start))
-        start = timer()
-        add_to_chroma(chunks, CHROMA_WEB_PATH, get_embedding_function(model=EMBEDDING.NOMIC), container3)
-        end = timer()
-        container3.write("Actualización finalizada: %.2fs" % (end-start))    
+    st.file_uploader(
+        "Carga desde fichero/s",
+        key="file_uploader",
+        type="pdf",
+        accept_multiple_files=True,
+        on_change=upload_files
+    )
 
-    st.success("DB actualizada!")
 
 if __name__ == "__main__":
-    main()
+    update_page()

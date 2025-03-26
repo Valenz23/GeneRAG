@@ -1,10 +1,11 @@
 /.vscode
 /.venv
-.env
+/.env
 
 /chroma
+/my_data
 
-/functions/__pycache__
+/classes/__pycache__
 
 /_demos/*/.venv
 /_demos/*/.env
