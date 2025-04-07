@@ -2,6 +2,7 @@ import os
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime
+import re
 
 # Crear las carpetas de destino para los archivos descargados
 base_download_folder = "../data"
@@ -73,7 +74,7 @@ def procesar_sumarios(carpeta_sumarios):
             url_html = item.find("url_html").text if item.find("url_html") is not None else "N/A"
 
             # Filtrar ítems con "DANA" en el título
-            if "DANA" in titulo.upper():
+            if re.search(r'\bDANA\b', titulo, re.IGNORECASE):
                 print(f"📌 Identificador: {identificador}")
                 print(f"📄 Título: {titulo}")
                 print(f"🔗 Descargando XML: {url_xml}")
