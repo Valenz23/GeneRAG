@@ -66,4 +66,4 @@ with open("preguntas_mistral.csv", "w", encoding="utf-8") as f:
         page_content = doc.page_content
         response = chain.invoke({"context":page_content})
         f.write(response + "\n")
-        time.sleep(1)   # to avoid rate limit issues
+        time.sleep(5)   # to avoid rate limit issues
