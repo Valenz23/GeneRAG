@@ -1,4 +1,5 @@
 from langchain_ollama import ChatOllama, OllamaEmbeddings
+from langchain_mistralai import ChatMistralAI
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.prompts import PromptTemplate
 from langchain_community.document_loaders import PyPDFLoader, PyPDFDirectoryLoader, WebBaseLoader
@@ -8,6 +9,11 @@ from langchain_core.output_parsers import StrOutputParser
 
 import streamlit as st
 from timeit import default_timer as timer
+
+# from dotenv import load_dotenv
+# import os
+# load_dotenv()
+# MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
 
 # CHROMA_PDF_PATH = "chroma/pdf"
 # CHROMA_XML_PATH = "chroma/xml"
@@ -30,7 +36,8 @@ class Chatbot:
                  docs_directory: str = "my_data"                        # directorio de documentos                 
                  ):
         
-        self.language_model = ChatOllama(model=language_model, num_ctx=num_ctx, temperature=0.1)        
+        self.language_model = ChatOllama(model=language_model, num_ctx=num_ctx, temperature=0.1, seed=12345)        
+        # self.language_model = ChatMistralAI(model="mistral-small-latest", mistral_api_key=MISTRAL_API_KEY,temperature=0.1, random_seed=12345)
         self.text_splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap, length_function=len)        
         self.embedding_service = OllamaEmbeddings(model=embedding_model)        
         self.vector_store = Chroma(persist_directory=chroma_directory, embedding_function=self.embedding_service)        
@@ -176,5 +183,6 @@ class Chatbot:
     def get_language_model(self):
         return self.language_model
     def set_language_model(self, language_model: str, num_ctx: int = 2048):
-        self.language_model = ChatOllama(model=language_model, num_ctx=num_ctx, temperature=0.1)
+        self.language_model = ChatOllama(model=language_model, num_ctx=num_ctx, temperature=0.1, seed=12345)        
+        # self.language_model = ChatMistralAI(model="mistral-small-latest", mistral_api_key=MISTRAL_API_KEY,temperature=0.1, random_seed=12345)
         
