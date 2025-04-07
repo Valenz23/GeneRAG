@@ -2,6 +2,7 @@ import os
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime
+import re
 
 # Obtener la fecha actual
 hoy = datetime.now()
@@ -74,7 +75,7 @@ for item in root.findall(".//item"):
     url_html = item.find("url_html").text if item.find("url_html") is not None else "N/A"
 
     # Filtrar solo los que contienen "DANA"
-    if "DANA" in titulo.upper():
+    if re.search(r'\bDANA\b', titulo, re.IGNORECASE):
         print(f"📌 Identificador: {identificador}")
         print(f"📄 Título: {titulo}")
         print(f"🔗 Descargando XML: {url_xml}")
