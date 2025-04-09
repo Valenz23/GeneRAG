@@ -25,3 +25,4 @@
 *.out
 *.bbl
 *.blg
+/eval/__pycache__
