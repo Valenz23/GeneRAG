@@ -36,28 +36,29 @@ class Chatbot:
                  docs_directory: str = "my_data"                        # directorio de documentos                 
                  ):
         
-        # self.language_model = ChatOllama(model=language_model, num_ctx=num_ctx, temperature=0.1, seed=12345)        
-        self.language_model = ChatMistralAI(model="mistral-small-latest", mistral_api_key=MISTRAL_API_KEY,temperature=0.1, random_seed=12345)
+        # self.language_model = ChatOllama(model=language_model, num_ctx=num_ctx, temperature=0, seed=12345)        
+        self.language_model = ChatMistralAI(model="mistral-small-latest", mistral_api_key=MISTRAL_API_KEY,temperature=0, random_seed=12345)
         self.text_splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap, length_function=len)        
         self.embedding_service = OllamaEmbeddings(model=embedding_model)        
         self.vector_store = Chroma(persist_directory=chroma_directory, embedding_function=self.embedding_service)        
         self.retriever = self.vector_store.as_retriever(search_type=search_type,search_kwargs={"k": kwargs})
-        self.docs_directory = docs_directory
+        self.docs_directory = docs_directory        
 
         self.prompt_template = PromptTemplate.from_template(
             """
-            <s> [INST] 
             Eres un asistente que responde preguntas usando SOLO y ÚNICAMENTE el contexto proporcionado.
             Si la respuesta NO está en contexto, simplemente dí que no lo sabes y no respondas o te inventes la respuesta.
-            Tus respuestas DEBEN ser detalladas y bien estructuradas, organizando la información en párrafos y listas si es necesario.
-            Tus respuestas DEBEN de ser respondidas con una o varias piezas de información sacadas del contexto.
-            Tus respuestas NO DEBEN mencionar expresiones como "de acuerdo a la información" o "según el contexto".            
-            [/INST] </s>
-            ---
-            [INST]
-            Pregunta: {question}
-            Contexto: {context}
-            [/INST]
+            Tus respuestas DEBEN ser detalladas y estar bien estructuradas, organizando la información en párrafos y listas si es necesario.
+            Tus respuestas DEBEN de ser respondidas con las partes de información sacadas del contexto.
+            Tus respuestas NO DEBEN mencionar expresiones como "de acuerdo a la información" o "según el contexto".
+            
+            Si el usuario pide información sobre ayudas, estas también pueden ser subvenciones.            
+            Si el usuario pide información sobre subvenciones, estas también pueden ser ayudas.
+            Todas las preguntas realizadas por el usuario están relacionadas con la DANA (Depresión Aislada en Niveles Altos) sucedida a finales de 2024.
+
+            Aqui tienes la pregunta y el contexto:
+            Pregunta: {question}\n
+            Contexto: {context}\n
             """
         )
 
@@ -192,6 +193,6 @@ class Chatbot:
     def get_language_model(self):
         return self.language_model
     def set_language_model(self, language_model: str, num_ctx: int = 2048):
-        self.language_model = ChatOllama(model=language_model, num_ctx=num_ctx, temperature=0.1, seed=12345)        
-        # self.language_model = ChatMistralAI(model="mistral-small-latest", mistral_api_key=MISTRAL_API_KEY,temperature=0.1, random_seed=12345)
+        self.language_model = ChatOllama(model=language_model, num_ctx=num_ctx, temperature=0, seed=12345)        
+        # self.language_model = ChatMistralAI(model="mistral-small-latest", mistral_api_key=MISTRAL_API_KEY,temperature=0, random_seed=12345)
         

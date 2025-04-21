@@ -30,6 +30,9 @@ def query(question: str):
         }
         for doc in results[0]
     ]
+    
+    print(metadata)
+
     sources_set = {item["id"] for item in metadata if item.get("id")}   # recursos(set)
     sources = "---\n\n**Recursos**:\n\n" + "\n".join(f"\t🔗 {src}" for src in sources_set)
     
@@ -64,7 +67,9 @@ def main_page():
         index=0,
         key="language_model",
         on_change=set_language_model
-    )    
+    )  
+    
+      
         
     for message in st.session_state.chat_history:
         if isinstance(message, AIMessage):
