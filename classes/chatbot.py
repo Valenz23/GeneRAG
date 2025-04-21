@@ -6,6 +6,10 @@ from langchain_community.document_loaders import PyPDFLoader, PyPDFDirectoryLoad
 from langchain_chroma import Chroma
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
+from langchain_community.retrievers import TFIDFRetriever, BM25Retriever
+from langchain_core.documents import Document
+from graph_retriever.strategies import Eager
+from langchain_graph_retriever import GraphRetriever
 
 import streamlit as st
 from timeit import default_timer as timer
@@ -30,7 +34,7 @@ class Chatbot:
                  language_model: str = "llama3.2", num_ctx: int = 2048, # modelo de lenguaje //     num_ctx -->     2048      4096         8192
                  chunk_size: int = 512, chunk_overlap: int = 50,        # tamaño de los chunks //   size    -->  [[512, 50],[1024, 100], [2048, 200]]
                  embedding_model: str = "nomic-embed-text",             # modelo de embeddings
-                 search_type: str = "similarity", kwargs: int = 5,      # tipo de búsqueda //        kwargs -->    5           4             3
+                 search_type: str = "similarity", k: int = 5,      # tipo de búsqueda //        kwargs -->    5           4             3
                  chroma_directory: str = "chroma",                      # directorio de chroma
                 #  chroma_directory: str = "__chroma",                      # directorio de chroma
                  docs_directory: str = "my_data"                        # directorio de documentos                 
@@ -38,11 +42,30 @@ class Chatbot:
         
         # self.language_model = ChatOllama(model=language_model, num_ctx=num_ctx, temperature=0, seed=12345)        
         self.language_model = ChatMistralAI(model="mistral-small-latest", mistral_api_key=MISTRAL_API_KEY,temperature=0, random_seed=12345)
+
         self.text_splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap, length_function=len)        
         self.embedding_service = OllamaEmbeddings(model=embedding_model)        
-        self.vector_store = Chroma(persist_directory=chroma_directory, embedding_function=self.embedding_service)        
-        self.retriever = self.vector_store.as_retriever(search_type=search_type,search_kwargs={"k": kwargs})
-        self.docs_directory = docs_directory        
+        self.vector_store = Chroma(persist_directory=chroma_directory, embedding_function=self.embedding_service)      
+        self.docs_directory = docs_directory      
+
+        self.k = k  
+
+        self.retriever = search_type
+        if search_type == "similarity" or search_type == "mmr":
+          self.retriever = self.vector_store.as_retriever(search_type=search_type,search_kwargs={"k": k})  
+        elif search_type == "tfidf":
+            docs = self.__get_documents_from_chroma()
+            self.retriever = TFIDFRetriever.from_documents(docs, k=k)
+        elif search_type == "bm25":
+            docs = self.__get_documents_from_chroma()
+            self.retriever = BM25Retriever.from_documents(docs, k=k)
+        elif search_type == "grafo":
+            self.retriever = GraphRetriever(
+                store=self.vector_store,
+                edges=[("keywords","keywords"),("author","author"),("subject","subject"),("title","title")],
+                strategy=Eager(k=k, start_k=1, max_depth=2)
+            )
+            
 
         self.prompt_template = PromptTemplate.from_template(
             """
@@ -85,7 +108,9 @@ class Chatbot:
             new_chunk_ids = [chunk.metadata["id"] for chunk in new_chunks]
             self.vector_store.add_documents(new_chunks, ids=new_chunk_ids)
         else:
-            st.write("✅ No hay nuevos documentos para añadir")        
+            st.write("✅ No hay nuevos documentos para añadir")   
+
+        self.__update_tfidf_bm25_retrievers()             
         st.write(f"⏳ Tiempo empleado: **{round(timer() - start,2)} segundos**")
 
         
@@ -110,6 +135,8 @@ class Chatbot:
             self.vector_store.add_documents(new_chunks, ids=new_chunk_ids)
         else:
             st.write("✅ No hay nuevos documentos para añadir")
+
+        self.__update_tfidf_bm25_retrievers()
         st.write(f"⏳ Tiempo empleado: **{round(timer() - start,2)} segundos**")
 
 
@@ -138,6 +165,13 @@ class Chatbot:
 
         return chunks
     
+    ### actualizar los retrievers en caso de que sean tf-idf o bm25
+    def __update_tfidf_bm25_retrievers(self):        
+        docs = self.__get_documents_from_chroma()
+        if self.retriever == "tfidf":
+            self.retriever = TFIDFRetriever.from_documents(docs, k=self.k)
+        elif self.retriever == "bm25":
+            self.retriever = BM25Retriever.from_documents(docs, k=self.k)    
     
     ################################################################################################
     
@@ -185,6 +219,23 @@ class Chatbot:
     def get_retriever(self):
         return self.retriever
     
+    def set_search_type(self, search_type: str, k: int = 5):
+        # print(f"Busqueda por: {search_type}")
+        if search_type == "similarity" or search_type == "mmr":
+          self.retriever = self.vector_store.as_retriever(search_type=search_type,search_kwargs={"k": k})  
+        elif search_type == "tfidf":
+            docs = self.__get_documents_from_chroma()
+            self.retriever = TFIDFRetriever.from_documents(docs, k=k)
+        elif search_type == "bm25":
+            docs = self.__get_documents_from_chroma()
+            self.retriever = BM25Retriever.from_documents(docs, k=k)
+        elif search_type == "grafo":
+            self.retriever = GraphRetriever(
+                store=self.vector_store,
+                edges=[("keywords","keywords"),("author","author"),("subject","subject"),("title","title")],
+                strategy=Eager(k=k, start_k=1, max_depth=2)
+            )      
+    
 
     def get_docs_directory(self):
         return self.docs_directory
@@ -193,6 +244,23 @@ class Chatbot:
     def get_language_model(self):
         return self.language_model
     def set_language_model(self, language_model: str, num_ctx: int = 2048):
-        self.language_model = ChatOllama(model=language_model, num_ctx=num_ctx, temperature=0, seed=12345)        
-        # self.language_model = ChatMistralAI(model="mistral-small-latest", mistral_api_key=MISTRAL_API_KEY,temperature=0, random_seed=12345)
+        # self.language_model = ChatOllama(model=language_model, num_ctx=num_ctx, temperature=0, seed=12345)        
+        self.language_model = ChatMistralAI(model="mistral-small-latest", mistral_api_key=MISTRAL_API_KEY,temperature=0, random_seed=12345)
+
+    def __get_documents_from_chroma(self):
+        """ Extrae los documentos del vector store y los convierte a objetos Document """
+        chroma_data = self.vector_store.get()
+        documents = []
+
+        ids = chroma_data['ids']
+        contents = chroma_data['documents']
+        metadatas = chroma_data['metadatas']
+
+        # print(metadatas[0:3])
+
+        for doc_id, content, metadata in zip(ids, contents, metadatas):
+            documents.append(Document(page_content=content, metadata=metadata))
+
+        return documents
+
         

@@ -11,13 +11,26 @@ def set_language_model():
     chatbot = st.session_state["chatbot"]
     chatbot.set_language_model(st.session_state["language_model"])
 
+def set_search_type():
+    chatbot = st.session_state["chatbot"]
+    chatbot.set_search_type(st.session_state["search_type"])
+
 
 ### Genera la respuesta ###
 def query(question: str):
     chatbot = st.session_state["chatbot"]
-    results = chatbot.get_retriever().batch([question])
+    retriever = chatbot.get_retriever()
 
-    context = "\n\n---\n\n".join([doc.page_content for doc in results[0]]) # contexto
+    # print(retriever)
+
+    # results = chatbot.get_retriever().batch([question]) # otra forma
+    # results = results[0]
+    # results = retriever.get_relevant_documents(question) # deprecated
+
+    results = retriever.invoke(question) # updated form
+
+    # context = "\n\n---\n\n".join([doc.page_content for doc in results[0]]) # contexto
+    context = "\n\n---\n\n".join([doc.page_content for doc in results]) # contexto
     metadata = [    # metadatos
         {            
             "author": doc.metadata.get("author", None),
@@ -28,10 +41,10 @@ def query(question: str):
             "subject": doc.metadata.get("subject", None),
             "title": doc.metadata.get("title", None)
         }
-        for doc in results[0]
+        for doc in results
     ]
     
-    print(metadata)
+    # print(metadata)
 
     sources_set = {item["id"] for item in metadata if item.get("id")}   # recursos(set)
     sources = "---\n\n**Recursos**:\n\n" + "\n".join(f"\t🔗 {src}" for src in sources_set)
@@ -69,6 +82,21 @@ def main_page():
         on_change=set_language_model
     )  
     
+    st.sidebar.write("---")
+
+    st.sidebar.radio(
+        "Seleccione una estrategia de recuperación",
+        ["similarity", "mmr", "tfidf", "bm25", "grafo"],
+        captions=[
+            "Similaridad coseno",
+            "Maximal marginal relevance",
+            "TF-IDF",
+            "BM25",
+            "GraphRag"    
+        ],
+        key="search_type",
+        on_change=set_search_type
+    )
       
         
     for message in st.session_state.chat_history:
