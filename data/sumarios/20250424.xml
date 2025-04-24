@@ -1,0 +1,1604 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <sumario>
+      <metadatos>
+        <publicacion>BOE</publicacion>
+        <fecha_publicacion>20250424</fecha_publicacion>
+      </metadatos>
+      <diario numero="99">
+        <sumario_diario>
+          <identificador>BOE-S-2025-99</identificador>
+          <url_pdf szBytes="400940" szKBytes="392">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-S-2025-99.pdf</url_pdf>
+        </sumario_diario>
+        <seccion codigo="1" nombre="I. Disposiciones generales">
+          <departamento codigo="9588" nombre="MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030">
+            <epigrafe nombre="Servicios públicos. Acceso electrónico">
+              <item>
+                <identificador>BOE-A-2025-8205</identificador>
+                <control>2025/6238</control>
+                <titulo>Orden DCA/384/2025, de 7 de abril, por la que se crea la sede electrónica asociada del Ministerio de Derechos Sociales, Consumo y Agenda 2030 y se modifica la adscripción de la sede electrónica asociada de la Dirección General de Ordenación del Juego.</titulo>
+                <url_pdf szBytes="219891" szKBytes="215" pagina_inicial="55593" pagina_final="55597">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8205.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8205</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8205</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="1040" nombre="COMISIÓN NACIONAL DEL MERCADO DE VALORES">
+            <epigrafe nombre="Mercado de valores">
+              <item>
+                <identificador>BOE-A-2025-8206</identificador>
+                <control>2025/5409</control>
+                <titulo>Circular 2/2025, de 26 de marzo, de la Comisión Nacional del Mercado de Valores, por la que se modifican las Circulares 1/2021, de 25 de marzo, 1/2010, de 28 de julio, y 5/2009, de 25 de noviembre, de la Comisión Nacional del Mercado de Valores.</titulo>
+                <url_pdf szBytes="6137089" szKBytes="5993" pagina_inicial="55598" pagina_final="55832">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8206.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8206</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8206</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="2A" nombre="II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias">
+          <departamento codigo="1820" nombre="CONSEJO GENERAL DEL PODER JUDICIAL">
+            <epigrafe nombre="Destinos">
+              <item>
+                <identificador>BOE-A-2025-8207</identificador>
+                <control>2025/6112</control>
+                <titulo>Real Decreto 307/2025, de 15 de abril, por el que se adjudica en propiedad la plaza de Magistrado de la Sala de lo Social del Tribunal Superior de Justicia de Extremadura a don Pedro Bravo Gutiérrez.</titulo>
+                <url_pdf szBytes="192190" szKBytes="188" pagina_inicial="55833" pagina_final="55833">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8207.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8207</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8207</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8208</identificador>
+                <control>2025/6113</control>
+                <titulo>Real Decreto 308/2025, de 15 de abril, por el que se adjudica en propiedad la plaza de Jueza de adscripción territorial del Tribunal Superior de Justicia de Madrid a la Magistrada doña Marta Grande Lorenzo.</titulo>
+                <url_pdf szBytes="191339" szKBytes="187" pagina_inicial="55834" pagina_final="55834">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8208.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8208</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8208</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8209</identificador>
+                <control>2025/6114</control>
+                <titulo>Real Decreto 309/2025, de 15 de abril, por el que se adjudica en propiedad la plaza de Magistrada de la Audiencia Provincial de Toledo a doña Beatriz López Frago.</titulo>
+                <url_pdf szBytes="191322" szKBytes="187" pagina_inicial="55835" pagina_final="55835">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8209.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8209</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8209</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8210</identificador>
+                <control>2025/6115</control>
+                <titulo>Real Decreto 310/2025, de 15 de abril, por el que se adjudica en propiedad la plaza del Juzgado de lo Contencioso-Administrativo número 4 de Zaragoza a la Magistrada doña Patricia Carmen Sierra Bandrés.</titulo>
+                <url_pdf szBytes="192033" szKBytes="188" pagina_inicial="55836" pagina_final="55836">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8210.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8210</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8210</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8211</identificador>
+                <control>2025/6116</control>
+                <titulo>Real Decreto 311/2025, de 15 de abril, por el que se adjudica en propiedad la plaza del Juzgado de Violencia sobre la Mujer número 1 de A Coruña a la Magistrada doña Eva López Domínguez.</titulo>
+                <url_pdf szBytes="191576" szKBytes="187" pagina_inicial="55837" pagina_final="55837">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8211.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8211</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8211</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8212</identificador>
+                <control>2025/6117</control>
+                <titulo>Real Decreto 312/2025, de 15 de abril, por el que se destina a los Magistrados y Magistradas que se relacionan, como consecuencia del concurso resuelto por Acuerdo de la Comisión Permanente del Consejo General del Poder Judicial.</titulo>
+                <url_pdf szBytes="229676" szKBytes="224" pagina_inicial="55838" pagina_final="55844">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8212.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8212</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8212</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8213</identificador>
+                <control>2025/6118</control>
+                <titulo>Real Decreto 313/2025, de 15 de abril, por el que se adjudica en propiedad la plaza del Juzgado de lo Contencioso-Administrativo número 7 de Murcia a la Magistrada doña María Luisa González Campo.</titulo>
+                <url_pdf szBytes="191646" szKBytes="187" pagina_inicial="55845" pagina_final="55845">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8213.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8213</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8213</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9585" nombre="MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES">
+            <epigrafe nombre="Destinos">
+              <item>
+                <identificador>BOE-A-2025-8214</identificador>
+                <control>2025/6317</control>
+                <titulo>Resolución de 21 de abril de 2025, de la Subsecretaría, por la que se corrigen errores en la de 17 de febrero de 2025, por la que se resuelve el concurso específico, convocado por Resolución de 21 de noviembre de 2024.</titulo>
+                <url_pdf szBytes="190912" szKBytes="186" pagina_inicial="55846" pagina_final="55846">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8214.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8214</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8214</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="5140" nombre="MINISTERIO DE HACIENDA">
+            <epigrafe nombre="Ceses">
+              <item>
+                <identificador>BOE-A-2025-8215</identificador>
+                <control>2025/6382</control>
+                <titulo>Orden HAC/385/2025, de 23 de abril, por la que se dispone el cese de doña Ana Isabel Mateo Lozano como Directora del Gabinete del Secretario de Estado de Hacienda.</titulo>
+                <url_pdf szBytes="190377" szKBytes="186" pagina_inicial="55847" pagina_final="55847">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8215.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8215</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8215</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Nombramientos">
+              <item>
+                <identificador>BOE-A-2025-8216</identificador>
+                <control>2025/6383</control>
+                <titulo>Orden HAC/386/2025, de 23 de abril, por la que se nombra Director del Gabinete del Secretario de Estado de Hacienda a don Antonio Francisco Ansón Latorre.</titulo>
+                <url_pdf szBytes="190194" szKBytes="186" pagina_inicial="55848" pagina_final="55848">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8216.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8216</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8216</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9590" nombre="MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES">
+            <epigrafe nombre="Nombramientos">
+              <item>
+                <identificador>BOE-A-2025-8217</identificador>
+                <control>2025/6245</control>
+                <titulo>Orden EFD/387/2025, de 16 de abril, por la que, a propuesta de la Consejería de Desarrollo Educativo y Formación Profesional, de la Comunidad Autónoma de Andalucía, se nombra personal funcionario de carrera, de los Cuerpos de Profesores de Enseñanza Secundaria, Profesores de Escuelas Oficiales de Idiomas, Profesores de Música y Artes Escénicas, Profesores de Artes Plásticas y Diseño, Maestros de Taller de Artes Plásticas y Diseño y Profesores Especialistas en Sectores Singulares de Formación Profesional, a las personas seleccionadas en los procedimientos selectivos convocados por Orden de 6 de marzo de 2023.</titulo>
+                <url_pdf szBytes="8594173" szKBytes="8393" pagina_inicial="55849" pagina_final="56013">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8217.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8217</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8217</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9591" nombre="MINISTERIO DE INDUSTRIA Y TURISMO">
+            <epigrafe nombre="Destinos">
+              <item>
+                <identificador>BOE-A-2025-8218</identificador>
+                <control>2025/6248</control>
+                <titulo>Resolución de 16 de abril de 2025, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 14 de marzo de 2025.</titulo>
+                <url_pdf szBytes="207188" szKBytes="202" pagina_inicial="56014" pagina_final="56015">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8218.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8218</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8218</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9589" nombre="MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA">
+            <epigrafe nombre="Destinos">
+              <item>
+                <identificador>BOE-A-2025-8219</identificador>
+                <control>2025/6250</control>
+                <titulo>Resolución de 14 de abril de 2025, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 7 de marzo de 2025.</titulo>
+                <url_pdf szBytes="243238" szKBytes="238" pagina_inicial="56016" pagina_final="56019">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8219.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8219</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8219</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9565" nombre="MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES">
+            <epigrafe nombre="Destinos">
+              <item>
+                <identificador>BOE-A-2025-8220</identificador>
+                <control>2025/6251</control>
+                <titulo>Resolución de 11 de abril de 2025, de la Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P., por la que se corrigen errores en la de 3 de abril de 2025, por la que se resuelve concurso específico para la provisión de puestos de trabajo.</titulo>
+                <url_pdf szBytes="191794" szKBytes="187" pagina_inicial="56020" pagina_final="56020">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8220.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8220</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8220</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9595" nombre="MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA">
+            <epigrafe nombre="Nombramientos">
+              <item>
+                <identificador>BOE-A-2025-8221</identificador>
+                <control>2025/6140</control>
+                <titulo>Resolución de 14 de abril de 2025, de la Secretaría de Estado de Función Pública, por la que se nombra personal funcionario de carrera, por el sistema general de acceso libre, de la Carrera Diplomática.</titulo>
+                <url_pdf szBytes="287147" szKBytes="280" pagina_inicial="56021" pagina_final="56024">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8221.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8221</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8221</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Destinos">
+              <item>
+                <identificador>BOE-A-2025-8222</identificador>
+                <control>2025/6255</control>
+                <titulo>Resolución de 21 de abril de 2025, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 21 de febrero de 2025.</titulo>
+                <url_pdf szBytes="207720" szKBytes="203" pagina_inicial="56025" pagina_final="56026">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8222.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8222</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8222</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="310" nombre="UNIVERSIDADES">
+            <epigrafe nombre="Ceses">
+              <item>
+                <identificador>BOE-A-2025-8223</identificador>
+                <control>2025/6258</control>
+                <titulo>Resolución de 9 de abril de 2025, de la Universidad Nacional de Educación a Distancia, por la que se corrigen errores en la de 10 de marzo de 2025, por la que se dispone el cese de don Sebastián Pacheco Cortés como Vocal del Consejo Social.</titulo>
+                <url_pdf szBytes="190710" szKBytes="186" pagina_inicial="56027" pagina_final="56027">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8223.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8223</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8223</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Nombramientos">
+              <item>
+                <identificador>BOE-A-2025-8224</identificador>
+                <control>2025/6260</control>
+                <titulo>Resolución de 10 de abril de 2025, de la Universidad Politécnica de Madrid, por la que se nombra personal funcionario de cuerpos docentes universitarios.</titulo>
+                <url_pdf szBytes="289636" szKBytes="283" pagina_inicial="56028" pagina_final="56031">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8224.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8224</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8224</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8225</identificador>
+                <control>2025/5956</control>
+                <titulo>Resolución de 11 de abril de 2025, de la Universidad de Barcelona, por la que se nombran Catedráticas y Catedráticos de Universidad.</titulo>
+                <url_pdf szBytes="194741" szKBytes="190" pagina_inicial="56032" pagina_final="56032">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8225.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8225</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8225</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8226</identificador>
+                <control>2025/5957</control>
+                <titulo>Resolución de 11 de abril de 2025, de la Universidad de Castilla-La Mancha, por la que se nombra Catedrático de Universidad, con plaza vinculada, a don Tomás Segura Martín.</titulo>
+                <url_pdf szBytes="196790" szKBytes="192" pagina_inicial="56033" pagina_final="56033">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8226.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8226</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8226</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8227</identificador>
+                <control>2025/5958</control>
+                <titulo>Resolución de 11 de abril de 2025, de la Universidad de Castilla-La Mancha, por la que se nombra Profesora Titular de Universidad a doña María del Mar Moreno Mozos.</titulo>
+                <url_pdf szBytes="196112" szKBytes="192" pagina_inicial="56034" pagina_final="56034">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8227.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8227</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8227</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8228</identificador>
+                <control>2025/5959</control>
+                <titulo>Resolución de 11 de abril de 2025, de la Universidad de Castilla-La Mancha, por la que se nombran Catedráticas y Catedráticos de Universidad.</titulo>
+                <url_pdf szBytes="208694" szKBytes="204" pagina_inicial="56035" pagina_final="56036">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8228.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8228</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8228</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8229</identificador>
+                <control>2025/5960</control>
+                <titulo>Resolución de 11 de abril de 2025, de la Universidad de Salamanca, por la que se nombra Catedrática de Universidad a doña Catalina Sofía Sanz Lozano.</titulo>
+                <url_pdf szBytes="192395" szKBytes="188" pagina_inicial="56037" pagina_final="56037">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8229.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8229</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8229</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8230</identificador>
+                <control>2025/5961</control>
+                <titulo>Resolución de 11 de abril de 2025, de la Universidad de Salamanca, por la que se nombra Profesor Titular de Universidad a don Luis Sanz Andreu.</titulo>
+                <url_pdf szBytes="192075" szKBytes="188" pagina_inicial="56038" pagina_final="56038">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8230.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8230</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8230</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8231</identificador>
+                <control>2025/5962</control>
+                <titulo>Resolución de 11 de abril de 2025, de la Universidad de Salamanca, por la que se nombran Catedráticas y Catedráticos de Universidad.</titulo>
+                <url_pdf szBytes="203782" szKBytes="199" pagina_inicial="56039" pagina_final="56039">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8231.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8231</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8231</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8232</identificador>
+                <control>2025/5963</control>
+                <titulo>Resolución de 11 de abril de 2025, de la Universidad Rey Juan Carlos, por la que se nombra Profesora Titular de Universidad a doña Alba Gómez Ortega.</titulo>
+                <url_pdf szBytes="192332" szKBytes="188" pagina_inicial="56040" pagina_final="56040">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8232.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8232</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8232</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8233</identificador>
+                <control>2025/5964</control>
+                <titulo>Resolución de 11 de abril de 2025, de la Universidad Rey Juan Carlos, por la que se nombran Profesoras y Profesores Titulares de Universidad.</titulo>
+                <url_pdf szBytes="196655" szKBytes="192" pagina_inicial="56041" pagina_final="56041">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8233.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8233</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8233</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8234</identificador>
+                <control>2025/6143</control>
+                <titulo>Resolución de 11 de abril de 2025, de la Universidad Pompeu Fabra, por la que se nombra Catedrático de Universidad a don Albert Lamarca Marques.</titulo>
+                <url_pdf szBytes="192039" szKBytes="188" pagina_inicial="56042" pagina_final="56042">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8234.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8234</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8234</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8235</identificador>
+                <control>2025/6144</control>
+                <titulo>Resolución de 14 de abril de 2025, de la Universidad de Murcia, por la que se nombran Catedráticas y Catedráticos de Universidad.</titulo>
+                <url_pdf szBytes="192116" szKBytes="188" pagina_inicial="56043" pagina_final="56043">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8235.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8235</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8235</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8236</identificador>
+                <control>2025/6145</control>
+                <titulo>Resolución de 14 de abril de 2025, de la Universidad de Murcia, por la que se nombran Profesoras y Profesores Titulares de Universidad.</titulo>
+                <url_pdf szBytes="192182" szKBytes="188" pagina_inicial="56044" pagina_final="56044">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8236.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8236</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8236</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8237</identificador>
+                <control>2025/6146</control>
+                <titulo>Resolución de 14 de abril de 2025, de la Universidad de Murcia, por la que se nombran Profesores Titulares de Universidad.</titulo>
+                <url_pdf szBytes="191655" szKBytes="187" pagina_inicial="56045" pagina_final="56045">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8237.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8237</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8237</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8238</identificador>
+                <control>2025/6259</control>
+                <titulo>Resolución de 10 de abril de 2025, de la Universidad Nacional de Educación a Distancia, por la que se corrigen errores en la de 11 de marzo de 2025, por la que se nombra Vocal del Consejo Social a doña Amparo Isabel Burgueño Luengo.</titulo>
+                <url_pdf szBytes="190667" szKBytes="186" pagina_inicial="56046" pagina_final="56046">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8238.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8238</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8238</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="2B" nombre="II. Autoridades y personal. - B. Oposiciones y concursos">
+          <departamento codigo="1820" nombre="CONSEJO GENERAL DEL PODER JUDICIAL">
+            <epigrafe nombre="Letrados al servicio del Tribunal Supremo">
+              <item>
+                <identificador>BOE-A-2025-8239</identificador>
+                <control>2025/6127</control>
+                <titulo>Acuerdo de 8 de abril de 2025, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se convoca concurso para la provisión de plaza de Letrado/a titular del Gabinete Técnico al servicio del Tribunal Supremo.</titulo>
+                <url_pdf szBytes="229597" szKBytes="224" pagina_inicial="56047" pagina_final="56050">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8239.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8239</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8239</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9585" nombre="MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES">
+            <epigrafe nombre="Procedimientos de libre designación">
+              <item>
+                <identificador>BOE-A-2025-8240</identificador>
+                <control>2025/6147</control>
+                <titulo>Resolución de 9 de abril de 2025, de la Secretaría de Estado de Justicia, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="239684" szKBytes="234" pagina_inicial="56051" pagina_final="56053">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8240.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8240</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8240</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="6110" nombre="MINISTERIO DE DEFENSA">
+            <epigrafe nombre="Personal funcionario. Concursos">
+              <item>
+                <identificador>BOE-A-2025-8241</identificador>
+                <control>2025/6381</control>
+                <titulo>Corrección de erratas de la Resolución 400/38165/2025, de 11 de abril, de la Subsecretaría, por la que se convoca concurso general para la provisión de puestos de trabajo.</titulo>
+                <url_pdf szBytes="205818" szKBytes="201" pagina_inicial="56054" pagina_final="56055">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8241.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8241</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8241</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="7320" nombre="MINISTERIO DEL INTERIOR">
+            <epigrafe nombre="Cuerpo de Enfermeros de Instituciones Penitenciarias">
+              <item>
+                <identificador>BOE-A-2025-8242</identificador>
+                <control>2025/6150</control>
+                <titulo>Resolución de 9 de abril de 2025, de la Subsecretaría, por la que se convoca proceso selectivo para la selección y nombramiento de personal funcionario interino del Cuerpo de Enfermeros de Instituciones Penitenciarias.</titulo>
+                <url_pdf szBytes="284622" szKBytes="278" pagina_inicial="56056" pagina_final="56064">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8242.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8242</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8242</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Cuerpo Facultativo de Sanidad Penitenciaria">
+              <item>
+                <identificador>BOE-A-2025-8243</identificador>
+                <control>2025/6151</control>
+                <titulo>Resolución de 9 de abril de 2025, de la Subsecretaría, por la que se convoca proceso selectivo para la selección y nombramiento de personal funcionario interino del Cuerpo Facultativo de Sanidad Penitenciaria.</titulo>
+                <url_pdf szBytes="403771" szKBytes="394" pagina_inicial="56065" pagina_final="56074">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8243.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8243</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8243</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8244</identificador>
+                <control>2025/6333</control>
+                <titulo>Resolución de 22 de abril de 2025, de la Subsecretaría, por la que se publica la relación de personas aprobadas en la fase de oposición de las pruebas selectivas para ingreso, por el sistema general de acceso libre, en el Cuerpo Facultativo de Sanidad Penitenciaria, convocadas por Resolución de 9 de octubre de 2024.</titulo>
+                <url_pdf szBytes="198871" szKBytes="194" pagina_inicial="56075" pagina_final="56076">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8244.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8244</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8244</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9573" nombre="MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL">
+            <epigrafe nombre="Procedimientos de libre designación">
+              <item>
+                <identificador>BOE-A-2025-8245</identificador>
+                <control>2025/6153</control>
+                <titulo>Resolución de 15 de abril de 2025, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="232949" szKBytes="227" pagina_inicial="56077" pagina_final="56080">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8245.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8245</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8245</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9575" nombre="MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO">
+            <epigrafe nombre="Procedimientos de libre designación">
+              <item>
+                <identificador>BOE-A-2025-8246</identificador>
+                <control>2025/6268</control>
+                <titulo>Resolución de 11 de abril de 2025, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="244628" szKBytes="239" pagina_inicial="56081" pagina_final="56085">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8246.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8246</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8246</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="4620" nombre="MINISTERIO DE IGUALDAD">
+            <epigrafe nombre="Personal funcionario. Concursos">
+              <item>
+                <identificador>BOE-A-2025-8247</identificador>
+                <control>2025/6269</control>
+                <titulo>Resolución de 14 de abril de 2025, de la Subsecretaría, por la que se convoca concurso específico para la provisión de puestos de trabajo en el Instituto de las Mujeres.</titulo>
+                <url_pdf szBytes="843355" szKBytes="824" pagina_inicial="56086" pagina_final="56110">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8247.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8247</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8247</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9579" nombre="MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES">
+            <epigrafe nombre="Cuerpo Administrativo de la Administración de la Seguridad Social">
+              <item>
+                <identificador>BOE-A-2025-8248</identificador>
+                <control>2025/6154</control>
+                <titulo>Resolución de 10 de abril de 2025, de la Subsecretaría, por la que se modifica la composición del Tribunal calificador y se corrigen errores en la de 23 de diciembre de 2024, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, en el Cuerpo Administrativo de la Administración de la Seguridad Social.</titulo>
+                <url_pdf szBytes="195287" szKBytes="191" pagina_inicial="56111" pagina_final="56112">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8248.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8248</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8248</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Escala de Médicos Inspectores del Cuerpo de Inspección Sanitaria de la Administración de la Seguridad Social">
+              <item>
+                <identificador>BOE-A-2025-8249</identificador>
+                <control>2025/6335</control>
+                <titulo>Resolución de 8 de abril de 2025, de la Subsecretaría, por la que se publica la relación definitiva de aspirantes que han aprobado el proceso selectivo extraordinario para la estabilización de empleo temporal, por el sistema de concurso, en la Escala de Médicos Inspectores del Cuerpo de Inspección Sanitaria de la Administración de la Seguridad Social, convocado por Resolución de 10 de diciembre de 2024.</titulo>
+                <url_pdf szBytes="211716" szKBytes="207" pagina_inicial="56113" pagina_final="56114">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8249.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8249</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8249</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9595" nombre="MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA">
+            <epigrafe nombre="Procedimientos de libre designación">
+              <item>
+                <identificador>BOE-A-2025-8250</identificador>
+                <control>2025/6270</control>
+                <titulo>Resolución de 16 de abril de 2025, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="236512" szKBytes="231" pagina_inicial="56115" pagina_final="56118">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8250.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8250</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8250</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="8030" nombre="COMUNIDAD AUTÓNOMA DE CANARIAS">
+            <epigrafe nombre="Cuerpo de Médicos Forenses">
+              <item>
+                <identificador>BOE-A-2025-8251</identificador>
+                <control>2025/6155</control>
+                <titulo>Orden de 9 de abril de 2025, de la Consejería de Presidencia, Administraciones Públicas, Justicia y Seguridad, por la que se convoca la provisión por el sistema de libre designación del puesto de trabajo de Dirección en el Instituto de Medicina Legal de Las Palmas de Gran Canaria.</titulo>
+                <url_pdf szBytes="212141" szKBytes="207" pagina_inicial="56119" pagina_final="56122">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8251.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8251</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8251</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Cuerpos de funcionarios docentes">
+              <item>
+                <identificador>BOE-A-2025-8252</identificador>
+                <control>2025/6338</control>
+                <titulo>Resolución de 21 de abril de 2025, de la Dirección General de Personal, de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, por la que se publica la convocatoria de procedimientos selectivos para el ingreso y acceso a los Cuerpos de Profesores de Enseñanza Secundaria, Profesores de Escuelas Oficiales de Idiomas, Profesores de Artes Plásticas y Diseño y Profesores Especialistas en Sectores Singulares de Formación Profesional.</titulo>
+                <url_pdf szBytes="193660" szKBytes="189" pagina_inicial="56123" pagina_final="56123">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8252.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8252</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8252</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8253</identificador>
+                <control>2025/6339</control>
+                <titulo>Resolución de 21 de abril de 2025, de la Dirección General de Personal, de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, por la que se publica la convocatoria de procedimiento selectivo para el ingreso en el Cuerpo de Maestros.</titulo>
+                <url_pdf szBytes="191609" szKBytes="187" pagina_inicial="56124" pagina_final="56124">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8253.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8253</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8253</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9525" nombre="ADMINISTRACIÓN LOCAL">
+            <epigrafe nombre="Personal funcionario">
+              <item>
+                <identificador>BOE-A-2025-8254</identificador>
+                <control>2025/101897</control>
+                <titulo>Resolución de 21 de abril de 2025, del Ayuntamiento de Las Palmas de Gran Canaria (Las Palmas), referente a la convocatoria para proveer puesto de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="190691" szKBytes="186" pagina_inicial="56125" pagina_final="56125">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8254.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8254</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8254</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Personal funcionario y laboral">
+              <item>
+                <identificador>BOE-A-2025-8255</identificador>
+                <control>2025/101909</control>
+                <titulo>Resolución de 29 de marzo de 2025, del Ayuntamiento de Sant Antoni de Portmany (Illes Balears), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190478" szKBytes="186" pagina_inicial="56126" pagina_final="56126">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8255.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8255</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8255</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8256</identificador>
+                <control>2025/101898</control>
+                <titulo>Resolución de 7 de abril de 2025, del Ayuntamiento de Polopos (Granada), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190380" szKBytes="186" pagina_inicial="56127" pagina_final="56127">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8256.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8256</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8256</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8257</identificador>
+                <control>2025/101823</control>
+                <titulo>Resolución de 8 de abril de 2025, del Ayuntamiento de Huelva, referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190793" szKBytes="186" pagina_inicial="56128" pagina_final="56128">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8257.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8257</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8257</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8258</identificador>
+                <control>2025/101899</control>
+                <titulo>Resolución de 10 de abril de 2025, del Ayuntamiento de Getxo (Bizkaia) Organismo Autónomo Local Residencia Municipal, referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="192029" szKBytes="188" pagina_inicial="56129" pagina_final="56129">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8258.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8258</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8258</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8259</identificador>
+                <control>2025/101900</control>
+                <titulo>Resolución de 11 de abril de 2025, del Ayuntamiento de Jaca (Huesca), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190325" szKBytes="186" pagina_inicial="56130" pagina_final="56130">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8259.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8259</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8259</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8260</identificador>
+                <control>2025/101901</control>
+                <titulo>Resolución de 11 de abril de 2025, del Ayuntamiento de Almuñécar (Granada), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190615" szKBytes="186" pagina_inicial="56131" pagina_final="56131">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8260.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8260</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8260</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8261</identificador>
+                <control>2025/101902</control>
+                <titulo>Resolución de 11 de abril de 2025, del Ayuntamiento de Orba (Alicante/Alacant), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190265" szKBytes="186" pagina_inicial="56132" pagina_final="56132">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8261.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8261</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8261</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8262</identificador>
+                <control>2025/101903</control>
+                <titulo>Resolución de 11 de abril de 2025, de la Entidad Pública Empresarial Augas de Ames, Ayuntamiento de Ames (A Coruña), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190753" szKBytes="186" pagina_inicial="56133" pagina_final="56133">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8262.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8262</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8262</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8263</identificador>
+                <control>2025/101904</control>
+                <titulo>Resolución de 11 de abril de 2025, del Organismo Autónomo Municipal de Asistencia Integral Social y Sanitaria, Ayuntamiento de Vilanova i la Geltrú (Barcelona), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="191982" szKBytes="187" pagina_inicial="56134" pagina_final="56134">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8263.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8263</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8263</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8264</identificador>
+                <control>2025/101905</control>
+                <titulo>Resolución de 11 de abril de 2025, del Ayuntamiento de Cogollos de la Vega (Granada), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190946" szKBytes="186" pagina_inicial="56135" pagina_final="56135">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8264.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8264</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8264</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8265</identificador>
+                <control>2025/101906</control>
+                <titulo>Resolución de 11 de abril de 2025, del Ayuntamiento de Tortosa (Tarragona), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190424" szKBytes="186" pagina_inicial="56136" pagina_final="56136">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8265.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8265</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8265</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8266</identificador>
+                <control>2025/101907</control>
+                <titulo>Resolución de 11 de abril de 2025, de la Diputación Provincial de Badajoz, referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190397" szKBytes="186" pagina_inicial="56137" pagina_final="56137">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8266.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8266</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8266</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8267</identificador>
+                <control>2025/101908</control>
+                <titulo>Resolución de 11 de abril de 2025, del Ayuntamiento de Tarragona, referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190588" szKBytes="186" pagina_inicial="56138" pagina_final="56138">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8267.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8267</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8267</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8268</identificador>
+                <control>2025/101910</control>
+                <titulo>Resolución de 11 de abril de 2025, del Ayuntamiento de Mazarrón (Murcia), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190105" szKBytes="186" pagina_inicial="56139" pagina_final="56139">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8268.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8268</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8268</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8269</identificador>
+                <control>2025/101911</control>
+                <titulo>Resolución de 11 de abril de 2025, del Ayuntamiento de Artés (Barcelona), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190713" szKBytes="186" pagina_inicial="56140" pagina_final="56140">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8269.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8269</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8269</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8270</identificador>
+                <control>2025/101912</control>
+                <titulo>Resolución de 11 de abril de 2025, del Ayuntamiento de Etxebarria (Bizkaia), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190568" szKBytes="186" pagina_inicial="56141" pagina_final="56141">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8270.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8270</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8270</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8271</identificador>
+                <control>2025/102002</control>
+                <titulo>Resolución de 14 de abril de 2025, del Ayuntamiento de Lantejuela (Sevilla), que deja sin efecto la de 3 de abril de 2025, referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="189853" szKBytes="185" pagina_inicial="56142" pagina_final="56142">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8271.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8271</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8271</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8272</identificador>
+                <control>2025/102003</control>
+                <titulo>Resolución de 14 de abril de 2025, del Ayuntamiento de Castro de Rei (Lugo), que deja sin efecto la de 3 de abril de 2025, referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190038" szKBytes="186" pagina_inicial="56143" pagina_final="56143">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8272.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8272</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8272</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="310" nombre="UNIVERSIDADES">
+            <epigrafe nombre="Cuerpos docentes universitarios">
+              <item>
+                <identificador>BOE-A-2025-8273</identificador>
+                <control>2025/6273</control>
+                <titulo>Resolución de 9 de abril de 2025, de la Universidad Nacional de Educación a Distancia, por la que se convoca concurso de acceso a plazas de cuerpos docentes universitarios.</titulo>
+                <url_pdf szBytes="241345" szKBytes="236" pagina_inicial="56144" pagina_final="56152">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8273.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8273</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8273</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8274</identificador>
+                <control>2025/6277</control>
+                <titulo>Resolución de 11 de abril de 2025, de la Universidad de Granada, por la que se convoca concurso de acceso plazas de cuerpos docentes universitarios.</titulo>
+                <url_pdf szBytes="368854" szKBytes="360" pagina_inicial="56153" pagina_final="56165">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8274.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8274</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8274</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8275</identificador>
+                <control>2025/6279</control>
+                <titulo>Resolución de 14 de abril de 2025, de la Universidad de Murcia, por la que se convoca concurso para la provisión de plaza de cuerpos docentes universitarios.</titulo>
+                <url_pdf szBytes="259797" szKBytes="254" pagina_inicial="56166" pagina_final="56177">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8275.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8275</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8275</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="3" nombre="III. Otras disposiciones">
+          <departamento codigo="7320" nombre="MINISTERIO DEL INTERIOR">
+            <epigrafe nombre="Convenios">
+              <item>
+                <identificador>BOE-A-2025-8276</identificador>
+                <control>2025/6187</control>
+                <titulo>Resolución de 15 de abril de 2025, de la Secretaría General Técnica, por la que se publica el Convenio entre la Secretaría General de Instituciones Penitenciarias y el Ayuntamiento de Santiuste de San Juan Bautista, para el cumplimiento de las penas de trabajos en beneficio de la comunidad.</titulo>
+                <url_pdf szBytes="273867" szKBytes="267" pagina_inicial="56178" pagina_final="56185">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8276.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8276</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8276</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8277</identificador>
+                <control>2025/6188</control>
+                <titulo>Resolución de 15 de abril de 2025, de la Secretaría General Técnica, por la que se publica el Convenio entre la Secretaría General de Instituciones Penitenciarias y la Fundación Proyecto Hombre Baleares, para el cumplimiento de las penas de trabajos en beneficio de la comunidad.</titulo>
+                <url_pdf szBytes="272617" szKBytes="266" pagina_inicial="56186" pagina_final="56193">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8277.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8277</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8277</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8278</identificador>
+                <control>2025/6189</control>
+                <titulo>Resolución de 16 de abril de 2025, de la Secretaría General Técnica, por la que se publica el Convenio entre la Secretaría de Estado de Seguridad y el Ayuntamiento de las Pedroñeras, en materia de seguridad.</titulo>
+                <url_pdf szBytes="227641" szKBytes="222" pagina_inicial="56194" pagina_final="56199">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8278.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8278</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8278</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9586" nombre="MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE">
+            <epigrafe nombre="Comunidad Autónoma de Aragón. Convenio">
+              <item>
+                <identificador>BOE-A-2025-8279</identificador>
+                <control>2025/6194</control>
+                <titulo>Resolución de 7 de abril de 2025, del Instituto Geográfico Nacional, por la que se publica la Adenda de prórroga al Convenio entre el Consejo Superior Geográfico y la Comunidad Autónoma de Aragón, por el que la Comunidad Autónoma de Aragón se integra en el Sistema Cartográfico Nacional.</titulo>
+                <url_pdf szBytes="202423" szKBytes="198" pagina_inicial="56200" pagina_final="56201">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8279.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8279</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8279</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9573" nombre="MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL">
+            <epigrafe nombre="Convenios">
+              <item>
+                <identificador>BOE-A-2025-8280</identificador>
+                <control>2025/6290</control>
+                <titulo>Resolución de 14 de abril de 2025, de la Secretaría General Técnica, por la que se publica la Adenda al Convenio entre el Servicio Público de Empleo Estatal, O.A., y el Organismo Estatal Inspección de Trabajo y Seguridad Social, en materias comunes de inspección, evaluación, fiscalización y control.</titulo>
+                <url_pdf szBytes="213766" szKBytes="209" pagina_inicial="56202" pagina_final="56205">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8280.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8280</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8280</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="3120" nombre="MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN">
+            <epigrafe nombre="Pesca marítima">
+              <item>
+                <identificador>BOE-A-2025-8281</identificador>
+                <control>2025/6367</control>
+                <titulo>Resolución de 22 de abril de 2025, de la Secretaría General de Pesca, por la que se establecen las disposiciones de aplicación del plan de ordenación plurianual del atún rojo en el océano Atlántico oriental y el mar Mediterráneo para 2025.</titulo>
+                <url_pdf szBytes="749213" szKBytes="732" pagina_inicial="56206" pagina_final="56253">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8281.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8281</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8281</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9575" nombre="MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO">
+            <epigrafe nombre="Convenios">
+              <item>
+                <identificador>BOE-A-2025-8282</identificador>
+                <control>2025/6209</control>
+                <titulo>Resolución de 11 de abril de 2025, de la Confederación Hidrográfica del Miño-Sil, O.A., por la que se publica la tercera Adenda de modificación y prórroga del Convenio con el Ayuntamiento de Maceda, para la financiación, ejecución y entrega de las actuaciones de mejora del saneamiento y de la EDAR de Maceda (Ourense), actuación cofinanciada por el Fondo Europeo de Desarrollo Regional en el marco del Programa Operativo Plurirregional de España 2014-2020.</titulo>
+                <url_pdf szBytes="220689" szKBytes="216" pagina_inicial="56254" pagina_final="56257">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8282.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8282</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8282</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8283</identificador>
+                <control>2025/6292</control>
+                <titulo>Resolución de 16 de abril de 2025, de la Confederación Hidrográfica del Guadiana, O.A., por la que se publica el Convenio con el Ministerio para la Transición Ecológica y el Reto Demográfico y el Consorcio para la Gestión de Servicios Medioambientales Promedio, para la gestión de infraestructuras hidráulicas declaradas de interés general para el saneamiento y depuración de aguas en Nogales (Badajoz).</titulo>
+                <url_pdf szBytes="241701" szKBytes="236" pagina_inicial="56258" pagina_final="56265">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8283.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8283</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8283</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Homologaciones">
+              <item>
+                <identificador>BOE-A-2025-8284</identificador>
+                <control>2025/6203</control>
+                <titulo>Resolución de 26 de marzo de 2025, de la Dirección General de Planificación y Coordinación Energética, por la que se autoriza la aprobación de tipo de aparato radiactivo del equipo generador de rayos X de la marca Shimadzu, modelo XSeeker 8000.</titulo>
+                <url_pdf szBytes="203089" szKBytes="198" pagina_inicial="56266" pagina_final="56268">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8284.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8284</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8284</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9588" nombre="MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030">
+            <epigrafe nombre="Comunidad Autónoma de Cataluña. Convenio">
+              <item>
+                <identificador>BOE-A-2025-8285</identificador>
+                <control>2025/6294</control>
+                <titulo>Resolución de 7 de abril de 2025, de la Secretaría de Estado de Derechos Sociales, por la que se publica la Adenda de modificación del Convenio con la Comunidad Autónoma de Cataluña, para la ejecución de proyectos con cargo a los fondos europeos procedentes del Mecanismo para la Recuperación y Resiliencia.</titulo>
+                <url_pdf szBytes="404042" szKBytes="395" pagina_inicial="56269" pagina_final="56290">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8285.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8285</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8285</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Convenios">
+              <item>
+                <identificador>BOE-A-2025-8286</identificador>
+                <control>2025/6214</control>
+                <titulo>Resolución de 14 de abril de 2025, del Instituto de Mayores y Servicios Sociales, por la que se publica el Convenio con Efinnova, consultoría y formación, SL, para la realización de prácticas formativas externas del alumnado del Centro de Recuperación de Personas con Discapacidad Física de Albacete dependiente del Imserso, conducentes a un certificado de profesionalidad.</titulo>
+                <url_pdf szBytes="229860" szKBytes="224" pagina_inicial="56291" pagina_final="56297">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8286.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8286</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8286</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9565" nombre="MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES">
+            <epigrafe nombre="Comunidad Autónoma de Andalucía. Convenio">
+              <item>
+                <identificador>BOE-A-2025-8287</identificador>
+                <control>2025/6215</control>
+                <titulo>Resolución de 14 de abril de 2025, de la Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P., por la que se publica el Convenio con la Universidad de Cádiz, para el desarrollo de prácticas académicas externas de grado y trabajos fin de grado.</titulo>
+                <url_pdf szBytes="402990" szKBytes="394" pagina_inicial="56298" pagina_final="56310">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8287.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8287</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8287</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9579" nombre="MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES">
+            <epigrafe nombre="Convenios">
+              <item>
+                <identificador>BOE-A-2025-8288</identificador>
+                <control>2025/6040</control>
+                <titulo>Resolución de 11 de abril de 2025, de la Secretaría General Técnica, por la que se publica el Convenio con ARS Grupo Médico Asociado, SA, sobre la prestación de asistencia sanitaria subvencionada a los emigrantes españoles residentes en República Dominicana que carezcan de recursos suficientes.</titulo>
+                <url_pdf szBytes="243956" szKBytes="238" pagina_inicial="56311" pagina_final="56316">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8288.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8288</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8288</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="1020" nombre="BANCO DE ESPAÑA">
+            <epigrafe nombre="Mercado de divisas">
+              <item>
+                <identificador>BOE-A-2025-8289</identificador>
+                <control>2025/6380</control>
+                <titulo>Resolución de 23 de abril de 2025, del Banco de España, por la que se publican los cambios del euro correspondientes al día 23 de abril de 2025, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.</titulo>
+                <url_pdf szBytes="217174" szKBytes="212" pagina_inicial="56317" pagina_final="56318">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8289.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8289</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8289</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="1040" nombre="COMISIÓN NACIONAL DEL MERCADO DE VALORES">
+            <epigrafe nombre="Mercado de valores">
+              <item>
+                <identificador>BOE-A-2025-8290</identificador>
+                <control>2025/6045</control>
+                <titulo>Resolución de 11 de abril de 2025, de la Comisión Nacional del Mercado de Valores, por la que se publica la sanción por infracción grave impuesta a don Antonio Pérez Vílchez.</titulo>
+                <url_pdf szBytes="192047" szKBytes="188" pagina_inicial="56319" pagina_final="56319">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-A-2025-8290.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8290</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8290</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="5A" nombre="V. Anuncios. - A. Contratación del Sector Público">
+          <departamento codigo="9585" nombre="MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES">
+            <item>
+              <identificador>BOE-B-2025-14897</identificador>
+              <titulo>Anuncio de formalización de contratos de: Subdirección General de Gestión Económica. Objeto: Servicio de asistencia sanitaria para el personal destinado en el exterior. Expediente: MPR20250038.</titulo>
+              <url_pdf szBytes="219773" szKBytes="215" pagina_inicial="22396" pagina_final="22397">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14897.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14897</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14897</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14898</identificador>
+              <titulo>Anuncio de formalización de contratos de: Subdirección General de Gestión Económica. Objeto: Servicio de asistencia sanitaria para el personal destinado en el exterior. Expediente: MPR20250038.</titulo>
+              <url_pdf szBytes="219683" szKBytes="215" pagina_inicial="22398" pagina_final="22399">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14898.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14898</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14898</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="6110" nombre="MINISTERIO DE DEFENSA">
+            <item>
+              <identificador>BOE-B-2025-14899</identificador>
+              <titulo>Anuncio de licitación de: Jefatura de la Sección de Asuntos Económicos de la Unidad Militar de Emergencias. Objeto: Acuerdo Marco para el suministro de equipos y material para el campamento CDAM250 (RESCUE CDAM). Expediente: 2025/SP03038000/00000592E.</titulo>
+              <url_pdf szBytes="237451" szKBytes="232" pagina_inicial="22400" pagina_final="22403">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14899.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14899</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14899</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14900</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección General del INTA. Objeto: Plataforma de transformación digital INTAQLAB. Expediente: 582024010500.</titulo>
+              <url_pdf szBytes="218772" szKBytes="214" pagina_inicial="22404" pagina_final="22405">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14900.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14900</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14900</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14901</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección General del INTA. Objeto: Adecuacion de accesos campus marañosa. Expediente: 582024110700.</titulo>
+              <url_pdf szBytes="216000" szKBytes="211" pagina_inicial="22406" pagina_final="22407">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14901.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14901</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14901</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14902</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 22 - Base Aérea de Torrejón (Agrupación de Base). Objeto: APO 019 2025 - Mantenimiento de puertas de hangar en BAT. Expediente: 2025/EA22/00000297E.</titulo>
+              <url_pdf szBytes="214074" szKBytes="209" pagina_inicial="22408" pagina_final="22409">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14902.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14902</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14902</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14903</identificador>
+              <titulo>Anuncio de licitación de: Intendente de San Fernando. Objeto: Acuerdo Marco.- Servicio de Mantenimiento de motores principales, generadores diésel y equipos auxiliares de la propulsión en los buques apoyados por el Arsenal de Cádiz y aquellos en transito de otros Arsenales. Expediente: 2025/AR43U/00000298E.</titulo>
+              <url_pdf szBytes="238206" szKBytes="233" pagina_inicial="22410" pagina_final="22413">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14903.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14903</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14903</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14904</identificador>
+              <titulo>Anuncio de licitación de: Intendente de San Fernando. Objeto: Acuerdo Marco.- Servicio de mantenimiento de alternadores, motores eléctricos e instalaciones eléctricas de los buques apoyados por el Arsenal de Cádiz y aquellos en transito de otros arsenales. Expediente: 2025/AR43U/00000315E.</titulo>
+              <url_pdf szBytes="236763" szKBytes="231" pagina_inicial="22414" pagina_final="22417">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14904.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14904</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14904</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14905</identificador>
+              <titulo>Anuncio de licitación de: Intendente de San Fernando. Objeto: Suministro de un medio de transporte personal de gran capacidad (autobús) para el Parque de Autos número 3. Expediente: 2025/AR43U/00000491E.</titulo>
+              <url_pdf szBytes="224002" szKBytes="219" pagina_inicial="22418" pagina_final="22420">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14905.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14905</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14905</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14906</identificador>
+              <titulo>Anuncio de licitación de: Dirección de Adquisiciones del Mando de Apoyo Logístico del Ejército del Aire y del Espacio. Objeto: 20242A08 Acuerdo Marco para la adquisición de repuestos de hélices para las aeronaves del EA. Expediente: 2024/EA02/00002489E.</titulo>
+              <url_pdf szBytes="230722" szKBytes="225" pagina_inicial="22421" pagina_final="22423">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14906.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14906</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14906</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14907</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: CB 4 AM 2021/JCMDEF/00000048 lote 3 pmmt (Paracaídas multimisión). Expediente: 2025/ETSAE0906/00000701E.</titulo>
+              <url_pdf szBytes="215493" szKBytes="210" pagina_inicial="22424" pagina_final="22425">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14907.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14907</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14907</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14908</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: CB del AM 0266/2022 Asistencia técnica y mantenimiento al SIS. Expediente: 2025/ETSAE0906/00000709E.</titulo>
+              <url_pdf szBytes="212586" szKBytes="208" pagina_inicial="22426" pagina_final="22427">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14908.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14908</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14908</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14909</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Apoyo al mantenimiento de carros de combate familia leopard lote 2. Expediente: 2025/ETSAE0906/00000658E.</titulo>
+              <url_pdf szBytes="214768" szKBytes="210" pagina_inicial="22428" pagina_final="22429">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14909.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14909</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14909</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14910</identificador>
+              <titulo>Anuncio de licitación de: Jefatura de Administración Económica del Cuarto Militar de S.M. el Rey y Guardia Real. Objeto: Campamento infantil y juvenil Guardia Real 2025. Expediente: 2025/SP03031000/00000400E.</titulo>
+              <url_pdf szBytes="206396" szKBytes="202" pagina_inicial="22430" pagina_final="22430">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14910.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14910</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14910</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14911</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Adquisición de minibuses de 28 plazas. Expediente: 2025/ETSAE0906/00000835E.</titulo>
+              <url_pdf szBytes="214706" szKBytes="210" pagina_inicial="22431" pagina_final="22432">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14911.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14911</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14911</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14912</identificador>
+              <titulo>Anuncio de licitación de: Junta de Contratación del Ejército del Aire. Objeto: Acuerdo marco (AM) para el suministro de oxígeno de vuelo, otros gases, mezclas y mantenimiento de envases, instalaciones y elementos asociados a unidades del Ejército del Aire y del Espacio (EA) ubicadas en Islas Canarias. Expediente: 2025/EAJC/00000006E.</titulo>
+              <url_pdf szBytes="227193" szKBytes="222" pagina_inicial="22433" pagina_final="22435">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14912.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14912</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14912</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14913</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: AM 493 Apoyo al mantenimiento de vehículos de la familia BMR/VEC. Expediente: 2025/ETSAE0906/00000667E.</titulo>
+              <url_pdf szBytes="213070" szKBytes="208" pagina_inicial="22436" pagina_final="22437">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14913.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14913</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14913</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14914</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Mantenimiento de motoniveladoras (Lote 4). Expediente: 2025/ETSAE0906/00000932E.</titulo>
+              <url_pdf szBytes="213006" szKBytes="208" pagina_inicial="22438" pagina_final="22439">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14914.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14914</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14914</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14915</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de la Sección Económico Administrativa 23 de la Base Aérea de Albacete. Objeto: Prestación del servicio de auxiliares de servicio y control en el CDSCM BIESCAS de Albacete. Expediente: 2025/EA23/00000365E.</titulo>
+              <url_pdf szBytes="209248" szKBytes="204" pagina_inicial="22440" pagina_final="22440">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14915.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14915</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14915</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="5140" nombre="MINISTERIO DE HACIENDA">
+            <item>
+              <identificador>BOE-B-2025-14916</identificador>
+              <titulo>Anuncio de formalización de contratos de: Delegación Especial de la Agencia Tributaria en Andalucía, Ceuta y Melilla. Objeto: Mantenimiento y conservación de edificios Granada. Expediente: 25180029500.</titulo>
+              <url_pdf szBytes="215379" szKBytes="210" pagina_inicial="22441" pagina_final="22442">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14916.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14916</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14916</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14917</identificador>
+              <titulo>Anuncio de formalización de contratos de: Delegación Especial de la Agencia Tributaria en Madrid. Objeto: Servicio de análisis y valoración de las imágenes radiológicas en la Administración de Aduanas e Impuestos Especiales de Madrid en el Aeropuerto Adolfo Suárez Madrid-Barajas, dependiente de la Delegación Especial de la AEAT de Madrid. Expediente: 25B20007000.</titulo>
+              <url_pdf szBytes="208678" szKBytes="204" pagina_inicial="22443" pagina_final="22443">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14917.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14917</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14917</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14918</identificador>
+              <titulo>Anuncio de licitación de: Delegación de Economía y Hacienda en Melilla. Objeto: Suministro e instalación de vinilos exteriores en las plantas 9º, 10º y 11ª de la DEH de Melilla. Expediente: 20000056202500000001.</titulo>
+              <url_pdf szBytes="226874" szKBytes="222" pagina_inicial="22444" pagina_final="22446">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14918.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14918</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14918</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="7320" nombre="MINISTERIO DEL INTERIOR">
+            <item>
+              <identificador>BOE-B-2025-14919</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos de la Guardia Civil. Objeto: Suministro de munición 9 mm para diversas Unidades de la Guardia Civil. Expediente: R/0003/A/24/2.</titulo>
+              <url_pdf szBytes="224739" szKBytes="219" pagina_inicial="22447" pagina_final="22449">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14919.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14919</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14919</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14920</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos de la Guardia Civil. Objeto: Suministro de munición 9 mm para diversas Unidades de la Guardia Civil. Expediente: R/0003/A/24/2.</titulo>
+              <url_pdf szBytes="228613" szKBytes="223" pagina_inicial="22450" pagina_final="22452">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14920.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14920</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14920</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14921</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección General de Tráfico. Objeto: Suministro de una serie de seis evaluadores de las adaptaciones necesarias en los vehículos de los conductores con discapacidad motora, y su mantenimiento correctivo y evolutivo durante dos años. Expediente: 4DGT6A000110.</titulo>
+              <url_pdf szBytes="220049" szKBytes="215" pagina_inicial="22453" pagina_final="22454">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14921.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14921</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14921</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14922</identificador>
+              <titulo>Anuncio de licitación de: Subdirección General de Planificación y Gestión Económica. Objeto: Servicio de Transporte de Personal Centro Penitenciario de Sevilla, Sevilla PS y CIS Sevilla. Expediente: 020020250065.</titulo>
+              <url_pdf szBytes="224152" szKBytes="219" pagina_inicial="22455" pagina_final="22457">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14922.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14922</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14922</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9586" nombre="MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE">
+            <item>
+              <identificador>BOE-B-2025-14923</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección General de Carreteras. Objeto: 51-CC-0206; 30.784/24; Conservación y explotación de las carreteras y obras menores relacionadas con esos servicios, en el sector CC-02. Provincia de Cáceres. Expediente: C30241002060.</titulo>
+              <url_pdf szBytes="218893" szKBytes="214" pagina_inicial="22458" pagina_final="22459">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14923.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14923</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14923</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14924</identificador>
+              <titulo>Anuncio de licitación de: Dirección General de Carreteras. Objeto: 30.260/25; AC-513/25. Consultoría y asistencia técnica de responsable de seguridad en fase de explotación para el Túnel de Somport. Provincia de Huesca. Expediente: C30252230854.</titulo>
+              <url_pdf szBytes="225747" szKBytes="220" pagina_inicial="22460" pagina_final="22462">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14924.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14924</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14924</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14925</identificador>
+              <titulo>Anuncio de licitación de: Dirección General del Sector Ferroviario. Objeto: Contrato de servicios para la redacción del Estudio Informativo de los nuevos accesos ferroviarios al Puerto de Tarragona. Expediente: 2025F4330430.</titulo>
+              <url_pdf szBytes="222149" szKBytes="217" pagina_inicial="22463" pagina_final="22465">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14925.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14925</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14925</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14926</identificador>
+              <titulo>Anuncio de licitación de: Dirección General de Carreteras. Objeto: 30.299/25; AC-510/25. Responsable de seguridad en fase de explotación para los túneles existentes en la Red de Carreteras del Estado en Cantabria. Provincia de Cantabria. Expediente: C30253930881.</titulo>
+              <url_pdf szBytes="225102" szKBytes="220" pagina_inicial="22466" pagina_final="22468">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14926.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14926</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14926</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9591" nombre="MINISTERIO DE INDUSTRIA Y TURISMO">
+            <item>
+              <identificador>BOE-B-2025-14927</identificador>
+              <titulo>Anuncio de formalización de contratos de: Instituto de Turismo de España (TURESPAÑA). Objeto: Contratación, por procedimiento abierto simplificado conforme al artículo 159 de la LCSP, de un servicio de encuestación y tratamiento de la información para la investigación de las actitudes ante el turismo de los residentes en España. Expediente: 020023C00103.</titulo>
+              <url_pdf szBytes="217855" szKBytes="213" pagina_inicial="22469" pagina_final="22470">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14927.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14927</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14927</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9575" nombre="MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO">
+            <item>
+              <identificador>BOE-B-2025-14928</identificador>
+              <titulo>Anuncio de formalización de contratos de: Presidencia de la Confederación Hidrográfica del Ebro. Objeto: Contratación del suministro de impresión gestionada de la Confederación Hidrográfica del Ebro. PCPE-09. Gasto plurianual. Expediente: 103/24-SM.</titulo>
+              <url_pdf szBytes="219579" szKBytes="214" pagina_inicial="22471" pagina_final="22472">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14928.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14928</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14928</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14929</identificador>
+              <titulo>Anuncio de licitación de: Comité Ejecutivo de la Mancomunidad de los Canales del Taibilla. Objeto: Servicio para la realización de actuaciones en las instalaciones de las presas de "Taibilla" y "Taibilla-Toma" y gestión de documentación asociada a dichas instalaciones (AB/Nerpio). C.P. 02. Expediente: V-02/25-02.</titulo>
+              <url_pdf szBytes="233222" szKBytes="228" pagina_inicial="22473" pagina_final="22476">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14929.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14929</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14929</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14930</identificador>
+              <titulo>Anuncio de licitación de: Comité Ejecutivo de la Mancomunidad de los Canales del Taibilla. Objeto: Servicio de inspección y vigilancia de la explotación y mantenimiento de las plantas desalinizadoras de la Mancomunidad de los Canales del Taibilla (VA/Varios). Expediente: V-02/25-03.</titulo>
+              <url_pdf szBytes="236384" szKBytes="231" pagina_inicial="22477" pagina_final="22480">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14930.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14930</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14930</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14931</identificador>
+              <titulo>Anuncio de licitación de: Comité Ejecutivo de la Mancomunidad de los Canales del Taibilla. Objeto: Servicio de operación avanzada del sistema de gestión de mantenimiento asistido por ordenador (GMAO) para las instalaciones de distribución del Área de Explotación (VA/Varios) C.P. 90. Expediente: V-02/25-01.</titulo>
+              <url_pdf szBytes="230691" szKBytes="225" pagina_inicial="22481" pagina_final="22483">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14931.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14931</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14931</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14932</identificador>
+              <titulo>Anuncio de licitación de: Comité Ejecutivo de la Mancomunidad de los Canales del Taibilla. Objeto: Proyecto 07/23 de renovación de la impermeabilización de la cubierta del depósito de Tentegorra DP003 (MU/CARTAGENA) CP.30. Expediente: O-07/23-02.</titulo>
+              <url_pdf szBytes="232054" szKBytes="227" pagina_inicial="22484" pagina_final="22487">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14932.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14932</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14932</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14933</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección General de Biodiversidad, Bosques y Desertificación. Objeto: Desarrollo de los trabajos de la red de seguimiento intensivo y continuo de los ecosistemas forestales: Red de Nivel II. Expediente: 24PFSV400.</titulo>
+              <url_pdf szBytes="231000" szKBytes="226" pagina_inicial="22488" pagina_final="22490">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14933.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14933</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14933</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9587" nombre="MINISTERIO DE VIVIENDA Y AGENDA URBANA">
+            <item>
+              <identificador>BOE-B-2025-14934</identificador>
+              <titulo>Anuncio del concurso de proyectos de: Secretaría General de Agenda Urbana, Vivienda y Arquitectura. Objeto: Concurso de proyectos, con intervención de jurado y premios, para el Memorial de Cuelgamuros, en San Lorenzo de el Escorial (Madrid); con la posterior adjudicación al ganador del contrato de servicios de redacción de proyecto y de dirección facultativa de la intervención, así como otros trabajos complementarios. Expediente: 2510CPRAE004.</titulo>
+              <url_pdf szBytes="214825" szKBytes="210" pagina_inicial="22491" pagina_final="22492">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14934.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14934</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14934</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="4110" nombre="MINISTERIO DE CULTURA">
+            <item>
+              <identificador>BOE-B-2025-14935</identificador>
+              <titulo>Anuncio de licitación de: Junta de Contratación del Ministerio de Cultura y Deporte. Objeto: Servicio de conservación y mantenimiento del jardín del Museo Nacional y Centro de Investigación de Altamira. Expediente: J250008.</titulo>
+              <url_pdf szBytes="225014" szKBytes="220" pagina_inicial="22493" pagina_final="22495">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14935.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14935</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14935</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14936</identificador>
+              <titulo>Anuncio de formalización de contratos de: Junta de Contratación del Ministerio de Cultura y Deporte. Objeto: Suministro de gasóleo de calefacción "c" para varios museos dependientes de la Subdirección General de Museos Estatales . Expediente: J240040.</titulo>
+              <url_pdf szBytes="217637" szKBytes="213" pagina_inicial="22496" pagina_final="22497">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14936.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14936</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14936</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9589" nombre="MINISTERIO DE ECONOMÍA, COMERCIO Y EMPRESA">
+            <item>
+              <identificador>BOE-B-2025-14937</identificador>
+              <titulo>Anuncio de licitación de: Instituto Nacional de Estadística INE. Objeto: Servicio de prevención ajeno para la Vigilancia de la Salud de los/las empleados/as públicos/as de los Servicios Centrales y las Delegaciones Provinciales del INE. Expediente: 2025N1073022.</titulo>
+              <url_pdf szBytes="206656" szKBytes="202" pagina_inicial="22498" pagina_final="22498">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14937.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14937</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14937</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="4335" nombre="MINISTERIO DE SANIDAD">
+            <item>
+              <identificador>BOE-B-2025-14938</identificador>
+              <titulo>Anuncio de licitación de: Dirección General de Salud Digital y Sistemas de Información del Sistema Nacional de Salud. Objeto: Suministro de derechos de uso del Software de agrupación de pacientes en grupos relacionados por el diagnóstico (GRD). Expediente: 202505PAO005.</titulo>
+              <url_pdf szBytes="224016" szKBytes="219" pagina_inicial="22499" pagina_final="22501">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14938.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14938</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14938</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9565" nombre="MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES">
+            <item>
+              <identificador>BOE-B-2025-14939</identificador>
+              <titulo>Anuncio de formalización de contratos de: Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P. Objeto: Servicio de vigilancia para institutos y centros de la Agencia Estatal Consejo Superior de Investigaciones Científicas. Expediente: LOT32/25.</titulo>
+              <url_pdf szBytes="217926" szKBytes="213" pagina_inicial="22502" pagina_final="22503">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14939.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14939</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14939</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14940</identificador>
+              <titulo>Anuncio de formalización de contratos de: Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P. Objeto: Servicio de logística y consignación en los puertos de Ushuaia (Argentina) y Punta Arenas (Chile), destinado a la Unidad de Tecnología Marina de la Agencia Estatal Consejo Superior de Investigaciones Científicas. Expediente: LOT72/24.</titulo>
+              <url_pdf szBytes="225886" szKBytes="221" pagina_inicial="22504" pagina_final="22506">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14940.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14940</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14940</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9579" nombre="MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES">
+            <item>
+              <identificador>BOE-B-2025-14941</identificador>
+              <titulo>Anuncio de formalización de contratos de: TGSS-Dirección provincial de León. Objeto: Obra necesaria para la legalización de la nave de la Dirección Provincial de la Tesorería General de la Seguridad Social en León, ubicada en la localidad de Onzonilla. Expediente: 2025/240024.</titulo>
+              <url_pdf szBytes="214258" szKBytes="209" pagina_inicial="22507" pagina_final="22508">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14941.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14941</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14941</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9595" nombre="MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA">
+            <item>
+              <identificador>BOE-B-2025-14942</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección General de la Entidad Pública Empresarial RED.ES. Objeto: Servicio de gobierno del dato, business intelligence y arquitectura datalake de Red.es. Expediente: 024/24-SI.</titulo>
+              <url_pdf szBytes="229348" szKBytes="224" pagina_inicial="22509" pagina_final="22511">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14942.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14942</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14942</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9207" nombre="OTROS PODERES ADJUDICADORES">
+            <item>
+              <identificador>BOE-B-2025-14943</identificador>
+              <titulo>Anuncio de formalización de contratos de: Presidencia de la Sociedad Capital Riesgo Innvierte Economía Sostenible SICC, S.M.E. S.A. Objeto: Servicio de Secretaría del Consejo de Administración de la sociedad Innvierte, así como otros servicios jurídicos especializados. Expediente: 03/2024 AB Innvierte.</titulo>
+              <url_pdf szBytes="208876" szKBytes="204" pagina_inicial="22512" pagina_final="22512">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14943.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14943</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14943</url_xml>
+            </item>
+          </departamento>
+        </seccion>
+        <seccion codigo="5B" nombre="V. Anuncios. - B. Otros anuncios oficiales">
+          <departamento codigo="9586" nombre="MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE">
+            <item>
+              <identificador>BOE-B-2025-14944</identificador>
+              <titulo>Anuncio de la Demarcación de Carreteras del Estado en Cantabria, por el que se somete a información pública la Resolución de aprobación provisional del estudio de delimitación de tramos urbanos y fijación de la línea límite de edificación de las carreteras N-634 y N-621, en el término municipal de Val de San Vicente. Provincia de Cantabria.</titulo>
+              <url_pdf szBytes="209959" szKBytes="205" pagina_inicial="22513" pagina_final="22514">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14944.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14944</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14944</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14945</identificador>
+              <titulo>Anuncio de la Demarcación de Carreteras del Estado en Madrid sobre resolución de la Dirección General de Carreteras por la que aprueba provisionalmente el Estudio de Delimitación de Tramo Urbano, vía de servicio de la Autovía A-6 entre el pp.kk. 38+144 y 38+059 Collado Villalba.</titulo>
+              <url_pdf szBytes="205573" szKBytes="201" pagina_inicial="22515" pagina_final="22515">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14945.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14945</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14945</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14946</identificador>
+              <titulo>Anuncio de la Demarcación de Carreteras del Estado en Madrid sobre resolución del Ministerio de Transportes y Movilidad Sostenible por la que se aprueba el expediente de información pública y definitivamente el "anteproyecto de adecuación, reforma y conservación de la autovía A-5, del Suroeste. Tramo: del p.k. 10+000 al p.k. 74+000", de clave: A0-M-0072.</titulo>
+              <url_pdf szBytes="209053" szKBytes="204" pagina_inicial="22516" pagina_final="22517">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14946.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14946</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14946</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14947</identificador>
+              <titulo>Anuncio de la Autoridad Portuaria de Marín y Ría de Pontevedra sobre el otorgamiento de licencia para la prestación del servicio de manipulación de mercancía para pesca congelada a granel/paletizada (no contenerizada).</titulo>
+              <url_pdf szBytes="201689" szKBytes="197" pagina_inicial="22518" pagina_final="22518">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14947.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14947</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14947</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14948</identificador>
+              <titulo>Anuncio de la Autoridad Portuaria de Bilbao por el que se somete a información pública la solicitud de modificación de la concesión titularidad de "Weylchem Bilbao, S.L." en el Muelle AZ-1 en Zierbena.</titulo>
+              <url_pdf szBytes="202593" szKBytes="198" pagina_inicial="22519" pagina_final="22519">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14948.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14948</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14948</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14949</identificador>
+              <titulo>Extracto de la Resolución de 22 de abril de 2025 de la Subsecretaría del Ministerio de Transportes y Movilidad Sostenible por la que se convocan los premios por jubilación al personal del Departamento que se haya jubilado en el año 2024.</titulo>
+              <url_pdf szBytes="210524" szKBytes="206" pagina_inicial="22520" pagina_final="22521">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14949.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14949</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14949</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9573" nombre="MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL">
+            <item>
+              <identificador>BOE-B-2025-14950</identificador>
+              <titulo>Resolución de la Dirección General de Trabajo por la que se anuncia el depósito de la integración de la organización sindical denominada Sindicato Independiente de Trabajador@s, en siglas SITS, con número de depósito 99106019, en la organización sindical denominada Central Sindical Independiente y de Funcionarios, en siglas CSIF, con número de depósito 99000013.</titulo>
+              <url_pdf szBytes="205575" szKBytes="201" pagina_inicial="22522" pagina_final="22522">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14950.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14950</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14950</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14951</identificador>
+              <titulo>Resolución de la Dirección General de Trabajo por la que se anuncia el depósito de la modificación de los estatutos de la asociación empresarial denominada Asociación de Seleccionadores y Multiplicadores Cunícolas de España, en siglas ASEMUCE, con número de depósito 99000040 (antiguo número de depósito 4905).</titulo>
+              <url_pdf szBytes="204732" szKBytes="200" pagina_inicial="22523" pagina_final="22523">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14951.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14951</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14951</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14952</identificador>
+              <titulo>Resolución de la Dirección General de Trabajo por la que se anuncia el depósito de la modificación de los estatutos del sindicato denominado Asociación de Mandos y Profesionales de STELLANTIS, en siglas AMYP, con número de depósito 99004215 (antiguo número de depósito 6565).</titulo>
+              <url_pdf szBytes="205199" szKBytes="200" pagina_inicial="22524" pagina_final="22524">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14952.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14952</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14952</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14953</identificador>
+              <titulo>Resolución de la Dirección General de Trabajo por la que se anuncia el depósito de la modificación de los estatutos del sindicato denominado Sindicato de Médicas y Médicos de Atención Primaria, en siglas SMP, con número de depósito 99106135.</titulo>
+              <url_pdf szBytes="204322" szKBytes="200" pagina_inicial="22525" pagina_final="22525">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14953.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14953</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14953</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14954</identificador>
+              <titulo>Resolución de la Dirección General de Trabajo por la que se anuncia la constitución del sindicato denominado Asociación Sindical por la Defensa de los Derechos Laborales, en siglas A.S.D.E.L.A.B, con número de depósito 99106345.</titulo>
+              <url_pdf szBytes="204662" szKBytes="200" pagina_inicial="22526" pagina_final="22526">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14954.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14954</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14954</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14955</identificador>
+              <titulo>Resolución de la Dirección General de Trabajo por la que se anuncia la constitución de la asociación empresarial denominada Asociación Ibérica del Transporte, en siglas SITTRANS, con número de depósito 99106352.</titulo>
+              <url_pdf szBytes="204633" szKBytes="200" pagina_inicial="22527" pagina_final="22527">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14955.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14955</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14955</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14956</identificador>
+              <titulo>Resolución de la Dirección General de Trabajo por la que se anuncia la constitución de la asociación empresarial denominada Unión Nacional de Taxistas elite taxi, en siglas UNETE ELITE TAXI, con número de depósito 99106335.</titulo>
+              <url_pdf szBytes="204553" szKBytes="200" pagina_inicial="22528" pagina_final="22528">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14956.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14956</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14956</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14957</identificador>
+              <titulo>Resolución de la Dirección General de Trabajo por la que se anuncia la constitución de la asociación empresarial denominada Clúster Español del Cannabis, en siglas CLUSCANN, con número de depósito 99106334.</titulo>
+              <url_pdf szBytes="204606" szKBytes="200" pagina_inicial="22529" pagina_final="22529">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14957.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14957</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14957</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9593" nombre="MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA">
+            <item>
+              <identificador>BOE-B-2025-14958</identificador>
+              <titulo>Anuncio del Área de Industria y Energía de la Subdelegación del Gobierno en Huelva, por el que se somete a información pública la Solicitud de Autorización Administrativa y Aprobación del Proyecto de Ejecución "Nueva Línea de Carga de Buques desde el Tanque FB-121 en la planta de regasificación de Huelva" en la planta de Palos de la Frontera, en la provincia de Huelva. Expediente 051/2025.</titulo>
+              <url_pdf szBytes="210335" szKBytes="205" pagina_inicial="22530" pagina_final="22531">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14958.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14958</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14958</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9575" nombre="MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO">
+            <item>
+              <identificador>BOE-B-2025-14959</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Júcar, O.A. sobre información pública de una modificación de características de una concesión de aguas subterráneas en el T.M. de Alcalà de Xivert (Castellón).</titulo>
+              <url_pdf szBytes="208256" szKBytes="203" pagina_inicial="22532" pagina_final="22533">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14959.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14959</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14959</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14960</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Júcar, O.A. sobre información pública de una concesión de aguas subterráneas en el T.M. de Ulldecona (Tarragona).</titulo>
+              <url_pdf szBytes="209561" szKBytes="205" pagina_inicial="22534" pagina_final="22535">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14960.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14960</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14960</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14961</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Júcar, O.A. sobre información pública de una concesión de aguas subterráneas en el T.M. de Vinaròs (Castellón).</titulo>
+              <url_pdf szBytes="209709" szKBytes="205" pagina_inicial="22536" pagina_final="22537">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14961.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14961</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14961</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14962</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Júcar, O.A. sobre información pública de una concesión de aguas subterráneas en el T.M. de Vilanova d'Alcolea (Castellón).</titulo>
+              <url_pdf szBytes="208410" szKBytes="204" pagina_inicial="22538" pagina_final="22539">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14962.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14962</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14962</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14963</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Júcar O.A. de la resolución de concesión de aguas superficiales para uso riego en el término municipal de La Pobla Tornesa (Castellón), expediente 2024CR0003.</titulo>
+              <url_pdf szBytes="202916" szKBytes="198" pagina_inicial="22540" pagina_final="22540">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14963.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14963</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14963</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14964</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Júcar sobre resolución de concesión de aguas subterráneas en el término municipal de Vinaròs (Castellón), expediente 2022CP00150.</titulo>
+              <url_pdf szBytes="202972" szKBytes="198" pagina_inicial="22541" pagina_final="22541">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14964.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14964</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14964</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14965</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Júcar sobre resolución de concesión de aguas subterráneas en el término municipal de Polinyà de Xúquer (Valencia), expediente 2023CP0005.</titulo>
+              <url_pdf szBytes="203512" szKBytes="199" pagina_inicial="22542" pagina_final="22542">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14965.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14965</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14965</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14966</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Júcar sobre resolución de concesión de aguas subterráneas en el término municipal de Real (Valencia), expediente 2022CP0028.</titulo>
+              <url_pdf szBytes="203051" szKBytes="198" pagina_inicial="22543" pagina_final="22543">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14966.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14966</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14966</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14967</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública de la concesión de un aprovechamiento de aguas subterráneas para riego, en el término municipal de Villardevós (Ourense). Ref. expte.: C-0190/2024 (INTEGRA-AYE) OR.</titulo>
+              <url_pdf szBytes="210032" szKBytes="205" pagina_inicial="22544" pagina_final="22545">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14967.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14967</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14967</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14968</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública de la modificación de características de la concesión de un aprovechamiento de aguas subterráneas para uso ganadero, en el término municipal de Langa de Duero (Soria). Ref. extpe.: MC-0054/2025 (INTEGRA-AYE) SO.</titulo>
+              <url_pdf szBytes="210617" szKBytes="206" pagina_inicial="22546" pagina_final="22547">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14968.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14968</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14968</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14969</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública de la concesión de un aprovechamiento de aguas subterráneas, en el término municipal de Valverde de la Virgen (León). Ref. expte.: C-0059/2025 (INTEGRA-AYE) LE.</titulo>
+              <url_pdf szBytes="209737" szKBytes="205" pagina_inicial="22548" pagina_final="22549">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14969.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14969</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14969</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14970</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Guadalquivir de información pública del procedimiento de modificación de características de la concesión de aguas públicas con expediente de referencia 6219/2024, en el término municipal de Guillena (Sevilla).</titulo>
+              <url_pdf szBytes="208422" szKBytes="204" pagina_inicial="22550" pagina_final="22551">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14970.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14970</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14970</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14971</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública del expediente de concesión de un aprovechamiento de aguas subterráneas, de referencia C-0130/2025 (INTEGRA-AYE) SG, con destino a uso industrial en el término municipal de Arcones (Segovia).</titulo>
+              <url_pdf szBytes="209993" szKBytes="205" pagina_inicial="22552" pagina_final="22553">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14971.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14971</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14971</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14972</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Guadalquivir de información pública de la concesión de aguas públicas con expediente 6204/2019 en el término municipal de Cúllar (Granada).</titulo>
+              <url_pdf szBytes="205575" szKBytes="201" pagina_inicial="22554" pagina_final="22554">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14972.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14972</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14972</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14973</identificador>
+              <titulo>Anuncio de Confederación Hidrográfica del Guadiana, O.A. de Información Pública sobre competencia de proyectos por solicitud de modificación de una concesión de aguas superficiales en el T.M. de Don Benito (Badajoz). Conc. 68/98.</titulo>
+              <url_pdf szBytes="205499" szKBytes="201" pagina_inicial="22555" pagina_final="22555">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14973.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14973</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14973</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14974</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Duero, O.A., de la Resolución del expediente de modificación de características de concesión de un aprovechamiento de aguas subterráneas, de referencia MC-0169/2023, con destino a abastecimiento, en el término municipal de La Mata de Ledesma (Salamanca).</titulo>
+              <url_pdf szBytes="208898" szKBytes="204" pagina_inicial="22556" pagina_final="22557">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14974.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14974</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14974</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14975</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Guadiana de sometimiento a información pública de solicitud de autorización de cruces subterráneos en el término municipal de Jerez de los Caballeros (Badajoz) (OBMA 061-23).</titulo>
+              <url_pdf szBytes="208705" szKBytes="204" pagina_inicial="22558" pagina_final="22558">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14975.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14975</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14975</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14976</identificador>
+              <titulo>Anuncio de la Dirección General de la Costa y el Mar, en procedimiento de revisión del deslinde aprobado por la O.M. de 14 de abril de 2025, en el tramo de costa de unos dos mil ochocientos treinta y tres (2.833) metros, entre la playa Punta Brava (Los Urrutias) y la desembocadura de la rambla del Albujón, en la zona de El Carmolí, en el término municipal de Cartagena (Murcia). Refª. DES01/22/30/0008.</titulo>
+              <url_pdf szBytes="262959" szKBytes="257" pagina_inicial="22559" pagina_final="22568">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14976.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14976</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14976</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14977</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública del expediente de concesión de un aprovechamiento de de aguas superficiales, de referencia C-0065/2025 (INTEGRA-AYE) ÁV, con destino a uso ganadero en el término municipal de Navarredonda de Gredos (Ávila).</titulo>
+              <url_pdf szBytes="209088" szKBytes="204" pagina_inicial="22569" pagina_final="22570">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14977.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14977</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14977</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14978</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Tajo O.A. de la Resolución de fecha 1 de abril de 2025 por la que se autoriza al Canal de Isabel II S.A., la ejecución de obras en dominio público hidráulico y zona de policía del "Proyecto 2º Anillo de distribución de agua potable de la Comunidad de Madrid, Tramo 7", en los términos municipales de Fuenlabrada, Leganés, Getafe y Pinto (Madrid). Referencia O-0291/2017.</titulo>
+              <url_pdf szBytes="281352" szKBytes="275" pagina_inicial="22571" pagina_final="22583">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14978.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14978</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14978</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14979</identificador>
+              <titulo>Anuncio de la Demarcación de Costas en Cantabria sobre solicitud de concesión para reforma del paseo marítimo de Laredo y encauzamiento del arroyo Mantilla, en el término municipal de Laredo. Referencia: CNC02/23/39/0018.</titulo>
+              <url_pdf szBytes="202937" szKBytes="198" pagina_inicial="22584" pagina_final="22584">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14979.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14979</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14979</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14980</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Cantábrico, O.A. de información pública del procedimiento de autorización de vertido. Expediente V/33/02998.</titulo>
+              <url_pdf szBytes="210361" szKBytes="205" pagina_inicial="22585" pagina_final="22586">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14980.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14980</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14980</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14981</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Cantábrico, O.A. de información pública del procedimiento de autorización de vertido. Expediente V/33/02959.</titulo>
+              <url_pdf szBytes="209331" szKBytes="204" pagina_inicial="22587" pagina_final="22588">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14981.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14981</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14981</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="4110" nombre="MINISTERIO DE CULTURA">
+            <item>
+              <identificador>BOE-B-2025-14982</identificador>
+              <titulo>Extracto de la Resolución de 16 de abril de 2025 por la que se convocan ayudas a entidades privadas sin ánimo de lucro para el desarrollo de proyectos archivísticos, correspondientes al año 2025.</titulo>
+              <url_pdf szBytes="208194" szKBytes="203" pagina_inicial="22589" pagina_final="22590">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14982.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14982</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14982</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9565" nombre="MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES">
+            <item>
+              <identificador>BOE-B-2025-14983</identificador>
+              <titulo>Extracto de la Orden CNU/367/2025, de 7 de abril, por la que se amplía el presupuesto fijado para la concesión de ayudas a participantes directos y asociados en el Proyecto Importante de Interés Común Europeo de Salud (Med4Cure), en el marco del Plan de Recuperación, Transformación y Resiliencia, convocadas por Orden CNU/1418/2024, de 9 de diciembre.</titulo>
+              <url_pdf szBytes="209104" szKBytes="204" pagina_inicial="22591" pagina_final="22592">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14983.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14983</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14983</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="4620" nombre="MINISTERIO DE IGUALDAD">
+            <item>
+              <identificador>BOE-B-2025-14984</identificador>
+              <titulo>Extracto de la Resolución de 22 de abril de la Dirección del Instituto de las Mujeres por la que se acuerda la ampliación del plazo para presentar las solicitudes para la convocatoria de concesión de las subvenciones públicas destinadas a la realización investigaciones feministas, para el año 2025.</titulo>
+              <url_pdf szBytes="203071" szKBytes="198" pagina_inicial="22593" pagina_final="22593">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14984.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14984</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14984</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9579" nombre="MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES">
+            <item>
+              <identificador>BOE-B-2025-14985</identificador>
+              <titulo>Resolución de la Dirección Provincial de la Tesorería General de la Seguridad Social de Asturias por la que se anuncia subasta pública para la enajenación de inmuebles propiedad de la Tesorería General de la Seguridad Social.</titulo>
+              <url_pdf szBytes="226276" szKBytes="221" pagina_inicial="22594" pagina_final="22596">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14985.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14985</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14985</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="8010" nombre="COMUNIDAD AUTÓNOMA DE ANDALUCÍA">
+            <item>
+              <identificador>BOE-B-2025-14986</identificador>
+              <titulo>Anuncio de la Delegación Territorial de Economía, Hacienda y Fondos Europeos y de Industria, Energía y Minas en Cádiz, por el que se somete a Información Pública la solicitud de Autorización Administrativa Previa y Declaración en Concreto de Utilidad Pública del Proyecto de Ejecución de "Línea aérea-subterránea D/C 66 kV desde Subestación Conil a Subestación Zumajo" en el término municipal de Conil de la Frontera y Vejer de la Frontera.</titulo>
+              <url_pdf szBytes="342276" szKBytes="334" pagina_inicial="22597" pagina_final="22601">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14986.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14986</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14986</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="8030" nombre="COMUNIDAD AUTÓNOMA DE CANARIAS">
+            <item>
+              <identificador>BOE-B-2025-14987</identificador>
+              <titulo>Anuncio de la Dirección General de Energía por el que se convoca el levantamiento de actas previas a la ocupación para la ejecución del proyecto de instalación eléctrica denominado "Planta fotovoltáica Blanca Solar, de 3,75 MW", en el término municipal de Puerto del Rosario (expediente ER-20/1220).</titulo>
+              <url_pdf szBytes="215028" szKBytes="210" pagina_inicial="22602" pagina_final="22603">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14987.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14987</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14987</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="310" nombre="UNIVERSIDADES">
+            <item>
+              <identificador>BOE-B-2025-14988</identificador>
+              <titulo>Anuncio de corrección de errores de la Escuela Internacional de Posgrado de la Universidad de Sevilla, sobre anuncio de extravío de título universitario.</titulo>
+              <url_pdf szBytes="200157" szKBytes="195" pagina_inicial="22604" pagina_final="22604">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14988.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14988</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14988</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9536" nombre="OTROS ENTES">
+            <item>
+              <identificador>BOE-B-2025-14989</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes del Águeda de la Margen Derecha 1 elevación, núcleo de Sanjuanejo sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="202002" szKBytes="197" pagina_inicial="22605" pagina_final="22605">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14989.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14989</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14989</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14990</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Pozo San Isidro-Taramay sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="202259" szKBytes="198" pagina_inicial="22606" pagina_final="22606">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14990.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14990</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14990</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14991</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Los Tejares (en formación), sobre la exposición pública de los Estatutos.</titulo>
+              <url_pdf szBytes="202283" szKBytes="198" pagina_inicial="22607" pagina_final="22607">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14991.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14991</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14991</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14992</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Patronato y Vegas Bajas de Cacín sobre convocatoria de Junta General de participes.</titulo>
+              <url_pdf szBytes="202832" szKBytes="198" pagina_inicial="22608" pagina_final="22608">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14992.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14992</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14992</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-14993</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Num. VIII de los riegos de Bardenas sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="201481" szKBytes="197" pagina_inicial="22609" pagina_final="22609">https://www.boe.es/boe/dias/2025/04/24/pdfs/BOE-B-2025-14993.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-14993</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-14993</url_xml>
+            </item>
+          </departamento>
+        </seccion>
+      </diario>
+    </sumario>
+  </data>
+</response>
