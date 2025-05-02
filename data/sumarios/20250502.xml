@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <sumario>
+      <metadatos>
+        <publicacion>BOE</publicacion>
+        <fecha_publicacion>20250502</fecha_publicacion>
+      </metadatos>
+      <diario numero="106">
+        <sumario_diario>
+          <identificador>BOE-S-2025-106</identificador>
+          <url_pdf szBytes="235614" szKBytes="230">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-S-2025-106.pdf</url_pdf>
+        </sumario_diario>
+        <seccion codigo="2A" nombre="II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias">
+          <departamento codigo="1820" nombre="CONSEJO GENERAL DEL PODER JUDICIAL">
+            <epigrafe nombre="Escalafones">
+              <item>
+                <identificador>BOE-A-2025-8735</identificador>
+                <control>2025/6647</control>
+                <titulo>Acuerdo de 22 de abril de 2025, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se publica el Escalafón General de la Carrera Judicial, cerrado al 31 de marzo de 2025.</titulo>
+                <url_pdf szBytes="14594355" szKBytes="14252" pagina_inicial="59236" pagina_final="59567">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8735.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8735</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8735</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="6110" nombre="MINISTERIO DE DEFENSA">
+            <epigrafe nombre="Destinos">
+              <item>
+                <identificador>BOE-A-2025-8736</identificador>
+                <control>2025/6648</control>
+                <titulo>Resolución 400/38192/2025, de 24 de abril, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución 400/38041/2025, de 4 de febrero.</titulo>
+                <url_pdf szBytes="214208" szKBytes="209" pagina_inicial="59568" pagina_final="59569">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8736.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8736</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8736</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="7320" nombre="MINISTERIO DEL INTERIOR">
+            <epigrafe nombre="Ceses">
+              <item>
+                <identificador>BOE-A-2025-8737</identificador>
+                <control>2025/6702</control>
+                <titulo>Orden INT/426/2025, de 28 de abril, por la que se dispone el cese del General de División don Ángel Alonso Miranda como Presidente del Consejo de Gobierno y Administración de la Asociación Pro-Huérfanos de la Guardia Civil.</titulo>
+                <url_pdf szBytes="191901" szKBytes="187" pagina_inicial="59570" pagina_final="59570">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8737.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8737</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8737</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9588" nombre="MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030">
+            <epigrafe nombre="Destinos">
+              <item>
+                <identificador>BOE-A-2025-8738</identificador>
+                <control>2025/6616</control>
+                <titulo>Resolución de 23 de abril de 2025, de la Subsecretaría, por la que se resuelve la convocatoria de libre designación, efectuada por Resolución de 28 de febrero de 2025.</titulo>
+                <url_pdf szBytes="226695" szKBytes="221" pagina_inicial="59571" pagina_final="59573">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8738.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8738</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8738</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="310" nombre="UNIVERSIDADES">
+            <epigrafe nombre="Nombramientos">
+              <item>
+                <identificador>BOE-A-2025-8739</identificador>
+                <control>2025/6400</control>
+                <titulo>Resolución de 22 de abril de 2025, de la Universidad de Barcelona, por la que se nombran Catedráticas y Catedráticos de Universidad.</titulo>
+                <url_pdf szBytes="192237" szKBytes="188" pagina_inicial="59574" pagina_final="59574">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8739.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8739</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8739</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8740</identificador>
+                <control>2025/6401</control>
+                <titulo>Resolución de 22 de abril de 2025, de la Universidad de Barcelona, por la que se nombran Profesoras y Profesores Titulares de Universidad.</titulo>
+                <url_pdf szBytes="193329" szKBytes="189" pagina_inicial="59575" pagina_final="59575">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8740.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8740</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8740</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="2B" nombre="II. Autoridades y personal. - B. Oposiciones y concursos">
+          <departamento codigo="9587" nombre="MINISTERIO DE VIVIENDA Y AGENDA URBANA">
+            <epigrafe nombre="Procedimientos de libre designación">
+              <item>
+                <identificador>BOE-A-2025-8741</identificador>
+                <control>2025/6626</control>
+                <titulo>Resolución de 25 de abril de 2025, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="234658" szKBytes="229" pagina_inicial="59576" pagina_final="59579">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8741.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8741</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8741</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8742</identificador>
+                <control>2025/6627</control>
+                <titulo>Resolución de 25 de abril de 2025, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="234714" szKBytes="229" pagina_inicial="59580" pagina_final="59583">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8742.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8742</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8742</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9525" nombre="ADMINISTRACIÓN LOCAL">
+            <epigrafe nombre="Personal funcionario">
+              <item>
+                <identificador>BOE-A-2025-8743</identificador>
+                <control>2025/102005</control>
+                <titulo>Resolución de 22 de abril de 2025, del Ayuntamiento de Cuenca, referente a la convocatoria para proveer puestos de trabajo por el sistema de concurso.</titulo>
+                <url_pdf szBytes="190004" szKBytes="186" pagina_inicial="59584" pagina_final="59584">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8743.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8743</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8743</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Personal funcionario y laboral">
+              <item>
+                <identificador>BOE-A-2025-8744</identificador>
+                <control>2025/102023</control>
+                <titulo>Resolución de 4 de marzo de 2025, del Consorcio de Prevención y Extinción de Incendios y Salvamento del Poniente Almeriense (Almería), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190820" szKBytes="186" pagina_inicial="59585" pagina_final="59585">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8744.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8744</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8744</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8745</identificador>
+                <control>2025/102025</control>
+                <titulo>Resolución de 10 de marzo de 2025, del Consorcio de Prevención y Extinción de Incendios y Salvamento del Poniente Almeriense (Almería), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="191001" szKBytes="187" pagina_inicial="59586" pagina_final="59586">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8745.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8745</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8745</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8746</identificador>
+                <control>2025/102012</control>
+                <titulo>Resolución de 10 de abril de 2025, del Ayuntamiento de Coslada (Madrid), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190682" szKBytes="186" pagina_inicial="59587" pagina_final="59587">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8746.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8746</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8746</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8747</identificador>
+                <control>2025/102021</control>
+                <titulo>Resolución de 10 de abril de 2025, de la Diputación Provincial de Cádiz, Instituto de Empleo y Desarrollo Socioeconómico y Tecnológico, referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="191385" szKBytes="187" pagina_inicial="59588" pagina_final="59588">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8747.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8747</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8747</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8748</identificador>
+                <control>2025/102027</control>
+                <titulo>Resolución de 11 de abril de 2025, del Ayuntamiento de El Ronquillo (Sevilla), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190336" szKBytes="186" pagina_inicial="59589" pagina_final="59589">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8748.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8748</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8748</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8749</identificador>
+                <control>2025/102007</control>
+                <titulo>Resolución de 21 de abril de 2025, del Ayuntamiento de Madrid, referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190352" szKBytes="186" pagina_inicial="59590" pagina_final="59590">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8749.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8749</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8749</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8750</identificador>
+                <control>2025/102008</control>
+                <titulo>Resolución de 21 de abril de 2025, del Ayuntamiento de Madrid, referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190198" szKBytes="186" pagina_inicial="59591" pagina_final="59591">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8750.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8750</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8750</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8751</identificador>
+                <control>2025/102009</control>
+                <titulo>Resolución de 21 de abril de 2025, del Ayuntamiento de Madrid, referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190532" szKBytes="186" pagina_inicial="59592" pagina_final="59592">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8751.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8751</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8751</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8752</identificador>
+                <control>2025/102020</control>
+                <titulo>Resolución de 21 de abril de 2025, de la Diputación Provincial de A Coruña, referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190303" szKBytes="186" pagina_inicial="59593" pagina_final="59593">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8752.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8752</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8752</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8753</identificador>
+                <control>2025/102028</control>
+                <titulo>Resolución de 21 de abril de 2025, del Ayuntamiento de Palma del Río (Córdoba), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190777" szKBytes="186" pagina_inicial="59594" pagina_final="59594">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8753.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8753</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8753</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8754</identificador>
+                <control>2025/102006</control>
+                <titulo>Resolución de 22 de abril de 2025, del Ayuntamiento de Caspe (Zaragoza), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190481" szKBytes="186" pagina_inicial="59595" pagina_final="59595">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8754.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8754</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8754</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8755</identificador>
+                <control>2025/102010</control>
+                <titulo>Resolución de 22 de abril de 2025, de la Entidad de Ámbito Territorial Inferior al Municipio de Valeria (Cuenca), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190677" szKBytes="186" pagina_inicial="59596" pagina_final="59596">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8755.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8755</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8755</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8756</identificador>
+                <control>2025/102013</control>
+                <titulo>Resolución de 22 de abril de 2025, del Ayuntamiento de San Miguel del Cinca (Huesca), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190495" szKBytes="186" pagina_inicial="59597" pagina_final="59597">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8756.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8756</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8756</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8757</identificador>
+                <control>2025/102014</control>
+                <titulo>Resolución de 22 de abril de 2025, del Ayuntamiento de Arcicóllar (Toledo), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="191116" szKBytes="187" pagina_inicial="59598" pagina_final="59598">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8757.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8757</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8757</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8758</identificador>
+                <control>2025/102015</control>
+                <titulo>Resolución de 22 de abril de 2025, del Ayuntamiento de Lalín (Pontevedra), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190508" szKBytes="186" pagina_inicial="59599" pagina_final="59599">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8758.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8758</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8758</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8759</identificador>
+                <control>2025/102017</control>
+                <titulo>Resolución de 22 de abril de 2025, del Ayuntamiento de Atarfe (Granada), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190067" szKBytes="186" pagina_inicial="59600" pagina_final="59600">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8759.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8759</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8759</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8760</identificador>
+                <control>2025/102018</control>
+                <titulo>Resolución de 22 de abril de 2025, del Ayuntamiento de Reinosa (Cantabria), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190038" szKBytes="186" pagina_inicial="59601" pagina_final="59601">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8760.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8760</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8760</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8761</identificador>
+                <control>2025/102019</control>
+                <titulo>Resolución de 22 de abril de 2025, del Ayuntamiento de L'Ampolla (Tarragona), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190288" szKBytes="186" pagina_inicial="59602" pagina_final="59602">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8761.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8761</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8761</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8762</identificador>
+                <control>2025/102022</control>
+                <titulo>Resolución de 22 de abril de 2025, del Ayuntamiento de Orihuela (Alicante/Alacant), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190549" szKBytes="186" pagina_inicial="59603" pagina_final="59603">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8762.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8762</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8762</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8763</identificador>
+                <control>2025/102024</control>
+                <titulo>Resolución de 22 de abril de 2025, de la Diputación Provincial de Valladolid, referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="189984" szKBytes="186" pagina_inicial="59604" pagina_final="59604">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8763.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8763</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8763</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8764</identificador>
+                <control>2025/102026</control>
+                <titulo>Resolución de 22 de abril de 2025, del Ayuntamiento de Don Benito (Badajoz), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190758" szKBytes="186" pagina_inicial="59605" pagina_final="59605">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8764.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8764</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8764</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8765</identificador>
+                <control>2025/102029</control>
+                <titulo>Resolución de 22 de abril de 2025, del Ayuntamiento de Cúllar Vega (Granada), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190894" szKBytes="186" pagina_inicial="59606" pagina_final="59606">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8765.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8765</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8765</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8766</identificador>
+                <control>2025/102030</control>
+                <titulo>Resolución de 22 de abril de 2025, del Ayuntamiento de Cangas del Narcea (Asturias), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190506" szKBytes="186" pagina_inicial="59607" pagina_final="59607">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8766.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8766</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8766</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8767</identificador>
+                <control>2025/102031</control>
+                <titulo>Resolución de 22 de abril de 2025, del Ayuntamiento de Badalona (Barcelona), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190193" szKBytes="186" pagina_inicial="59608" pagina_final="59608">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8767.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8767</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8767</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8768</identificador>
+                <control>2025/102032</control>
+                <titulo>Resolución de 22 de abril de 2025, del Ayuntamiento de Cheste (Valencia/València), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190261" szKBytes="186" pagina_inicial="59609" pagina_final="59609">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8768.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8768</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8768</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8769</identificador>
+                <control>2025/102033</control>
+                <titulo>Resolución de 22 de abril de 2025, del Ayuntamiento de Puigcerdà (Girona), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190844" szKBytes="186" pagina_inicial="59610" pagina_final="59610">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8769.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8769</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8769</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8770</identificador>
+                <control>2025/102034</control>
+                <titulo>Resolución de 22 de abril de 2025, del Ayuntamiento de Puigcerdà (Girona), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="193083" szKBytes="189" pagina_inicial="59611" pagina_final="59611">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8770.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8770</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8770</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="310" nombre="UNIVERSIDADES">
+            <epigrafe nombre="Personal técnico, de gestión y de administración y servicios">
+              <item>
+                <identificador>BOE-A-2025-8771</identificador>
+                <control>2025/6278</control>
+                <titulo>Resolución de 11 de abril de 2025, de la Universitat de València, por la que se convocan pruebas selectivas de acceso, por el sistema general de acceso libre, a la Escala Administrativa.</titulo>
+                <url_pdf szBytes="314045" szKBytes="307" pagina_inicial="59612" pagina_final="59628">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8771.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8771</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8771</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8772</identificador>
+                <control>2025/6630</control>
+                <titulo>Resolución de 23 de abril de 2025, de la Universidad Nacional de Educación a Distancia, por la que se convocan pruebas selectivas para la provisión, por el sistema general de acceso libre, de plazas de personal laboral, Grupo III, Nivel B.</titulo>
+                <url_pdf szBytes="289729" szKBytes="283" pagina_inicial="59629" pagina_final="59643">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8772.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8772</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8772</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8773</identificador>
+                <control>2025/6631</control>
+                <titulo>Resolución de 24 de abril de 2025, de la Universidad de Zaragoza, por la que se convoca proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, en la Escala de Técnicos Especialistas de Edición y Medios Audiovisuales.</titulo>
+                <url_pdf szBytes="281878" szKBytes="275" pagina_inicial="59644" pagina_final="59658">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8773.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8773</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8773</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8774</identificador>
+                <control>2025/6632</control>
+                <titulo>Resolución de 24 de abril de 2025, de la Universidad Nacional de Educación a Distancia, por la que se aprueba la relación provisional de personas admitidas y excluidas a las pruebas selectivas para la provisión, por el sistema general de acceso libre, de plazas de personal laboral, Grupo IV, Nivel B, convocadas por Resolución de 7 de marzo de 2025.</titulo>
+                <url_pdf szBytes="240276" szKBytes="235" pagina_inicial="59659" pagina_final="59661">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8774.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8774</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8774</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="3" nombre="III. Otras disposiciones">
+          <departamento codigo="9586" nombre="MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE">
+            <epigrafe nombre="Comunidad de Madrid. Convenio">
+              <item>
+                <identificador>BOE-A-2025-8775</identificador>
+                <control>2025/6635</control>
+                <titulo>Resolución de 1 de abril de 2025, de la Dirección General de la Marina Mercante, por la que se publica el Convenio con la Universidad Politécnica de Madrid, para la creación del Aula Universidad Dirección General de la Marina Mercante en la Escuela Técnica Superior de Ingenieros Navales.</titulo>
+                <url_pdf szBytes="232293" szKBytes="227" pagina_inicial="59662" pagina_final="59668">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8775.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8775</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8775</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Sellos de correos">
+              <item>
+                <identificador>BOE-A-2025-8776</identificador>
+                <control>2025/6596</control>
+                <titulo>Resolución de 22 de abril de 2025, conjunta de las Subsecretarías de Transportes y Movilidad Sostenible y de Hacienda, sobre emisión y puesta en circulación de tres series de sellos de correo denominadas «Europa.-2025. Yacimientos arqueológicos. Yacimiento romano de Clunia (Peñalba de Castro. Burgos)», «Sanidad.-2025. 50 Aniversario Hospital Clínico Universitario Virgen de la Arrixaca. Murcia» y «Fuerzas armadas.-2025. DIFAS 25 CANARIAS».</titulo>
+                <url_pdf szBytes="205980" szKBytes="201" pagina_inicial="59669" pagina_final="59671">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8776.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8776</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8776</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8777</identificador>
+                <control>2025/6598</control>
+                <titulo>Resolución de 22 de abril de 2025, conjunta de las Subsecretarías de Transportes y Movilidad Sostenible y de Hacienda, sobre emisión y puesta en circulación de una tarjeta prefranqueada de correo, del tipo «Tarjeta del Correo (80-72)», denominada «Europa. Yacimientos arqueológicos.-2025».</titulo>
+                <url_pdf szBytes="199776" szKBytes="195" pagina_inicial="59672" pagina_final="59673">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8777.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8777</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8777</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9590" nombre="MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES">
+            <epigrafe nombre="Real Federación Colombófila Española. Estatutos">
+              <item>
+                <identificador>BOE-A-2025-8778</identificador>
+                <control>2025/6356</control>
+                <titulo>Resolución de 10 de abril de 2025, de la Presidencia del Consejo Superior de Deportes, por la que se publican los Estatutos de la Real Federación Colombófila Española.</titulo>
+                <url_pdf szBytes="451084" szKBytes="441" pagina_inicial="59674" pagina_final="59712">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8778.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8778</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8778</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Real Federación Española de Voleibol. Estatutos">
+              <item>
+                <identificador>BOE-A-2025-8779</identificador>
+                <control>2025/6421</control>
+                <titulo>Resolución de 21 de abril de 2025, de la Presidencia del Consejo Superior de Deportes, por la que se publican los Estatutos de la Real Federación Española de Voleibol.</titulo>
+                <url_pdf szBytes="374258" szKBytes="365" pagina_inicial="59713" pagina_final="59741">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8779.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8779</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8779</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9573" nombre="MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL">
+            <epigrafe nombre="Comunidad Autónoma del País Vasco. Convenio">
+              <item>
+                <identificador>BOE-A-2025-8780</identificador>
+                <control>2025/6601</control>
+                <titulo>Resolución de 23 de abril de 2025, de la Secretaría General Técnica, por la que se publica el Convenio entre el Organismo Autónomo Organismo Estatal Inspección de Trabajo y Seguridad Social y la Comunidad Autónoma del País Vasco, para la cesión del uso de diversas aplicaciones informáticas.</titulo>
+                <url_pdf szBytes="274362" szKBytes="268" pagina_inicial="59742" pagina_final="59755">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8780.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8780</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8780</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Convenios colectivos de trabajo">
+              <item>
+                <identificador>BOE-A-2025-8781</identificador>
+                <control>2025/6507</control>
+                <titulo>Resolución de 22 de abril de 2025, de la Dirección General de Trabajo, por la que se registra y publica el Acta de aprobación y actualización de las tablas salariales para el año 2025 del III Convenio colectivo de ámbito estatal del sector de contact center.</titulo>
+                <url_pdf szBytes="220086" szKBytes="215" pagina_inicial="59756" pagina_final="59758">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8781.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8781</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8781</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8782</identificador>
+                <control>2025/6509</control>
+                <titulo>Resolución de 22 de abril de 2025, de la Dirección General de Trabajo, por la que se registra y publica el Acuerdo de actualización de las tablas salariales para el año 2025 del Convenio colectivo de ATE Sistemas y Proyectos Singulares, SL.</titulo>
+                <url_pdf szBytes="240249" szKBytes="235" pagina_inicial="59759" pagina_final="59762">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8782.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8782</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8782</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9565" nombre="MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES">
+            <epigrafe nombre="Convenios">
+              <item>
+                <identificador>BOE-A-2025-8783</identificador>
+                <control>2025/6642</control>
+                <titulo>Resolución de 22 de abril de 2025, del Instituto de Astrofísica de Canarias, por la que se publica el Convenio con la Fundación CajaCanarias y la Fundación Bancaria «la Caixa», para el desarrollo de un «Programa de Soporte Técnico y Administrativo en las Instalaciones y Observatorios del IAC».</titulo>
+                <url_pdf szBytes="266829" szKBytes="261" pagina_inicial="59763" pagina_final="59773">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8783.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8783</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8783</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="4620" nombre="MINISTERIO DE IGUALDAD">
+            <epigrafe nombre="Ayudas">
+              <item>
+                <identificador>BOE-A-2025-8784</identificador>
+                <control>2025/6678</control>
+                <titulo>Resolución de 29 de abril de 2025, de la Secretaría de Estado de Igualdad y para la Erradicación de la Violencia contra las Mujeres, por la que se publica el Acuerdo de la Conferencia Sectorial de Igualdad, de 22 de abril de 2025, por el que se fijan los criterios de distribución y la distribución resultante para el ejercicio 2025 de los créditos asignados a: desarrollo de programas y la prestación de servicios que garanticen el derecho a la asistencia social integral a las mujeres víctimas de violencia de género y otras formas de violencia contra las mujeres y la atención a las hijas e hijos menores de edad; implementación de la Propuesta Común para la Mejora de la Coordinación y desarrollo de planes personalizados; programas para el apoyo a víctimas de agresiones y/o abusos sexuales; programas de prevención de abusos sexuales en menores tuteladas.</titulo>
+                <url_pdf szBytes="405870" szKBytes="396" pagina_inicial="59774" pagina_final="59783">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8784.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8784</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8784</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-8785</identificador>
+                <control>2025/6679</control>
+                <titulo>Resolución de 29 de abril de 2025, de la Secretaría de Estado de Igualdad y para la Erradicación de la Violencia contra las Mujeres, por la que se publica el Acuerdo de la Conferencia Sectorial de Igualdad, de 22 de abril de 2025, por el que se fijan los criterios de distribución y la distribución resultante para el ejercicio 2025 de los créditos presupuestarios destinados al desarrollo por las comunidades autónomas y ciudades de Ceuta y Melilla del Pacto de Estado contra la Violencia de Género, y se formalizan los compromisos financieros resultantes.</titulo>
+                <url_pdf szBytes="309111" szKBytes="302" pagina_inicial="59784" pagina_final="59791">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8785.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8785</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8785</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9579" nombre="MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES">
+            <epigrafe nombre="Comunidad Foral de Navarra. Convenio">
+              <item>
+                <identificador>BOE-A-2025-8786</identificador>
+                <control>2025/6442</control>
+                <titulo>Resolución de 22 de abril de 2025, de la Secretaría General Técnica, por la que se publica la Adenda de prórroga al Convenio entre el Instituto Nacional de la Seguridad Social y el Servicio Navarro de Salud-Osasunbidea, para la regulación del acceso a historias clínicas electrónicas.</titulo>
+                <url_pdf szBytes="201366" szKBytes="197" pagina_inicial="59792" pagina_final="59793">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8786.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8786</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8786</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Comunidades autónomas. Convenio">
+              <item>
+                <identificador>BOE-A-2025-8787</identificador>
+                <control>2025/6443</control>
+                <titulo>Resolución de 23 de abril de 2025, de la Secretaría General Técnica, por la que se publica el Convenio entre el Instituto Nacional de la Seguridad Social, la Universidad de Alcalá y la Comunidad Autónoma de Aragón, para la realización de un curso de incapacidad temporal para médicos asistenciales en la modalidad on-line.</titulo>
+                <url_pdf szBytes="255550" szKBytes="250" pagina_inicial="59794" pagina_final="59802">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8787.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8787</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8787</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="310" nombre="UNIVERSIDADES">
+            <epigrafe nombre="Delegación de competencias">
+              <item>
+                <identificador>BOE-A-2025-8788</identificador>
+                <control>2025/6646</control>
+                <titulo>Resolución de 25 de abril de 2025, de la Universidad Nacional de Educación a Distancia, por la que se publica el Acuerdo por el que se delegan competencias del Consejo de Gobierno en su Comisión Permanente.</titulo>
+                <url_pdf szBytes="204892" szKBytes="200" pagina_inicial="59803" pagina_final="59805">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8788.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8788</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8788</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Planes de estudios">
+              <item>
+                <identificador>BOE-A-2025-8789</identificador>
+                <control>2025/6448</control>
+                <titulo>Resolución de 21 de abril de 2025, de la Universidad de Granada, por la que se publica la modificación del plan de estudios de Graduado o Graduada en Ingeniería de Tecnologías de Telecomunicación.</titulo>
+                <url_pdf szBytes="250263" szKBytes="244" pagina_inicial="59806" pagina_final="59808">https://www.boe.es/boe/dias/2025/05/02/pdfs/BOE-A-2025-8789.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8789</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-8789</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+      </diario>
+    </sumario>
+  </data>
+</response>
