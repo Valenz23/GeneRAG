@@ -11,6 +11,12 @@ from langchain_core.documents import Document
 from graph_retriever.strategies import Eager
 from langchain_graph_retriever import GraphRetriever
 
+from langchain.retrievers import ContextualCompressionRetriever
+from langchain.retrievers.document_compressors.cross_encoder_rerank import CrossEncoderReranker
+from langchain_community.cross_encoders import HuggingFaceCrossEncoder
+
+import lmstudio as lms
+
 import streamlit as st
 from timeit import default_timer as timer
 
@@ -37,7 +43,9 @@ class Chatbot:
                  search_type: str = "similarity", k: int = 5,      # tipo de búsqueda //        kwargs -->    5           4             3
                  chroma_directory: str = "chroma",                      # directorio de chroma
                 #  chroma_directory: str = "__chroma",                      # directorio de chroma
-                 docs_directory: str = "my_data"                        # directorio de documentos                 
+                 docs_directory: str = "my_data",                        # directorio de documentos                 
+                 reranker_model: str = "BAAI/bge-reranker-v2-m3",    # modelo para reranking
+                 top_n: int = 3,                                    # documentos recuperador por el reranker
                  ):
         
         # self.language_model = ChatOllama(model=language_model, num_ctx=num_ctx, temperature=0, seed=12345)        
@@ -48,7 +56,7 @@ class Chatbot:
         self.vector_store = Chroma(persist_directory=chroma_directory, embedding_function=self.embedding_service)      
         self.docs_directory = docs_directory      
 
-        self.k = k  
+        self.k = k          
 
         self.retriever = search_type
         if search_type == "similarity" or search_type == "mmr":
@@ -83,6 +91,13 @@ class Chatbot:
             Pregunta: {question}\n
             Contexto: {context}\n
             """
+        )
+
+        self.hf_cross_encoder = HuggingFaceCrossEncoder(model_name=reranker_model)
+        self.compressor = CrossEncoderReranker(model=self.hf_cross_encoder, top_n=top_n)
+        self.compression_retriever = ContextualCompressionRetriever(
+            base_compressor=self.compressor,
+            base_retriever=self.retriever
         )
 
     ################################################################################################
@@ -218,6 +233,9 @@ class Chatbot:
     
     def get_retriever(self):
         return self.retriever
+    
+    def get_compression_retriever(self):
+        return self.compression_retriever
     
     def set_search_type(self, search_type: str, k: int = 5):
         # print(f"Busqueda por: {search_type}")
