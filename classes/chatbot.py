@@ -15,8 +15,6 @@ from langchain.retrievers import ContextualCompressionRetriever
 from langchain.retrievers.document_compressors.cross_encoder_rerank import CrossEncoderReranker
 from langchain_community.cross_encoders import HuggingFaceCrossEncoder
 
-import lmstudio as lms
-
 import streamlit as st
 from timeit import default_timer as timer
 
@@ -41,8 +39,8 @@ class Chatbot:
                  chunk_size: int = 512, chunk_overlap: int = 50,        # tamaño de los chunks //   size    -->  [[512, 50],[1024, 100], [2048, 200]]
                  embedding_model: str = "nomic-embed-text",             # modelo de embeddings
                  search_type: str = "similarity", k: int = 5,      # tipo de búsqueda //        kwargs -->    5           4             3
-                 chroma_directory: str = "chroma",                      # directorio de chroma
-                #  chroma_directory: str = "__chroma",                      # directorio de chroma
+                #  chroma_directory: str = "chroma",                      # directorio de chroma
+                 chroma_directory: str = "__chroma",                      # directorio de chroma
                  docs_directory: str = "my_data",                        # directorio de documentos                 
                  reranker_model: str = "BAAI/bge-reranker-v2-m3",    # modelo para reranking
                  top_n: int = 3,                                    # documentos recuperador por el reranker
