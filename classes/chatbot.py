@@ -29,7 +29,7 @@ class Chatbot:
 
     ### Constructor ### 
     def __init__(self, 
-                 language_model: str = LLM.llama_3_2_3B.value, num_ctx: int = 4096,     # modelo de lenguaje //    
+                 language_model: str = "mistral-small-latest", num_ctx: int = 4096,     # modelo de lenguaje //    
                  chunk_size: int = 1024, chunk_overlap: int = 100,                      # tamaño de los chunks //   size    -->  [ [512, 50] , [1024, 100] ]
                  embedding_model: str = EMBEDDING.NOMIC.value,                          # modelo de embeddings
                  search_type: str = "similarity", k: int = 5,                           # tipo de búsqueda 
@@ -39,8 +39,8 @@ class Chatbot:
                  top_n: int = 3,                                                        # documentos recuperador por el reranker
                  ):
         
-        if language_model == "mistral-small":
-            self.language_model = ChatMistralAI(model="mistral-small-latest", mistral_api_key=MISTRAL_API_KEY,temperature=0, random_seed=12345)
+        if language_model == "mistral-small-latest":
+            self.language_model = ChatMistralAI(model=language_model, mistral_api_key=MISTRAL_API_KEY,temperature=0, random_seed=12345)
         else:        
             self.language_model = ChatOllama(model=language_model, num_ctx=num_ctx, temperature=0, seed=12345)        
 
@@ -241,8 +241,8 @@ class Chatbot:
     def get_language_model(self):
         return self.language_model
     def set_language_model(self, language_model: str, num_ctx: int = 4096):
-        if language_model == "mistral-small":
-            self.language_model = ChatMistralAI(model="mistral-small-latest", mistral_api_key=MISTRAL_API_KEY,temperature=0, random_seed=12345)
+        if language_model == "mistral-small-latest":
+            self.language_model = ChatMistralAI(model=language_model, mistral_api_key=MISTRAL_API_KEY,temperature=0, random_seed=12345)
         else:        
             self.language_model = ChatOllama(model=language_model, num_ctx=num_ctx, temperature=0, seed=12345)
 
