@@ -90,7 +90,7 @@ def upload_files():
 
 def update_page():    
     if "chatbot" not in st.session_state:
-        st.session_state["chatbot"] = Chatbot()
+        st.session_state["chatbot"] = Chatbot(chroma_directory="chroma_nomic_512")
 
     st.set_page_config(page_title="Actualizar ", page_icon="images/icon_blue.png")
     st.logo("images/horizontal_blue.png", icon_image="images/icon_blue.png")

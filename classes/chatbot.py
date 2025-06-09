@@ -15,6 +15,8 @@ from langchain.retrievers import ContextualCompressionRetriever
 from langchain.retrievers.document_compressors.cross_encoder_rerank import CrossEncoderReranker
 from langchain_community.cross_encoders import HuggingFaceCrossEncoder
 
+from classes.LLM import LLM, EMBEDDING
+
 import streamlit as st
 from timeit import default_timer as timer
 
@@ -23,27 +25,18 @@ import os
 load_dotenv()
 MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
 
-# CHROMA_PDF_PATH = "chroma/pdf"
-# CHROMA_XML_PATH = "chroma/xml"
-# CHROMA_WEB_PATH = "chroma/web"
-
-# DATA_PDF_PATH = "data/pdf"
-# DATA_XML_PATH = "data/xml"
-# DATA_WEB_PATH = "data/web"
-
 class Chatbot:
 
     ### Constructor ### 
     def __init__(self, 
-                 language_model: str = "llama3.2", num_ctx: int = 2048, # modelo de lenguaje //     num_ctx -->     2048      4096         8192
-                 chunk_size: int = 512, chunk_overlap: int = 50,        # tamaño de los chunks //   size    -->  [[512, 50],[1024, 100], [2048, 200]]
-                 embedding_model: str = "nomic-embed-text",             # modelo de embeddings
-                 search_type: str = "similarity", k: int = 5,      # tipo de búsqueda //        kwargs -->    5           4             3
-                #  chroma_directory: str = "chroma",                      # directorio de chroma
-                 chroma_directory: str = "__chroma",                      # directorio de chroma
-                 docs_directory: str = "my_data",                        # directorio de documentos                 
-                 reranker_model: str = "BAAI/bge-reranker-v2-m3",    # modelo para reranking
-                 top_n: int = 3,                                    # documentos recuperador por el reranker
+                 language_model: str = LLM.llama_3_2_3B.value, num_ctx: int = 2048,     # modelo de lenguaje //    
+                 chunk_size: int = 1024, chunk_overlap: int = 100,                      # tamaño de los chunks //   size    -->  [ [512, 50] , [1024, 100] ]
+                 embedding_model: str = EMBEDDING.JINA.value,                          # modelo de embeddings
+                 search_type: str = "similarity", k: int = 5,                           # tipo de búsqueda 
+                 chroma_directory: str = "chroma",                           # directorio de chroma
+                 docs_directory: str = "my_data",                                       # directorio de documentos                 
+                 reranker_model: str = "BAAI/bge-reranker-v2-m3",                       # modelo para reranking
+                 top_n: int = 3,                                                        # documentos recuperador por el reranker
                  ):
         
         # self.language_model = ChatOllama(model=language_model, num_ctx=num_ctx, temperature=0, seed=12345)        

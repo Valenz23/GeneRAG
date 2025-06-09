@@ -62,7 +62,7 @@ def query(question: str):
 def main_page():
 
     if "chatbot" not in st.session_state:
-        st.session_state["chatbot"] = Chatbot()
+        st.session_state["chatbot"] = Chatbot(chroma_directory="chroma_nomic_512")
 
     if "chat_history" not in st.session_state:
         st.session_state.chat_history = [AIMessage(content="¡Hola! Soy un asistente virtual. ¿En qué puedo ayudarte?")]
