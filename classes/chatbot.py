@@ -29,9 +29,9 @@ class Chatbot:
 
     ### Constructor ### 
     def __init__(self, 
-                 language_model: str = LLM.llama_3_2_3B.value, num_ctx: int = 2048,     # modelo de lenguaje //    
+                 language_model: str = LLM.llama_3_2_3B.value, num_ctx: int = 4096,     # modelo de lenguaje //    
                  chunk_size: int = 1024, chunk_overlap: int = 100,                      # tamaño de los chunks //   size    -->  [ [512, 50] , [1024, 100] ]
-                 embedding_model: str = EMBEDDING.JINA.value,                          # modelo de embeddings
+                 embedding_model: str = EMBEDDING.NOMIC.value,                          # modelo de embeddings
                  search_type: str = "similarity", k: int = 5,                           # tipo de búsqueda 
                  chroma_directory: str = "chroma",                           # directorio de chroma
                  docs_directory: str = "my_data",                                       # directorio de documentos                 
@@ -39,8 +39,8 @@ class Chatbot:
                  top_n: int = 3,                                                        # documentos recuperador por el reranker
                  ):
         
-        # self.language_model = ChatOllama(model=language_model, num_ctx=num_ctx, temperature=0, seed=12345)        
-        self.language_model = ChatMistralAI(model="mistral-small-latest", mistral_api_key=MISTRAL_API_KEY,temperature=0, random_seed=12345)
+        self.language_model = ChatOllama(model=language_model, num_ctx=num_ctx, temperature=0, seed=12345)        
+        # self.language_model = ChatMistralAI(model="mistral-small-latest", mistral_api_key=MISTRAL_API_KEY,temperature=0, random_seed=12345)
 
         self.text_splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap, length_function=len)        
         self.embedding_service = OllamaEmbeddings(model=embedding_model)        
