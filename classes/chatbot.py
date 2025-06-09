@@ -39,8 +39,10 @@ class Chatbot:
                  top_n: int = 3,                                                        # documentos recuperador por el reranker
                  ):
         
-        self.language_model = ChatOllama(model=language_model, num_ctx=num_ctx, temperature=0, seed=12345)        
-        # self.language_model = ChatMistralAI(model="mistral-small-latest", mistral_api_key=MISTRAL_API_KEY,temperature=0, random_seed=12345)
+        if language_model == "mistral-small":
+            self.language_model = ChatMistralAI(model="mistral-small-latest", mistral_api_key=MISTRAL_API_KEY,temperature=0, random_seed=12345)
+        else:        
+            self.language_model = ChatOllama(model=language_model, num_ctx=num_ctx, temperature=0, seed=12345)        
 
         self.text_splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap, length_function=len)        
         self.embedding_service = OllamaEmbeddings(model=embedding_model)        
@@ -199,20 +201,6 @@ class Chatbot:
             | StrOutputParser()
         )
         return query_chain.invoke({"question": query, "context": context})
-    
-    
-    # def load_web_documents(path):    
-        # webs = []
-
-        # for file in os.listdir(path):
-        #     file_path = os.path.join(path, file)
-        #     with open(file_path, "r") as file:
-        #         url = file.read().strip()
-        #         webs.append(url)
-
-        # document_loader = WebBaseLoader(webs)
-        # return document_loader.load()
-
 
     ################################################################################################
     
@@ -252,9 +240,11 @@ class Chatbot:
 
     def get_language_model(self):
         return self.language_model
-    def set_language_model(self, language_model: str, num_ctx: int = 2048):
-        # self.language_model = ChatOllama(model=language_model, num_ctx=num_ctx, temperature=0, seed=12345)        
-        self.language_model = ChatMistralAI(model="mistral-small-latest", mistral_api_key=MISTRAL_API_KEY,temperature=0, random_seed=12345)
+    def set_language_model(self, language_model: str, num_ctx: int = 4096):
+        if language_model == "mistral-small":
+            self.language_model = ChatMistralAI(model="mistral-small-latest", mistral_api_key=MISTRAL_API_KEY,temperature=0, random_seed=12345)
+        else:        
+            self.language_model = ChatOllama(model=language_model, num_ctx=num_ctx, temperature=0, seed=12345)
 
     def __get_documents_from_chroma(self):
         """ Extrae los documentos del vector store y los convierte a objetos Document """
