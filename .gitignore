@@ -2,7 +2,7 @@
 /.venv
 /.env
 
-/chroma
+# /chroma
 /my_data
 
 /classes/__pycache__
