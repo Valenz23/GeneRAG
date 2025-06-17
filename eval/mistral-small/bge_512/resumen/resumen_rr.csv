@@ -1,6 +1,0 @@
-accuracy,faithfulness,groundedness,relevance,estrategia
-2.78,4.24,4.11,4.32,bm25_rr
-2.61,4.15,4.02,4.06,grafo_rr
-2.7,4.43,4.26,4.2,mmr_rr
-2.72,4.44,4.34,4.23,similarity_rr
-2.93,4.36,4.23,4.41,tfidf_rr
