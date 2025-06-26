@@ -25,6 +25,22 @@ import os
 load_dotenv()
 MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
 
+default_prompt = """
+Eres un asistente que responde preguntas usando SOLO y ÚNICAMENTE el contexto proporcionado.
+Si la respuesta NO está en contexto, simplemente dí que no lo sabes y no respondas o te inventes la respuesta.
+Tus respuestas DEBEN ser detalladas y estar bien estructuradas, organizando la información en párrafos y listas si es necesario.
+Tus respuestas DEBEN de ser respondidas con las partes de información sacadas del contexto.
+Tus respuestas NO DEBEN mencionar expresiones como "de acuerdo a la información" o "según el contexto".
+
+Si el usuario pide información sobre ayudas, estas también pueden ser subvenciones.            
+Si el usuario pide información sobre subvenciones, estas también pueden ser ayudas.
+Todas las preguntas realizadas por el usuario están relacionadas con la DANA (Depresión Aislada en Niveles Altos) sucedida a finales de 2024.
+
+Aqui tienes la pregunta y el contexto:
+Pregunta: {question}\n
+Contexto: {context}\n
+"""
+
 class Chatbot:
 
     ### Constructor ### 
@@ -33,10 +49,11 @@ class Chatbot:
                  chunk_size: int = 1024, chunk_overlap: int = 100,                      # tamaño de los chunks //   size    -->  [ [512, 50] , [1024, 100] ]
                  embedding_model: str = EMBEDDING.NOMIC.value,                          # modelo de embeddings
                  search_type: str = "similarity", k: int = 5,                           # tipo de búsqueda 
-                 chroma_directory: str = "chroma",                           # directorio de chroma
+                 chroma_directory: str = "chroma",                                      # directorio de chroma
                  docs_directory: str = "my_data",                                       # directorio de documentos                 
                  reranker_model: str = "BAAI/bge-reranker-v2-m3",                       # modelo para reranking
                  top_n: int = 3,                                                        # documentos recuperador por el reranker
+                 prompt_template: str = default_prompt
                  ):
         
         if language_model == "mistral-small-latest":
@@ -68,23 +85,7 @@ class Chatbot:
             )
             
 
-        self.prompt_template = PromptTemplate.from_template(
-            """
-            Eres un asistente que responde preguntas usando SOLO y ÚNICAMENTE el contexto proporcionado.
-            Si la respuesta NO está en contexto, simplemente dí que no lo sabes y no respondas o te inventes la respuesta.
-            Tus respuestas DEBEN ser detalladas y estar bien estructuradas, organizando la información en párrafos y listas si es necesario.
-            Tus respuestas DEBEN de ser respondidas con las partes de información sacadas del contexto.
-            Tus respuestas NO DEBEN mencionar expresiones como "de acuerdo a la información" o "según el contexto".
-            
-            Si el usuario pide información sobre ayudas, estas también pueden ser subvenciones.            
-            Si el usuario pide información sobre subvenciones, estas también pueden ser ayudas.
-            Todas las preguntas realizadas por el usuario están relacionadas con la DANA (Depresión Aislada en Niveles Altos) sucedida a finales de 2024.
-
-            Aqui tienes la pregunta y el contexto:
-            Pregunta: {question}\n
-            Contexto: {context}\n
-            """
-        )
+        self.prompt_template = PromptTemplate.from_template(prompt_template)
 
         self.hf_cross_encoder = HuggingFaceCrossEncoder(model_name=reranker_model)
         self.compressor = CrossEncoderReranker(model=self.hf_cross_encoder, top_n=top_n)
@@ -262,4 +263,9 @@ class Chatbot:
 
         return documents
 
+    def get_prompt_template(self):
+        return self.prompt_template
+    
+    def set_prompt_template(self, prompt: str):
+        self.prompt_template = PromptTemplate.from_template(prompt)        
         
