@@ -6,6 +6,7 @@ import shutil
 from tkinter import filedialog
 
 from classes.chatbot import Chatbot
+from classes.LLM import EMBEDDING
 
 
 ### Muestra el número de docs que hay en la base de datos ###
@@ -90,7 +91,7 @@ def upload_files():
 
 def update_page():    
     if "chatbot" not in st.session_state:
-        st.session_state["chatbot"] = Chatbot(chroma_directory="chroma/snow_1024")
+        st.session_state["chatbot"] = Chatbot(chroma_directory="chroma/snow_1024", embedding_model=EMBEDDING.SNOWFLAKEv2)
 
     st.set_page_config(page_title="Actualizar ", page_icon="images/icon_blue.png")
     st.logo("images/horizontal_blue.png", icon_image="images/icon_blue.png")

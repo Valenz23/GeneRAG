@@ -3,7 +3,7 @@ import streamlit as st
 from langchain_core.messages import AIMessage, HumanMessage
 
 from classes.chatbot import Chatbot
-from classes.LLM import LLM
+from classes.LLM import LLM, EMBEDDING
 
 
 ### Cambiar el modelo de lenguaje ###
@@ -21,15 +21,7 @@ def query(question: str):
     chatbot = st.session_state["chatbot"]
     retriever = chatbot.get_retriever()
 
-    # print(retriever)
-
-    # results = chatbot.get_retriever().batch([question]) # otra forma
-    # results = results[0]
-    # results = retriever.get_relevant_documents(question) # deprecated
-
-    results = retriever.invoke(question) # updated form
-
-    # context = "\n\n---\n\n".join([doc.page_content for doc in results[0]]) # contexto
+    results = retriever.invoke(question) 
     context = "\n\n---\n\n".join([doc.page_content for doc in results]) # contexto
     metadata = [    # metadatos
         {            
@@ -62,7 +54,7 @@ def query(question: str):
 def main_page():
 
     if "chatbot" not in st.session_state:
-        st.session_state["chatbot"] = Chatbot(chroma_directory="chroma_nomic_512")
+        st.session_state["chatbot"] = Chatbot(chroma_directory="chroma/snow_1024", embedding_model=EMBEDDING.SNOWFLAKEv2)
 
     if "chat_history" not in st.session_state:
         st.session_state.chat_history = [AIMessage(content="¡Hola! Soy un asistente virtual. ¿En qué puedo ayudarte?")]
@@ -85,15 +77,8 @@ def main_page():
     st.sidebar.write("---")
 
     st.sidebar.radio(
-        "Seleccione una estrategia de recuperación",
-        ["similarity", "mmr", "tfidf", "bm25", "grafo"],
-        captions=[
-            "Similaridad coseno",
-            "Maximal marginal relevance",
-            "TF-IDF",
-            "BM25",
-            "GraphRag"    
-        ],
+        "Seleccione una estrategia de búsqueda",
+        ["Similarity", "MMR", "TF-IDF", "BM25", "Grafo"],
         key="search_type",
         on_change=set_search_type
     )

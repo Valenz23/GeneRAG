@@ -185,6 +185,8 @@ class Chatbot:
     ################################################################################################
     
     ### Retorna el stream con la respuesta ###
+
+    # version stream
     def answer_query(self, query: str, context: str):
         query_chain = (
             {"context": self.retriever, "question": RunnablePassthrough(), "context": RunnablePassthrough()}
@@ -194,6 +196,7 @@ class Chatbot:
         )
         return query_chain.stream({"question": query, "context": context})
     
+     # version invoke
     def answer_query2(self, query: str, context: str):
         query_chain = (
             {"context": self.retriever, "question": RunnablePassthrough(), "context": RunnablePassthrough()}
