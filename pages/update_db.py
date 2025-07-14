@@ -15,7 +15,7 @@ def get_existing_docs():
     existing_items = db.get(include=[])
     existing_ids = set(existing_items["ids"])
     st.markdown("---")
-    st.markdown(f"Número de documentos existentes en la base de datos: {len(existing_ids)}")
+    st.markdown(f'Número de documentos existentes en la base de datos: **<span style="color:#fc6b04">{len(existing_ids)}</span>**', unsafe_allow_html=True)
 
 
 ### Abre una ventana para seleccionar la carpeta desde la que cargar los documentos ###
@@ -93,8 +93,8 @@ def update_page():
     if "chatbot" not in st.session_state:
         st.session_state["chatbot"] = Chatbot(chroma_directory="chroma/snow_1024", embedding_model=EMBEDDING.SNOWFLAKEv2)
 
-    st.set_page_config(page_title="Actualizar ", page_icon="images/icon_blue.png")
-    st.logo("images/horizontal_blue.png", icon_image="images/icon_blue.png")
+    st.set_page_config(page_title="Actualizar", page_icon="images/icon_logo.png")
+    st.logo("images/horizontal_logo.png", icon_image="images/icon_logo.png")
 
     st.header("Actualizar la base de datos")
 

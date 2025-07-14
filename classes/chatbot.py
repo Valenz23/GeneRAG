@@ -221,7 +221,6 @@ class Chatbot:
         return self.compression_retriever
     
     def set_search_type(self, search_type: str, k: int = 5):
-        # print(f"Busqueda por: {search_type}")
         if search_type == "similarity" or search_type == "mmr":
           self.retriever = self.vector_store.as_retriever(search_type=search_type,search_kwargs={"k": k})  
         elif search_type == "tfidf":
@@ -244,11 +243,18 @@ class Chatbot:
 
     def get_language_model(self):
         return self.language_model
+    
     def set_language_model(self, language_model: str, num_ctx: int = 4096):
         if language_model == "mistral-small-latest":
-            self.language_model = ChatMistralAI(model=language_model, mistral_api_key=MISTRAL_API_KEY,temperature=0, random_seed=12345)
+            self.language_model = ChatMistralAI(
+                model=language_model, 
+                mistral_api_key=MISTRAL_API_KEY,
+                temperature=0, random_seed=12345)
         else:        
-            self.language_model = ChatOllama(model=language_model, num_ctx=num_ctx, temperature=0, seed=12345)
+            self.language_model = ChatOllama(
+                model=language_model, 
+                num_ctx=num_ctx, 
+                temperature=0, seed=12345)
 
     def __get_documents_from_chroma(self):
         """ Extrae los documentos del vector store y los convierte a objetos Document """
@@ -258,8 +264,6 @@ class Chatbot:
         ids = chroma_data['ids']
         contents = chroma_data['documents']
         metadatas = chroma_data['metadatas']
-
-        # print(metadatas[0:3])
 
         for doc_id, content, metadata in zip(ids, contents, metadatas):
             documents.append(Document(page_content=content, metadata=metadata))

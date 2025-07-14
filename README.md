@@ -1,17 +1,31 @@
-# GeneRAG
+# ![GeneRAG](images/horizontal_logo.png)
 
 <br>  
 
 **👨‍💻 Autor:** Pablo Valenzuela Álvarez  
-**📚 Director:** David Griol Barres  
+**📚 Director:** David Griol Barres y Zoraida Callejas Carrión  
 
-## 📌 Resumen (en proceso)
+## <img src="images/icon_logo.png" alt="logo" width="20"/> Resumen (en proceso)
 
 Este es el repositorio de mi TFM, cuyo tema es la creación de un sistema RAG.
 
 Como corpus se han utilizado documentos del BOE relacionados con la DANA. El objetivo es asistir en la respuesta facilitando cualquier información contenida en los documentos.
 
 Se han utilizado técnicas de integración continua (CI/CD) para la obtención de documentos, y de testeo sobre la calidad de respuesta del RAG.
+
+( ... )
+
+## 🖼️ Capturas
+
+<figure>
+  <img src="images/interfaz_main.png" alt="main" width="450"/>
+  <figcaption>Figura 1: Página principal de la aplicación</figcaption>
+</figure>
+
+<figure>
+  <img src="images/interfaz-update.png" alt="update" width="450"/>
+  <figcaption>Figura 2: Página de actualización de la base de datos</figcaption>
+</figure>
 
 ## ⚙️ Tecnologías usadas  
 
