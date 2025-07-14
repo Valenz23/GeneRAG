@@ -3,7 +3,7 @@
 <br>  
 
 **👨‍💻 Autor:** Pablo Valenzuela Álvarez  
-**📚 Director:** David Griol Barres y Zoraida Callejas Carrión  
+**📚 Directores:** David Griol Barres y Zoraida Callejas Carrión  
 
 ## <img src="images/icon_logo.png" alt="logo" width="20"/> Resumen (en proceso)
 
