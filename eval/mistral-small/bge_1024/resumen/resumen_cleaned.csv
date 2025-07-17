@@ -1,0 +1,11 @@
+accuracy,faithfulness,groundedness,relevance,estrategia
+3.53,4.88,4.7,4.5,bm25
+3.27,4.88,4.69,4.31,grafo
+3.34,4.89,4.69,4.43,mmr
+3.35,4.86,4.74,4.42,similarity
+3.68,4.87,4.77,4.61,tfidf
+3.59,4.93,4.76,4.57,bm25_rr
+3.42,4.89,4.71,4.35,grafo_rr
+3.47,4.88,4.78,4.54,mmr_rr
+3.56,4.88,4.8,4.55,similarity_rr
+3.78,4.91,4.87,4.76,tfidf_rr
