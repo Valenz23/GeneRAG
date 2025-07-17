@@ -37,8 +37,11 @@ Si el usuario pide información sobre subvenciones, estas también pueden ser ay
 Todas las preguntas realizadas por el usuario están relacionadas con la DANA (Depresión Aislada en Niveles Altos) sucedida a finales de 2024.
 
 Aqui tienes la pregunta y el contexto:
+
 Pregunta: {question}\n
+
 Contexto: {context}\n
+
 """
 
 class Chatbot:
