@@ -1,0 +1,1253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <sumario>
+      <metadatos>
+        <publicacion>BOE</publicacion>
+        <fecha_publicacion>20250719</fecha_publicacion>
+      </metadatos>
+      <diario numero="173">
+        <sumario_diario>
+          <identificador>BOE-S-2025-173</identificador>
+          <url_pdf szBytes="315433" szKBytes="308">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-S-2025-173.pdf</url_pdf>
+        </sumario_diario>
+        <seccion codigo="1" nombre="I. Disposiciones generales">
+          <departamento codigo="5140" nombre="MINISTERIO DE HACIENDA">
+            <epigrafe nombre="Tabaco. Precios">
+              <item>
+                <identificador>BOE-A-2025-14963</identificador>
+                <control>2025/11454</control>
+                <titulo>Resolución de 18 de julio de 2025, de la Presidencia del Comisionado para el Mercado de Tabacos, por la que se publican los precios de venta al público de determinadas labores de tabaco en Expendedurías de Tabaco y Timbre del área de Península y Baleares.</titulo>
+                <url_pdf szBytes="218114" szKBytes="213" pagina_inicial="96949" pagina_final="96950">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14963.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14963</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14963</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="3120" nombre="MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN">
+            <epigrafe nombre="Organización">
+              <item>
+                <identificador>BOE-A-2025-14964</identificador>
+                <control>2025/11313</control>
+                <titulo>Orden APA/766/2025, de 15 de julio, por la que se establece la composición y funcionamiento del Comité de Participación en el marco del Consejo Interministerial de Organismos Modificados Genéticamente.</titulo>
+                <url_pdf szBytes="217929" szKBytes="213" pagina_inicial="96951" pagina_final="96955">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14964.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14964</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14964</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="2A" nombre="II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias">
+          <departamento codigo="7320" nombre="MINISTERIO DEL INTERIOR">
+            <epigrafe nombre="Destinos">
+              <item>
+                <identificador>BOE-A-2025-14965</identificador>
+                <control>2025/11464</control>
+                <titulo>Resolución de 14 de julio de 2025, de la Subsecretaría, por la que se resuelve el concurso específico, convocado por Resolución de 19 de febrero de 2025, en la Entidad Estatal de Derecho Público Trabajo Penitenciario y Formación para el Empleo.</titulo>
+                <url_pdf szBytes="193809" szKBytes="189" pagina_inicial="96956" pagina_final="96956">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14965.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14965</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14965</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="310" nombre="UNIVERSIDADES">
+            <epigrafe nombre="Nombramientos">
+              <item>
+                <identificador>BOE-A-2025-14966</identificador>
+                <control>2025/11329</control>
+                <titulo>Resolución de 3 de julio de 2025, de la Universidad de las Illes Balears, por la que se nombran Profesoras y Profesores Titulares de Universidad.</titulo>
+                <url_pdf szBytes="192185" szKBytes="188" pagina_inicial="96957" pagina_final="96957">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14966.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14966</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14966</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14967</identificador>
+                <control>2025/11231</control>
+                <titulo>Resolución de 7 de julio de 2025, de la Universidad de Salamanca, por la que se nombra Profesor Titular de Universidad a don Javier Parra Domínguez.</titulo>
+                <url_pdf szBytes="192458" szKBytes="188" pagina_inicial="96958" pagina_final="96958">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14967.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14967</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14967</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14968</identificador>
+                <control>2025/11232</control>
+                <titulo>Resolución de 7 de julio de 2025, de la Universidad de Salamanca, por la que se nombra Profesora Titular de Universidad a doña Beatriz Graña Otero.</titulo>
+                <url_pdf szBytes="192656" szKBytes="188" pagina_inicial="96959" pagina_final="96959">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14968.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14968</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14968</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14969</identificador>
+                <control>2025/11059</control>
+                <titulo>Resolución de 8 de julio de 2025, de la Universidad Complutense de Madrid, por la que se nombra Profesora Titular de Universidad a doña Rocío Araceli Badía Fumaz.</titulo>
+                <url_pdf szBytes="192219" szKBytes="188" pagina_inicial="96960" pagina_final="96960">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14969.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14969</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14969</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14970</identificador>
+                <control>2025/11233</control>
+                <titulo>Resolución de 8 de julio de 2025, de la Universidad de Huelva, por la que se nombra Profesor Titular de Universidad a don Carlos Ruiz Cánovas.</titulo>
+                <url_pdf szBytes="191830" szKBytes="187" pagina_inicial="96961" pagina_final="96961">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14970.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14970</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14970</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14971</identificador>
+                <control>2025/11234</control>
+                <titulo>Resolución de 8 de julio de 2025, de la Universidad de Huelva, por la que se nombra Profesor Titular de Universidad a don César Antonio Rodríguez González.</titulo>
+                <url_pdf szBytes="192589" szKBytes="188" pagina_inicial="96962" pagina_final="96962">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14971.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14971</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14971</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14972</identificador>
+                <control>2025/11236</control>
+                <titulo>Resolución de 9 de julio de 2025, de la Universidad de Málaga, por la que se nombran Profesoras y Profesores Titulares de Universidad.</titulo>
+                <url_pdf szBytes="193125" szKBytes="189" pagina_inicial="96963" pagina_final="96963">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14972.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14972</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14972</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14973</identificador>
+                <control>2025/11237</control>
+                <titulo>Resolución de 9 de julio de 2025, de la Universidad Rey Juan Carlos, por la que se nombra Catedrático de Universidad a don Carlos Horacio Lozano Ascencio.</titulo>
+                <url_pdf szBytes="191681" szKBytes="187" pagina_inicial="96964" pagina_final="96964">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14973.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14973</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14973</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14974</identificador>
+                <control>2025/11238</control>
+                <titulo>Resolución de 9 de julio de 2025, de la Universidad Rey Juan Carlos, por la que se nombra Catedrático de Universidad a don Pablo Manuel Martínez de Anguita D'Huart.</titulo>
+                <url_pdf szBytes="192339" szKBytes="188" pagina_inicial="96965" pagina_final="96965">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14974.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14974</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14974</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14975</identificador>
+                <control>2025/11158</control>
+                <titulo>Resolución de 10 de julio de 2025, conjunta de la Universidad Autónoma de Barcelona y el Instituto Catalán de la Salud, por la que se nombra Catedrático de Universidad a don Roberto Muga Bustamante.</titulo>
+                <url_pdf szBytes="192020" szKBytes="188" pagina_inicial="96966" pagina_final="96966">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14975.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14975</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14975</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14976</identificador>
+                <control>2025/11160</control>
+                <titulo>Resolución de 10 de julio de 2025, de la Universidad Nacional de Educación a Distancia, por la que se nombra Profesora Titular de Universidad a doña María José Mudarra Sánchez.</titulo>
+                <url_pdf szBytes="191507" szKBytes="187" pagina_inicial="96967" pagina_final="96967">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14976.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14976</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14976</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14977</identificador>
+                <control>2025/11398</control>
+                <titulo>Resolución de 4 de julio de 2025, de la Universidad Politécnica de Cartagena, por la que se corrigen errores en la de 19 de junio de 2025, por la que se nombra Catedrático de Universidad a don Juan Carlos Trillo Moya.</titulo>
+                <url_pdf szBytes="195844" szKBytes="191" pagina_inicial="96968" pagina_final="96968">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14977.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14977</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14977</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="2B" nombre="II. Autoridades y personal. - B. Oposiciones y concursos">
+          <departamento codigo="6110" nombre="MINISTERIO DE DEFENSA">
+            <epigrafe nombre="Cuerpo de la Guardia Civil">
+              <item>
+                <identificador>BOE-A-2025-14978</identificador>
+                <control>2025/11420</control>
+                <titulo>Resolución 160/38348/2025, de 16 de julio, de la Jefatura de Enseñanza de la Guardia Civil, por la que se publica la relación provisional de las personas admitidas y excluidas y se anuncia fecha, hora y lugar de celebración de la primera prueba de la convocatoria de las pruebas selectivas para el ingreso en los centros docentes de formación para la incorporación a la Escala de Cabos y Guardias del Cuerpo de la Guardia Civil, convocadas por Resolución 160/38240/2025, de 23 de mayo.</titulo>
+                <url_pdf szBytes="206561" szKBytes="202" pagina_inicial="96969" pagina_final="96971">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14978.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14978</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14978</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9591" nombre="MINISTERIO DE INDUSTRIA Y TURISMO">
+            <epigrafe nombre="Escala de Titulados Superiores de Organismos Autónomos del Ministerio de Industria, Comercio y Turismo">
+              <item>
+                <identificador>BOE-A-2025-14979</identificador>
+                <control>2025/11245</control>
+                <titulo>Resolución de 10 de julio de 2025, de la Subsecretaría, por la que se publica la relación de personas aprobadas en el proceso selectivo para el ingreso, por el sistema general de acceso libre, en la Escala de Titulados Superiores de Organismos Autónomos del Ministerio de Industria, Comercio y Turismo, especialidad de Propiedad Industrial, convocado por Resolución de 9 de diciembre de 2024.</titulo>
+                <url_pdf szBytes="224804" szKBytes="220" pagina_inicial="96972" pagina_final="96974">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14979.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14979</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14979</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9525" nombre="ADMINISTRACIÓN LOCAL">
+            <epigrafe nombre="Personal funcionario y laboral">
+              <item>
+                <identificador>BOE-A-2025-14980</identificador>
+                <control>2025/103616</control>
+                <titulo>Resolución de 30 de junio de 2025, del Ayuntamiento de Santiago del Teide (Santa Cruz de Tenerife), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190998" szKBytes="187" pagina_inicial="96975" pagina_final="96975">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14980.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14980</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14980</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14981</identificador>
+                <control>2025/103692</control>
+                <titulo>Resolución de 7 de julio de 2025, del Ayuntamiento de Oviedo (Asturias), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190461" szKBytes="186" pagina_inicial="96976" pagina_final="96976">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14981.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14981</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14981</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14982</identificador>
+                <control>2025/103609</control>
+                <titulo>Resolución de 8 de julio de 2025, del Ayuntamiento de Boadilla del Monte (Madrid), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190518" szKBytes="186" pagina_inicial="96977" pagina_final="96977">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14982.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14982</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14982</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14983</identificador>
+                <control>2025/103610</control>
+                <titulo>Resolución de 9 de julio de 2025, del Ayuntamiento de Boadilla del Monte (Madrid), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190846" szKBytes="186" pagina_inicial="96978" pagina_final="96978">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14983.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14983</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14983</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14984</identificador>
+                <control>2025/103612</control>
+                <titulo>Resolución de 9 de julio de 2025, del Ayuntamiento de Níjar (Almería), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190908" szKBytes="186" pagina_inicial="96979" pagina_final="96979">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14984.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14984</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14984</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14985</identificador>
+                <control>2025/103604</control>
+                <titulo>Resolución de 10 de julio de 2025, del Ayuntamiento de Caldes de Montbui (Barcelona), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="191111" szKBytes="187" pagina_inicial="96980" pagina_final="96980">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14985.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14985</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14985</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14986</identificador>
+                <control>2025/103605</control>
+                <titulo>Resolución de 10 de julio de 2025, del Ayuntamiento de Barbate (Cádiz), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190592" szKBytes="186" pagina_inicial="96981" pagina_final="96981">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14986.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14986</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14986</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14987</identificador>
+                <control>2025/103606</control>
+                <titulo>Resolución de 10 de julio de 2025, del Ayuntamiento de Altura (Castellón/Castelló), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190857" szKBytes="186" pagina_inicial="96982" pagina_final="96982">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14987.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14987</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14987</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14988</identificador>
+                <control>2025/103607</control>
+                <titulo>Resolución de 10 de julio de 2025, de la Diputación Provincial de Tarragona, referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190746" szKBytes="186" pagina_inicial="96983" pagina_final="96983">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14988.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14988</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14988</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14989</identificador>
+                <control>2025/103608</control>
+                <titulo>Resolución de 10 de julio de 2025, del Ayuntamiento de Andratx (Illes Balears), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190906" szKBytes="186" pagina_inicial="96984" pagina_final="96984">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14989.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14989</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14989</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14990</identificador>
+                <control>2025/103615</control>
+                <titulo>Resolución de 10 de julio de 2025, del Ayuntamiento de Talavera de la Reina (Toledo), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190258" szKBytes="186" pagina_inicial="96985" pagina_final="96985">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14990.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14990</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14990</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14991</identificador>
+                <control>2025/103618</control>
+                <titulo>Resolución de 10 de julio de 2025, del Ayuntamiento de Xirivella (Valencia/València), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="191056" szKBytes="187" pagina_inicial="96986" pagina_final="96986">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14991.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14991</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14991</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14992</identificador>
+                <control>2025/103622</control>
+                <titulo>Resolución de 10 de julio de 2025, del Ayuntamiento de Aldaia (Valencia/València), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190481" szKBytes="186" pagina_inicial="96987" pagina_final="96987">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14992.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14992</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14992</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14993</identificador>
+                <control>2025/103631</control>
+                <titulo>Resolución de 10 de julio de 2025, del Ayuntamiento de Granadilla de Abona (Santa Cruz de Tenerife), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="191304" szKBytes="187" pagina_inicial="96988" pagina_final="96988">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14993.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14993</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14993</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14994</identificador>
+                <control>2025/103712</control>
+                <titulo>Resolución de 10 de julio de 2025, del Ayuntamiento de Urretxu (Gipuzkoa), que deja sin efecto la de 30 de junio de 2025, referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190164" szKBytes="186" pagina_inicial="96989" pagina_final="96989">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14994.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14994</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14994</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14995</identificador>
+                <control>2025/103611</control>
+                <titulo>Resolución de 11 de julio de 2025, del Ayuntamiento de Rueda (Valladolid), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190009" szKBytes="186" pagina_inicial="96990" pagina_final="96990">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14995.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14995</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14995</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14996</identificador>
+                <control>2025/103613</control>
+                <titulo>Resolución de 11 de julio de 2025, del Ayuntamiento de Calasparra (Murcia), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190389" szKBytes="186" pagina_inicial="96991" pagina_final="96991">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14996.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14996</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14996</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14997</identificador>
+                <control>2025/103614</control>
+                <titulo>Resolución de 11 de julio de 2025, del Ayuntamiento de Gandia (Valencia/València), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190653" szKBytes="186" pagina_inicial="96992" pagina_final="96992">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14997.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14997</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14997</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14998</identificador>
+                <control>2025/103617</control>
+                <titulo>Resolución de 11 de julio de 2025, del Ayuntamiento de Torrejón de Velasco (Madrid), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190221" szKBytes="186" pagina_inicial="96993" pagina_final="96993">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14998.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14998</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14998</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-14999</identificador>
+                <control>2025/103619</control>
+                <titulo>Resolución de 11 de julio de 2025, del Ayuntamiento de València (Valencia/València), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190743" szKBytes="186" pagina_inicial="96994" pagina_final="96994">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-14999.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14999</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-14999</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-15000</identificador>
+                <control>2025/103620</control>
+                <titulo>Resolución de 11 de julio de 2025, del Ayuntamiento de Alcolea de Calatrava (Ciudad Real), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="189825" szKBytes="185" pagina_inicial="96995" pagina_final="96995">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15000.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15000</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15000</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-15001</identificador>
+                <control>2025/103621</control>
+                <titulo>Resolución de 11 de julio de 2025, del Ayuntamiento de Turégano (Segovia), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190211" szKBytes="186" pagina_inicial="96996" pagina_final="96996">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15001.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15001</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15001</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-15002</identificador>
+                <control>2025/103623</control>
+                <titulo>Resolución de 11 de julio de 2025, de la Diputación Provincial de Granada, referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190192" szKBytes="186" pagina_inicial="96997" pagina_final="96997">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15002.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15002</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15002</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-15003</identificador>
+                <control>2025/103624</control>
+                <titulo>Resolución de 11 de julio de 2025, del Ayuntamiento de Vilanova i la Geltrú (Barcelona), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190369" szKBytes="186" pagina_inicial="96998" pagina_final="96998">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15003.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15003</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15003</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-15004</identificador>
+                <control>2025/103625</control>
+                <titulo>Resolución de 11 de julio de 2025, del Ayuntamiento de Las Navas del Marqués (Ávila), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190922" szKBytes="186" pagina_inicial="96999" pagina_final="96999">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15004.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15004</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15004</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-15005</identificador>
+                <control>2025/103626</control>
+                <titulo>Resolución de 11 de julio de 2025, del Ayuntamiento de Azuqueca de Henares (Guadalajara), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190382" szKBytes="186" pagina_inicial="97000" pagina_final="97000">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15005.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15005</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15005</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-15006</identificador>
+                <control>2025/103627</control>
+                <titulo>Resolución de 11 de julio de 2025, del Ayuntamiento de Alhaurín el Grande (Málaga), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="191256" szKBytes="187" pagina_inicial="97001" pagina_final="97001">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15006.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15006</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15006</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-15007</identificador>
+                <control>2025/103628</control>
+                <titulo>Resolución de 11 de julio de 2025, del Ayuntamiento de Vic (Barcelona), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190222" szKBytes="186" pagina_inicial="97002" pagina_final="97002">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15007.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15007</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15007</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-15008</identificador>
+                <control>2025/103629</control>
+                <titulo>Resolución de 11 de julio de 2025, de la Diputación Provincial de Badajoz, referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190124" szKBytes="186" pagina_inicial="97003" pagina_final="97003">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15008.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15008</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15008</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-15009</identificador>
+                <control>2025/103630</control>
+                <titulo>Resolución de 11 de julio de 2025, del Ayuntamiento de Xàbia/Jávea (Alicante/Alacant), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190433" szKBytes="186" pagina_inicial="97004" pagina_final="97004">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15009.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15009</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15009</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-15010</identificador>
+                <control>2025/103632</control>
+                <titulo>Resolución de 11 de julio de 2025, del Ayuntamiento de Xàbia/Jávea (Alicante/Alacant), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="191697" szKBytes="187" pagina_inicial="97005" pagina_final="97005">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15010.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15010</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15010</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="310" nombre="UNIVERSIDADES">
+            <epigrafe nombre="Cuerpos docentes universitarios">
+              <item>
+                <identificador>BOE-A-2025-15011</identificador>
+                <control>2025/11247</control>
+                <titulo>Resolución de 7 de julio de 2025, de la Universidad de Málaga, por la que se modifica la composición de la Comisión evaluadora del concurso de acceso a plaza vinculada de cuerpos docentes universitarios, convocado por Resolución de 19 de marzo de 2025.</titulo>
+                <url_pdf szBytes="193262" szKBytes="189" pagina_inicial="97006" pagina_final="97006">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15011.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15011</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15011</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-15012</identificador>
+                <control>2025/11428</control>
+                <titulo>Resolución de 9 de julio de 2025, de la Universidad Complutense de Madrid, por la que se convoca concurso para la provisión de plazas de cuerpos docentes universitarios.</titulo>
+                <url_pdf szBytes="280980" szKBytes="274" pagina_inicial="97007" pagina_final="97015">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15012.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15012</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15012</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="3" nombre="III. Otras disposiciones">
+          <departamento codigo="1820" nombre="CONSEJO GENERAL DEL PODER JUDICIAL">
+            <epigrafe nombre="Tribunales Superiores de Justicia">
+              <item>
+                <identificador>BOE-A-2025-15013</identificador>
+                <control>2025/11176</control>
+                <titulo>Acuerdo de 8 de julio de 2025, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se publica el Acuerdo de la Sala de Gobierno del Tribunal Superior de Justicia de Andalucía, Ceuta y Melilla, sobre normas de reparto de la Sala Especial de Casación Autonómica.</titulo>
+                <url_pdf szBytes="197251" szKBytes="193" pagina_inicial="97016" pagina_final="97017">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15013.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15013</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15013</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9585" nombre="MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES">
+            <epigrafe nombre="Comunidad de Madrid. Convenio">
+              <item>
+                <identificador>BOE-A-2025-15014</identificador>
+                <control>2025/11431</control>
+                <titulo>Resolución de 14 de julio de 2025, de la Gerencia del Consejo de Administración del Patrimonio Nacional, por la que se publica el Convenio con la Comunidad de Madrid, para la realización de prácticas académicas externas de los alumnos de la Escuela Superior de Conservación y Restauración de Bienes Culturales.</titulo>
+                <url_pdf szBytes="351944" szKBytes="344" pagina_inicial="97018" pagina_final="97037">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15014.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15014</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15014</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-15015</identificador>
+                <control>2025/11500</control>
+                <titulo>Resolución de 18 de julio de 2025, de la Secretaría de Estado de Justicia, por la que se publica el Convenio con la Fundación General de la Universidad Complutense de Madrid, M.P., para la organización del curso «Justicia en España: La mayor transformación en décadas».</titulo>
+                <url_pdf szBytes="267482" szKBytes="261" pagina_inicial="97038" pagina_final="97045">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15015.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15015</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15015</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Convenios">
+              <item>
+                <identificador>BOE-A-2025-15016</identificador>
+                <control>2025/11253</control>
+                <titulo>Resolución de 11 de julio de 2025, de la Subsecretaría, por la que se publica el Convenio de asistencia jurídica entre la Abogacía General del Estado y la Sociedad Estatal Navantia, SA, S.M.E.</titulo>
+                <url_pdf szBytes="222061" szKBytes="217" pagina_inicial="97046" pagina_final="97050">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15016.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15016</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15016</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-15017</identificador>
+                <control>2025/11255</control>
+                <titulo>Resolución de 11 de julio de 2025, de la Subsecretaría, por la que se publica el Convenio entre el Ministerio de Cultura y la Sociedad Estatal Correos y Telégrafos, SA, S.M.E., para el apoyo a los libreros y libreras españoles.</titulo>
+                <url_pdf szBytes="701414" szKBytes="685" pagina_inicial="97051" pagina_final="97068">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15017.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15017</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15017</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-15018</identificador>
+                <control>2025/11260</control>
+                <titulo>Resolución de 11 de julio de 2025, de la Subsecretaría, por la que se publica el Convenio entre la Agencia Estatal de Administración Digital y la Agencia Española de Cooperación Internacional para el Desarrollo, para la prestación del servicio centralizado de Nómina Estándar de la Administración General del Estado y el Servicio de Visualización de Nóminas Servinómina.</titulo>
+                <url_pdf szBytes="295563" szKBytes="289" pagina_inicial="97069" pagina_final="97083">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15018.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15018</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15018</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-15019</identificador>
+                <control>2025/11265</control>
+                <titulo>Resolución de 11 de julio de 2025, de la Subsecretaría, por la que se publica la Adenda de modificación y prórroga del Convenio entre el Instituto de Mayores y Servicios Sociales y el Instituto Nacional de Estadística, O.A., sobre el acceso a la base padronal del INE.</titulo>
+                <url_pdf szBytes="219445" szKBytes="214" pagina_inicial="97084" pagina_final="97088">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15019.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15019</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15019</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Recursos">
+              <item>
+                <identificador>BOE-A-2025-15020</identificador>
+                <control>2025/11498</control>
+                <titulo>Resolución de 14 de julio de 2025, de la Secretaría General Técnica-Secretariado del Gobierno, por la que se acuerda la remisión del expediente administrativo correspondiente a los recursos contencioso-administrativos 1/172/2025, 1/179/2025 y 1/198/2025, interpuestos ante el Tribunal Supremo, Sala de lo Contencioso-Administrativo, Sección Cuarta, y se emplaza a las personas interesadas.</titulo>
+                <url_pdf szBytes="192549" szKBytes="188" pagina_inicial="97089" pagina_final="97089">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15020.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15020</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15020</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="6110" nombre="MINISTERIO DE DEFENSA">
+            <epigrafe nombre="Recursos">
+              <item>
+                <identificador>BOE-A-2025-15021</identificador>
+                <control>2025/11000</control>
+                <titulo>Resolución 160/38021/2025, de 7 de julio, de la Jefatura de Enseñanza de la Guardia Civil, por la que se emplaza a las personas interesadas en el recurso contencioso-administrativo 226/2025, interpuesto ante el Tribunal Superior de Justicia de Madrid, Sala de lo Contencioso-Administrativo, Sección Sexta.</titulo>
+                <url_pdf szBytes="191861" szKBytes="187" pagina_inicial="97090" pagina_final="97090">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15021.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15021</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15021</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-15022</identificador>
+                <control>2025/11001</control>
+                <titulo>Resolución 160/38318/2025, de 7 de julio, de la Jefatura de Enseñanza de la Guardia Civil, por la que se emplaza a las personas interesadas en el recurso contencioso-administrativo 629/2025, interpuesto ante el Tribunal Superior de Justicia de Andalucía, Ceuta y Melilla, Sala de lo Contencioso-Administrativo, con sede en Granada.</titulo>
+                <url_pdf szBytes="192185" szKBytes="188" pagina_inicial="97091" pagina_final="97091">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15022.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15022</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15022</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-15023</identificador>
+                <control>2025/11002</control>
+                <titulo>Resolución 160/38319/2025, de 7 de julio, de la Jefatura de Enseñanza de la Guardia Civil, por la que se emplaza a las personas interesadas en el recurso contencioso-administrativo 452/2025, interpuesto ante el Tribunal Superior de Justicia de Madrid, Sala de lo Contencioso-Administrativo, Sección Sexta.</titulo>
+                <url_pdf szBytes="193267" szKBytes="189" pagina_inicial="97092" pagina_final="97092">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15023.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15023</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15023</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-15024</identificador>
+                <control>2025/11004</control>
+                <titulo>Resolución 160/38322/2025, de 7 de julio, de la Jefatura de Enseñanza de la Guardia Civil, por la que se emplaza a las personas interesadas en el recurso contencioso-administrativo 430/2025, interpuesto ante el Tribunal Superior de Justicia de Andalucía, Ceuta y Melilla, Sala de lo Contencioso-Administrativo, con sede en Málaga.</titulo>
+                <url_pdf szBytes="192241" szKBytes="188" pagina_inicial="97093" pagina_final="97093">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15024.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15024</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15024</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="5140" nombre="MINISTERIO DE HACIENDA">
+            <epigrafe nombre="Comunidad Autónoma de Cataluña. Convenio">
+              <item>
+                <identificador>BOE-A-2025-15025</identificador>
+                <control>2025/11268</control>
+                <titulo>Resolución de 14 de julio de 2025, de la Dirección General del Catastro, por la que se publica la Adenda de modificación y prórroga al Convenio con la Agencia Tributaria de Cataluña.</titulo>
+                <url_pdf szBytes="216538" szKBytes="211" pagina_inicial="97094" pagina_final="97098">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15025.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15025</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15025</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Convenios">
+              <item>
+                <identificador>BOE-A-2025-15026</identificador>
+                <control>2025/11270</control>
+                <titulo>Resolución de 14 de julio de 2025, de la Dirección General del Catastro, por la que se publica el Convenio con el Colegio de Economistas de Lugo.</titulo>
+                <url_pdf szBytes="229656" szKBytes="224" pagina_inicial="97099" pagina_final="97105">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15026.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15026</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15026</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="7320" nombre="MINISTERIO DEL INTERIOR">
+            <epigrafe nombre="Convenios">
+              <item>
+                <identificador>BOE-A-2025-15027</identificador>
+                <control>2025/11189</control>
+                <titulo>Resolución de 11 de julio de 2025, de la Secretaría General Técnica, por la que se publica el Convenio entre la Secretaría General de Instituciones Penitenciarias y la Asociación Coordinadora Proyecto Escan, para el cumplimiento de las penas de trabajos en beneficio de la comunidad.</titulo>
+                <url_pdf szBytes="278132" szKBytes="272" pagina_inicial="97106" pagina_final="97113">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15027.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15027</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15027</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9590" nombre="MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES">
+            <epigrafe nombre="Centros docentes">
+              <item>
+                <identificador>BOE-A-2025-15028</identificador>
+                <control>2025/11010</control>
+                <titulo>Orden EFD/767/2025, de 8 de julio, por la que se modifica la autorización del centro docente español de titularidad privada en el exterior «Sant Ermengol» de Andorra la Vella (Principado de Andorra) para la creación de una unidad del primer ciclo de la etapa de educación infantil.</titulo>
+                <url_pdf szBytes="193216" szKBytes="189" pagina_inicial="97114" pagina_final="97114">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15028.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15028</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15028</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Deporte de alto nivel">
+              <item>
+                <identificador>BOE-A-2025-15029</identificador>
+                <control>2025/11093</control>
+                <titulo>Resolución de 2 de julio de 2025, del Consejo Superior de Deportes, por la que se definen las instalaciones y programas deportivos del deporte de alto nivel y se establecen los criterios para su clasificación, a efectos de la concesión de subvenciones.</titulo>
+                <url_pdf szBytes="229747" szKBytes="224" pagina_inicial="97115" pagina_final="97121">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15029.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15029</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15029</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9573" nombre="MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL">
+            <epigrafe nombre="Comunidad Autónoma de Canarias. Convenio">
+              <item>
+                <identificador>BOE-A-2025-15030</identificador>
+                <control>2025/11272</control>
+                <titulo>Resolución de 10 de julio de 2025, de la Secretaría General Técnica, por la que se publica el Convenio con la Comunidad Autónoma de Canarias, para la cesión del uso de la aplicación SERPA.</titulo>
+                <url_pdf szBytes="227564" szKBytes="222" pagina_inicial="97122" pagina_final="97127">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15030.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15030</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15030</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9575" nombre="MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO">
+            <epigrafe nombre="Comunidad Autónoma de Cataluña. Convenio">
+              <item>
+                <identificador>BOE-A-2025-15031</identificador>
+                <control>2025/11365</control>
+                <titulo>Resolución de 3 de julio de 2025, de la Presidencia de la Agencia Estatal de Meteorología, por la que se publica la Adenda de prórroga del Convenio con la Universidad Rovira i Virgili, para la impartición de acciones formativas del Centro Regional de Formación de la Organización Meteorológica Mundial en AEMET.</titulo>
+                <url_pdf szBytes="201172" szKBytes="196" pagina_inicial="97128" pagina_final="97129">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15031.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15031</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15031</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Impacto ambiental">
+              <item>
+                <identificador>BOE-A-2025-15032</identificador>
+                <control>2025/11015</control>
+                <titulo>Resolución de 4 de julio de 2025, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula declaración de impacto ambiental del proyecto «Parque Eólico Campanario IV Híbrido (para su hibridación con el PSF existente Campanario IV) y Parque Eólico Campanario V Híbrido (para su hibridación con el PSF Campanario V), y sus infraestructuras de evacuación, en la provincia de Albacete».</titulo>
+                <url_pdf szBytes="2498602" szKBytes="2440" pagina_inicial="97130" pagina_final="97142">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15032.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15032</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15032</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Instalaciones eléctricas">
+              <item>
+                <identificador>BOE-A-2025-15033</identificador>
+                <control>2025/11014</control>
+                <titulo>Resolución de 3 de julio de 2025, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de Energía Inagotable de Lambda, SL, de autorización administrativa previa de las modificaciones y autorización administrativa de construcción del parque eólico Lambda, de 35 MW de potencia instalada, y de su infraestructura de evacuación, en diversos términos municipales de Huesca.</titulo>
+                <url_pdf szBytes="235386" szKBytes="230" pagina_inicial="97143" pagina_final="97149">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15033.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15033</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15033</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-15034</identificador>
+                <control>2025/11103</control>
+                <titulo>Resolución de 3 de julio de 2025, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de Energía Inagotable de Ómicron, SL, de autorización administrativa previa de las modificaciones y autorización administrativa de construcción del parque eólico Ómicron, de 21 MW de potencia instalada, y de su infraestructura de evacuación, en la provincia de Huesca.</titulo>
+                <url_pdf szBytes="231541" szKBytes="226" pagina_inicial="97150" pagina_final="97156">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15034.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15034</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15034</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="4110" nombre="MINISTERIO DE CULTURA">
+            <epigrafe nombre="Patrimonio histórico. Derecho de tanteo">
+              <item>
+                <identificador>BOE-A-2025-15035</identificador>
+                <control>2025/11104</control>
+                <titulo>Orden CLT/768/2025, de 7 de julio, por la que se ejercita el derecho de tanteo sobre el lote n.º 672, subastado por la sala Durán Sala de Arte, SLU, en Barcelona.</titulo>
+                <url_pdf szBytes="193088" szKBytes="189" pagina_inicial="97157" pagina_final="97157">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15035.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15035</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15035</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-15036</identificador>
+                <control>2025/11105</control>
+                <titulo>Orden CLT/769/2025, de 7 de julio, por la que se ejercita el derecho de tanteo sobre los lotes n.º 268 y 269, subastados por la sala El Remate, en Madrid.</titulo>
+                <url_pdf szBytes="192769" szKBytes="188" pagina_inicial="97158" pagina_final="97158">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15036.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15036</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15036</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-15037</identificador>
+                <control>2025/11106</control>
+                <titulo>Orden CLT/770/2025, de 9 de julio, por la que se ejercita el derecho de tanteo sobre el lote n.º 1169, subastado por la sala Abalarte Subastas Internacionales, SL, en Madrid.</titulo>
+                <url_pdf szBytes="193229" szKBytes="189" pagina_inicial="97159" pagina_final="97159">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15037.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15037</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15037</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2025-15038</identificador>
+                <control>2025/11107</control>
+                <titulo>Orden CLT/771/2025, de 9 de julio, por la que se ejercita el derecho de tanteo sobre el lote n.º 234, subastado por la sala Subastas El Remate, SL, en Madrid.</titulo>
+                <url_pdf szBytes="193796" szKBytes="189" pagina_inicial="97160" pagina_final="97160">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15038.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15038</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15038</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9565" nombre="MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES">
+            <epigrafe nombre="Comunidad Foral de Navarra. Convenio">
+              <item>
+                <identificador>BOE-A-2025-15039</identificador>
+                <control>2025/11449</control>
+                <titulo>Resolución de 15 de julio de 2025, de la Presidencia de la Agencia Estatal del Consejo Superior de Investigaciones Científicas, M.P., por la que publica el Convenio con la Universidad Pública de Navarra, para el desarrollo de prácticas académicas externas de grado y trabajos fin de grado.</titulo>
+                <url_pdf szBytes="325484" szKBytes="318" pagina_inicial="97161" pagina_final="97173">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15039.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15039</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15039</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9579" nombre="MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES">
+            <epigrafe nombre="Comunidad Autónoma de Castilla-La Mancha. Convenio">
+              <item>
+                <identificador>BOE-A-2025-15040</identificador>
+                <control>2025/11281</control>
+                <titulo>Resolución de 11 de julio de 2025, de la Secretaría General Técnica, por la que se publica el Convenio entre la Secretaría de Estado de la Seguridad Social y la Universidad de Castilla-La Mancha, para la realización de prácticas académicas externas curriculares en la Intervención General de la Seguridad Social.</titulo>
+                <url_pdf szBytes="308116" szKBytes="301" pagina_inicial="97174" pagina_final="97180">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15040.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15040</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15040</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="1020" nombre="BANCO DE ESPAÑA">
+            <epigrafe nombre="Mercado de divisas">
+              <item>
+                <identificador>BOE-A-2025-15041</identificador>
+                <control>2025/11524</control>
+                <titulo>Resolución de 18 de julio de 2025, del Banco de España, por la que se publican los cambios del euro correspondientes al día 18 de julio de 2025, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.</titulo>
+                <url_pdf szBytes="216924" szKBytes="212" pagina_inicial="97181" pagina_final="97182">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-A-2025-15041.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-15041</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2025-15041</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="4" nombre="IV. Administración de Justicia">
+          <departamento codigo="9551" nombre="AUDIENCIAS PROVINCIALES">
+            <item>
+              <identificador>BOE-B-2025-26973</identificador>
+              <titulo>CASTELLON DE LA PLANA</titulo>
+              <url_pdf szBytes="198426" szKBytes="194" pagina_inicial="41751" pagina_final="41751">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26973.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26973</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26973</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-26974</identificador>
+              <titulo>GRANADA</titulo>
+              <url_pdf szBytes="198250" szKBytes="194" pagina_inicial="41752" pagina_final="41752">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26974.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26974</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26974</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9546" nombre="JUZGADOS DE PRIMERA INSTANCIA E INSTRUCCIÓN">
+            <item>
+              <identificador>BOE-B-2025-26975</identificador>
+              <titulo>ALCALA DE HENARES</titulo>
+              <url_pdf szBytes="198673" szKBytes="194" pagina_inicial="41753" pagina_final="41753">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26975.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26975</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26975</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-26976</identificador>
+              <titulo>ALCALA REAL</titulo>
+              <url_pdf szBytes="198501" szKBytes="194" pagina_inicial="41754" pagina_final="41754">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26976.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26976</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26976</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-26977</identificador>
+              <titulo>ALCOBENDAS</titulo>
+              <url_pdf szBytes="198766" szKBytes="194" pagina_inicial="41755" pagina_final="41755">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26977.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26977</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26977</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-26978</identificador>
+              <titulo>ALMENDRALEJO</titulo>
+              <url_pdf szBytes="199004" szKBytes="194" pagina_inicial="41756" pagina_final="41756">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26978.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26978</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26978</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-26979</identificador>
+              <titulo>ALMERIA</titulo>
+              <url_pdf szBytes="198223" szKBytes="194" pagina_inicial="41757" pagina_final="41757">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26979.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26979</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26979</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-26980</identificador>
+              <titulo>ALMUNIA DOÑA GODINA</titulo>
+              <url_pdf szBytes="199341" szKBytes="195" pagina_inicial="41758" pagina_final="41758">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26980.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26980</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26980</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-26981</identificador>
+              <titulo>ARRECIFE DE LANZAROTE</titulo>
+              <url_pdf szBytes="198957" szKBytes="194" pagina_inicial="41759" pagina_final="41759">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26981.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26981</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26981</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-26982</identificador>
+              <titulo>AYAMONTE</titulo>
+              <url_pdf szBytes="198757" szKBytes="194" pagina_inicial="41760" pagina_final="41760">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26982.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26982</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26982</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-26983</identificador>
+              <titulo>BADALONA</titulo>
+              <url_pdf szBytes="198460" szKBytes="194" pagina_inicial="41761" pagina_final="41761">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26983.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26983</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26983</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-26984</identificador>
+              <titulo>BARAKALDO</titulo>
+              <url_pdf szBytes="198609" szKBytes="194" pagina_inicial="41762" pagina_final="41762">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26984.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26984</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26984</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-26985</identificador>
+              <titulo>BARCELONA</titulo>
+              <url_pdf szBytes="198802" szKBytes="194" pagina_inicial="41763" pagina_final="41763">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26985.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26985</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26985</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-26986</identificador>
+              <titulo>BURGOS</titulo>
+              <url_pdf szBytes="198817" szKBytes="194" pagina_inicial="41764" pagina_final="41764">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26986.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26986</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26986</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-26987</identificador>
+              <titulo>CACERES</titulo>
+              <url_pdf szBytes="198336" szKBytes="194" pagina_inicial="41765" pagina_final="41765">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26987.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26987</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26987</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-26988</identificador>
+              <titulo>CADIZ</titulo>
+              <url_pdf szBytes="198224" szKBytes="194" pagina_inicial="41766" pagina_final="41766">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26988.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26988</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26988</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-26989</identificador>
+              <titulo>CEUTA</titulo>
+              <url_pdf szBytes="198377" szKBytes="194" pagina_inicial="41767" pagina_final="41767">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26989.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26989</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26989</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-26990</identificador>
+              <titulo>CHICLANA DE LA FRONTERA</titulo>
+              <url_pdf szBytes="198976" szKBytes="194" pagina_inicial="41768" pagina_final="41768">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26990.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26990</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26990</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-26991</identificador>
+              <titulo>CORDOBA</titulo>
+              <url_pdf szBytes="198483" szKBytes="194" pagina_inicial="41769" pagina_final="41769">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26991.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26991</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26991</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-26992</identificador>
+              <titulo>CORDOBA</titulo>
+              <url_pdf szBytes="198485" szKBytes="194" pagina_inicial="41770" pagina_final="41770">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26992.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26992</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26992</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-26993</identificador>
+              <titulo>CORUÑA (A)</titulo>
+              <url_pdf szBytes="199105" szKBytes="194" pagina_inicial="41771" pagina_final="41771">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26993.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26993</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26993</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-26994</identificador>
+              <titulo>EJIDO(EL)</titulo>
+              <url_pdf szBytes="198779" szKBytes="194" pagina_inicial="41772" pagina_final="41772">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26994.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26994</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26994</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-26995</identificador>
+              <titulo>ELX</titulo>
+              <url_pdf szBytes="198090" szKBytes="193" pagina_inicial="41773" pagina_final="41773">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26995.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26995</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26995</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-26996</identificador>
+              <titulo>GRANADA</titulo>
+              <url_pdf szBytes="198416" szKBytes="194" pagina_inicial="41774" pagina_final="41774">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26996.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26996</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26996</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-26997</identificador>
+              <titulo>GUADALAJARA</titulo>
+              <url_pdf szBytes="198527" szKBytes="194" pagina_inicial="41775" pagina_final="41775">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26997.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26997</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26997</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-26998</identificador>
+              <titulo>GUADIX</titulo>
+              <url_pdf szBytes="198696" szKBytes="194" pagina_inicial="41776" pagina_final="41776">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26998.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26998</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26998</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-26999</identificador>
+              <titulo>IGUALADA</titulo>
+              <url_pdf szBytes="198485" szKBytes="194" pagina_inicial="41777" pagina_final="41777">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-26999.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-26999</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-26999</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27000</identificador>
+              <titulo>IGUALADA</titulo>
+              <url_pdf szBytes="198405" szKBytes="194" pagina_inicial="41778" pagina_final="41778">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27000.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27000</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27000</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27001</identificador>
+              <titulo>LAS PALMAS DE GRAN CANARIA</titulo>
+              <url_pdf szBytes="199132" szKBytes="194" pagina_inicial="41779" pagina_final="41779">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27001.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27001</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27001</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27002</identificador>
+              <titulo>LINARES</titulo>
+              <url_pdf szBytes="198577" szKBytes="194" pagina_inicial="41780" pagina_final="41780">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27002.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27002</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27002</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27003</identificador>
+              <titulo>LLEIDA</titulo>
+              <url_pdf szBytes="198199" szKBytes="194" pagina_inicial="41781" pagina_final="41781">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27003.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27003</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27003</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27004</identificador>
+              <titulo>MADRID</titulo>
+              <url_pdf szBytes="198228" szKBytes="194" pagina_inicial="41782" pagina_final="41782">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27004.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27004</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27004</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27005</identificador>
+              <titulo>MADRID</titulo>
+              <url_pdf szBytes="198160" szKBytes="194" pagina_inicial="41783" pagina_final="41783">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27005.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27005</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27005</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27006</identificador>
+              <titulo>MALAGA</titulo>
+              <url_pdf szBytes="198312" szKBytes="194" pagina_inicial="41784" pagina_final="41784">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27006.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27006</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27006</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27007</identificador>
+              <titulo>MARBELLA</titulo>
+              <url_pdf szBytes="198244" szKBytes="194" pagina_inicial="41785" pagina_final="41785">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27007.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27007</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27007</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27008</identificador>
+              <titulo>NOIA</titulo>
+              <url_pdf szBytes="198321" szKBytes="194" pagina_inicial="41786" pagina_final="41786">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27008.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27008</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27008</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27009</identificador>
+              <titulo>NOVELDA</titulo>
+              <url_pdf szBytes="198293" szKBytes="194" pagina_inicial="41787" pagina_final="41787">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27009.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27009</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27009</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27010</identificador>
+              <titulo>NULES</titulo>
+              <url_pdf szBytes="198346" szKBytes="194" pagina_inicial="41788" pagina_final="41788">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27010.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27010</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27010</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27011</identificador>
+              <titulo>ORIHUELA</titulo>
+              <url_pdf szBytes="198543" szKBytes="194" pagina_inicial="41789" pagina_final="41789">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27011.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27011</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27011</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27012</identificador>
+              <titulo>PONFERRADA</titulo>
+              <url_pdf szBytes="198406" szKBytes="194" pagina_inicial="41790" pagina_final="41790">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27012.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27012</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27012</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27013</identificador>
+              <titulo>PUERTO DEL ROSARIO</titulo>
+              <url_pdf szBytes="198946" szKBytes="194" pagina_inicial="41791" pagina_final="41791">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27013.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27013</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27013</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27014</identificador>
+              <titulo>REUS</titulo>
+              <url_pdf szBytes="198189" szKBytes="194" pagina_inicial="41792" pagina_final="41792">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27014.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27014</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27014</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27015</identificador>
+              <titulo>SAN FERNANDO</titulo>
+              <url_pdf szBytes="198684" szKBytes="194" pagina_inicial="41793" pagina_final="41793">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27015.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27015</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27015</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27016</identificador>
+              <titulo>SANTA COLOMA GRAMENET</titulo>
+              <url_pdf szBytes="199191" szKBytes="195" pagina_inicial="41794" pagina_final="41794">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27016.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27016</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27016</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27017</identificador>
+              <titulo>SANTA FE</titulo>
+              <url_pdf szBytes="198520" szKBytes="194" pagina_inicial="41795" pagina_final="41795">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27017.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27017</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27017</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27018</identificador>
+              <titulo>SANTANDER</titulo>
+              <url_pdf szBytes="198542" szKBytes="194" pagina_inicial="41796" pagina_final="41796">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27018.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27018</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27018</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27019</identificador>
+              <titulo>SEVILLA</titulo>
+              <url_pdf szBytes="198244" szKBytes="194" pagina_inicial="41797" pagina_final="41797">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27019.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27019</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27019</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27020</identificador>
+              <titulo>SEVILLA</titulo>
+              <url_pdf szBytes="198353" szKBytes="194" pagina_inicial="41798" pagina_final="41798">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27020.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27020</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27020</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27021</identificador>
+              <titulo>SEVILLA</titulo>
+              <url_pdf szBytes="198342" szKBytes="194" pagina_inicial="41799" pagina_final="41799">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27021.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27021</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27021</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27022</identificador>
+              <titulo>SEVILLA</titulo>
+              <url_pdf szBytes="198296" szKBytes="194" pagina_inicial="41800" pagina_final="41800">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27022.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27022</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27022</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27023</identificador>
+              <titulo>TARRAGONA</titulo>
+              <url_pdf szBytes="198401" szKBytes="194" pagina_inicial="41801" pagina_final="41801">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27023.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27023</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27023</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27024</identificador>
+              <titulo>TORRENT</titulo>
+              <url_pdf szBytes="198312" szKBytes="194" pagina_inicial="41802" pagina_final="41802">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27024.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27024</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27024</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27025</identificador>
+              <titulo>TORREVIEJA</titulo>
+              <url_pdf szBytes="198615" szKBytes="194" pagina_inicial="41803" pagina_final="41803">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27025.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27025</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27025</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27026</identificador>
+              <titulo>TORRIJOS</titulo>
+              <url_pdf szBytes="198650" szKBytes="194" pagina_inicial="41804" pagina_final="41804">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27026.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27026</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27026</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27027</identificador>
+              <titulo>TUDELA</titulo>
+              <url_pdf szBytes="198447" szKBytes="194" pagina_inicial="41805" pagina_final="41805">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27027.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27027</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27027</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27028</identificador>
+              <titulo>VALLS</titulo>
+              <url_pdf szBytes="198495" szKBytes="194" pagina_inicial="41806" pagina_final="41806">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27028.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27028</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27028</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27029</identificador>
+              <titulo>VILLALPANDO</titulo>
+              <url_pdf szBytes="198415" szKBytes="194" pagina_inicial="41807" pagina_final="41807">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27029.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27029</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27029</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27030</identificador>
+              <titulo>VILLANUEVA DE LA SERENA</titulo>
+              <url_pdf szBytes="199124" szKBytes="194" pagina_inicial="41808" pagina_final="41808">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27030.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27030</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27030</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27031</identificador>
+              <titulo>ZARAGOZA</titulo>
+              <url_pdf szBytes="198508" szKBytes="194" pagina_inicial="41809" pagina_final="41809">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27031.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27031</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27031</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27032</identificador>
+              <titulo>ZARAGOZA</titulo>
+              <url_pdf szBytes="198600" szKBytes="194" pagina_inicial="41810" pagina_final="41810">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27032.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27032</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27032</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9547" nombre="JUZGADOS DE LO MERCANTIL">
+            <item>
+              <identificador>BOE-B-2025-27033</identificador>
+              <titulo>MADRID</titulo>
+              <url_pdf szBytes="198160" szKBytes="194" pagina_inicial="41811" pagina_final="41811">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27033.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27033</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27033</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27034</identificador>
+              <titulo>SANTANDER</titulo>
+              <url_pdf szBytes="198167" szKBytes="194" pagina_inicial="41812" pagina_final="41812">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27034.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27034</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27034</url_xml>
+            </item>
+          </departamento>
+        </seccion>
+        <seccion codigo="5A" nombre="V. Anuncios. - A. Contratación del Sector Público">
+          <departamento codigo="4110" nombre="MINISTERIO DE CULTURA">
+            <item>
+              <identificador>BOE-B-2025-27035</identificador>
+              <titulo>Anuncio de licitación de: Junta de Contratación del Ministerio de Cultura y Deporte. Objeto: Conservación-restauración de la portada del Palacio del Marqués de Dos Aguas (Museo Nacional de Cerámica y Artes Suntuarias "González Martí", Valencia) . Expediente: J250046.</titulo>
+              <url_pdf szBytes="207580" szKBytes="203" pagina_inicial="41813" pagina_final="41813">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27035.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27035</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27035</url_xml>
+            </item>
+          </departamento>
+        </seccion>
+        <seccion codigo="5B" nombre="V. Anuncios. - B. Otros anuncios oficiales">
+          <departamento codigo="9590" nombre="MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES">
+            <item>
+              <identificador>BOE-B-2025-27036</identificador>
+              <titulo>Extracto de la Resolución de la Presidencia del Consejo Superior de Deportes, de 18 de julio de 2025, por la que se convocan ayudas para la protección social en el fútbol femenino y aficionado año 2025.</titulo>
+              <url_pdf szBytes="215469" szKBytes="210" pagina_inicial="41814" pagina_final="41816">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27036.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27036</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27036</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9573" nombre="MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL">
+            <item>
+              <identificador>BOE-B-2025-27037</identificador>
+              <titulo>MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL</titulo>
+              <url_pdf szBytes="199390" szKBytes="195" pagina_inicial="41817" pagina_final="41817">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27037.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27037</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27037</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9593" nombre="MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA">
+            <item>
+              <identificador>BOE-B-2025-27038</identificador>
+              <titulo>Anuncio del Área Funcional de Industria y Energía de la Delegación del Gobierno en Galicia, por el que se somete, al trámite de Información Pública (IP), la solicitud de autorización administrativa previa (AAP) y el estudio de impacto ambiental (EsIA), de la instalación «Parque eólico ARNO», de 86,8 MW de potencia instalada, y su infraestructura de evacuación asociada, en los términos municipales de Riotorto, A Pastoriza, A Pontenova, Meira, Pol y Castro de Rei, en la provincia de Lugo. Referencia del expediente: PEol-931.</titulo>
+              <url_pdf szBytes="306538" szKBytes="299" pagina_inicial="41818" pagina_final="41829">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27038.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27038</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27038</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2025-27039</identificador>
+              <titulo>Anuncio de la Dependencia de Industria y Energía de la Subdelegación del Gobierno en Cuenca, por el que se somete al trámite de Información Pública la Solicitud de Autorización Administrativa Previa y la Solicitud de Autorización Administrativa de Construcción para los módulos de almacenamiento por baterías: ALM Aspe, ALM Bañuela, ALM Turbón y ALM Aitana, de 21,69MW cada uno, para su hibridación con los parques fotovoltaicos existentes y su infraestructura de evacuación, en la provincia de Cuenca. PFot-ALM-071 AC.</titulo>
+              <url_pdf szBytes="223127" szKBytes="218" pagina_inicial="41830" pagina_final="41833">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27039.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27039</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27039</url_xml>
+            </item>
+          </departamento>
+        </seccion>
+        <seccion codigo="5C" nombre="V. Anuncios. - C. Anuncios particulares">
+          <departamento codigo="9202" nombre="ANUNCIOS PARTICULARES">
+            <item>
+              <identificador>BOE-B-2025-27040</identificador>
+              <titulo>NOTARÍA DE ANTONIO DÍEZ DE BLAS</titulo>
+              <url_pdf szBytes="198091" szKBytes="193" pagina_inicial="41834" pagina_final="41834">https://www.boe.es/boe/dias/2025/07/19/pdfs/BOE-B-2025-27040.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-27040</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2025-27040</url_xml>
+            </item>
+          </departamento>
+        </seccion>
+      </diario>
+    </sumario>
+  </data>
+</response>
