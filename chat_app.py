@@ -36,7 +36,7 @@ def query(question: str):
     ]
 
     sources_set = {item["id"] for item in metadata if item.get("id")}   
-    sources = "---\n\n**Recursos**:\n\n" + "\n".join(f"\t🔗 {src}" for src in sources_set)
+    sources = "---\n\n**Referencias**:\n\n" + "\n".join(f"\t🔗 {src}" for src in sources_set)
     
     response_text = st.write_stream(
         chatbot.answer_query(question, context)
