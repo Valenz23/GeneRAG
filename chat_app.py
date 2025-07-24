@@ -52,8 +52,8 @@ def main_page():
 
     if "chatbot" not in st.session_state:
         st.session_state["chatbot"] = Chatbot(
-            chroma_directory="chroma/snow_1024", 
-            embedding_model=EMBEDDING.SNOWFLAKEv2,
+            chroma_directory="chroma/te3s", 
+            embedding_model=EMBEDDING.TE3S.value,
             k=10,
             top_n=5
         )

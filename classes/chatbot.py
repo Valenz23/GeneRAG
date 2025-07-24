@@ -1,5 +1,6 @@
 from langchain_ollama import ChatOllama, OllamaEmbeddings
 from langchain_mistralai import ChatMistralAI
+from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.prompts import PromptTemplate
 from langchain_community.document_loaders import PyPDFLoader, PyPDFDirectoryLoader, WebBaseLoader
@@ -24,6 +25,7 @@ from dotenv import load_dotenv
 import os
 load_dotenv()
 MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
+OPEN_API_KEY = os.getenv("OPENAI_API_KEY")
 
 default_prompt = """
 Eres un asistente que responde preguntas usando SOLO y ÚNICAMENTE el contexto proporcionado.
@@ -48,7 +50,7 @@ class Chatbot:
 
     ### Constructor ### 
     def __init__(self, 
-                 language_model: str = "mistral-small-latest", num_ctx: int = 4096,     # modelo de lenguaje //    
+                 language_model: str = LLM.mistral_small.value, num_ctx: int = 4096,     # modelo de lenguaje //    
                  chunk_size: int = 1024, chunk_overlap: int = 100,                      # tamaño de los chunks //   size    -->  [ [512, 50] , [1024, 100] ]
                  embedding_model: str = EMBEDDING.NOMIC.value,                          # modelo de embeddings
                  search_type: str = "similarity", k: int = 5,                           # tipo de búsqueda 
@@ -59,13 +61,20 @@ class Chatbot:
                  prompt_template: str = default_prompt
                  ):
         
-        if language_model == "mistral-small-latest":
+        if language_model == LLM.mistral_small.value:
             self.language_model = ChatMistralAI(model=language_model, mistral_api_key=MISTRAL_API_KEY,temperature=0, random_seed=12345)
+        elif language_model == LLM.gpt_41.value:
+            self.language_model = ChatOpenAI(model=language_model, openai_api_key=OPEN_API_KEY, temperature=0)
         else:        
             self.language_model = ChatOllama(model=language_model, num_ctx=num_ctx, temperature=0, seed=12345)        
 
         self.text_splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap, length_function=len)        
-        self.embedding_service = OllamaEmbeddings(model=embedding_model)        
+
+        if embedding_model == EMBEDDING.TE3S.value:
+            self.embedding_service = OpenAIEmbeddings(model=embedding_model, openai_api_key=OPEN_API_KEY)
+        else:
+            self.embedding_service = OllamaEmbeddings(model=embedding_model)      
+
         self.vector_store = Chroma(persist_directory=chroma_directory, embedding_function=self.embedding_service)      
         self.docs_directory = docs_directory      
 
@@ -248,11 +257,16 @@ class Chatbot:
         return self.language_model
     
     def set_language_model(self, language_model: str, num_ctx: int = 4096):
-        if language_model == "mistral-small-latest":
+        if language_model == LLM.mistral_small.value:
             self.language_model = ChatMistralAI(
                 model=language_model, 
                 mistral_api_key=MISTRAL_API_KEY,
                 temperature=0, random_seed=12345)
+        elif language_model == LLM.gpt_41.value:
+            self.language_model = ChatOpenAI(
+                model=language_model, 
+                openai_api_key=OPEN_API_KEY, 
+                temperature=0)
         else:        
             self.language_model = ChatOllama(
                 model=language_model, 
