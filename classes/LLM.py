@@ -5,8 +5,6 @@ class LLM(Enum):
     mistral_small = "mistral-small-latest"         # MistralAI: mistral-small 24B
     gpt_41 = "gpt-4.1"                      # OpenAI: GPT-4.1
     llama_3_2_3B = "llama3.2"               # Ollama: Llama 3.2 3B Instruct (2.0 GB)
-    gemma3_4B = "gemma3"                    # Ollama: Gemma 3 4B (3.3 GB)
-    qwen_2_5_7B = "qwen2.5"                 # Ollama: Qwen2.5 7B Instruct (4.7 GB)
     
 # Modelos de embedding locales
 class EMBEDDING(Enum):
