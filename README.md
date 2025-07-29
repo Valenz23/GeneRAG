@@ -32,6 +32,7 @@ Se han utilizado técnicas de integración continua (CI/CD) para la obtención d
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![LangChain](https://img.shields.io/badge/LangChain-ffffff?style=for-the-badge&logo=langchain&logoColor=green)
 ![Ollama](https://img.shields.io/badge/ollama-white?style=for-the-badge&logo=ollama&logoColor=black)
+![OpenAI](https://shields.io/badge/-OpenAI-ffffff?logo=openai&logoColor=37BC7D&style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
