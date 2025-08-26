@@ -5,15 +5,17 @@
 **👨‍💻 Autor:** Pablo Valenzuela Álvarez  
 **📚 Directores:** David Griol Barres y Zoraida Callejas Carrión  
 
-## <img src="images/icon_logo.png" alt="logo" width="20"/> Resumen (en proceso)
+## <img src="images/icon_logo.png" alt="logo" width="20"/> Resumen
 
-Este es el repositorio de mi TFM, cuyo tema es la creación de un sistema RAG.
+En este Trabajo de Fin de Máster, hemos diseñado, desarrollado y evaluado un sistema de generación aumentada por recuperación o RAG. Aplicando diversas técnicas en la construcción, configuración y evaluación, hemos conseguido obtener un sistema capaz de responder preguntas con bastante precisión y de forma muy eficiente.
 
-Como corpus se han utilizado documentos del BOE relacionados con la DANA. El objetivo es asistir en la respuesta facilitando cualquier información contenida en los documentos.
+La base de un sistema RAG son los grandes modelos de lenguaje o LLM. Estos estan capacitados para responder preguntas generalistas, pero no funcionan de igual modo con datos con los que no han sido entrenados o privados. Para solucionar esta problemática, un sistema RAG necesita acceder a una base de conocimiento externa para construir una respuesta específica usando estos nuevos datos. Estas bases de conocimiento suelen ser bases de datos vectoriales que guardan la relación semántica entre los documentos, y los recuperan de forma rápida y eficiente ante una consulta de usuario.
 
-Se han utilizado técnicas de integración continua (CI/CD) para la obtención de documentos, y de testeo sobre la calidad de respuesta del RAG.
+En este proyecto hemos implementado nuestro propio sistema RAG junto a una interfaz web en la que podemos realizar consultas. También se ha elaborado un amplio conjunto de pruebas de rendimiento de las diferentes alternativas con las que podemos configurar un sistema RAG (modelos de lenguaje, embedding o estrategias de búsqueda) con el objetivo de averiguar la mejor combinación de elementos. Para ello, se han definido cuatro agentes críticos encargados de evaluar las respuestas generadas por el RAG.
 
-( ... )
+Durante la realización de este proyecto hemos sopesado diferentes opciones para realizar nuestro sistema RAG. Hemos explorado y descartado plataformas con las que solíamos trabajar dado a que se han quedado obsoletas ante el auge de los grandes modelos de lenguaje actualmente. Librerías como LangChain (diseñada para trabajar con modelos de lenguaje), o Chroma (base de datos vectorial); han facilitado el desarrollo del proyecto gracias a su flexibilidad y adaptabilidad a diferentes modelos de lenguaje: desde modelos locales de Ollama, externos y gratuitos de Mistral o de pago con OpenAI.
+
+Por último, la base de conocimiento usada para el proyecto contiene documentos del Boletín Oficial Español (BOE) con referencias a lo sucedido en la DANA de finales del año 2024. Cuando el proyecto comenzó, este evento estaba muy reciente y pensamos que era una buena idea la de proporcionar una plataforma de ayuda a los ciudadanos con dudas o preguntas sobre la DANA. Nuestro sistema RAG esta diseñado solo para este cometido, y a través de su interfaz web, responde con claridad y precisión cualquier duda siempre que tenga datos sólidos para ello.
 
 ## 🖼️ Capturas
 
