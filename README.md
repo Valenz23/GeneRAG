@@ -3,7 +3,9 @@
 <br>  
 
 **👨‍💻 Autor:** Pablo Valenzuela Álvarez  
-**📚 Directores:** David Griol Barres
+**📚 Director:** David Griol Barres
+
+**📝 Calificación:** 9.3
 
 ## <img src="images/icon_logo.png" alt="logo" width="20"/> Resumen
 
