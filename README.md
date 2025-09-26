@@ -3,7 +3,7 @@
 <br>  
 
 **👨‍💻 Autor:** Pablo Valenzuela Álvarez  
-**📚 Directores:** David Griol Barres y Zoraida Callejas Carrión  
+**📚 Directores:** David Griol Barres
 
 ## <img src="images/icon_logo.png" alt="logo" width="20"/> Resumen
 
@@ -34,6 +34,7 @@ Por último, la base de conocimiento usada para el proyecto contiene documentos 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![LangChain](https://img.shields.io/badge/LangChain-ffffff?style=for-the-badge&logo=langchain&logoColor=green)
 ![Ollama](https://img.shields.io/badge/ollama-white?style=for-the-badge&logo=ollama&logoColor=black)
+![MistralAI](https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF&style=for-the-badge)
 ![OpenAI](https://shields.io/badge/-OpenAI-ffffff?logo=openai&logoColor=37BC7D&style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
