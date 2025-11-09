@@ -1,0 +1,63 @@
+\begingroup
+\titleformat{\chapter}[block]
+{\normalfont\Huge\bfseries\centering} 
+{Capítulo \thechapter} 
+{0.5em}
+{: \LARGE}
+[\vspace{1em}\titlerule]
+
+\titlespacing*{\chapter}{0pt}{-60pt}{40pt}
+
+\chapter{Conclusiones y Líneas Futuras}
+\label{cap:5_end}
+
+	En este capítulo presentamos las conclusiones alcanzadas tras haber realizado este proyecto. Asimismo, finalizaremos explicando posibles mejoras y vías de desarrollo que podría seguir el proyecto si decidimos realizar futuras expansiones.
+	
+	\section{Conclusiones}
+	
+		Inicialmente este proyecto fue planeado como una continuación de mi Trabajo de Fin de Grado y de mi experiencia como investigador de la UGR especializado en el desarrollo de sistemas conversacionales. En él, aplicaría mis conocimientos adquiridos sobre la plataforma RASA. 
+		
+		\noindent Sin embargo, este es el ejemplo más claro de lo rápido que cambian los tiempos, sobre todo en el ámbito de la informática. En apenas unos años, hemos visto el resurgimiento de los modelos de lenguaje, que llevados de la mano de nuevos paradigmas de diseño, han dejado obsoletos a los enfoques más tradicionales. Ya nadie va a perder el tiempo entrenando y desarrollando un modelo específico cuando de una manera inmediata, podemos recibir una respuesta a través de las plataformas donde están alojados estos nuevos modelos.
+		
+		\noindent Así pues, durante la realización de este proyecto tuvimos que dejar todo lo aprendido y apostar por este \textit{nuevo} enfoque. Lo cual nos llevó a aprender nuevos frameworks de diseño y a usar diferentes modelos tanto de lenguaje como de vectorización (embedding), dado el carácter del proyecto. Además de utilizar plataformas modernas de pago por uso (servicios cloud), utilizadas hoy en día por la mayoría de las compañías del sector TIC.
+		
+		\noindent En este sentido, el desarrollo de la aplicación fue prácticamente guiado a través de la gran número de tutoriales o de la magnífica documentación oficial que poseen estas nuevas tecnologías. \textit{LangChain} -una de las librerías más usadas-, permite integraciones con multitud de aplicaciones, lo que ocasionó una rápida implementación y adaptación del código, y conexión con las principales plataformas que sirven los distintos modelos de lenguaje. 
+		
+		\noindent En cuanto a la interfaz, más de lo mismo. \textit{Streamlit} utiliza un enfoque más moderno que inyecta código \textit{Python} para crear una interfaz web. Como ya hemos comentado, con \textit{Streamlit} podemos acceder a bastantes elementos de personalización (inputs, selectbox, radio buttons) propios de HTML desde el \textit{backend}, lo que personalmente me ayudo al estar más familiarizado con este tipo de desarrollos.
+		
+		\noindent Respecto a los resultados, tenemos varias conclusiones que podemos ver en la siguiente lista:
+		
+		\begin{enumerate}
+			\item Hemos demostrado la superioridad del enfoque \textit{Advanced RAG} en todos los casos de comparación, exceptuando la prueba hecha con \textit{OpenAI} (tabla \ref{tab:result_gpt}). El filtrado de documentos realizado tras la primera recuperación ofrecido por el modelo encargado de hacer el \textit{reranking} \cite{0036_bge_reranker}, mejora la calidad de las respuestas de manera ostensible.
+			\item El modelo de embedding también es importante. Aunque los modelos usados en el proyecto son todos multilingües, \textit{JINA} \cite{0027_jina} esta especializado en nuestro idioma (bilingüe español-inglés). A la prueba de los resultados, es el más recomendable para su uso en este contexto.
+			\item \textit{TF-IDF} se muestra como la estrategia de búsqueda más solida en las pruebas realizadas, seguida de \textit{BM25} y la búsqueda por similaridad coseno en la mayoría de los casos.			
+		\end{enumerate}
+		
+		\noindent Para finalizar con los resultados, hay un motivo por el cual hemos realizado la mayoría de las pruebas con el modelo de lenguaje \textit{Mistral Small 3.2} \cite{0038_mistralsmall32}. Este modelo es gratuito y de libre acceso a través de la API provista por \textit{Mistral} en su página web. La calidad y velocidad de respuesta que obtuvimos, hizo posible la realización de todas las pruebas que necesitábamos. Por otro lado, el modelo local usado \textit{Llama3.2} \cite{0037_llama32}, era mucho más lento en la obtención de respuestas (aún usando un conjunto muy reducido) y la calidad de ellas no era muy buena (tabla \ref{tab:result_llama}), por lo que descartamos hacer más. Y si miramos al modelo de \textit{OpenAI}, los motivos fueron dos: primero económico y segundo porque en la primera tanda de pruebas consiguió mejores resultados que todas las anteriores. Así pues, cumplimos el mini-objetivo de demostrar que un modelo más grande mejora los resultados y finalizamos las pruebas.
+		
+		\noindent En resumen, pienso que este Trabajo de Fin de Máster ha cambiado mi percepción como desarrollador de sistemas conversacionales. Desarrollar con RASA era más complicado en codificación y lento en entreno, y aunque los resultados eran buenos, siempre estaba el riesgo de que no tuviese consistencia en la respuesta, ya sea al usar palabras distintas a las usadas en el entreno o porque el propio modelo se salte pasos. Con el nuevo enfoque empleado en el proyecto, hemos tenido un desarrollo rápido y versátil, y me ha aportado algo de la experiencia en estos nuevos paradigmas que tanto se busca en entornos profesionales.
+		
+		\noindent Y sobre el tema del proyecto, este trabajo se inserta en un ámbito en el que ya han surgido aplicaciones orientadas a dar respuesta a la DANA, como \textit{Ajuda Dana} y \textit{TuCocheDana}. Asimismo, proyectos como \textit{Justicio} han mostrado cómo el enfoque RAG puede transformar la manera en que accedemos e interpretamos el BOE. En este contexto, nuestro TFM presenta una combinación ambos enfoques, con el propósito de ayudar a la ciudadanía a encontrar información oficial, veraz y comprensible en un momento de necesidad.
+		
+		\noindent En definitiva, este trabajo refleja cómo el uso responsable de la inteligencia artificial puede convertirse en una herramienta clave para acercar la documentación oficial a la ciudadanía. Si se orienta hacia la transparencia, la accesibilidad y la veracidad, la IA no solo facilita la gestión de la información en situaciones críticas como la DANA, sino que también contribuye a construir un futuro mejor informado y más participativo.
+	
+	\section{Líneas futuras}
+	
+		En este último apartado, comentaremos posibles mejoras que pueden añadirse al proyecto que, ya sea por falta de tiempo o recursos, no se han efectuado. Estas ideas han ido apareciendo durante la realización del proyecto.
+		
+		\noindent En la interfaz han surgido varias ideas de mejora en la personalización tanto  de la consulta como de la creación o actualización de la fuente de conocimiento. Aspectos como poder seleccionar la base de datos a la que queremos hacer la consulta, o poder modificar la configuración de los documentos o su embedding, ayudan a que la aplicación sea más manejable para un usuario no experto y no obliga a cambiar estos datos en el código como se hace ahora.
+	
+		\noindent Igualmente, se planteó añadir una página para realizar los test del sistema RAG en la interfaz. Esta parte se añadiría a una página nueva, en la que se podrían editar los siguientes parámetros:
+		
+		\begin{itemize}
+			\item \textbf{Dataset de preguntas:} Manteniendo el formato visto en el apartado \ref{sec:4_gen_dataset}, se puede usar el conjunto de preguntas que deseemos. También se puede añadir un parámetro numérico para controlar el porcentaje o fragmento de preguntas a usar en el test.
+			\item \textbf{Botones de selección de:} base de datos, estrategia de búsqueda, reranking, embedding y LLM.
+		\end{itemize}
+		
+		\noindent Los resultados serían mostrados dinámicamente en la interfaz, ya que \textit{Streamlit} proporciona elementos como una barra de progreso que podemos actualizar fácilmente usando el número de preguntas. Pienso que sería una actualización muy interesante, la cual no se ha realizado por falta de tiempo.
+		
+		\noindent Con relación a los test de nuestro RAG, aunque hemos cubierto bastantes posibilidades, no hemos comprobado los resultados que pudiésemos haber obtenido al probar el aprendizaje en contexto (\textit{In-Context-Learning})que mencionamos en el Estado del Arte. Añadiendo al \textit{prompt} un mínimo porcentaje del conjunto de preguntas, haría que el LLM reconociese el formato y, supuestamente, respondiese mejor a la consulta del usuario.
+		
+		\noindent Finalmente, aunque el proyecto es totalmente funcional, necesita los requerimientos ubicados en el repositorio \cite{0045_repo}. Este factor no sería necesario se estuviese contenerizado ya sea en \textit{docker} u otra plataforma parecida. De esta manera funcionaria en cualquier sistema bajo cualquier plataforma gestora de contenedores. Queda como futura actualización.   
+
+\endgroup

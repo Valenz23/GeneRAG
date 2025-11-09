@@ -1,0 +1,27 @@
+\babel@toc {spanish}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Recursos hardware utilizados}}{61}{table.caption.104}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces Presupuesto de los recursos hardware utilizados}}{61}{table.caption.105}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces Recursos software utilizados}}{61}{table.caption.107}%
+\contentsline {table}{\numberline {3.4}{\ignorespaces Presupuesto de los recursos software utilizados}}{61}{table.caption.108}%
+\contentsline {table}{\numberline {3.5}{\ignorespaces Presupuesto de los recursos personales utilizados}}{62}{table.caption.110}%
+\contentsline {table}{\numberline {3.6}{\ignorespaces Coste total del proyecto}}{62}{table.caption.112}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Plantilla usada en los casos de uso}}{97}{table.caption.175}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Caso de uso 01, consulta de usuario}}{97}{table.caption.176}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces Caso de uso 02, cambio de LLM}}{98}{table.caption.177}%
+\contentsline {table}{\numberline {4.4}{\ignorespaces Caso de uso 03, cambio de estrategia de búsqueda}}{98}{table.caption.179}%
+\contentsline {table}{\numberline {4.5}{\ignorespaces Caso de uso 04, creación de base vectorial}}{99}{table.caption.181}%
+\contentsline {table}{\numberline {4.6}{\ignorespaces Caso de uso 05, actualización desde carpeta}}{99}{table.caption.182}%
+\contentsline {table}{\numberline {4.7}{\ignorespaces Caso de uso 06, actualización desde fichero}}{99}{table.caption.183}%
+\contentsline {table}{\numberline {4.8}{\ignorespaces Comparativa de respuestas a pregunta 1}}{101}{table.caption.184}%
+\contentsline {table}{\numberline {4.9}{\ignorespaces Comparativa de respuestas a pregunta 2}}{102}{table.caption.185}%
+\contentsline {table}{\numberline {4.10}{\ignorespaces Comparativa de respuestas a pregunta 3}}{103}{table.caption.186}%
+\contentsline {table}{\numberline {4.11}{\ignorespaces Resultados de Mistral Small 3.2 en embeddings con 512 de tamaño de documentos}}{105}{table.caption.188}%
+\contentsline {table}{\numberline {4.12}{\ignorespaces Resultados de Mistral Small 3.2 en embeddings con 1024 de tamaño de documentos}}{108}{table.caption.194}%
+\contentsline {table}{\numberline {4.13}{\ignorespaces Resultados de Mistral Small 3.2 en embeddings 1024 de tamaño de documentos y el prompt modificado}}{111}{table.caption.201}%
+\contentsline {table}{\numberline {4.14}{\ignorespaces Resultados de Llama 3.2 en embeddings 1024 de tamaño de documentos}}{113}{table.caption.206}%
+\contentsline {table}{\numberline {4.15}{\ignorespaces Resultados de GPT-4.1 en embeddings 1024 de tamaño de documentos}}{115}{table.caption.208}%
+\addvspace {10\p@ }

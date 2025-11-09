@@ -1,0 +1,256 @@
+\documentclass[a4paper,11pt]{book}
+%\documentclass[a4paper,twoside,11pt,titlepage]{book}
+\usepackage{listings}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish, es-tabla]{babel}
+
+\usepackage{tocloft}
+
+\usepackage{xurl}
+\usepackage[backend=biber,style=numeric,sorting=none]{biblatex}
+\addbibresource{bibliografia/bibliografia.bib}
+
+
+\usepackage{enumitem}
+\setlist{noitemsep, topsep=0pt, leftmargin=*}
+
+\usepackage{geometry}
+\geometry{
+	left=3cm,   
+	right=3cm,  
+	top=2.5cm,  
+	bottom=2.5cm,
+	includehead,
+	includefoot
+}
+
+% \usepackage[style=list, number=none]{glossary} %
+\usepackage{titlesec}
+%\usepackage{pailatino}
+
+\decimalpoint
+\usepackage{dcolumn}
+\newcolumntype{.}{D{.}{\esperiod}{-1}}
+\makeatletter
+\addto\shorthandsspanish{\let\esperiod\es@period@code}
+\makeatother
+
+
+%\usepackage[chapter]{algorithm}
+\RequirePackage{verbatim}
+%\RequirePackage[Glenn]{fncychap}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{afterpage}
+
+\usepackage{longtable}
+
+\usepackage[pdfborder={000}, hidelinks]{hyperref} %referencia
+%\usepackage[pdfborder={000}]{hyperref} %referencia
+
+\usepackage[font=small,labelfont=bf]{caption}
+
+\usepackage{chngcntr}
+\counterwithout{figure}{chapter}
+\counterwithout{figure}{section}
+
+\renewcommand{\cftfigfont}{Figura }
+\renewcommand{\cfttabfont}{Tabla }
+
+
+\usepackage{float}
+
+\usepackage{subcaption}
+\captionsetup{font={tiny}}
+
+\usepackage{color}
+\usepackage{tabularray}
+\definecolor{CU1}{rgb}{0,0.7,0}
+\definecolor{CU2}{rgb}{0.7,1,0.7}
+\usepackage[table]{xcolor}
+
+% ********************************************************************
+% Re-usable information
+% ********************************************************************
+\newcommand{\myTitle}{GeneRAG}
+\newcommand{\mySubTitle}{Desarrollo y evaluación de un sistema basado en RAG de consultas ciudadanas sobre ayudas gubernamentales}
+\newcommand{\myTitleEn}{GeneRAG}
+\newcommand{\mySubTitleEn}{Project Subtitle}
+\newcommand{\myDegree}{Máster Universitario en Ingeniería Informática}
+\newcommand{\myName}{Pablo Valenzuela Álvarez}
+\newcommand{\myProf}{David Griol Barres}
+\newcommand{\myOtherProf}{Zoraida Callejas Carrión}
+\newcommand{\myFaculty}{Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación}
+\newcommand{\myFacultyShort}{E.T.S. de Ingenierías Informática y de Telecomunicación}
+\newcommand{\myUni}{Universidad de Granada}
+\newcommand{\myLocation}{Granada}
+\newcommand{\myTime}{\today}
+\newcommand{\myVersion}{Version 0.1}
+
+
+\hypersetup{
+    pdfauthor = {\myName (email (en) ugr (punto) es)},
+    pdftitle = {\myTitle},
+    pdfsubject = {},
+    pdfkeywords = {palabra\_clave1, palabra\_clave2, palabra\_clave3, ...},
+    pdfcreator = {LaTeX con el paquete ....},
+    pdfproducer = {pdflatex}
+}
+
+%\hyphenation{}
+
+
+%\usepackage{doxygen/doxygen}
+%\usepackage{pdfpages}
+\usepackage{url}
+\usepackage{colortbl,longtable}
+\usepackage[stable]{footmisc}
+%\usepackage{index}
+
+%\makeindex
+%\usepackage[style=long, cols=2,border=plain,toc=true,number=none]{glossary}
+% \makeglossary
+
+% Definición de comandos que me son tiles:
+%\renewcommand{\indexname}{Índice alfabético}
+%\renewcommand{\glossaryname}{Glosario}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LO]{\leftmark}
+\fancyhead[RE]{\rightmark}
+\fancyhead[RO,LE]{\textbf{\thepage}}
+\renewcommand{\chaptermark}[1]{\markboth{\textbf{#1}}{}}
+\renewcommand{\sectionmark}[1]{\markright{\textbf{\thesection. #1}}}
+
+\setlength{\headheight}{1.5\headheight}
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+%Definimos los tipos teorema, ejemplo y definición podremos usar estos tipos
+%simplemente poniendo \begin{teorema} \end{teorema} ...
+\newtheorem{teorema}{Teorema}[chapter]
+\newtheorem{ejemplo}{Ejemplo}[chapter]
+\newtheorem{definicion}{Definición}[chapter]
+
+\definecolor{gray97}{gray}{.97}
+\definecolor{gray75}{gray}{.75}
+\definecolor{gray45}{gray}{.45}
+\definecolor{gray30}{gray}{.94}
+
+\lstset{ frame=Ltb,
+     framerule=0.5pt,
+     aboveskip=0.5cm,
+     framextopmargin=3pt,
+     framexbottommargin=3pt,
+     framexleftmargin=0.1cm,
+     framesep=0pt,
+     rulesep=.4pt,
+     backgroundcolor=\color{gray97},
+     rulesepcolor=\color{black},
+     %
+     stringstyle=\ttfamily,
+     showstringspaces = false,
+     basicstyle=\scriptsize\ttfamily,
+     commentstyle=\color{gray45},
+     keywordstyle=\bfseries,
+     %
+     numbers=left,
+     numbersep=6pt,
+     numberstyle=\tiny,
+     numberfirstline = false,
+     breaklines=true,
+   }
+ 
+% minimizar fragmentado de listados
+\lstnewenvironment{listing}[1][]
+   {\lstset{#1}\pagebreak[0]}{\pagebreak[0]}
+
+\lstdefinestyle{CodigoC}
+   {
+	basicstyle=\scriptsize,
+	frame=single,
+	language=C,
+	numbers=left
+   }
+\lstdefinestyle{CodigoC++}
+   {
+	basicstyle=\small,
+	frame=single,
+	backgroundcolor=\color{gray30},
+	language=C++,
+	numbers=left
+   }
+
+ 
+\lstdefinestyle{Consola}
+   {basicstyle=\scriptsize\bf\ttfamily,
+    backgroundcolor=\color{gray30},
+    frame=single,
+    numbers=none
+   }
+
+
+\newcommand{\bigrule}{\titlerule[0.5mm]}
+
+
+%Para conseguir que en las páginas en blanco no ponga cabecerass
+\makeatletter
+\def\clearpage{%
+  \ifvmode
+    \ifnum \@dbltopnum =\m@ne
+      \ifdim \pagetotal <\topskip
+        \hbox{}
+      \fi
+    \fi
+  \fi
+  \newpage
+  \thispagestyle{empty}
+  \write\m@ne{}
+  \vbox{}
+  \penalty -\@Mi
+}
+\makeatother
+
+\usepackage{pdfpages}
+\begin{document}
+\input{portada/portada}
+\input{prefacios/prefacio}
+\frontmatter
+\tableofcontents
+\listoffigures
+\newpage
+\listoftables
+
+\mainmatter
+\setlength{\parskip}{5pt}
+
+\input{capitulos/01_Introduccion.tex}
+
+\input{capitulos/02_EstadoDelArte}
+
+\input{capitulos/03_DesarrolloProyecto}
+
+\input{capitulos/04_ResultsProyecto}
+
+\input{capitulos/05_ConclusionsFuturas}
+
+% \nocite{*}
+% \bibliography{bibliografia/bibliografia}\addcontentsline{toc}{chapter}{Bibliografía}
+% \bibliographystyle{miunsrturl}
+
+%\bibliographystyle{unsrt}  
+%\bibliography{bibliografia/bibliografia}
+\printbibliography
+
+
+%
+%\appendix
+%\input{apendices/manual_usuario/manual_usuario}
+%%\input{apendices/paper/paper}
+%\input{glosario/entradas_glosario}
+% \addcontentsline{toc}{chapter}{Glosario}
+% \printglossary
+% \chapter*{}
+% \thispagestyle{empty}
+
+\end{document}
