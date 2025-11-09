@@ -1,0 +1,148 @@
+\babel@toc {spanish}{}\relax 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1}{\ignorespaces Pasarela provisional en la zona del barranco del Poyo en Picanya (Valencia), el 27 de noviembre \blx@tocontentsinit {0}\cite {0046_infoDANA}}}{1}{figure.caption.5}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Árbol de la evolución de los LLMs modernos \blx@tocontentsinit {0}\cite {0049_tree_evo}}}{3}{figure.caption.6}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3}{\ignorespaces Comparación entre los tres paradigma más utilizados de RAG \blx@tocontentsinit {0}\cite {gao2024retrievalaugmentedgenerationlargelanguage}}}{6}{figure.caption.7}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Diferencia básica entre el mecanismo de respuesta de LLM y de RAG. Los LLM responden usando los datos con los que han sido entrenados, mientras que el RAG accede a una base de datos para responder con datos más específicos}}{7}{figure.caption.8}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Proceso de creación del Vector Store. Se observa todo el proceso: carga, troceado, embedding y almacenamiento \blx@tocontentsinit {0}\cite {0004_RAGarch}}}{8}{figure.caption.10}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Fases del proceso de funcionamiento de RAG, se observan las fases de recuperación de información y generación \blx@tocontentsinit {0}\cite {0003_RAGhowitwork2}}}{8}{figure.caption.12}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Gráfica de las cuatro etapas en la evolución de los modelos de lenguaje \blx@tocontentsinit {0}\cite {zhao2025surveylargelanguagemodels}}}{11}{figure.caption.14}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Fine-tuning en tareas de clasificación de flores usando el modelo pre-entrenado Restnet16 \blx@tocontentsinit {0}\cite {0005_journeyLLM,zhao2025surveylargelanguagemodels}}}{12}{figure.caption.18}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Esquema de las direcciones de investigación donde podemos usar LLMs \blx@tocontentsinit {0}\cite {0005_journeyLLM}, \blx@tocontentsinit {0}\cite {zhao2025surveylargelanguagemodels}}}{14}{figure.caption.22}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Tabla comparativa del modelo Llama 3.2 en diferentes benchmarks \blx@tocontentsinit {0}\cite {0037_llama32}}}{16}{figure.caption.24}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Tabla comparativa del modelo Mistral Small 3.1 en diferentes benchmarks \blx@tocontentsinit {0}\cite {0039_mistralsmall31}}}{17}{figure.caption.26}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Rendimiento del conjunto de modelos GPT-4.1 \blx@tocontentsinit {0}\cite {0043_gpt41_2}}}{18}{figure.caption.28}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Precio de los modelos GPT-4.1 \blx@tocontentsinit {0}\cite {0043_gpt41_2}}}{18}{figure.caption.29}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Ejemplo básico de funcionamiento de un modelo de embeddings \blx@tocontentsinit {0}\cite {0007_Embeddings}. Recibe objetos de datos, que pueden ser de todo tipo, y los transforma en una representación vectorial}}{19}{figure.caption.30}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Rendimiento comparativo de Nomic Embed y otros modelos en distintos benchmarks \blx@tocontentsinit {0}\cite {0024_nomic}}}{20}{figure.caption.31}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Rendimiento comparativo del modelo bge-m3 con otros modelos \blx@tocontentsinit {0}\cite {0025_bge-m3}}}{21}{figure.caption.32}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Métricas obtenidas por los modelos de Artic Embed en comparación con otros, usando el benchmark MTEB-R en inglés. \blx@tocontentsinit {0}\cite {0026_snowflake}}}{22}{figure.caption.33}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Comparación de varios modelos de embedding con JINA. \blx@tocontentsinit {0}\cite {0027_jina}}}{23}{figure.caption.34}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Evaluaciones de los modelos de embedding de OpenAI \blx@tocontentsinit {0}\cite {0040_openai_embed}}}{23}{figure.caption.35}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Evaluaciones de los modelos de embedding de OpenAI con distintos tamaños \blx@tocontentsinit {0}\cite {0040_openai_embed}}}{23}{figure.caption.36}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Comparación de las dos estructuras}}{25}{figure.caption.37}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Contenido de los ficheros flows.yml y patterns.yml}}{25}{figure.caption.38}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Ejemplo de una respuesta con prompt integrado}}{26}{figure.caption.39}%
+\contentsline {figure}{\numberline {24}{\ignorespaces El inspector nos muestra un grafo con el flujo de conversación}}{27}{figure.caption.40}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Maneras en las que puedes conversar en una aplicación hecha con Rasa Pro}}{28}{figure.caption.41}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Sitio web oficial de Ollama: \url {https://ollama.com/}}}{29}{figure.caption.42}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Fichero \textit {modelfile} básico, edita la temperatura y la ventana del contexto del modelo. Tiene de base el LLM \textit {Llama3.2}}}{30}{figure.caption.47}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Lista de comandos disponibles de Ollama}}{31}{figure.caption.48}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Prueba del CLI de Ollama, ejecuta el modelo \textit {Llama3.2} para hacer una consulta}}{31}{figure.caption.49}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Pequeño programa escrito en \textit {Python}, usando la librería \textit {LangChain}. Pide al modelo \textit {Llama3.2} una consulta}}{32}{figure.caption.50}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Pantalla principal de LM Studio, la pestaña activa nos permite chatear con un LLM}}{32}{figure.caption.51}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Selección y carga de una versión de \textit {Llama3.2} en LM Studio}}{32}{figure.caption.52}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Developer. Pestaña que permite controlar la API de LM Studio, se observa el modelo cargado, la dirección IP de esta y los logs}}{33}{figure.caption.53}%
+\contentsline {figure}{\numberline {34}{\ignorespaces My Models. Pestaña que permite ver los LLMs descargados en LM Studio}}{33}{figure.caption.54}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Discover. Pestaña que permite descargar cualquier LLM disponible en LM Studio}}{34}{figure.caption.55}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Pequeño código en Python, para la prueba de la API de LM Studio}}{34}{figure.caption.57}%
+\contentsline {figure}{\numberline {37}{\ignorespaces Esquema básico del funcionamiento de ChromaDB}}{35}{figure.caption.59}%
+\contentsline {figure}{\numberline {38}{\ignorespaces ChromaDB, puesta en marcha mediante \textit {Python}}}{36}{figure.caption.60}%
+\contentsline {figure}{\numberline {39}{\ignorespaces ChromaDB. Resultados de la consulta, se observan las distancias de los documentos recuperados}}{37}{figure.caption.61}%
+\contentsline {figure}{\numberline {40}{\ignorespaces Pinecone. Inicialización a través de su clave API}}{38}{figure.caption.64}%
+\contentsline {figure}{\numberline {41}{\ignorespaces Pinecone. Creación de un índice}}{38}{figure.caption.65}%
+\contentsline {figure}{\numberline {42}{\ignorespaces Pinecone. Vista del índice en la web}}{38}{figure.caption.66}%
+\contentsline {figure}{\numberline {43}{\ignorespaces Pinecone. Agregación de documentos}}{39}{figure.caption.67}%
+\contentsline {figure}{\numberline {44}{\ignorespaces Pinecone. Vista de documentos en la web}}{39}{figure.caption.68}%
+\contentsline {figure}{\numberline {45}{\ignorespaces Pinecone. Búsqueda semántica y resultados}}{40}{figure.caption.69}%
+\contentsline {figure}{\numberline {46}{\ignorespaces Pinecone. Reranking y resultados}}{40}{figure.caption.70}%
+\contentsline {figure}{\numberline {47}{\ignorespaces Esquema que muestra las diferentes aplicaciones en las que podemos usar LangChain \blx@tocontentsinit {0}\cite {0017_langchain2}}}{41}{figure.caption.72}%
+\contentsline {figure}{\numberline {48}{\ignorespaces LangChain. Aplicación sencilla que usa mistral-large (LLM desarrollado por MistralAI) para traducir un texto}}{43}{figure.caption.75}%
+\contentsline {figure}{\numberline {49}{\ignorespaces LangChain. Resultado de la traducción del texto de la figura \ref {fig:0034_langchain2}}}{43}{figure.caption.76}%
+\contentsline {figure}{\numberline {50}{\ignorespaces Loaders, se encarga de cargar documentos \blx@tocontentsinit {0}\cite {0020_llamaindex3}}}{44}{figure.caption.79}%
+\contentsline {figure}{\numberline {51}{\ignorespaces Splitter, se encarga de trocear los documentos \blx@tocontentsinit {0}\cite {0020_llamaindex3}}}{44}{figure.caption.80}%
+\contentsline {figure}{\numberline {52}{\ignorespaces Indexing, se encarga de almacenar los documentos en la base de datos vectorial \blx@tocontentsinit {0}\cite {0020_llamaindex3}}}{44}{figure.caption.81}%
+\contentsline {figure}{\numberline {53}{\ignorespaces Chains/Query, se encarga de hacer una consulta a la base de datos vectorial \blx@tocontentsinit {0}\cite {0020_llamaindex3}}}{45}{figure.caption.82}%
+\contentsline {figure}{\numberline {54}{\ignorespaces Ejemplo aplicación LLM en Streamlit. Prompt con dos varitables}}{47}{figure.caption.84}%
+\contentsline {figure}{\numberline {55}{\ignorespaces Ejemplo aplicación LLM en Streamlit. Llamada al LLM}}{47}{figure.caption.85}%
+\contentsline {figure}{\numberline {56}{\ignorespaces Ejemplo aplicación LLM en Streamlit. Programa principal}}{48}{figure.caption.86}%
+\contentsline {figure}{\numberline {57}{\ignorespaces Interfaz del ejemplo aplicación LLM en Streamlit. Bienvenida}}{48}{figure.caption.88}%
+\contentsline {figure}{\numberline {58}{\ignorespaces Interfaz del ejemplo aplicación LLM en Streamlit. Opciones}}{49}{figure.caption.89}%
+\contentsline {figure}{\numberline {59}{\ignorespaces Interfaz del ejemplo aplicación LLM en Streamlit. Respuesta con memoria}}{49}{figure.caption.90}%
+\contentsline {figure}{\numberline {60}{\ignorespaces El voluntómetro muestra las solicitudes de ayuda y los voluntarios que hay en cada lugar \blx@tocontentsinit {0}\cite {0057_ajudana}}}{50}{figure.caption.91}%
+\contentsline {figure}{\numberline {61}{\ignorespaces Interfaz de Justicio en el BOE del día 3 de septiembre de 2025 \blx@tocontentsinit {0}\cite {0060_justicio}}}{52}{figure.caption.92}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {62}{\ignorespaces Arquitectura de nuestro sistema RAG}}{55}{figure.caption.93}%
+\contentsline {figure}{\numberline {63}{\ignorespaces Jira. Plantilla Scrum para el proyecto}}{56}{figure.caption.94}%
+\contentsline {figure}{\numberline {64}{\ignorespaces Jira. Conexión con la plataforma de control de versiones GitHub}}{57}{figure.caption.95}%
+\contentsline {figure}{\numberline {65}{\ignorespaces Jira. Pestaña Backlog, tareas del sprint 9 y pendientes \blx@tocontentsinit {0}\cite {0056_proyectoJIRA}}}{57}{figure.caption.96}%
+\contentsline {figure}{\numberline {66}{\ignorespaces Jira. Tablero con tareas}}{58}{figure.caption.97}%
+\contentsline {figure}{\numberline {67}{\ignorespaces Cronograma del proyecto. Extraído del proyecto en Jira \blx@tocontentsinit {0}\cite {0056_proyectoJIRA}}}{59}{figure.caption.98}%
+\contentsline {figure}{\numberline {68}{\ignorespaces BOE. API web desde la que descargar sumarios por día \blx@tocontentsinit {0}\cite {0029_boe_api}}}{63}{figure.caption.113}%
+\contentsline {figure}{\numberline {69}{\ignorespaces BOE. Resultados de la búsqueda de un día \blx@tocontentsinit {0}\cite {0029_boe_api}}}{63}{figure.caption.114}%
+\contentsline {figure}{\numberline {70}{\ignorespaces Script para descargar el sumario del día}}{64}{figure.caption.115}%
+\contentsline {figure}{\numberline {71}{\ignorespaces Fragmento del script encargado de obtener documentos relacionados con la DANA}}{65}{figure.caption.116}%
+\contentsline {figure}{\numberline {72}{\ignorespaces GitHub Actions. Ejemplo de funcionamiento de un flujo de trabajo \blx@tocontentsinit {0}\cite {0030_gh_actions}}}{65}{figure.caption.117}%
+\contentsline {figure}{\numberline {73}{\ignorespaces GitHub Actions. Fragmento del flujo de trabajo que muestra el uso del comando cron}}{66}{figure.caption.118}%
+\contentsline {figure}{\numberline {74}{\ignorespaces GitHub Actions. Fragmento del flujo de trabajo que muestran los trabajos que son ejecutados}}{66}{figure.caption.119}%
+\contentsline {figure}{\numberline {75}{\ignorespaces Pestaña de acciones del proyecto. Se muestran una parte de las acciones automatizadas}}{67}{figure.caption.120}%
+\contentsline {figure}{\numberline {76}{\ignorespaces Vista en detalle de una acción. Se observa el tiempo empleado en realizar cada paso}}{67}{figure.caption.121}%
+\contentsline {figure}{\numberline {77}{\ignorespaces Clase Chatbot. Parámetros del constructor}}{68}{figure.caption.122}%
+\contentsline {figure}{\numberline {78}{\ignorespaces Clase Chatbot. Configuración del LLM}}{69}{figure.caption.123}%
+\contentsline {figure}{\numberline {79}{\ignorespaces Clase Chatbot. Configuración de varios parámetros: text\_splitter, modelo de embedding y modelo de recuperación}}{70}{figure.caption.124}%
+\contentsline {figure}{\numberline {80}{\ignorespaces Clase Chatbot. Configuración de la estrategia de búsqueda}}{70}{figure.caption.125}%
+\contentsline {figure}{\numberline {81}{\ignorespaces Clase Chatbot. Configuración del prompt}}{71}{figure.caption.126}%
+\contentsline {figure}{\numberline {82}{\ignorespaces Clase Chatbot. Configuración del reranker}}{71}{figure.caption.127}%
+\contentsline {figure}{\numberline {83}{\ignorespaces Interfaz. Código de la página de carga y actualización de la base de datos}}{72}{figure.caption.128}%
+\contentsline {figure}{\numberline {84}{\ignorespaces Interfaz. Diseño de la página de carga y actualización de la base de datos}}{73}{figure.caption.129}%
+\contentsline {figure}{\numberline {85}{\ignorespaces Clase Chatbot. Fragmentos de código de algunos de los métodos usados para actualizar la base de datos}}{73}{figure.caption.130}%
+\contentsline {figure}{\numberline {86}{\ignorespaces Interfaz. Cuadro de dialogo de tiempo de espera}}{74}{figure.caption.131}%
+\contentsline {figure}{\numberline {87}{\ignorespaces Interfaz. Cuadros de dialogo. Tiempos para bases de datos con documentos de tamaño 512}}{74}{figure.caption.132}%
+\contentsline {figure}{\numberline {88}{\ignorespaces Interfaz. Cuadros de díalogo. Tiempos para bases de datos con documentos de tamaño 1024}}{75}{figure.caption.133}%
+\contentsline {figure}{\numberline {89}{\ignorespaces Interfaz. Tiempo de embedding de \textit {text-embedding-3-small}}}{75}{figure.caption.134}%
+\contentsline {figure}{\numberline {90}{\ignorespaces Interfaz. Página principal}}{76}{figure.caption.135}%
+\contentsline {figure}{\numberline {91}{\ignorespaces Fragmentos de código. Declaración de la variable Chatbot en la interfaz principal y clase EMBEDING}}{77}{figure.caption.137}%
+\contentsline {figure}{\numberline {92}{\ignorespaces Fragmentos de código. Caja de selección de los modelos de lenguaje y clase LLM.}}{77}{figure.caption.139}%
+\contentsline {figure}{\numberline {93}{\ignorespaces Función de la interfaz. Modificar el modelo de lenguaje}}{78}{figure.caption.140}%
+\contentsline {figure}{\numberline {94}{\ignorespaces Clase Chatbot. Modificar el modelo de lenguaje}}{78}{figure.caption.141}%
+\contentsline {figure}{\numberline {95}{\ignorespaces Fragmentos de código. Selección de radio para las estrategias de búsqueda y función de la interfaz para cambiarlas}}{78}{figure.caption.142}%
+\contentsline {figure}{\numberline {96}{\ignorespaces Clase Chatbot. Modificar la estrategia de búsqueda}}{79}{figure.caption.143}%
+\contentsline {figure}{\numberline {97}{\ignorespaces Fragmento de código correspondiente a la interfaz del chatbot}}{80}{figure.caption.145}%
+\contentsline {figure}{\numberline {98}{\ignorespaces Función \textit {query} de la interfaz del chatbot. Hace los procesos de recuperación y generación de información del sistema RAG}}{81}{figure.caption.146}%
+\contentsline {figure}{\numberline {99}{\ignorespaces Método \textit {answer\_query} de la clase Chatbot, retorna la respuesta del sistema RAG}}{81}{figure.caption.147}%
+\contentsline {figure}{\numberline {100}{\ignorespaces Prompt por defecto usado en el proyecto}}{82}{figure.caption.148}%
+\contentsline {figure}{\numberline {101}{\ignorespaces Interfaz web del chatbot}}{82}{figure.caption.150}%
+\contentsline {figure}{\numberline {102}{\ignorespaces Interfaz web con la barra lateral izquierda plegada}}{83}{figure.caption.151}%
+\contentsline {figure}{\numberline {103}{\ignorespaces Interfaz web con pregunta}}{83}{figure.caption.152}%
+\contentsline {figure}{\numberline {104}{\ignorespaces Interfaz web generando respuesta}}{84}{figure.caption.153}%
+\contentsline {figure}{\numberline {105}{\ignorespaces Interfaz web con respuesta generada y referencias}}{84}{figure.caption.154}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {106}{\ignorespaces Configuración LLM de generación del conjunto de preguntas}}{87}{figure.caption.155}%
+\contentsline {figure}{\numberline {107}{\ignorespaces Prompt usado en la generación del conjunto de preguntas}}{88}{figure.caption.156}%
+\contentsline {figure}{\numberline {108}{\ignorespaces Carga de datos y preparación del modelo de lenguaje}}{88}{figure.caption.157}%
+\contentsline {figure}{\numberline {109}{\ignorespaces Bucle para la generación del conjunto de preguntas}}{88}{figure.caption.158}%
+\contentsline {figure}{\numberline {110}{\ignorespaces Muestra del conjunto de preguntas \blx@tocontentsinit {0}\cite {0042_pregu}}}{89}{figure.caption.159}%
+\contentsline {figure}{\numberline {111}{\ignorespaces Configuración de los modelos de lenguaje de pruebas}}{90}{figure.caption.160}%
+\contentsline {figure}{\numberline {112}{\ignorespaces Variables de pruebas}}{90}{figure.caption.161}%
+\contentsline {figure}{\numberline {113}{\ignorespaces Configuración de los chatbots de pruebas}}{91}{figure.caption.162}%
+\contentsline {figure}{\numberline {114}{\ignorespaces Agente crítico del accuracy}}{91}{figure.caption.163}%
+\contentsline {figure}{\numberline {115}{\ignorespaces Agente crítico del faithfulness}}{92}{figure.caption.164}%
+\contentsline {figure}{\numberline {116}{\ignorespaces Agente crítico del groundedness}}{92}{figure.caption.165}%
+\contentsline {figure}{\numberline {117}{\ignorespaces Agente crítico de la relevancia}}{93}{figure.caption.166}%
+\contentsline {figure}{\numberline {118}{\ignorespaces Carga de dataset de preguntas}}{93}{figure.caption.167}%
+\contentsline {figure}{\numberline {119}{\ignorespaces Columnas para el fichero de la evaluación y variables que contendrán los resultados de las evaluaciones}}{94}{figure.caption.168}%
+\contentsline {figure}{\numberline {120}{\ignorespaces Función \textit {get\_response} y \textit {get\_response\_rr}, ambas usadas para generar respuestas en las pruebas}}{94}{figure.caption.169}%
+\contentsline {figure}{\numberline {121}{\ignorespaces Fragmento 1 del bucle de evaluación de preguntas: se guardan datos del dataset de preguntas, se obtienen la respuesta generada y el contexto, y se formatean los agentes críticos}}{94}{figure.caption.170}%
+\contentsline {figure}{\numberline {122}{\ignorespaces Fragmento 2 del bucle de evaluación de preguntas. Se van generando una a una las evaluaciones de los agentes}}{95}{figure.caption.171}%
+\contentsline {figure}{\numberline {123}{\ignorespaces Impresión de los resultados de los modelos en formato csv}}{95}{figure.caption.172}%
+\contentsline {figure}{\numberline {124}{\ignorespaces Contenido de la carpeta de evaluaciones \textit {GPT-4.1} en \textit {text-embedding-3-small}}}{96}{figure.caption.173}%
+\contentsline {figure}{\numberline {125}{\ignorespaces Muestra del fichero de evaluaciones correspondiente al modelo de lenguaje \textit {GPT-4.1} y modelo de embedding \textit {text-embedding-3-small}, con la estrategia de búsqueda TF-IDF}}{96}{figure.caption.174}%
+\contentsline {figure}{\numberline {126}{\ignorespaces Modelos de lenguaje disponibles en la interfaz web}}{98}{figure.caption.178}%
+\contentsline {figure}{\numberline {127}{\ignorespaces Ejemplos de cambio de estrategia de búsqueda desde la interfaz}}{98}{figure.caption.180}%
+\contentsline {figure}{\numberline {128}{\ignorespaces Gráfica de rendimiento del modelo Mistral Small 3.2 usando el modelo de embedding BGE-M3 y tamaños de documento 512}}{106}{figure.caption.189}%
+\contentsline {figure}{\numberline {129}{\ignorespaces Gráfica de rendimiento del modelo Mistral Small 3.2 usando el modelo de embedding JINA y tamaños de documento 512}}{106}{figure.caption.190}%
+\contentsline {figure}{\numberline {130}{\ignorespaces Gráfica de rendimiento del modelo Mistral Small 3.2 usando el modelo de embedding Nomic-Embed-Text y tamaños de documento 512}}{106}{figure.caption.191}%
+\contentsline {figure}{\numberline {131}{\ignorespaces Gráfica de rendimiento del modelo Mistral Small 3.2 usando el modelo de embedding Snowflakev2 y tamaños de documento 512}}{107}{figure.caption.192}%
+\contentsline {figure}{\numberline {132}{\ignorespaces Gráfica de rendimiento del modelo Mistral Small 3.2 usando el modelo de embedding BGE-M3 y tamaños de documento 1024}}{109}{figure.caption.195}%
+\contentsline {figure}{\numberline {133}{\ignorespaces Gráfica de rendimiento del modelo Mistral Small 3.2 usando el modelo de embedding JINA y tamaños de documento 1024}}{109}{figure.caption.196}%
+\contentsline {figure}{\numberline {134}{\ignorespaces Gráfica de rendimiento del modelo Mistral Small 3.2 usando el modelo de embedding Nomic-Embed-Text y tamaños de documento 1024}}{109}{figure.caption.197}%
+\contentsline {figure}{\numberline {135}{\ignorespaces Gráfica de rendimiento del modelo Mistral Small 3.2 usando el modelo de embedding Snowflakev2 y tamaños de documento 1024}}{110}{figure.caption.198}%
+\contentsline {figure}{\numberline {136}{\ignorespaces Modificación hecha en el prompt}}{110}{figure.caption.200}%
+\contentsline {figure}{\numberline {137}{\ignorespaces Gráfica de rendimiento del modelo Mistral Small 3.2 usando el modelo de embedding BGE-M3, tamaños de documento 1024 y el prompt modificado}}{112}{figure.caption.202}%
+\contentsline {figure}{\numberline {138}{\ignorespaces Gráfica de rendimiento del modelo Mistral Small 3.2 usando el modelo de embedding JINA, tamaños de documento 1024 y el prompt modificado}}{112}{figure.caption.203}%
+\contentsline {figure}{\numberline {139}{\ignorespaces Gráfica de rendimiento del modelo Mistral Small 3.2 usando el modelo de embedding Nomic-Embed-Text, tamaños de documento 1024 y el prompt modificado}}{112}{figure.caption.204}%
+\contentsline {figure}{\numberline {140}{\ignorespaces Gráfica de rendimiento del modelo Mistral Small 3.2 usando el modelo de embedding Snowflakev2, tamaños de documento 1024 y el prompt modificado}}{113}{figure.caption.205}%
+\contentsline {figure}{\numberline {141}{\ignorespaces Gráfica de rendimiento del modelo Llama 3.2 usando el modelo de embedding Jina y tamaños de documento 1024}}{114}{figure.caption.207}%
+\contentsline {figure}{\numberline {142}{\ignorespaces Gráfica de rendimiento del modelo GPT-4.1 usando el modelo de embedding text-embedding-3-small y tamaños de documento 1024}}{115}{figure.caption.209}%
+\addvspace {10\p@ }
